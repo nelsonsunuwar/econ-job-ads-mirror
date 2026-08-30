@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T21:08:18Z",
+ "generated_at": "2026-08-30T21:09:02Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -14,8 +14,8 @@
    "count": 25
   },
   "nabe": {
-   "status": "ok",
-   "count": 14
+   "status": "error: HTTPError: HTTP Error 403: Forbidden",
+   "count": 0
   },
   "econjobs": {
    "status": "ok",
@@ -4192,188 +4192,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSO737/research-fellow"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/search/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Job Search",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/search/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/alerts/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Job Alerts",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/alerts/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/financial-analyst/85721871/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Financial Analyst",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/financial-analyst/85721871/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/senior-accountant/83337620/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Senior Accountant",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/senior-accountant/83337620/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/public-finance-associate/85511175/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Public Finance Associate",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/public-finance-associate/85511175/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/associate-phd-early-decision-economics-focus-2027/85723063/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Associate, PhD - Early Decision (Economics Focus) (2027)",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/associate-phd-early-decision-economics-focus-2027/85723063/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/economist-in-residence/85722640/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Economist-in-Residence",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/economist-in-residence/85722640/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/assistant-professor-in-managerial-economics-and-decision-sciences/85679244/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Assistant Professor in Managerial Economics And Decision Sciences",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/assistant-professor-in-managerial-economics-and-decision-sciences/85679244/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/senior-econometrician-and-software-developer/80267798/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Senior Econometrician and Software Developer",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/senior-econometrician-and-software-developer/80267798/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/us-economist/85616208/",
-   "source": "nabe",
-   "institution": null,
-   "title": "US Economist",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/us-economist/85616208/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/nera-consultant-new-phd-2027-grads-multiple-locations/85559006/",
-   "source": "nabe",
-   "institution": null,
-   "title": "NERA Consultant (New PhD - 2027 Grads) (Multiple Locations)",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/nera-consultant-new-phd-2027-grads-multiple-locations/85559006/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/director-of-research/85511049/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Director of Research",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/director-of-research/85511049/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/business-development-professional/85501452/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Business Development Professional",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/business-development-professional/85501452/"
-  },
-  {
-   "id": "nabe:https://econjobs.nabe.com/job/principal-accountant-general-accounting/85684060/",
-   "source": "nabe",
-   "institution": null,
-   "title": "Principal Accountant, General Accounting",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://econjobs.nabe.com/job/principal-accountant-general-accounting/85684060/"
   },
   {
    "id": "ej:economist-evaluation",
