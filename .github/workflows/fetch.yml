@@ -1,0 +1,19 @@
+name: Fetch ads
+on:
+  schedule:
+    - cron: "45 4 * * *"  # daily, ~75 min before the 06:00 UTC digest routine
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 fetch.py
+      - run: |
+          git config user.name "ads-mirror-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ads.json
+          git diff --cached --quiet || git commit -m "snapshot $(date -u +%FT%TZ)"
+          git push
