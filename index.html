@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Econ Job Ads</title>
+<style>
+:root {
+  --bg: #faf9f6; --card: #ffffff; --ink: #1a1a1a; --muted: #6b6b6b;
+  --line: #e4e2dd; --accent: #7a5af5; --accent-soft: #f0ecfe;
+  --warn: #b3261e; --warn-soft: #fdecea; --ok: #1a7f37; --chip: #f0efec;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16151a; --card: #201f26; --ink: #ece9e4; --muted: #9a97a0;
+    --line: #34323b; --accent: #a68bfa; --accent-soft: #2b2440;
+    --warn: #f2867e; --warn-soft: #3a2220; --ok: #57ab5a; --chip: #2a2930;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+.wrap { max-width: 860px; margin: 0 auto; padding: 20px 14px 60px; }
+h1 { font-size: 22px; margin: 4px 0 2px; }
+h2 { font-size: 16px; margin: 26px 0 10px; border-bottom: 1px solid var(--line); padding-bottom: 6px; }
+.sub { color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+.warnbox { background: var(--warn-soft); color: var(--warn); border-radius: 8px; padding: 8px 12px; font-size: 13px; margin: 8px 0; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 4px; align-items: center; }
+.controls input[type=search] {
+  flex: 1 1 200px; padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px;
+  background: var(--card); color: var(--ink); font-size: 14px;
+}
+.chipbtn {
+  border: 1px solid var(--line); background: var(--card); color: var(--ink);
+  border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer;
+}
+.chipbtn.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.count { color: var(--muted); font-size: 13px; margin: 6px 0 12px; }
+.ad {
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+  padding: 10px 14px; margin-bottom: 8px;
+}
+.ad a.t { color: var(--ink); text-decoration: none; font-weight: 600; }
+.ad a.t:hover { color: var(--accent); }
+.meta { color: var(--muted); font-size: 13px; margin-top: 3px; display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+.chip { background: var(--chip); border-radius: 5px; padding: 1px 7px; font-size: 12px; }
+.chip.star { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.due { font-weight: 600; }
+.due.soon { color: var(--warn); }
+.due.past { color: var(--muted); text-decoration: line-through; font-weight: 400; }
+.empty { color: var(--muted); font-style: italic; padding: 10px 2px; }
+footer { margin-top: 40px; color: var(--muted); font-size: 12px; }
+footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Econ Job Ads</h1>
+  <div class="sub" id="gen">loading…</div>
+  <div id="warnings"></div>
+
+  <h2>⏰ Deadlines in the next 7 days</h2>
+  <div id="week"></div>
+
+  <h2>All open ads</h2>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search institution, title, field, place…">
+    <button class="chipbtn" id="fStar">★ My fields</button>
+    <button class="chipbtn on" id="fFuture">Hide past deadlines</button>
+    <select class="chipbtn" id="sort">
+      <option value="deadline">Sort: deadline</option>
+      <option value="posted">Sort: newest posted</option>
+      <option value="institution">Sort: institution</option>
+    </select>
+  </div>
+  <div class="count" id="count"></div>
+  <div id="list"></div>
+
+  <footer>
+    Sources: EconJobMarket, AEA JOE, jobs.ac.uk, NABE, econ-jobs.com — metadata only; follow links for full ads.
+    Data refreshed daily by <a href="https://github.com/nelsonsunuwar/econ-job-ads-mirror">econ-job-ads-mirror</a>.
+  </footer>
+</div>
+
+<script>
+const STAR_FIELD = /industrial organization|labor|applied micro|any field|market design|personnel/i;
+const STAR_JEL = /^[LJ]\d?\b/;
+const STAR_TITLE = /competition|antitrust|\bIO\b|labor|personnel|market design|applied micro/i;
+
+function isStar(a) {
+  if ((a.fields || []).some(f => STAR_FIELD.test(f) || STAR_JEL.test(f))) return true;
+  return STAR_TITLE.test(a.title || "");
+}
+function days(a) {
+  if (!a.deadline) return null;
+  const d = new Date(a.deadline + "T23:59:59");
+  return Math.floor((d - Date.now()) / 86400000);
+}
+function fmtDate(s) {
+  if (!s) return null;
+  const d = new Date(s + "T12:00:00");
+  return isNaN(d) ? s : d.toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+}
+function esc(s) { return (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+function render(a) {
+  const dl = days(a);
+  let due = "";
+  if (a.deadline) {
+    const cls = dl < 0 ? "past" : dl <= 7 ? "soon" : "";
+    due = `<span class="due ${cls}">due ${fmtDate(a.deadline)}</span>`;
+  }
+  const star = isStar(a) ? '<span class="chip star">★ your fields</span>' : "";
+  const bits = [a.location, ...(a.fields || []).slice(0, 3)].filter(Boolean)
+    .map(x => `<span class="chip">${esc(x)}</span>`).join("");
+  const inst = a.institution ? `<strong>${esc(a.institution)}</strong> — ` : "";
+  return `<div class="ad">
+    <div>${inst}<a class="t" href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+    <div class="meta">${due}${star}${bits}<span class="chip">${esc(a.source)}</span></div>
+  </div>`;
+}
+
+let ADS = [];
+const el = id => document.getElementById(id);
+const state = { q: "", star: false, future: true, sort: "deadline" };
+
+function draw() {
+  const q = state.q.toLowerCase();
+  let rows = ADS.filter(a => {
+    if (state.star && !isStar(a)) return false;
+    if (state.future && a.deadline && days(a) < 0) return false;
+    if (!q) return true;
+    return [a.institution, a.title, a.location, (a.fields || []).join(" "), a.section]
+      .join(" ").toLowerCase().includes(q);
+  });
+  rows.sort((x, y) => {
+    if (state.sort === "institution") return (x.institution || "￿").localeCompare(y.institution || "￿");
+    if (state.sort === "posted") return (y.posted || "").localeCompare(x.posted || "");
+    return (x.deadline || "9999").localeCompare(y.deadline || "9999");
+  });
+  el("count").textContent = `${rows.length} of ${ADS.length} ads`;
+  el("list").innerHTML = rows.map(render).join("") || '<div class="empty">Nothing matches.</div>';
+
+  const week = ADS.filter(a => { const d = days(a); return d !== null && d >= 0 && d <= 7; })
+    .sort((x, y) => x.deadline.localeCompare(y.deadline));
+  el("week").innerHTML = week.map(render).join("") || '<div class="empty">No deadlines in the next 7 days.</div>';
+}
+
+fetch("ads.json", { cache: "no-store" }).then(r => r.json()).then(d => {
+  ADS = d.ads;
+  el("gen").textContent = `${d.ads.length} open ads · data from ${new Date(d.generated_at).toLocaleString()}`;
+  const bad = Object.entries(d.sources).filter(([, s]) => s.status !== "ok");
+  if (bad.length) el("warnings").innerHTML =
+    bad.map(([n, s]) => `<div class="warnbox">⚠ ${esc(n)}: ${esc(s.status)}</div>`).join("");
+  draw();
+}).catch(e => { el("gen").textContent = "Failed to load ads.json: " + e; });
+
+el("q").addEventListener("input", e => { state.q = e.target.value; draw(); });
+el("fStar").addEventListener("click", e => { state.star = !state.star; e.target.classList.toggle("on"); draw(); });
+el("fFuture").addEventListener("click", e => { state.future = !state.future; e.target.classList.toggle("on"); draw(); });
+el("sort").addEventListener("change", e => { state.sort = e.target.value; draw(); });
+</script>
+</body>
+</html>

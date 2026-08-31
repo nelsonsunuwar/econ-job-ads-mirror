@@ -1,7 +1,9 @@
 name: Fetch ads
 on:
   schedule:
-    - cron: "45 4 * * *"  # daily, ~75 min before the 06:00 UTC digest routine
+    # several slots because GitHub cron is unreliable/laggy; the 04:45 one feeds
+    # the 06:00 UTC digest routine, the rest keep the Pages site fresh
+    - cron: "45 4,10,16,22 * * *"
   workflow_dispatch:
 permissions:
   contents: write
