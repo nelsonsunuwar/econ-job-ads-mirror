@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T09:35:16Z",
+ "generated_at": "2026-09-01T15:10:25Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 156
+   "count": 160
   },
   "jobsacuk": {
    "status": "ok",
@@ -2599,6 +2599,23 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477724"
   },
   {
+   "id": "joe:111477736",
+   "source": "joe",
+   "institution": "Michigan State University",
+   "title": "Assistant Professor-Tenure System",
+   "location": "East Lansing, United States",
+   "fields": [
+    "C7 Game Theory and Bargaining Theory",
+    "D0 General",
+    "D8 Information, Knowledge, and Uncertainty"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-02",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477736"
+  },
+  {
    "id": "joe:111477606",
    "source": "joe",
    "institution": "Murray State University",
@@ -2840,6 +2857,22 @@
    "deadline": "2027-01-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477675"
+  },
+  {
+   "id": "joe:111477741",
+   "source": "joe",
+   "institution": "Pepperdine University",
+   "title": "Assistant Professor of Economics",
+   "location": "Malibu, United States",
+   "fields": [
+    "E0 General",
+    "F1 Trade"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477741"
   },
   {
    "id": "joe:111477687",
@@ -3548,6 +3581,22 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477492"
   },
   {
+   "id": "joe:111477740",
+   "source": "joe",
+   "institution": "University of California Berkeley",
+   "title": "Assistant Professor",
+   "location": "Berkeley, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-14",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477740"
+  },
+  {
    "id": "joe:111477588",
    "source": "joe",
    "institution": "University of California Berkeley",
@@ -3592,6 +3641,21 @@
    "deadline": "2026-08-14",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477549"
+  },
+  {
+   "id": "joe:111477738",
+   "source": "joe",
+   "institution": "University of California Berkeley",
+   "title": "Assistant Professor",
+   "location": "Berkeley, United States",
+   "fields": [
+    "M3 Marketing and Advertising"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-09-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477738"
   },
   {
    "id": "joe:111477622",
@@ -4167,6 +4231,45 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638"
   },
   {
+   "id": "jacuk:DST240",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Jean Monnet Postdoctoral Fellowships",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DST240/jean-monnet-postdoctoral-fellowships"
+  },
+  {
+   "id": "jacuk:DST233",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Max Weber Postdoctoral Fellowships",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DST233/max-weber-postdoctoral-fellowships"
+  },
+  {
+   "id": "jacuk:DSU163",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Assistant Professor in International Development",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSU163/assistant-professor-in-international-development"
+  },
+  {
    "id": "jacuk:DST222",
    "source": "jobsacuk",
    "institution": null,
@@ -4451,45 +4554,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSQ599/policy-analyst-transition-finance"
-  },
-  {
-   "id": "jacuk:DSP592",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Associate/Assistant Professor in Finance",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSP592/associate-assistant-professor-in-finance"
-  },
-  {
-   "id": "jacuk:DSP591",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Associate/Assistant Professor in Microeconometrics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSP591/associate-assistant-professor-in-microeconometrics"
-  },
-  {
-   "id": "jacuk:DSP184",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Hatton Professorship of Sustainability",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSP184/hatton-professorship-of-sustainability"
   },
   {
    "id": "ej:economist-evaluation",
