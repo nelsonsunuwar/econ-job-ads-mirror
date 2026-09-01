@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T15:10:25Z",
+ "generated_at": "2026-09-01T19:33:28Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -19,7 +19,7 @@
   },
   "econjobs": {
    "status": "ok",
-   "count": 4
+   "count": 10
   }
  },
  "ads": [
@@ -4606,6 +4606,84 @@
    "deadline": null,
    "posted": "2026-07-16",
    "url": "https://econ-jobs.com/job-offer/senior-global-health-development-economist/"
+  },
+  {
+   "id": "ej:idb-energy-economics-data-analysis-internship",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Idb energy economics data analysis internship",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-01",
+   "url": "https://econ-jobs.com/job-offer/idb-energy-economics-data-analysis-internship/"
+  },
+  {
+   "id": "ej:idb-research-department-and-behavioral-economics-internship",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Idb research department and behavioral economics internship",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-01",
+   "url": "https://econ-jobs.com/job-offer/idb-research-department-and-behavioral-economics-internship/"
+  },
+  {
+   "id": "ej:2027-sf-fed-research-associate",
+   "source": "econjobs",
+   "institution": null,
+   "title": "2027 sf fed research associate",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-01",
+   "url": "https://econ-jobs.com/job-offer/2027-sf-fed-research-associate/"
+  },
+  {
+   "id": "ej:health-economics-and-outcomes-research-intern",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Health economics and outcomes research intern",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-01",
+   "url": "https://econ-jobs.com/job-offer/health-economics-and-outcomes-research-intern/"
+  },
+  {
+   "id": "ej:associate-quantitative-analyst",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Associate quantitative analyst",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-01",
+   "url": "https://econ-jobs.com/job-offer/associate-quantitative-analyst/"
+  },
+  {
+   "id": "ej:eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Eastern caribbean central bank st kitts and nevis west indies 16 senior economist monetary modelling and analytics unit 2",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-01",
+   "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/"
   }
  ]
 }
