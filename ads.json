@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-01T01:23:32Z",
+ "generated_at": "2026-09-01T09:35:16Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 86
+   "count": 84
   },
   "joe": {
    "status": "ok",
-   "count": 150
+   "count": 156
   },
   "jobsacuk": {
    "status": "ok",
@@ -241,24 +241,6 @@
    "url": "https://econjobmarket.org/positions/12271"
   },
   {
-   "id": "ejm:12279",
-   "source": "ejm",
-   "institution": "Group for Applied Research in Economics (GRAPE)",
-   "title": "Research Fellow (Macroeconomics or Economic Theory)",
-   "location": "Warszawa, PL",
-   "fields": [
-    "Macroeconomics; Monetary",
-    "Microeconomic theory"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-02-14",
-   "posted": "2026-01-06",
-   "url": "https://econjobmarket.org/positions/12279"
-  },
-  {
    "id": "ejm:12293",
    "source": "ejm",
    "institution": "Hong Kong University of Science and Technology (Guangzhou)",
@@ -310,26 +292,6 @@
    "url": "https://econjobmarket.org/positions/12320"
   },
   {
-   "id": "ejm:12345",
-   "source": "ejm",
-   "institution": "Università degli Studi di Milano",
-   "title": "Post Doctoral Position in Behavioral, Family or Environmental Economics",
-   "location": "Milan, IT",
-   "fields": [
-    "Environmental; Ag. Econ.",
-    "Experimental Economics",
-    "Behavioral Economics",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-03-31",
-   "posted": "2026-02-08",
-   "url": "https://econjobmarket.org/positions/12345"
-  },
-  {
    "id": "ejm:12348",
    "source": "ejm",
    "institution": "Jinan University",
@@ -347,27 +309,6 @@
    "deadline": "2026-12-31",
    "posted": "2026-02-11",
    "url": "https://econjobmarket.org/positions/12348"
-  },
-  {
-   "id": "ejm:12401",
-   "source": "ejm",
-   "institution": "University of Ottawa",
-   "title": "Post-Doc on Systemic risks Modeling (Bank of Canada/University of Ottawa)",
-   "location": "Ottawa, CA",
-   "fields": [
-    "Econometrics",
-    "Finance",
-    "Any field",
-    "Computational Economics",
-    "Statistics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-07-31",
-   "posted": "2026-03-09",
-   "url": "https://econjobmarket.org/positions/12401"
   },
   {
    "id": "ejm:12405",
@@ -621,30 +562,6 @@
    "deadline": "2026-09-30",
    "posted": "2026-06-22",
    "url": "https://econjobmarket.org/positions/12522"
-  },
-  {
-   "id": "ejm:12523",
-   "source": "ejm",
-   "institution": "University of Bonn",
-   "title": "W3 Professorships in Economics",
-   "location": "Bonn, DE",
-   "fields": [
-    "Environmental; Ag. Econ.",
-    "Industrial Organization",
-    "International Trade",
-    "Labor; Demographic Economics",
-    "Macroeconomics; Monetary",
-    "Health; Education; Welfare",
-    "Computational Economics",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-09-01",
-   "posted": "2026-06-23",
-   "url": "https://econjobmarket.org/positions/12523"
   },
   {
    "id": "ejm:12530",
@@ -1682,6 +1599,42 @@
    "url": "https://econjobmarket.org/positions/12609"
   },
   {
+   "id": "ejm:12610",
+   "source": "ejm",
+   "institution": "Australian National University",
+   "title": "Lecturer/Senior Lecturer in Economics",
+   "location": "The Australian National University, AU",
+   "fields": [
+    "Econometrics",
+    "Any field"
+   ],
+   "position_types": [
+    "Lecturer",
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-12-05",
+   "posted": "2026-08-31",
+   "url": "https://econjobmarket.org/positions/12610"
+  },
+  {
+   "id": "ejm:12612",
+   "source": "ejm",
+   "institution": "Brown University",
+   "title": "Assistant Professor of Economics",
+   "location": "Providence, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-03-01",
+   "posted": "2026-08-31",
+   "url": "https://econjobmarket.org/positions/12612"
+  },
+  {
    "id": "joe:111477663",
    "source": "joe",
    "institution": "America First Policy Institute",
@@ -2372,6 +2325,30 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477542"
   },
   {
+   "id": "joe:111477656",
+   "source": "joe",
+   "institution": "Hong Kong University of Science and Technology",
+   "title": "Assistant, Associate, or Full Professor",
+   "location": "Hong Kong, Hong Kong",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "D Microeconomics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "N Economic History",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "P Political Economy and Comparative Economic Systems",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-22",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477656"
+  },
+  {
    "id": "joe:111477685",
    "source": "joe",
    "institution": "Hoover Institution",
@@ -2448,6 +2425,21 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477726"
   },
   {
+   "id": "joe:111477599",
+   "source": "joe",
+   "institution": "Japan Fair Trade Commission",
+   "title": "Government Official",
+   "location": "Minato-ku, Japan",
+   "fields": [
+    "L4 Antitrust Issues and Policies"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477599"
+  },
+  {
    "id": "joe:111477667",
    "source": "joe",
    "institution": "Johns Hopkins University",
@@ -2461,6 +2453,21 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477667"
+  },
+  {
+   "id": "joe:111477716",
+   "source": "joe",
+   "institution": "Kiel Institute for the World Economy",
+   "title": "S-Professorship for International Economics (W3)",
+   "location": "Berlin, Germany",
+   "fields": [
+    "F0 General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477716"
   },
   {
    "id": "joe:111477595",
@@ -3160,6 +3167,25 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477607"
   },
   {
+   "id": "joe:111477729",
+   "source": "joe",
+   "institution": "Texas A&amp;M University",
+   "title": "Assistant Professor of Health Economics",
+   "location": "College Station, United States",
+   "fields": [
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "I1 Health",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477729"
+  },
+  {
    "id": "joe:111477731",
    "source": "joe",
    "institution": "Texas A&amp;M University",
@@ -3173,6 +3199,39 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477731"
+  },
+  {
+   "id": "joe:111477727",
+   "source": "joe",
+   "institution": "Texas A&amp;M University",
+   "title": "Assistant Professor (Energy Economics)",
+   "location": "College Station, United States",
+   "fields": [
+    "Q4 Energy",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477727"
+  },
+  {
+   "id": "joe:111477732",
+   "source": "joe",
+   "institution": "Texas A&amp;M University",
+   "title": "Assistant Professor",
+   "location": "College Station, United States",
+   "fields": [
+    "C9 Design of Experiments",
+    "D9 Micro-Based Behavioral Economics",
+    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477732"
   },
   {
    "id": "joe:111477734",
@@ -4108,6 +4167,32 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638"
   },
   {
+   "id": "jacuk:DST222",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Assistant Professor in Economics and Social Sciences",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DST222/assistant-professor-in-economics-and-social-sciences"
+  },
+  {
+   "id": "jacuk:DSS737",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Scientific Advisory Committee Chair, Full Member, Associate Member and Lay Member Positions",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSS737/scientific-advisory-committee-chair-full-member-associate-member-and-lay-member-positions"
+  },
+  {
    "id": "jacuk:DST763",
    "source": "jobsacuk",
    "institution": null,
@@ -4405,32 +4490,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSP184/hatton-professorship-of-sustainability"
-  },
-  {
-   "id": "jacuk:DSO954",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Research Fellows in Arts, Humanities, and Social Sciences 2027",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSO954/research-fellows-in-arts-humanities-and-social-sciences-2027"
-  },
-  {
-   "id": "jacuk:DSO737",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Research Fellow",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSO737/research-fellow"
   },
   {
    "id": "ej:economist-evaluation",
