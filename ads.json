@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-02T00:30:56Z",
+ "generated_at": "2026-09-02T09:00:29Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 84
+   "count": 86
   },
   "joe": {
    "status": "ok",
@@ -1309,6 +1309,24 @@
    "url": "https://econjobmarket.org/positions/12589"
   },
   {
+   "id": "ejm:12590",
+   "source": "ejm",
+   "institution": "Kiel Institute for the World Economy",
+   "title": "S-Professorship for ‘International Economics’ (W3)",
+   "location": "Berlin, DE",
+   "fields": [
+    "International Trade",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-10-15",
+   "posted": "2026-09-01",
+   "url": "https://econjobmarket.org/positions/12590"
+  },
+  {
    "id": "ejm:12591",
    "source": "ejm",
    "institution": "Marist College",
@@ -1616,6 +1634,26 @@
    "deadline": "2026-12-05",
    "posted": "2026-08-31",
    "url": "https://econjobmarket.org/positions/12610"
+  },
+  {
+   "id": "ejm:12611",
+   "source": "ejm",
+   "institution": "Vilnius University",
+   "title": "Postdoctoral fellowship for research topic \"Impact of News’ Signals on European",
+   "location": "Vilnius, LT",
+   "fields": [
+    "Econometrics",
+    "Finance",
+    "Other",
+    "Computational Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-10-01",
+   "posted": "2026-09-01",
+   "url": "https://econjobmarket.org/positions/12611"
   },
   {
    "id": "ejm:12612",
