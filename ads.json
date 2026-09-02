@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T09:00:29Z",
+ "generated_at": "2026-09-02T14:41:12Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -4269,6 +4269,19 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638"
   },
   {
+   "id": "jacuk:DSU500",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Stipendiary and Non-Stipendiary Research Fellowships",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSU500/stipendiary-and-non-stipendiary-research-fellowships"
+  },
+  {
    "id": "jacuk:DST240",
    "source": "jobsacuk",
    "institution": null,
@@ -4579,19 +4592,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSQ542/research-fellow-x2-112040-0826"
-  },
-  {
-   "id": "jacuk:DSQ599",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Policy Analyst (Transition Finance)",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSQ599/policy-analyst-transition-finance"
   },
   {
    "id": "ej:economist-evaluation",
