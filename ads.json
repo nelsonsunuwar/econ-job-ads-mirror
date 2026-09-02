@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T14:41:12Z",
+ "generated_at": "2026-09-02T19:29:25Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 160
+   "count": 164
   },
   "jobsacuk": {
    "status": "ok",
@@ -1713,6 +1713,27 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477646"
   },
   {
+   "id": "joe:111477746",
+   "source": "joe",
+   "institution": "Bates White Economic Consulting",
+   "title": "Economist",
+   "location": "Washington, United States",
+   "fields": [
+    "D0 General",
+    "G0 General",
+    "H0 General",
+    "I0 General",
+    "J0 General",
+    "L0 General",
+    "P0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-08",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477746"
+  },
+  {
    "id": "joe:111477571",
    "source": "joe",
    "institution": "Bocconi University",
@@ -2750,6 +2771,24 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477598"
   },
   {
+   "id": "joe:111477745",
+   "source": "joe",
+   "institution": "National Chengchi University",
+   "title": "Assistant Professor, Associate Professor, Full Professor",
+   "location": "Taipei, Taiwan",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "C Mathematical and Quantitative Methods",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477745"
+  },
+  {
    "id": "joe:111477555",
    "source": "joe",
    "institution": "National Chung Cheng University",
@@ -2895,6 +2934,21 @@
    "deadline": "2027-01-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477675"
+  },
+  {
+   "id": "joe:111477787",
+   "source": "joe",
+   "institution": "Opportunity Insights",
+   "title": "Predoctoral Fellow",
+   "location": "Cambridge, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-10-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477787"
   },
   {
    "id": "joe:111477741",
@@ -3380,6 +3434,21 @@
    "deadline": "2026-11-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477698"
+  },
+  {
+   "id": "joe:111477739",
+   "source": "joe",
+   "institution": "The George Washington University",
+   "title": "Assistant Professor of Economics and International Affairs",
+   "location": "Washington, United States",
+   "fields": [
+    "F1 Trade"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477739"
   },
   {
    "id": "joe:111477665",
@@ -4269,6 +4338,19 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638"
   },
   {
+   "id": "jacuk:DSU539",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Research and Innovation Fellows",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSU539/research-and-innovation-fellows"
+  },
+  {
    "id": "jacuk:DSU500",
    "source": "jobsacuk",
    "institution": null,
@@ -4579,19 +4661,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSQ824/senior-economist-fixed-term-6-months"
-  },
-  {
-   "id": "jacuk:DSQ542",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Research Fellow x2 (112040-0826)",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSQ542/research-fellow-x2-112040-0826"
   },
   {
    "id": "ej:economist-evaluation",
