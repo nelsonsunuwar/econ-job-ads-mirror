@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T14:43:30Z",
+ "generated_at": "2026-09-03T19:25:39Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -4569,19 +4569,6 @@
    "url": "https://www.jobs.ac.uk/job/DSS737/scientific-advisory-committee-chair-full-member-associate-member-and-lay-member-positions"
   },
   {
-   "id": "jacuk:DST763",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Professorship Economics and Security",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DST763/professorship-economics-and-security"
-  },
-  {
    "id": "jacuk:DST553",
    "source": "jobsacuk",
    "institution": null,
@@ -4775,6 +4762,19 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSR609/sessional-tutors-for-ifp-in-economics-management-business-law-and-finance"
+  },
+  {
+   "id": "jacuk:DSQ542",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Research Fellow x2 (112040-0826)",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSQ542/research-fellow-x2-112040-0826"
   },
   {
    "id": "ej:economist-evaluation",
