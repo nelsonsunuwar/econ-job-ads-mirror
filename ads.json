@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T09:10:13Z",
+ "generated_at": "2026-09-03T14:43:30Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 164
+   "count": 166
   },
   "jobsacuk": {
    "status": "ok",
@@ -3097,6 +3097,21 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477706"
   },
   {
+   "id": "joe:111477657",
+   "source": "joe",
+   "institution": "Princeton University",
+   "title": "Postdoctoral Research Associate",
+   "location": "Princeton, United States",
+   "fields": [
+    "O1 Economic Development"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477657"
+  },
+  {
    "id": "joe:111477556",
    "source": "joe",
    "institution": "Princeton University",
@@ -3772,6 +3787,21 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477492"
   },
   {
+   "id": "joe:111477748",
+   "source": "joe",
+   "institution": "University of Arizona",
+   "title": "Lead Economist, EBRC",
+   "location": "Tucson, United States",
+   "fields": [
+    "M0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-09-25",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477748"
+  },
+  {
    "id": "joe:111477740",
    "source": "joe",
    "institution": "University of California Berkeley",
@@ -4422,6 +4452,32 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638"
   },
   {
+   "id": "jacuk:DSU869",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Research Fellow or Assistant Professor",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSU869/research-fellow-or-assistant-professor"
+  },
+  {
+   "id": "jacuk:DSU805",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Senior Research Officer",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSU805/senior-research-officer"
+  },
+  {
    "id": "jacuk:DSU539",
    "source": "jobsacuk",
    "institution": null,
@@ -4719,32 +4775,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSR609/sessional-tutors-for-ifp-in-economics-management-business-law-and-finance"
-  },
-  {
-   "id": "jacuk:DSQ542",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Research Fellow x2 (112040-0826)",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSQ542/research-fellow-x2-112040-0826"
-  },
-  {
-   "id": "jacuk:DSQ599",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Policy Analyst (Transition Finance)",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSQ599/policy-analyst-transition-finance"
   },
   {
    "id": "ej:economist-evaluation",
