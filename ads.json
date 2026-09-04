@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T09:03:26Z",
+ "generated_at": "2026-09-04T14:32:59Z",
  "sources": {
   "ejm": {
    "status": "error: URLError: <urlopen error timed out>",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 165
+   "count": 172
   },
   "jobsacuk": {
    "status": "ok",
@@ -484,6 +484,21 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477564"
   },
   {
+   "id": "joe:111477744",
+   "source": "joe",
+   "institution": "El Colegio de México",
+   "title": "Assistant Professor",
+   "location": "Mexico City, Mexico",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477744"
+  },
+  {
    "id": "joe:111477591",
    "source": "joe",
    "institution": "ETS/COLLEGE BOARD/RAISE",
@@ -612,6 +627,23 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477730"
+  },
+  {
+   "id": "joe:111477758",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of San Francisco",
+   "title": "Economist/Sr. Economist/Research Advisor/Sr. Research Advisor",
+   "location": "San Francisco, United States",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-18",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477758"
   },
   {
    "id": "joe:111477725",
@@ -883,6 +915,21 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477595"
   },
   {
+   "id": "joe:111477753",
+   "source": "joe",
+   "institution": "Louisiana State University, New Orleans",
+   "title": "Assistant Professor",
+   "location": "New Orleans, United States",
+   "fields": [
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-09-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477753"
+  },
+  {
    "id": "joe:111477634",
    "source": "joe",
    "institution": "Macalester College",
@@ -992,6 +1039,21 @@
    "deadline": "2026-10-04",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477724"
+  },
+  {
+   "id": "joe:111477757",
+   "source": "joe",
+   "institution": "Michigan State University",
+   "title": "Director of TelFarm Data Center",
+   "location": "East Lansing, United States",
+   "fields": [
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-10-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477757"
   },
   {
    "id": "joe:111477736",
@@ -1205,6 +1267,23 @@
    "deadline": "2027-08-06",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477603"
+  },
+  {
+   "id": "joe:111477754",
+   "source": "joe",
+   "institution": "Northwestern College",
+   "title": "Assistant Professor of Economics",
+   "location": "Orange City, United States",
+   "fields": [
+    "A General Economics and Teaching",
+    "C Mathematical and Quantitative Methods",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477754"
   },
   {
    "id": "joe:111477733",
@@ -1935,6 +2014,21 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477668"
   },
   {
+   "id": "joe:111477737",
+   "source": "joe",
+   "institution": "The University of Texas at Austin",
+   "title": "International Economic Policy",
+   "location": "Austin, United States",
+   "fields": [
+    "F0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-08",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477737"
+  },
+  {
    "id": "joe:111477647",
    "source": "joe",
    "institution": "The University of Texas at Austin",
@@ -2431,6 +2525,21 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477597"
   },
   {
+   "id": "joe:111477756",
+   "source": "joe",
+   "institution": "University of Texas at Austin",
+   "title": "Assistant Professor",
+   "location": "Austin, United States",
+   "fields": [
+    "I1 Health"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-08",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477756"
+  },
+  {
    "id": "joe:111477614",
    "source": "joe",
    "institution": "University of Tsukuba",
@@ -2702,6 +2811,45 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638"
+  },
+  {
+   "id": "jacuk:DSV342",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Lecturer in Health Economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSV342/lecturer-in-health-economics"
+  },
+  {
+   "id": "jacuk:DSV230",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Research Fellow in Health Economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSV230/research-fellow-in-health-economics"
+  },
+  {
+   "id": "jacuk:DSV199",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Lecturer in Psychology of Business",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSV199/lecturer-in-psychology-of-business"
   },
   {
    "id": "jacuk:DSV178",
@@ -2988,45 +3136,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSR558/lecturer-senior-lecturer-in-finance"
-  },
-  {
-   "id": "jacuk:DSR600",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Fixed Term Stipendiary Lectureship in Economics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSR600/fixed-term-stipendiary-lectureship-in-economics"
-  },
-  {
-   "id": "jacuk:DSR587",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Research Associate/Senior Research Associate in Evidence Synthesis",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSR587/research-associate-senior-research-associate-in-evidence-synthesis"
-  },
-  {
-   "id": "jacuk:DSR609",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Sessional Tutors for IFP in Economics, Management, Business Law and Finance",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSR609/sessional-tutors-for-ifp-in-economics-management-business-law-and-finance"
   },
   {
    "id": "ej:idb-energy-economics-data-analysis-internship",
