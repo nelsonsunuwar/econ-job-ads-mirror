@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-05T00:22:22Z",
+ "generated_at": "2026-09-05T08:34:05Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 96
+   "count": 101
   },
   "joe": {
    "status": "ok",
-   "count": 172
+   "count": 171
   },
   "jobsacuk": {
    "status": "ok",
@@ -1525,6 +1525,24 @@
    "url": "https://econjobmarket.org/positions/12602"
   },
   {
+   "id": "ejm:12603",
+   "source": "ejm",
+   "institution": "University of Toronto",
+   "title": "Associate Professor/Professor of Economics",
+   "location": "Toronto, CA",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-02-26",
+   "posted": "2026-09-04",
+   "url": "https://econjobmarket.org/positions/12603"
+  },
+  {
    "id": "ejm:12605",
    "source": "ejm",
    "institution": "Northwestern University",
@@ -1827,6 +1845,24 @@
    "url": "https://econjobmarket.org/positions/12620"
   },
   {
+   "id": "ejm:12621",
+   "source": "ejm",
+   "institution": "Massachusetts Institute of Technology",
+   "title": "Assistant or Untenured Associate Professor – Tenure Track",
+   "location": "Cambridge, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-09-04",
+   "url": "https://econjobmarket.org/positions/12621"
+  },
+  {
    "id": "ejm:12622",
    "source": "ejm",
    "institution": "Charles River Associates",
@@ -1867,6 +1903,60 @@
    "deadline": "2026-11-19",
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12623"
+  },
+  {
+   "id": "ejm:12624",
+   "source": "ejm",
+   "institution": "Université Libre de Bruxelles",
+   "title": "Full-time academic Position in Policy-Relevant Applied Microeconomics",
+   "location": "Brussels, BE",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-04",
+   "url": "https://econjobmarket.org/positions/12624"
+  },
+  {
+   "id": "ejm:12625",
+   "source": "ejm",
+   "institution": "Northwestern University",
+   "title": "Assistant Professor in Strategy",
+   "location": "Evanston, US",
+   "fields": [
+    "Other",
+    "Organizational Behavior",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-04",
+   "url": "https://econjobmarket.org/positions/12625"
+  },
+  {
+   "id": "ejm:12626",
+   "source": "ejm",
+   "institution": "Northwestern University",
+   "title": "Assistant Professor in Accounting Information & Management",
+   "location": "Evanston, US",
+   "fields": [
+    "Accounting"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-04",
+   "url": "https://econjobmarket.org/positions/12626"
   },
   {
    "id": "joe:111477663",
@@ -4500,21 +4590,6 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477611"
   },
   {
-   "id": "joe:111477593",
-   "source": "joe",
-   "institution": "Waseda University",
-   "title": "Assistant Professor (Non-tenure-track)",
-   "location": "Tokyo, Japan",
-   "fields": [
-    "A General Economics and Teaching"
-   ],
-   "position_types": [],
-   "section": "International: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-09-04",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477593"
-  },
-  {
    "id": "joe:111477612",
    "source": "joe",
    "institution": "Waseda University",
@@ -4931,19 +5006,6 @@
    "url": "https://www.jobs.ac.uk/job/DSS581/research-officer-hit-project"
   },
   {
-   "id": "jacuk:DSS394",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Postdoctoral Research Fellow in Sustainable Biodegradable Polymer Synthesis and Upscaling (Fixed Term)",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS394/postdoctoral-research-fellow-in-sustainable-biodegradable-polymer-synthesis-and-upscaling-fixed-term"
-  },
-  {
    "id": "jacuk:DSS065",
    "source": "jobsacuk",
    "institution": null,
@@ -4981,6 +5043,19 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSR558/lecturer-senior-lecturer-in-finance"
+  },
+  {
+   "id": "jacuk:DSR600",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Fixed Term Stipendiary Lectureship in Economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSR600/fixed-term-stipendiary-lectureship-in-economics"
   },
   {
    "id": "ej:idb-energy-economics-data-analysis-internship",
