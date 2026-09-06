@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-06T00:12:06Z",
+ "generated_at": "2026-09-06T08:53:13Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 101
+   "count": 104
   },
   "joe": {
    "status": "ok",
@@ -1022,25 +1022,6 @@
    "url": "https://econjobmarket.org/positions/12572"
   },
   {
-   "id": "ejm:12573",
-   "source": "ejm",
-   "institution": "Universitat de Barcelona",
-   "title": "Research assistant to work on dynamic microsimulation",
-   "location": "Barcelona, ES",
-   "fields": [
-    "Econometrics",
-    "Labor; Demographic Economics",
-    "Health; Education; Welfare"
-   ],
-   "position_types": [
-    "Research Assistant"
-   ],
-   "section": null,
-   "deadline": "2026-09-05",
-   "posted": "2026-08-10",
-   "url": "https://econjobmarket.org/positions/12573"
-  },
-  {
    "id": "ejm:12574",
    "source": "ejm",
    "institution": "Columbia University",
@@ -1957,6 +1938,79 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-04",
    "url": "https://econjobmarket.org/positions/12626"
+  },
+  {
+   "id": "ejm:12627",
+   "source": "ejm",
+   "institution": "Aix-Marseille Université",
+   "title": "Junior Professor Chair (Tenure Track) in Public Policy Evaluation",
+   "location": "Marseille, FR",
+   "fields": [
+    "Public Economics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-09-21",
+   "posted": "2026-09-05",
+   "url": "https://econjobmarket.org/positions/12627"
+  },
+  {
+   "id": "ejm:12628",
+   "source": "ejm",
+   "institution": "Universidade Nova de Lisboa",
+   "title": "Postdoctoral researcher at Nova School of Business and Economics",
+   "location": "Cascais, PT",
+   "fields": [
+    "Development; Growth"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-09-05",
+   "url": "https://econjobmarket.org/positions/12628"
+  },
+  {
+   "id": "ejm:12629",
+   "source": "ejm",
+   "institution": "Northwestern University",
+   "title": "Associate of Full Professor in Economics",
+   "location": "Evanston, US",
+   "fields": [
+    "Macroeconomics; Monetary",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-05",
+   "url": "https://econjobmarket.org/positions/12629"
+  },
+  {
+   "id": "ejm:12630",
+   "source": "ejm",
+   "institution": "University of Utah",
+   "title": "Assistant/Associate/Professor (Lecturer) for the QAMO Division",
+   "location": "SALT LAKE CITY, US",
+   "fields": [
+    "Business Economics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor",
+    "Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-10-09",
+   "posted": "2026-09-05",
+   "url": "https://econjobmarket.org/positions/12630"
   },
   {
    "id": "joe:111477663",
