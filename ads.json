@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T14:45:54Z",
+ "generated_at": "2026-09-08T19:34:30Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 197
+   "count": 198
   },
   "jobsacuk": {
    "status": "ok",
@@ -2917,6 +2917,27 @@
    "deadline": "2026-11-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477726"
+  },
+  {
+   "id": "joe:111477752",
+   "source": "joe",
+   "institution": "Institute for Defense Analyses",
+   "title": "Research Analyst – Economist",
+   "location": "Alexandria, United States",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "D Microeconomics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477752"
   },
   {
    "id": "joe:111477599",
