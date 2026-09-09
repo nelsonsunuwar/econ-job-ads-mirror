@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-09T00:34:49Z",
+ "generated_at": "2026-09-09T08:31:08Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 101
+   "count": 100
   },
   "joe": {
    "status": "ok",
@@ -12,10 +12,6 @@
   "jobsacuk": {
    "status": "ok",
    "count": 25
-  },
-  "nabe": {
-   "status": "error: HTTPError: HTTP Error 403: Forbidden",
-   "count": 0
   },
   "econjobs": {
    "status": "ok",
@@ -38,7 +34,8 @@
    "section": null,
    "deadline": "2025-11-03",
    "posted": "2025-09-19",
-   "url": "https://econjobmarket.org/positions/11797"
+   "url": "https://econjobmarket.org/positions/11797",
+   "predoc": false
   },
   {
    "id": "ejm:11803",
@@ -61,7 +58,8 @@
    "section": null,
    "deadline": "2026-09-21",
    "posted": "2025-09-22",
-   "url": "https://econjobmarket.org/positions/11803"
+   "url": "https://econjobmarket.org/positions/11803",
+   "predoc": false
   },
   {
    "id": "ejm:11897",
@@ -78,7 +76,8 @@
    "section": null,
    "deadline": "2025-12-01",
    "posted": "2025-10-08",
-   "url": "https://econjobmarket.org/positions/11897"
+   "url": "https://econjobmarket.org/positions/11897",
+   "predoc": false
   },
   {
    "id": "ejm:11974",
@@ -112,7 +111,8 @@
    "section": null,
    "deadline": "2026-10-16",
    "posted": "2025-10-17",
-   "url": "https://econjobmarket.org/positions/11974"
+   "url": "https://econjobmarket.org/positions/11974",
+   "predoc": false
   },
   {
    "id": "ejm:12043",
@@ -142,7 +142,8 @@
    "section": null,
    "deadline": "2026-09-30",
    "posted": "2025-10-29",
-   "url": "https://econjobmarket.org/positions/12043"
+   "url": "https://econjobmarket.org/positions/12043",
+   "predoc": false
   },
   {
    "id": "ejm:12205",
@@ -180,7 +181,8 @@
    "section": null,
    "deadline": "2026-12-01",
    "posted": "2025-12-02",
-   "url": "https://econjobmarket.org/positions/12205"
+   "url": "https://econjobmarket.org/positions/12205",
+   "predoc": false
   },
   {
    "id": "ejm:12225",
@@ -202,7 +204,8 @@
    "section": null,
    "deadline": "2026-12-05",
    "posted": "2025-12-06",
-   "url": "https://econjobmarket.org/positions/12225"
+   "url": "https://econjobmarket.org/positions/12225",
+   "predoc": false
   },
   {
    "id": "ejm:12271",
@@ -219,7 +222,8 @@
    "section": null,
    "deadline": "2026-01-31",
    "posted": "2025-12-20",
-   "url": "https://econjobmarket.org/positions/12271"
+   "url": "https://econjobmarket.org/positions/12271",
+   "predoc": true
   },
   {
    "id": "ejm:12293",
@@ -236,7 +240,8 @@
    "section": null,
    "deadline": "2026-06-30",
    "posted": "2026-01-13",
-   "url": "https://econjobmarket.org/positions/12293"
+   "url": "https://econjobmarket.org/positions/12293",
+   "predoc": false
   },
   {
    "id": "ejm:12319",
@@ -253,7 +258,8 @@
    "section": null,
    "deadline": "2026-12-31",
    "posted": "2026-02-02",
-   "url": "https://econjobmarket.org/positions/12319"
+   "url": "https://econjobmarket.org/positions/12319",
+   "predoc": false
   },
   {
    "id": "ejm:12320",
@@ -270,7 +276,8 @@
    "section": null,
    "deadline": "2026-12-31",
    "posted": "2026-02-02",
-   "url": "https://econjobmarket.org/positions/12320"
+   "url": "https://econjobmarket.org/positions/12320",
+   "predoc": false
   },
   {
    "id": "ejm:12348",
@@ -289,7 +296,8 @@
    "section": null,
    "deadline": "2026-12-31",
    "posted": "2026-02-11",
-   "url": "https://econjobmarket.org/positions/12348"
+   "url": "https://econjobmarket.org/positions/12348",
+   "predoc": false
   },
   {
    "id": "ejm:12405",
@@ -309,7 +317,8 @@
    "section": null,
    "deadline": "2027-03-09",
    "posted": "2026-03-10",
-   "url": "https://econjobmarket.org/positions/12405"
+   "url": "https://econjobmarket.org/positions/12405",
+   "predoc": false
   },
   {
    "id": "ejm:12410",
@@ -326,7 +335,8 @@
    "section": null,
    "deadline": "2026-12-31",
    "posted": "2026-03-19",
-   "url": "https://econjobmarket.org/positions/12410"
+   "url": "https://econjobmarket.org/positions/12410",
+   "predoc": false
   },
   {
    "id": "ejm:12463",
@@ -350,7 +360,8 @@
    "section": null,
    "deadline": "2026-11-01",
    "posted": "2026-04-20",
-   "url": "https://econjobmarket.org/positions/12463"
+   "url": "https://econjobmarket.org/positions/12463",
+   "predoc": false
   },
   {
    "id": "ejm:12472",
@@ -367,24 +378,8 @@
    "section": null,
    "deadline": "2026-10-31",
    "posted": "2026-04-25",
-   "url": "https://econjobmarket.org/positions/12472"
-  },
-  {
-   "id": "ejm:12473",
-   "source": "ejm",
-   "institution": "ISM University of Management and Economics",
-   "title": "Postdoctoral Researcher in Economics, Finance (priority) or Entrepreneurship",
-   "location": "Vilnius, LT",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-06-15",
-   "posted": "2026-04-29",
-   "url": "https://econjobmarket.org/positions/12473"
+   "url": "https://econjobmarket.org/positions/12472",
+   "predoc": false
   },
   {
    "id": "ejm:12477",
@@ -404,7 +399,8 @@
    "section": null,
    "deadline": "2026-06-30",
    "posted": "2026-04-30",
-   "url": "https://econjobmarket.org/positions/12477"
+   "url": "https://econjobmarket.org/positions/12477",
+   "predoc": false
   },
   {
    "id": "ejm:12485",
@@ -427,7 +423,8 @@
    "section": null,
    "deadline": "2026-12-31",
    "posted": "2026-05-20",
-   "url": "https://econjobmarket.org/positions/12485"
+   "url": "https://econjobmarket.org/positions/12485",
+   "predoc": false
   },
   {
    "id": "ejm:12494",
@@ -447,7 +444,8 @@
    "section": null,
    "deadline": "2026-11-30",
    "posted": "2026-05-15",
-   "url": "https://econjobmarket.org/positions/12494"
+   "url": "https://econjobmarket.org/positions/12494",
+   "predoc": false
   },
   {
    "id": "ejm:12513",
@@ -464,7 +462,8 @@
    "section": null,
    "deadline": "2026-11-01",
    "posted": "2026-06-05",
-   "url": "https://econjobmarket.org/positions/12513"
+   "url": "https://econjobmarket.org/positions/12513",
+   "predoc": false
   },
   {
    "id": "ejm:12514",
@@ -481,7 +480,8 @@
    "section": null,
    "deadline": "2026-11-01",
    "posted": "2026-06-11",
-   "url": "https://econjobmarket.org/positions/12514"
+   "url": "https://econjobmarket.org/positions/12514",
+   "predoc": false
   },
   {
    "id": "ejm:12515",
@@ -506,7 +506,8 @@
    "section": null,
    "deadline": "2027-06-10",
    "posted": "2026-06-15",
-   "url": "https://econjobmarket.org/positions/12515"
+   "url": "https://econjobmarket.org/positions/12515",
+   "predoc": false
   },
   {
    "id": "ejm:12521",
@@ -525,7 +526,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-06-18",
-   "url": "https://econjobmarket.org/positions/12521"
+   "url": "https://econjobmarket.org/positions/12521",
+   "predoc": false
   },
   {
    "id": "ejm:12522",
@@ -542,7 +544,8 @@
    "section": null,
    "deadline": "2026-09-30",
    "posted": "2026-06-22",
-   "url": "https://econjobmarket.org/positions/12522"
+   "url": "https://econjobmarket.org/positions/12522",
+   "predoc": false
   },
   {
    "id": "ejm:12530",
@@ -567,7 +570,8 @@
    "section": null,
    "deadline": "2026-10-15",
    "posted": "2026-07-01",
-   "url": "https://econjobmarket.org/positions/12530"
+   "url": "https://econjobmarket.org/positions/12530",
+   "predoc": false
   },
   {
    "id": "ejm:12537",
@@ -586,7 +590,8 @@
    "section": null,
    "deadline": "2026-09-21",
    "posted": "2026-07-01",
-   "url": "https://econjobmarket.org/positions/12537"
+   "url": "https://econjobmarket.org/positions/12537",
+   "predoc": false
   },
   {
    "id": "ejm:12539",
@@ -611,7 +616,8 @@
    "section": null,
    "deadline": "2026-09-13",
    "posted": "2026-07-08",
-   "url": "https://econjobmarket.org/positions/12539"
+   "url": "https://econjobmarket.org/positions/12539",
+   "predoc": false
   },
   {
    "id": "ejm:12543",
@@ -628,7 +634,8 @@
    "section": null,
    "deadline": "2026-09-30",
    "posted": "2026-07-15",
-   "url": "https://econjobmarket.org/positions/12543"
+   "url": "https://econjobmarket.org/positions/12543",
+   "predoc": false
   },
   {
    "id": "ejm:12550",
@@ -646,7 +653,8 @@
    "section": null,
    "deadline": "2026-08-23",
    "posted": "2026-07-19",
-   "url": "https://econjobmarket.org/positions/12550"
+   "url": "https://econjobmarket.org/positions/12550",
+   "predoc": false
   },
   {
    "id": "ejm:12551",
@@ -663,7 +671,8 @@
    "section": null,
    "deadline": "2026-09-23",
    "posted": "2026-07-23",
-   "url": "https://econjobmarket.org/positions/12551"
+   "url": "https://econjobmarket.org/positions/12551",
+   "predoc": false
   },
   {
    "id": "ejm:12552",
@@ -683,7 +692,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-07-27",
-   "url": "https://econjobmarket.org/positions/12552"
+   "url": "https://econjobmarket.org/positions/12552",
+   "predoc": false
   },
   {
    "id": "ejm:12553",
@@ -702,7 +712,8 @@
    "section": null,
    "deadline": "2026-10-25",
    "posted": "2026-07-29",
-   "url": "https://econjobmarket.org/positions/12553"
+   "url": "https://econjobmarket.org/positions/12553",
+   "predoc": false
   },
   {
    "id": "ejm:12554",
@@ -724,7 +735,8 @@
    "section": null,
    "deadline": "2026-12-31",
    "posted": "2026-08-18",
-   "url": "https://econjobmarket.org/positions/12554"
+   "url": "https://econjobmarket.org/positions/12554",
+   "predoc": false
   },
   {
    "id": "ejm:12555",
@@ -741,7 +753,8 @@
    "section": null,
    "deadline": "2026-09-30",
    "posted": "2026-07-30",
-   "url": "https://econjobmarket.org/positions/12555"
+   "url": "https://econjobmarket.org/positions/12555",
+   "predoc": false
   },
   {
    "id": "ejm:12556",
@@ -758,7 +771,8 @@
    "section": null,
    "deadline": "2026-11-18",
    "posted": "2026-07-31",
-   "url": "https://econjobmarket.org/positions/12556"
+   "url": "https://econjobmarket.org/positions/12556",
+   "predoc": false
   },
   {
    "id": "ejm:12557",
@@ -775,7 +789,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-08-01",
-   "url": "https://econjobmarket.org/positions/12557"
+   "url": "https://econjobmarket.org/positions/12557",
+   "predoc": false
   },
   {
    "id": "ejm:12558",
@@ -792,7 +807,8 @@
    "section": null,
    "deadline": "2027-02-03",
    "posted": "2026-08-03",
-   "url": "https://econjobmarket.org/positions/12558"
+   "url": "https://econjobmarket.org/positions/12558",
+   "predoc": false
   },
   {
    "id": "ejm:12559",
@@ -809,7 +825,8 @@
    "section": null,
    "deadline": "2027-02-03",
    "posted": "2026-08-03",
-   "url": "https://econjobmarket.org/positions/12559"
+   "url": "https://econjobmarket.org/positions/12559",
+   "predoc": false
   },
   {
    "id": "ejm:12561",
@@ -826,7 +843,8 @@
    "section": null,
    "deadline": "2026-10-05",
    "posted": "2026-08-06",
-   "url": "https://econjobmarket.org/positions/12561"
+   "url": "https://econjobmarket.org/positions/12561",
+   "predoc": false
   },
   {
    "id": "ejm:12562",
@@ -845,7 +863,8 @@
    "section": null,
    "deadline": "2027-03-01",
    "posted": "2026-08-10",
-   "url": "https://econjobmarket.org/positions/12562"
+   "url": "https://econjobmarket.org/positions/12562",
+   "predoc": false
   },
   {
    "id": "ejm:12563",
@@ -864,7 +883,8 @@
    "section": null,
    "deadline": "2027-03-01",
    "posted": "2026-08-10",
-   "url": "https://econjobmarket.org/positions/12563"
+   "url": "https://econjobmarket.org/positions/12563",
+   "predoc": false
   },
   {
    "id": "ejm:12566",
@@ -881,7 +901,8 @@
    "section": null,
    "deadline": "2026-09-20",
    "posted": "2026-08-06",
-   "url": "https://econjobmarket.org/positions/12566"
+   "url": "https://econjobmarket.org/positions/12566",
+   "predoc": false
   },
   {
    "id": "ejm:12569",
@@ -907,7 +928,8 @@
    "section": null,
    "deadline": "2026-11-01",
    "posted": "2026-08-07",
-   "url": "https://econjobmarket.org/positions/12569"
+   "url": "https://econjobmarket.org/positions/12569",
+   "predoc": false
   },
   {
    "id": "ejm:12570",
@@ -924,7 +946,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-08-07",
-   "url": "https://econjobmarket.org/positions/12570"
+   "url": "https://econjobmarket.org/positions/12570",
+   "predoc": false
   },
   {
    "id": "ejm:12571",
@@ -943,7 +966,8 @@
    "section": null,
    "deadline": "2026-09-21",
    "posted": "2026-08-08",
-   "url": "https://econjobmarket.org/positions/12571"
+   "url": "https://econjobmarket.org/positions/12571",
+   "predoc": false
   },
   {
    "id": "ejm:12572",
@@ -960,7 +984,8 @@
    "section": null,
    "deadline": "2026-10-04",
    "posted": "2026-08-10",
-   "url": "https://econjobmarket.org/positions/12572"
+   "url": "https://econjobmarket.org/positions/12572",
+   "predoc": false
   },
   {
    "id": "ejm:12574",
@@ -977,7 +1002,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-08-20",
-   "url": "https://econjobmarket.org/positions/12574"
+   "url": "https://econjobmarket.org/positions/12574",
+   "predoc": false
   },
   {
    "id": "ejm:12575",
@@ -995,7 +1021,8 @@
    "section": null,
    "deadline": "2026-11-01",
    "posted": "2026-08-14",
-   "url": "https://econjobmarket.org/positions/12575"
+   "url": "https://econjobmarket.org/positions/12575",
+   "predoc": false
   },
   {
    "id": "ejm:12576",
@@ -1012,7 +1039,8 @@
    "section": null,
    "deadline": "2026-08-26",
    "posted": "2026-08-16",
-   "url": "https://econjobmarket.org/positions/12576"
+   "url": "https://econjobmarket.org/positions/12576",
+   "predoc": false
   },
   {
    "id": "ejm:12577",
@@ -1029,7 +1057,8 @@
    "section": null,
    "deadline": "2026-12-01",
    "posted": "2026-08-15",
-   "url": "https://econjobmarket.org/positions/12577"
+   "url": "https://econjobmarket.org/positions/12577",
+   "predoc": false
   },
   {
    "id": "ejm:12578",
@@ -1048,7 +1077,8 @@
    "section": null,
    "deadline": "2027-01-01",
    "posted": "2026-08-16",
-   "url": "https://econjobmarket.org/positions/12578"
+   "url": "https://econjobmarket.org/positions/12578",
+   "predoc": false
   },
   {
    "id": "ejm:12579",
@@ -1066,7 +1096,8 @@
    "section": null,
    "deadline": "2026-11-02",
    "posted": "2026-08-15",
-   "url": "https://econjobmarket.org/positions/12579"
+   "url": "https://econjobmarket.org/positions/12579",
+   "predoc": false
   },
   {
    "id": "ejm:12580",
@@ -1085,7 +1116,8 @@
    "section": null,
    "deadline": "2026-11-02",
    "posted": "2026-08-15",
-   "url": "https://econjobmarket.org/positions/12580"
+   "url": "https://econjobmarket.org/positions/12580",
+   "predoc": false
   },
   {
    "id": "ejm:12581",
@@ -1104,7 +1136,8 @@
    "section": null,
    "deadline": "2026-11-30",
    "posted": "2026-08-18",
-   "url": "https://econjobmarket.org/positions/12581"
+   "url": "https://econjobmarket.org/positions/12581",
+   "predoc": false
   },
   {
    "id": "ejm:12583",
@@ -1122,7 +1155,8 @@
    "section": null,
    "deadline": "2026-10-30",
    "posted": "2026-08-24",
-   "url": "https://econjobmarket.org/positions/12583"
+   "url": "https://econjobmarket.org/positions/12583",
+   "predoc": true
   },
   {
    "id": "ejm:12584",
@@ -1139,7 +1173,8 @@
    "section": null,
    "deadline": "2027-01-31",
    "posted": "2026-08-20",
-   "url": "https://econjobmarket.org/positions/12584"
+   "url": "https://econjobmarket.org/positions/12584",
+   "predoc": false
   },
   {
    "id": "ejm:12585",
@@ -1157,7 +1192,8 @@
    "section": null,
    "deadline": "2026-09-16",
    "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12585"
+   "url": "https://econjobmarket.org/positions/12585",
+   "predoc": false
   },
   {
    "id": "ejm:12586",
@@ -1175,7 +1211,8 @@
    "section": null,
    "deadline": "2026-11-29",
    "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12586"
+   "url": "https://econjobmarket.org/positions/12586",
+   "predoc": false
   },
   {
    "id": "ejm:12587",
@@ -1193,7 +1230,8 @@
    "section": null,
    "deadline": "2026-10-30",
    "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12587"
+   "url": "https://econjobmarket.org/positions/12587",
+   "predoc": false
   },
   {
    "id": "ejm:12588",
@@ -1210,7 +1248,8 @@
    "section": null,
    "deadline": "2026-10-30",
    "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12588"
+   "url": "https://econjobmarket.org/positions/12588",
+   "predoc": false
   },
   {
    "id": "ejm:12589",
@@ -1228,7 +1267,8 @@
    "section": null,
    "deadline": "2026-10-30",
    "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12589"
+   "url": "https://econjobmarket.org/positions/12589",
+   "predoc": false
   },
   {
    "id": "ejm:12590",
@@ -1246,7 +1286,8 @@
    "section": null,
    "deadline": "2026-10-15",
    "posted": "2026-09-01",
-   "url": "https://econjobmarket.org/positions/12590"
+   "url": "https://econjobmarket.org/positions/12590",
+   "predoc": false
   },
   {
    "id": "ejm:12591",
@@ -1263,7 +1304,8 @@
    "section": null,
    "deadline": "2026-12-01",
    "posted": "2026-08-22",
-   "url": "https://econjobmarket.org/positions/12591"
+   "url": "https://econjobmarket.org/positions/12591",
+   "predoc": false
   },
   {
    "id": "ejm:12592",
@@ -1282,7 +1324,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-08-25",
-   "url": "https://econjobmarket.org/positions/12592"
+   "url": "https://econjobmarket.org/positions/12592",
+   "predoc": false
   },
   {
    "id": "ejm:12593",
@@ -1299,7 +1342,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-08-25",
-   "url": "https://econjobmarket.org/positions/12593"
+   "url": "https://econjobmarket.org/positions/12593",
+   "predoc": false
   },
   {
    "id": "ejm:12594",
@@ -1316,7 +1360,8 @@
    "section": null,
    "deadline": "2026-11-20",
    "posted": "2026-08-25",
-   "url": "https://econjobmarket.org/positions/12594"
+   "url": "https://econjobmarket.org/positions/12594",
+   "predoc": false
   },
   {
    "id": "ejm:12595",
@@ -1334,7 +1379,8 @@
    "section": null,
    "deadline": "2026-12-25",
    "posted": "2026-08-25",
-   "url": "https://econjobmarket.org/positions/12595"
+   "url": "https://econjobmarket.org/positions/12595",
+   "predoc": false
   },
   {
    "id": "ejm:12596",
@@ -1353,7 +1399,8 @@
    "section": null,
    "deadline": "2026-11-30",
    "posted": "2026-08-26",
-   "url": "https://econjobmarket.org/positions/12596"
+   "url": "https://econjobmarket.org/positions/12596",
+   "predoc": false
   },
   {
    "id": "ejm:12597",
@@ -1372,7 +1419,8 @@
    "section": null,
    "deadline": "2026-09-10",
    "posted": "2026-08-26",
-   "url": "https://econjobmarket.org/positions/12597"
+   "url": "https://econjobmarket.org/positions/12597",
+   "predoc": true
   },
   {
    "id": "ejm:12598",
@@ -1392,7 +1440,8 @@
    "section": null,
    "deadline": "2026-09-11",
    "posted": "2026-08-27",
-   "url": "https://econjobmarket.org/positions/12598"
+   "url": "https://econjobmarket.org/positions/12598",
+   "predoc": false
   },
   {
    "id": "ejm:12599",
@@ -1409,7 +1458,8 @@
    "section": null,
    "deadline": "2026-10-04",
    "posted": "2026-08-26",
-   "url": "https://econjobmarket.org/positions/12599"
+   "url": "https://econjobmarket.org/positions/12599",
+   "predoc": false
   },
   {
    "id": "ejm:12601",
@@ -1426,7 +1476,8 @@
    "section": null,
    "deadline": "2026-09-27",
    "posted": "2026-08-27",
-   "url": "https://econjobmarket.org/positions/12601"
+   "url": "https://econjobmarket.org/positions/12601",
+   "predoc": false
   },
   {
    "id": "ejm:12602",
@@ -1444,7 +1495,8 @@
    "section": null,
    "deadline": "2027-04-30",
    "posted": "2026-08-26",
-   "url": "https://econjobmarket.org/positions/12602"
+   "url": "https://econjobmarket.org/positions/12602",
+   "predoc": false
   },
   {
    "id": "ejm:12603",
@@ -1462,7 +1514,8 @@
    "section": null,
    "deadline": "2027-02-26",
    "posted": "2026-09-04",
-   "url": "https://econjobmarket.org/positions/12603"
+   "url": "https://econjobmarket.org/positions/12603",
+   "predoc": false
   },
   {
    "id": "ejm:12605",
@@ -1480,7 +1533,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-08-28",
-   "url": "https://econjobmarket.org/positions/12605"
+   "url": "https://econjobmarket.org/positions/12605",
+   "predoc": false
   },
   {
    "id": "ejm:12606",
@@ -1498,7 +1552,8 @@
    "section": null,
    "deadline": "2026-11-08",
    "posted": "2026-08-28",
-   "url": "https://econjobmarket.org/positions/12606"
+   "url": "https://econjobmarket.org/positions/12606",
+   "predoc": false
   },
   {
    "id": "ejm:12607",
@@ -1515,7 +1570,8 @@
    "section": null,
    "deadline": "2026-09-30",
    "posted": "2026-08-28",
-   "url": "https://econjobmarket.org/positions/12607"
+   "url": "https://econjobmarket.org/positions/12607",
+   "predoc": false
   },
   {
    "id": "ejm:12608",
@@ -1533,7 +1589,8 @@
    "section": null,
    "deadline": "2026-09-28",
    "posted": "2026-08-29",
-   "url": "https://econjobmarket.org/positions/12608"
+   "url": "https://econjobmarket.org/positions/12608",
+   "predoc": false
   },
   {
    "id": "ejm:12609",
@@ -1554,7 +1611,8 @@
    "section": null,
    "deadline": "2026-11-18",
    "posted": "2026-08-29",
-   "url": "https://econjobmarket.org/positions/12609"
+   "url": "https://econjobmarket.org/positions/12609",
+   "predoc": false
   },
   {
    "id": "ejm:12610",
@@ -1573,7 +1631,8 @@
    "section": null,
    "deadline": "2026-12-05",
    "posted": "2026-08-31",
-   "url": "https://econjobmarket.org/positions/12610"
+   "url": "https://econjobmarket.org/positions/12610",
+   "predoc": false
   },
   {
    "id": "ejm:12611",
@@ -1593,7 +1652,8 @@
    "section": null,
    "deadline": "2026-10-01",
    "posted": "2026-09-01",
-   "url": "https://econjobmarket.org/positions/12611"
+   "url": "https://econjobmarket.org/positions/12611",
+   "predoc": false
   },
   {
    "id": "ejm:12612",
@@ -1610,7 +1670,8 @@
    "section": null,
    "deadline": "2027-03-01",
    "posted": "2026-08-31",
-   "url": "https://econjobmarket.org/positions/12612"
+   "url": "https://econjobmarket.org/positions/12612",
+   "predoc": false
   },
   {
    "id": "ejm:12613",
@@ -1629,7 +1690,8 @@
    "section": null,
    "deadline": "2026-11-01",
    "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12613"
+   "url": "https://econjobmarket.org/positions/12613",
+   "predoc": false
   },
   {
    "id": "ejm:12614",
@@ -1651,7 +1713,8 @@
    "section": null,
    "deadline": "2026-11-01",
    "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12614"
+   "url": "https://econjobmarket.org/positions/12614",
+   "predoc": false
   },
   {
    "id": "ejm:12615",
@@ -1672,7 +1735,8 @@
    "section": null,
    "deadline": "2026-11-01",
    "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12615"
+   "url": "https://econjobmarket.org/positions/12615",
+   "predoc": false
   },
   {
    "id": "ejm:12616",
@@ -1694,7 +1758,8 @@
    "section": null,
    "deadline": "2026-11-18",
    "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12616"
+   "url": "https://econjobmarket.org/positions/12616",
+   "predoc": false
   },
   {
    "id": "ejm:12617",
@@ -1713,7 +1778,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12617"
+   "url": "https://econjobmarket.org/positions/12617",
+   "predoc": false
   },
   {
    "id": "ejm:12618",
@@ -1730,7 +1796,8 @@
    "section": null,
    "deadline": "2026-11-22",
    "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12618"
+   "url": "https://econjobmarket.org/positions/12618",
+   "predoc": false
   },
   {
    "id": "ejm:12619",
@@ -1747,7 +1814,8 @@
    "section": null,
    "deadline": "2026-11-22",
    "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12619"
+   "url": "https://econjobmarket.org/positions/12619",
+   "predoc": false
   },
   {
    "id": "ejm:12620",
@@ -1764,7 +1832,8 @@
    "section": null,
    "deadline": "2026-10-01",
    "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12620"
+   "url": "https://econjobmarket.org/positions/12620",
+   "predoc": true
   },
   {
    "id": "ejm:12621",
@@ -1782,7 +1851,8 @@
    "section": null,
    "deadline": "2026-11-06",
    "posted": "2026-09-04",
-   "url": "https://econjobmarket.org/positions/12621"
+   "url": "https://econjobmarket.org/positions/12621",
+   "predoc": false
   },
   {
    "id": "ejm:12622",
@@ -1807,7 +1877,8 @@
    "section": null,
    "deadline": "2026-11-06",
    "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12622"
+   "url": "https://econjobmarket.org/positions/12622",
+   "predoc": false
   },
   {
    "id": "ejm:12623",
@@ -1824,7 +1895,8 @@
    "section": null,
    "deadline": "2026-11-19",
    "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12623"
+   "url": "https://econjobmarket.org/positions/12623",
+   "predoc": false
   },
   {
    "id": "ejm:12624",
@@ -1842,7 +1914,8 @@
    "section": null,
    "deadline": "2026-11-16",
    "posted": "2026-09-04",
-   "url": "https://econjobmarket.org/positions/12624"
+   "url": "https://econjobmarket.org/positions/12624",
+   "predoc": false
   },
   {
    "id": "ejm:12625",
@@ -1861,7 +1934,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-09-04",
-   "url": "https://econjobmarket.org/positions/12625"
+   "url": "https://econjobmarket.org/positions/12625",
+   "predoc": false
   },
   {
    "id": "ejm:12626",
@@ -1878,7 +1952,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-09-04",
-   "url": "https://econjobmarket.org/positions/12626"
+   "url": "https://econjobmarket.org/positions/12626",
+   "predoc": false
   },
   {
    "id": "ejm:12627",
@@ -1895,7 +1970,8 @@
    "section": null,
    "deadline": "2026-09-21",
    "posted": "2026-09-05",
-   "url": "https://econjobmarket.org/positions/12627"
+   "url": "https://econjobmarket.org/positions/12627",
+   "predoc": false
   },
   {
    "id": "ejm:12628",
@@ -1912,7 +1988,8 @@
    "section": null,
    "deadline": "2026-11-20",
    "posted": "2026-09-05",
-   "url": "https://econjobmarket.org/positions/12628"
+   "url": "https://econjobmarket.org/positions/12628",
+   "predoc": false
   },
   {
    "id": "ejm:12629",
@@ -1931,7 +2008,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-09-05",
-   "url": "https://econjobmarket.org/positions/12629"
+   "url": "https://econjobmarket.org/positions/12629",
+   "predoc": false
   },
   {
    "id": "ejm:12630",
@@ -1951,7 +2029,8 @@
    "section": null,
    "deadline": "2026-10-09",
    "posted": "2026-09-05",
-   "url": "https://econjobmarket.org/positions/12630"
+   "url": "https://econjobmarket.org/positions/12630",
+   "predoc": false
   },
   {
    "id": "joe:111477663",
@@ -1976,7 +2055,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477663"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477663",
+   "predoc": false
   },
   {
    "id": "joe:111477646",
@@ -1991,7 +2071,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477646"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477646",
+   "predoc": false
   },
   {
    "id": "joe:111477777",
@@ -2006,7 +2087,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477777"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477777",
+   "predoc": false
   },
   {
    "id": "joe:111477746",
@@ -2027,7 +2109,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477746"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477746",
+   "predoc": false
   },
   {
    "id": "joe:111477571",
@@ -2042,7 +2125,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-05",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477571"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477571",
+   "predoc": false
   },
   {
    "id": "joe:111477553",
@@ -2057,7 +2141,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477553"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477553",
+   "predoc": false
   },
   {
    "id": "joe:111477766",
@@ -2072,7 +2157,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-03-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477766"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477766",
+   "predoc": false
   },
   {
    "id": "joe:111477619",
@@ -2095,7 +2181,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-03-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477619"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477619",
+   "predoc": false
   },
   {
    "id": "joe:111477620",
@@ -2117,7 +2204,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-03-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477620"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477620",
+   "predoc": false
   },
   {
    "id": "joe:111477618",
@@ -2132,7 +2220,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-07",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477618"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477618",
+   "predoc": false
   },
   {
    "id": "joe:111477552",
@@ -2147,7 +2236,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477552"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477552",
+   "predoc": false
   },
   {
    "id": "joe:111477640",
@@ -2165,7 +2255,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-03-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477640"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477640",
+   "predoc": false
   },
   {
    "id": "joe:111477624",
@@ -2180,7 +2271,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477624"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477624",
+   "predoc": false
   },
   {
    "id": "joe:111477723",
@@ -2195,7 +2287,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477723"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477723",
+   "predoc": false
   },
   {
    "id": "joe:111477722",
@@ -2210,7 +2303,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477722"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477722",
+   "predoc": false
   },
   {
    "id": "joe:111477578",
@@ -2231,7 +2325,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-11",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477578"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477578",
+   "predoc": false
   },
   {
    "id": "joe:111477608",
@@ -2248,7 +2343,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477608"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477608",
+   "predoc": false
   },
   {
    "id": "joe:111477652",
@@ -2263,7 +2359,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477652"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477652",
+   "predoc": false
   },
   {
    "id": "joe:111477590",
@@ -2278,7 +2375,8 @@
    "section": "US: Other Academic (Part-time or Adjunct)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477590"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477590",
+   "predoc": false
   },
   {
    "id": "joe:111477643",
@@ -2293,7 +2391,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477643"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477643",
+   "predoc": false
   },
   {
    "id": "joe:111477718",
@@ -2308,7 +2407,8 @@
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477718"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477718",
+   "predoc": false
   },
   {
    "id": "joe:111477674",
@@ -2323,7 +2423,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477674"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477674",
+   "predoc": false
   },
   {
    "id": "joe:111477681",
@@ -2338,7 +2439,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477681"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477681",
+   "predoc": false
   },
   {
    "id": "joe:111477627",
@@ -2358,7 +2460,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477627"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477627",
+   "predoc": false
   },
   {
    "id": "joe:111477639",
@@ -2378,7 +2481,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477639"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477639",
+   "predoc": false
   },
   {
    "id": "joe:111477670",
@@ -2393,7 +2497,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-04-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477670"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477670",
+   "predoc": false
   },
   {
    "id": "joe:111477809",
@@ -2414,7 +2519,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477809"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477809",
+   "predoc": false
   },
   {
    "id": "joe:111477711",
@@ -2429,7 +2535,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477711"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477711",
+   "predoc": false
   },
   {
    "id": "joe:111477765",
@@ -2447,7 +2554,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-12",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477765"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477765",
+   "predoc": false
   },
   {
    "id": "joe:111477763",
@@ -2466,7 +2574,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-12",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477763"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477763",
+   "predoc": false
   },
   {
    "id": "joe:111477764",
@@ -2485,7 +2594,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-12",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477764"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477764",
+   "predoc": false
   },
   {
    "id": "joe:111477596",
@@ -2500,7 +2610,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477596"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477596",
+   "predoc": false
   },
   {
    "id": "joe:111477564",
@@ -2518,7 +2629,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477564"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477564",
+   "predoc": false
   },
   {
    "id": "joe:111477744",
@@ -2533,7 +2645,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477744"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477744",
+   "predoc": false
   },
   {
    "id": "joe:111477591",
@@ -2548,7 +2661,8 @@
    "section": "US: Other Academic (Part-time or Adjunct)",
    "deadline": "2027-04-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477591"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477591",
+   "predoc": false
   },
   {
    "id": "joe:111477775",
@@ -2563,7 +2677,8 @@
    "section": "International: Other Academic (Visiting or Temporary)",
    "deadline": "2027-03-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477775"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477775",
+   "predoc": false
   },
   {
    "id": "joe:111477540",
@@ -2578,7 +2693,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477540"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477540",
+   "predoc": false
   },
   {
    "id": "joe:111477705",
@@ -2595,7 +2711,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477705"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477705",
+   "predoc": false
   },
   {
    "id": "joe:111477708",
@@ -2610,7 +2727,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477708"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477708",
+   "predoc": false
   },
   {
    "id": "joe:111477709",
@@ -2625,7 +2743,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477709"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477709",
+   "predoc": false
   },
   {
    "id": "joe:111477701",
@@ -2643,7 +2762,8 @@
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477701"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477701",
+   "predoc": false
   },
   {
    "id": "joe:111477700",
@@ -2663,7 +2783,8 @@
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477700"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477700",
+   "predoc": false
   },
   {
    "id": "joe:111477730",
@@ -2678,7 +2799,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477730"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477730",
+   "predoc": false
   },
   {
    "id": "joe:111477758",
@@ -2695,7 +2817,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477758"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477758",
+   "predoc": false
   },
   {
    "id": "joe:111477725",
@@ -2711,7 +2834,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477725"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477725",
+   "predoc": false
   },
   {
    "id": "joe:111477621",
@@ -2726,7 +2850,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477621"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477621",
+   "predoc": false
   },
   {
    "id": "joe:111477615",
@@ -2741,7 +2866,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477615"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477615",
+   "predoc": false
   },
   {
    "id": "joe:111477669",
@@ -2756,7 +2882,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477669"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477669",
+   "predoc": false
   },
   {
    "id": "joe:111477780",
@@ -2771,7 +2898,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477780"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477780",
+   "predoc": false
   },
   {
    "id": "joe:111477693",
@@ -2786,7 +2914,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477693"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477693",
+   "predoc": false
   },
   {
    "id": "joe:111477710",
@@ -2801,7 +2930,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-20",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477710"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477710",
+   "predoc": false
   },
   {
    "id": "joe:111477645",
@@ -2816,7 +2946,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-03",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477645"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477645",
+   "predoc": false
   },
   {
    "id": "joe:111477542",
@@ -2831,7 +2962,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477542"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477542",
+   "predoc": false
   },
   {
    "id": "joe:111477656",
@@ -2855,7 +2987,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-22",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477656"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477656",
+   "predoc": false
   },
   {
    "id": "joe:111477685",
@@ -2870,7 +3003,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-17",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477685"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477685",
+   "predoc": false
   },
   {
    "id": "joe:111477686",
@@ -2885,7 +3019,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-17",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477686"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477686",
+   "predoc": false
   },
   {
    "id": "joe:111477691",
@@ -2900,7 +3035,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477691"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477691",
+   "predoc": false
   },
   {
    "id": "joe:111477726",
@@ -2916,7 +3052,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477726"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477726",
+   "predoc": false
   },
   {
    "id": "joe:111477752",
@@ -2937,7 +3074,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477752"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477752",
+   "predoc": false
   },
   {
    "id": "joe:111477599",
@@ -2952,7 +3090,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477599"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477599",
+   "predoc": false
   },
   {
    "id": "joe:111477667",
@@ -2967,7 +3106,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477667"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477667",
+   "predoc": false
   },
   {
    "id": "joe:111477716",
@@ -2982,7 +3122,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477716"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477716",
+   "predoc": false
   },
   {
    "id": "joe:111477595",
@@ -3000,7 +3141,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477595"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477595",
+   "predoc": false
   },
   {
    "id": "joe:111477753",
@@ -3015,7 +3157,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477753"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477753",
+   "predoc": false
   },
   {
    "id": "joe:111477634",
@@ -3031,7 +3174,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477634"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477634",
+   "predoc": false
   },
   {
    "id": "joe:111477558",
@@ -3046,7 +3190,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-06",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477558"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477558",
+   "predoc": false
   },
   {
    "id": "joe:111477707",
@@ -3061,7 +3206,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-02-20",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477707"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477707",
+   "predoc": false
   },
   {
    "id": "joe:111477617",
@@ -3081,7 +3227,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477617"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477617",
+   "predoc": false
   },
   {
    "id": "joe:111477631",
@@ -3096,7 +3243,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477631"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477631",
+   "predoc": false
   },
   {
    "id": "joe:111477651",
@@ -3111,7 +3259,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-08-28",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477651"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477651",
+   "predoc": false
   },
   {
    "id": "joe:111477724",
@@ -3126,7 +3275,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-04",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477724"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477724",
+   "predoc": false
   },
   {
    "id": "joe:111477757",
@@ -3141,7 +3291,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477757"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477757",
+   "predoc": false
   },
   {
    "id": "joe:111477736",
@@ -3158,7 +3309,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477736"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477736",
+   "predoc": false
   },
   {
    "id": "joe:111477606",
@@ -3173,7 +3325,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-04-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477606"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477606",
+   "predoc": false
   },
   {
    "id": "joe:111477561",
@@ -3188,7 +3341,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477561"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477561",
+   "predoc": false
   },
   {
    "id": "joe:111477576",
@@ -3203,7 +3357,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477576"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477576",
+   "predoc": false
   },
   {
    "id": "joe:111477565",
@@ -3220,7 +3375,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477565"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477565",
+   "predoc": false
   },
   {
    "id": "joe:111477637",
@@ -3239,7 +3395,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477637"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477637",
+   "predoc": false
   },
   {
    "id": "joe:111477598",
@@ -3254,7 +3411,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477598"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477598",
+   "predoc": false
   },
   {
    "id": "joe:111477745",
@@ -3272,7 +3430,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477745"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477745",
+   "predoc": false
   },
   {
    "id": "joe:111477555",
@@ -3291,7 +3450,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477555"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477555",
+   "predoc": false
   },
   {
    "id": "joe:111477532",
@@ -3307,7 +3467,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477532"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477532",
+   "predoc": false
   },
   {
    "id": "joe:111477721",
@@ -3323,7 +3484,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477721"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477721",
+   "predoc": false
   },
   {
    "id": "joe:111477577",
@@ -3338,7 +3500,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477577"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477577",
+   "predoc": false
   },
   {
    "id": "joe:111477761",
@@ -3359,7 +3522,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477761"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477761",
+   "predoc": false
   },
   {
    "id": "joe:111477783",
@@ -3380,7 +3544,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477783"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477783",
+   "predoc": false
   },
   {
    "id": "joe:111477603",
@@ -3396,7 +3561,8 @@
    "section": "US: Other Academic (Part-time or Adjunct)",
    "deadline": "2027-08-06",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477603"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477603",
+   "predoc": false
   },
   {
    "id": "joe:111477754",
@@ -3413,7 +3579,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477754"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477754",
+   "predoc": false
   },
   {
    "id": "joe:111477733",
@@ -3428,7 +3595,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477733"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477733",
+   "predoc": false
   },
   {
    "id": "joe:111477633",
@@ -3443,7 +3611,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477633"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477633",
+   "predoc": false
   },
   {
    "id": "joe:111477630",
@@ -3463,7 +3632,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477630"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477630",
+   "predoc": false
   },
   {
    "id": "joe:111477675",
@@ -3478,7 +3648,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477675"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477675",
+   "predoc": false
   },
   {
    "id": "joe:111477787",
@@ -3493,7 +3664,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477787"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477787",
+   "predoc": true
   },
   {
    "id": "joe:111477790",
@@ -3508,7 +3680,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477790"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477790",
+   "predoc": false
   },
   {
    "id": "joe:111477741",
@@ -3524,7 +3697,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477741"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477741",
+   "predoc": false
   },
   {
    "id": "joe:111477687",
@@ -3539,7 +3713,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477687"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477687",
+   "predoc": false
   },
   {
    "id": "joe:111477688",
@@ -3555,7 +3730,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477688"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477688",
+   "predoc": false
   },
   {
    "id": "joe:111477770",
@@ -3570,7 +3746,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477770"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477770",
+   "predoc": false
   },
   {
    "id": "joe:111477767",
@@ -3585,7 +3762,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477767"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477767",
+   "predoc": false
   },
   {
    "id": "joe:111477771",
@@ -3600,7 +3778,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477771"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477771",
+   "predoc": false
   },
   {
    "id": "joe:111477772",
@@ -3615,7 +3794,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477772"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477772",
+   "predoc": false
   },
   {
    "id": "joe:111477768",
@@ -3630,7 +3810,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477768"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477768",
+   "predoc": false
   },
   {
    "id": "joe:111477706",
@@ -3645,7 +3826,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477706"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477706",
+   "predoc": false
   },
   {
    "id": "joe:111477657",
@@ -3660,7 +3842,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477657"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477657",
+   "predoc": false
   },
   {
    "id": "joe:111477556",
@@ -3675,7 +3858,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477556"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477556",
+   "predoc": false
   },
   {
    "id": "joe:111477544",
@@ -3690,7 +3874,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-07-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477544"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477544",
+   "predoc": false
   },
   {
    "id": "joe:111477568",
@@ -3705,7 +3890,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477568"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477568",
+   "predoc": false
   },
   {
    "id": "joe:111477644",
@@ -3722,7 +3908,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477644"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477644",
+   "predoc": false
   },
   {
    "id": "joe:111477485",
@@ -3737,7 +3924,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": null,
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477485"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477485",
+   "predoc": false
   },
   {
    "id": "joe:111477604",
@@ -3752,7 +3940,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477604"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477604",
+   "predoc": false
   },
   {
    "id": "joe:111477683",
@@ -3767,7 +3956,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477683"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477683",
+   "predoc": false
   },
   {
    "id": "joe:111477682",
@@ -3782,7 +3972,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477682"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477682",
+   "predoc": false
   },
   {
    "id": "joe:111477689",
@@ -3802,7 +3993,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477689"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477689",
+   "predoc": false
   },
   {
    "id": "joe:111477575",
@@ -3817,7 +4009,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477575"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477575",
+   "predoc": false
   },
   {
    "id": "joe:111477610",
@@ -3832,7 +4025,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477610"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477610",
+   "predoc": false
   },
   {
    "id": "joe:111477585",
@@ -3847,7 +4041,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-25",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477585"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477585",
+   "predoc": false
   },
   {
    "id": "joe:111477574",
@@ -3862,7 +4057,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477574"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477574",
+   "predoc": false
   },
   {
    "id": "joe:111477653",
@@ -3877,7 +4073,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477653"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477653",
+   "predoc": false
   },
   {
    "id": "joe:111477536",
@@ -3892,7 +4089,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477536"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477536",
+   "predoc": false
   },
   {
    "id": "joe:111477197",
@@ -3909,7 +4107,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-02-28",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477197"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477197",
+   "predoc": false
   },
   {
    "id": "joe:111477784",
@@ -3924,7 +4123,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477784"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477784",
+   "predoc": false
   },
   {
    "id": "joe:111477659",
@@ -3939,7 +4139,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477659"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477659",
+   "predoc": false
   },
   {
    "id": "joe:111477607",
@@ -3954,7 +4155,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-22",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477607"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477607",
+   "predoc": false
   },
   {
    "id": "joe:111477729",
@@ -3973,7 +4175,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477729"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477729",
+   "predoc": false
   },
   {
    "id": "joe:111477731",
@@ -3988,7 +4191,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477731"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477731",
+   "predoc": false
   },
   {
    "id": "joe:111477727",
@@ -4004,7 +4208,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477727"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477727",
+   "predoc": false
   },
   {
    "id": "joe:111477732",
@@ -4021,7 +4226,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477732"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477732",
+   "predoc": false
   },
   {
    "id": "joe:111477734",
@@ -4036,7 +4242,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477734"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477734",
+   "predoc": false
   },
   {
    "id": "joe:111477735",
@@ -4051,7 +4258,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477735"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477735",
+   "predoc": false
   },
   {
    "id": "joe:111477636",
@@ -4066,7 +4274,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477636"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477636",
+   "predoc": false
   },
   {
    "id": "joe:111477649",
@@ -4081,7 +4290,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477649"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477649",
+   "predoc": false
   },
   {
    "id": "joe:111477698",
@@ -4098,7 +4308,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477698"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477698",
+   "predoc": false
   },
   {
    "id": "joe:111477739",
@@ -4113,7 +4324,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477739"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477739",
+   "predoc": false
   },
   {
    "id": "joe:111477665",
@@ -4128,7 +4340,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477665"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477665",
+   "predoc": false
   },
   {
    "id": "joe:111477623",
@@ -4143,7 +4356,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477623"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477623",
+   "predoc": false
   },
   {
    "id": "joe:111477650",
@@ -4158,7 +4372,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477650"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477650",
+   "predoc": false
   },
   {
    "id": "joe:111477664",
@@ -4176,7 +4391,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477664"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477664",
+   "predoc": false
   },
   {
    "id": "joe:111477728",
@@ -4201,7 +4417,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-03-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477728"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477728",
+   "predoc": false
   },
   {
    "id": "joe:111477592",
@@ -4216,7 +4433,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-08-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477592"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477592",
+   "predoc": true
   },
   {
    "id": "joe:111477583",
@@ -4231,7 +4449,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-06-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477583"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477583",
+   "predoc": false
   },
   {
    "id": "joe:111477668",
@@ -4246,7 +4465,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477668"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477668",
+   "predoc": false
   },
   {
    "id": "joe:111477737",
@@ -4261,7 +4481,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477737"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477737",
+   "predoc": false
   },
   {
    "id": "joe:111477647",
@@ -4276,7 +4497,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-25",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477647"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477647",
+   "predoc": false
   },
   {
    "id": "joe:111477632",
@@ -4294,7 +4516,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477632"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477632",
+   "predoc": false
   },
   {
    "id": "joe:111477517",
@@ -4309,7 +4532,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477517"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477517",
+   "predoc": false
   },
   {
    "id": "joe:111477699",
@@ -4325,7 +4549,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477699"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477699",
+   "predoc": false
   },
   {
    "id": "joe:111477694",
@@ -4341,7 +4566,8 @@
    "section": "International: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477694"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477694",
+   "predoc": false
   },
   {
    "id": "joe:111477492",
@@ -4365,7 +4591,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-22",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477492"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477492",
+   "predoc": false
   },
   {
    "id": "joe:111477748",
@@ -4380,7 +4607,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-25",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477748"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477748",
+   "predoc": false
   },
   {
    "id": "joe:111477781",
@@ -4397,7 +4625,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-19",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477781"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477781",
+   "predoc": false
   },
   {
    "id": "joe:111477740",
@@ -4413,7 +4642,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-14",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477740"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477740",
+   "predoc": false
   },
   {
    "id": "joe:111477786",
@@ -4428,7 +4658,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477786"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477786",
+   "predoc": false
   },
   {
    "id": "joe:111477588",
@@ -4443,7 +4674,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477588"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477588",
+   "predoc": false
   },
   {
    "id": "joe:111477676",
@@ -4459,7 +4691,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477676"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477676",
+   "predoc": false
   },
   {
    "id": "joe:111477549",
@@ -4474,7 +4707,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-08-14",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477549"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477549",
+   "predoc": false
   },
   {
    "id": "joe:111477738",
@@ -4489,7 +4723,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477738"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477738",
+   "predoc": false
   },
   {
    "id": "joe:111477622",
@@ -4504,7 +4739,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477622"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477622",
+   "predoc": false
   },
   {
    "id": "joe:111477662",
@@ -4521,7 +4757,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-08-26",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477662"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477662",
+   "predoc": false
   },
   {
    "id": "joe:111477751",
@@ -4546,7 +4783,8 @@
    "section": "International: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477751"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477751",
+   "predoc": false
   },
   {
    "id": "joe:111477680",
@@ -4561,7 +4799,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477680"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477680",
+   "predoc": false
   },
   {
    "id": "joe:111477528",
@@ -4576,7 +4815,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-05-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477528"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477528",
+   "predoc": false
   },
   {
    "id": "joe:111477529",
@@ -4591,7 +4831,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-05-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477529"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477529",
+   "predoc": false
   },
   {
    "id": "joe:111477635",
@@ -4606,7 +4847,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477635"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477635",
+   "predoc": false
   },
   {
    "id": "joe:111477776",
@@ -4621,7 +4863,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477776"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477776",
+   "predoc": false
   },
   {
    "id": "joe:111477717",
@@ -4636,7 +4879,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-21",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477717"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477717",
+   "predoc": false
   },
   {
    "id": "joe:111477805",
@@ -4651,7 +4895,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477805"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477805",
+   "predoc": false
   },
   {
    "id": "joe:111477678",
@@ -4666,7 +4911,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": null,
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477678"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477678",
+   "predoc": false
   },
   {
    "id": "joe:111477526",
@@ -4682,7 +4928,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477526"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477526",
+   "predoc": false
   },
   {
    "id": "joe:111477560",
@@ -4697,7 +4944,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477560"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477560",
+   "predoc": false
   },
   {
    "id": "joe:111477533",
@@ -4712,7 +4960,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477533"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477533",
+   "predoc": false
   },
   {
    "id": "joe:111477814",
@@ -4728,7 +4977,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477814"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477814",
+   "predoc": false
   },
   {
    "id": "joe:111477661",
@@ -4743,7 +4993,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-17",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477661"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477661",
+   "predoc": false
   },
   {
    "id": "joe:111477660",
@@ -4758,7 +5009,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-17",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477660"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477660",
+   "predoc": false
   },
   {
    "id": "joe:111477580",
@@ -4773,7 +5025,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477580"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477580",
+   "predoc": false
   },
   {
    "id": "joe:111477697",
@@ -4792,7 +5045,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477697"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477697",
+   "predoc": false
   },
   {
    "id": "joe:111477696",
@@ -4811,7 +5065,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477696"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477696",
+   "predoc": false
   },
   {
    "id": "joe:111477581",
@@ -4828,7 +5083,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477581"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477581",
+   "predoc": false
   },
   {
    "id": "joe:111477582",
@@ -4845,7 +5101,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477582"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477582",
+   "predoc": false
   },
   {
    "id": "joe:111477597",
@@ -4860,7 +5117,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-02-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477597"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477597",
+   "predoc": false
   },
   {
    "id": "joe:111477756",
@@ -4875,7 +5133,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477756"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477756",
+   "predoc": false
   },
   {
    "id": "joe:111477614",
@@ -4890,7 +5149,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-14",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477614"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477614",
+   "predoc": false
   },
   {
    "id": "joe:111477562",
@@ -4905,7 +5165,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-08-23",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477562"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477562",
+   "predoc": false
   },
   {
    "id": "joe:111477692",
@@ -4927,7 +5188,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477692"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477692",
+   "predoc": false
   },
   {
    "id": "joe:111477703",
@@ -4955,7 +5217,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-24",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477703"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477703",
+   "predoc": false
   },
   {
    "id": "joe:111477714",
@@ -4975,7 +5238,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477714"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477714",
+   "predoc": false
   },
   {
    "id": "joe:111477611",
@@ -4990,7 +5254,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477611"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477611",
+   "predoc": false
   },
   {
    "id": "joe:111477612",
@@ -5005,7 +5270,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477612"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477612",
+   "predoc": false
   },
   {
    "id": "joe:111477788",
@@ -5020,7 +5286,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477788"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477788",
+   "predoc": false
   },
   {
    "id": "joe:111477509",
@@ -5037,7 +5304,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-08-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477509"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477509",
+   "predoc": false
   },
   {
    "id": "joe:111477720",
@@ -5052,7 +5320,8 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-21",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477720"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477720",
+   "predoc": false
   },
   {
    "id": "joe:111477782",
@@ -5070,7 +5339,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477782"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477782",
+   "predoc": false
   },
   {
    "id": "joe:111477601",
@@ -5087,7 +5357,8 @@
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477601"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477601",
+   "predoc": false
   },
   {
    "id": "joe:111477600",
@@ -5104,7 +5375,8 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477600"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477600",
+   "predoc": false
   },
   {
    "id": "joe:111477594",
@@ -5119,7 +5391,8 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-20",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477594"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477594",
+   "predoc": false
   },
   {
    "id": "joe:111477658",
@@ -5134,7 +5407,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477658"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477658",
+   "predoc": false
   },
   {
    "id": "joe:111477769",
@@ -5149,7 +5423,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477769"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477769",
+   "predoc": false
   },
   {
    "id": "joe:111477569",
@@ -5164,7 +5439,8 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477569"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477569",
+   "predoc": false
   },
   {
    "id": "joe:111477638",
@@ -5181,7 +5457,8 @@
    "section": "International: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638"
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638",
+   "predoc": false
   },
   {
    "id": "jacuk:DSW200",
@@ -5194,7 +5471,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSW200/curriculum-leader-business-economics-and-accounting-and-finance"
+   "url": "https://www.jobs.ac.uk/job/DSW200/curriculum-leader-business-economics-and-accounting-and-finance",
+   "predoc": false
   },
   {
    "id": "jacuk:DSW134",
@@ -5207,7 +5485,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSW134/senior-research-fellow-in-maritime-and-ocean-governance"
+   "url": "https://www.jobs.ac.uk/job/DSW134/senior-research-fellow-in-maritime-and-ocean-governance",
+   "predoc": false
   },
   {
    "id": "jacuk:DSV833",
@@ -5220,7 +5499,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV833/postdoctoral-fellowship-in-entrepreneurship"
+   "url": "https://www.jobs.ac.uk/job/DSV833/postdoctoral-fellowship-in-entrepreneurship",
+   "predoc": false
   },
   {
    "id": "jacuk:DSV828",
@@ -5233,7 +5513,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV828/scientific-scouting-officer"
+   "url": "https://www.jobs.ac.uk/job/DSV828/scientific-scouting-officer",
+   "predoc": false
   },
   {
    "id": "jacuk:DSV920",
@@ -5246,7 +5527,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV920/research-associate-in-process-systems-engineering-for-sustainability"
+   "url": "https://www.jobs.ac.uk/job/DSV920/research-associate-in-process-systems-engineering-for-sustainability",
+   "predoc": false
   },
   {
    "id": "jacuk:DSV783",
@@ -5259,7 +5541,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV783/fellowship-by-examination-jrf-2026-2027"
+   "url": "https://www.jobs.ac.uk/job/DSV783/fellowship-by-examination-jrf-2026-2027",
+   "predoc": false
   },
   {
    "id": "jacuk:DSV342",
@@ -5272,7 +5555,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV342/lecturer-in-health-economics"
+   "url": "https://www.jobs.ac.uk/job/DSV342/lecturer-in-health-economics",
+   "predoc": false
   },
   {
    "id": "jacuk:DSV230",
@@ -5285,7 +5569,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV230/research-fellow-in-health-economics"
+   "url": "https://www.jobs.ac.uk/job/DSV230/research-fellow-in-health-economics",
+   "predoc": false
   },
   {
    "id": "jacuk:DSV199",
@@ -5298,7 +5583,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV199/lecturer-in-psychology-of-business"
+   "url": "https://www.jobs.ac.uk/job/DSV199/lecturer-in-psychology-of-business",
+   "predoc": false
   },
   {
    "id": "jacuk:DSV178",
@@ -5311,7 +5597,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV178/lecturer-in-economics"
+   "url": "https://www.jobs.ac.uk/job/DSV178/lecturer-in-economics",
+   "predoc": false
   },
   {
    "id": "jacuk:DSU869",
@@ -5324,7 +5611,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSU869/research-fellow-or-assistant-professor"
+   "url": "https://www.jobs.ac.uk/job/DSU869/research-fellow-or-assistant-professor",
+   "predoc": false
   },
   {
    "id": "jacuk:DSU805",
@@ -5337,7 +5625,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSU805/senior-research-officer"
+   "url": "https://www.jobs.ac.uk/job/DSU805/senior-research-officer",
+   "predoc": false
   },
   {
    "id": "jacuk:DSU539",
@@ -5350,7 +5639,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSU539/research-and-innovation-fellows"
+   "url": "https://www.jobs.ac.uk/job/DSU539/research-and-innovation-fellows",
+   "predoc": false
   },
   {
    "id": "jacuk:DSU500",
@@ -5363,7 +5653,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSU500/stipendiary-and-non-stipendiary-research-fellowships"
+   "url": "https://www.jobs.ac.uk/job/DSU500/stipendiary-and-non-stipendiary-research-fellowships",
+   "predoc": false
   },
   {
    "id": "jacuk:DST240",
@@ -5376,7 +5667,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DST240/jean-monnet-postdoctoral-fellowships"
+   "url": "https://www.jobs.ac.uk/job/DST240/jean-monnet-postdoctoral-fellowships",
+   "predoc": false
   },
   {
    "id": "jacuk:DST233",
@@ -5389,7 +5681,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DST233/max-weber-postdoctoral-fellowships"
+   "url": "https://www.jobs.ac.uk/job/DST233/max-weber-postdoctoral-fellowships",
+   "predoc": false
   },
   {
    "id": "jacuk:DSU163",
@@ -5402,7 +5695,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSU163/assistant-professor-in-international-development"
+   "url": "https://www.jobs.ac.uk/job/DSU163/assistant-professor-in-international-development",
+   "predoc": false
   },
   {
    "id": "jacuk:DST222",
@@ -5415,7 +5709,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DST222/assistant-professor-in-economics-and-social-sciences"
+   "url": "https://www.jobs.ac.uk/job/DST222/assistant-professor-in-economics-and-social-sciences",
+   "predoc": false
   },
   {
    "id": "jacuk:DSS737",
@@ -5428,7 +5723,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS737/scientific-advisory-committee-chair-full-member-associate-member-and-lay-member-positions"
+   "url": "https://www.jobs.ac.uk/job/DSS737/scientific-advisory-committee-chair-full-member-associate-member-and-lay-member-positions",
+   "predoc": false
   },
   {
    "id": "jacuk:DST275",
@@ -5441,7 +5737,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DST275/research-associate-in-health-economics"
+   "url": "https://www.jobs.ac.uk/job/DST275/research-associate-in-health-economics",
+   "predoc": false
   },
   {
    "id": "jacuk:DST125",
@@ -5454,7 +5751,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DST125/postdoctoral-research-associate-in-landscape-natural-capital-accounting-and-biodiversity-reporting"
+   "url": "https://www.jobs.ac.uk/job/DST125/postdoctoral-research-associate-in-landscape-natural-capital-accounting-and-biodiversity-reporting",
+   "predoc": false
   },
   {
    "id": "jacuk:DSS937",
@@ -5467,7 +5765,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS937/postdoctoral-positions-in-mathematics-and-stochastics"
+   "url": "https://www.jobs.ac.uk/job/DSS937/postdoctoral-positions-in-mathematics-and-stochastics",
+   "predoc": false
   },
   {
    "id": "jacuk:DSS884",
@@ -5480,7 +5779,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS884/postdoctoral-researcher-position-in-labour-immigration-and-institutional-change"
+   "url": "https://www.jobs.ac.uk/job/DSS884/postdoctoral-researcher-position-in-labour-immigration-and-institutional-change",
+   "predoc": false
   },
   {
    "id": "jacuk:DSS618",
@@ -5493,7 +5793,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS618/faculty-position-in-economics-associate-professor-and-above"
+   "url": "https://www.jobs.ac.uk/job/DSS618/faculty-position-in-economics-associate-professor-and-above",
+   "predoc": false
   },
   {
    "id": "jacuk:DSS897",
@@ -5506,7 +5807,8 @@
    "section": null,
    "deadline": null,
    "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS897/head-of-school-accounting-finance-and-economics"
+   "url": "https://www.jobs.ac.uk/job/DSS897/head-of-school-accounting-finance-and-economics",
+   "predoc": false
   },
   {
    "id": "ej:idb-energy-economics-data-analysis-internship",
@@ -5519,7 +5821,8 @@
    "section": null,
    "deadline": null,
    "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/idb-energy-economics-data-analysis-internship/"
+   "url": "https://econ-jobs.com/job-offer/idb-energy-economics-data-analysis-internship/",
+   "predoc": false
   },
   {
    "id": "ej:idb-research-department-and-behavioral-economics-internship",
@@ -5532,7 +5835,8 @@
    "section": null,
    "deadline": null,
    "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/idb-research-department-and-behavioral-economics-internship/"
+   "url": "https://econ-jobs.com/job-offer/idb-research-department-and-behavioral-economics-internship/",
+   "predoc": false
   },
   {
    "id": "ej:2027-sf-fed-research-associate",
@@ -5545,7 +5849,8 @@
    "section": null,
    "deadline": null,
    "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/2027-sf-fed-research-associate/"
+   "url": "https://econ-jobs.com/job-offer/2027-sf-fed-research-associate/",
+   "predoc": true
   },
   {
    "id": "ej:health-economics-and-outcomes-research-intern",
@@ -5558,7 +5863,8 @@
    "section": null,
    "deadline": null,
    "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/health-economics-and-outcomes-research-intern/"
+   "url": "https://econ-jobs.com/job-offer/health-economics-and-outcomes-research-intern/",
+   "predoc": false
   },
   {
    "id": "ej:associate-quantitative-analyst",
@@ -5571,7 +5877,8 @@
    "section": null,
    "deadline": null,
    "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/associate-quantitative-analyst/"
+   "url": "https://econ-jobs.com/job-offer/associate-quantitative-analyst/",
+   "predoc": false
   },
   {
    "id": "ej:eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2",
@@ -5584,7 +5891,8 @@
    "section": null,
    "deadline": null,
    "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/"
+   "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
+   "predoc": false
   }
  ]
 }

@@ -69,6 +69,7 @@ footer a { color: var(--muted); }
     <input type="search" id="q" placeholder="Search institution, title, field, place…">
     <button class="chipbtn" id="fStar">★ My fields</button>
     <button class="chipbtn on" id="fFuture">Hide past deadlines</button>
+    <button class="chipbtn on" id="fPredoc">Hide pre-docs</button>
     <select class="chipbtn" id="sort">
       <option value="deadline">Sort: deadline</option>
       <option value="posted">Sort: newest posted</option>
@@ -124,13 +125,14 @@ function render(a) {
 
 let ADS = [];
 const el = id => document.getElementById(id);
-const state = { q: "", star: false, future: true, sort: "deadline" };
+const state = { q: "", star: false, future: true, nopredoc: true, sort: "deadline" };
 
 function draw() {
   const q = state.q.toLowerCase();
   let rows = ADS.filter(a => {
     if (state.star && !isStar(a)) return false;
     if (state.future && a.deadline && days(a) < 0) return false;
+    if (state.nopredoc && a.predoc) return false;
     if (!q) return true;
     return [a.institution, a.title, a.location, (a.fields || []).join(" "), a.section]
       .join(" ").toLowerCase().includes(q);
@@ -160,6 +162,7 @@ fetch("ads.json", { cache: "no-store" }).then(r => r.json()).then(d => {
 el("q").addEventListener("input", e => { state.q = e.target.value; draw(); });
 el("fStar").addEventListener("click", e => { state.star = !state.star; e.target.classList.toggle("on"); draw(); });
 el("fFuture").addEventListener("click", e => { state.future = !state.future; e.target.classList.toggle("on"); draw(); });
+el("fPredoc").addEventListener("click", e => { state.nopredoc = !state.nopredoc; e.target.classList.toggle("on"); draw(); });
 el("sort").addEventListener("change", e => { state.sort = e.target.value; draw(); });
 </script>
 </body>

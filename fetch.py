@@ -105,39 +105,6 @@ def fetch_jobsacuk():
     return ads
 
 
-def _scrape_links(page_url, href_re, base=""):
-    html = get(page_url)
-    ads, seen = [], set()
-    for m in re.finditer(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', html, re.S | re.I):
-        href, text = m.group(1), unescape(re.sub(r"<[^>]+>", " ", m.group(2))).strip()
-        if not re.search(href_re, href) or not text or len(text) < 4:
-            continue
-        url = href if href.startswith("http") else base + href
-        if url in seen:
-            continue
-        seen.add(url)
-        ads.append({
-            "id": None,  # filled by caller with source prefix
-            "source": None,
-            "institution": None,
-            "title": re.sub(r"\s+", " ", text)[:200],
-            "location": None,
-            "fields": [],
-            "position_types": [],
-            "section": None,
-            "deadline": None,
-            "posted": None,
-            "url": url,
-        })
-    return ads
-
-
-def fetch_nabe():
-    ads = _scrape_links("https://econjobs.nabe.com/jobs/", r"/jobs?/\d|/job/", "https://econjobs.nabe.com")
-    for a in ads:
-        a["id"], a["source"] = "nabe:" + a["url"], "nabe"
-    return ads
-
 
 def fetch_econjobs():
     # The listings page is JS-rendered, but WordPress exposes a job-listing sitemap.
@@ -167,12 +134,31 @@ def fetch_econjobs():
     return ads
 
 
+def is_predoc(ad):
+    """Pre-doc / RA-level ads (Nelson is post-PhD; these are filtered downstream).
+    jobs.ac.uk is exempt from the bare research-associate rule: in UK usage that
+    title is usually a postdoc."""
+    title = ad["title"] or ""
+    pts = ad["position_types"] or []
+    if re.search(r"pre-?doc", title, re.I):
+        return True
+    if any("Pre-Doc" in p for p in pts):
+        return True
+    if ad["source"] != "jobsacuk" and re.search(r"\bresearch (assistant|associate|professional)\b", title, re.I):
+        if re.search(r"post-?doc|professor|fellow", title, re.I):
+            return False
+        if any(re.search(r"postdoc|professor", p, re.I) for p in pts):
+            return False
+        return True
+    return False
+
+
 def main():
+    # NABE dropped 2026-09-09: econjobs.nabe.com 403s GitHub runners permanently.
     fetchers = {
         "ejm": fetch_ejm,
         "joe": fetch_joe,
         "jobsacuk": fetch_jobsacuk,
-        "nabe": fetch_nabe,
         "econjobs": fetch_econjobs,
     }
     all_ads, status = [], {}
@@ -183,6 +169,8 @@ def main():
             all_ads.extend(ads)
         except Exception as e:  # noqa: BLE001 — a broken source must not kill the rest
             status[name] = {"status": f"error: {type(e).__name__}: {e}", "count": 0}
+    for ad in all_ads:
+        ad["predoc"] = is_predoc(ad)
     out = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sources": status,
