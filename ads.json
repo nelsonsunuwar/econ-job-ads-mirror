@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T13:08:40Z",
+ "generated_at": "2026-09-09T14:47:40Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 198
+   "count": 203
   },
   "jobsacuk": {
    "status": "ok",
@@ -2667,6 +2667,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477792",
+   "source": "joe",
+   "institution": "Development Innovation Lab",
+   "title": "Weiss Fund Fellowship for Junior Researchers",
+   "location": "United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-08-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477792",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477765",
    "source": "joe",
    "institution": "Duke Kunshan University",
@@ -3325,6 +3342,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477794",
+   "source": "joe",
+   "institution": "Lycoming College",
+   "title": "Visiting Assistant Professor of Economics",
+   "location": "Williamsport, United States",
+   "fields": [
+    "D0 General"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477794",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477634",
    "source": "joe",
    "institution": "Macalester College",
@@ -3590,6 +3624,23 @@
    "deadline": "2026-12-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477598",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477791",
+   "source": "joe",
+   "institution": "National Chengchi University",
+   "title": "Professor, Associate Professor, Assistant Professor",
+   "location": "Taipei, Taiwan",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477791",
    "predoc": false,
    "senior": false
   },
@@ -4210,6 +4261,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477795",
+   "source": "joe",
+   "institution": "Stanford Graduate School of Business",
+   "title": "Faculty Positions in Political Economy",
+   "location": "Stanford, United States",
+   "fields": [
+    "P Political Economy and Comparative Economic Systems"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477795",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477575",
    "source": "joe",
    "institution": "Stanford Graduate School of Business",
@@ -4453,6 +4521,26 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477732",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477796",
+   "source": "joe",
+   "institution": "Texas Tech University",
+   "title": "Lecturer/Sr Lecturer - Business Economics (Online)",
+   "location": "Lubbock, United States",
+   "fields": [
+    "A1 General Economics",
+    "D0 General",
+    "K0 General",
+    "Q4 Energy"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-09-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477796",
    "predoc": false,
    "senior": false
   },
@@ -5759,6 +5847,21 @@
    "senior": false
   },
   {
+   "id": "jacuk:DSW584",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Teacher of Tourism and the Visitor Economy",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSW584/teacher-of-tourism-and-the-visitor-economy",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "jacuk:DSW200",
    "source": "jobsacuk",
    "institution": null,
@@ -6117,21 +6220,6 @@
    "url": "https://www.jobs.ac.uk/job/DSS618/faculty-position-in-economics-associate-professor-and-above",
    "predoc": false,
    "senior": true
-  },
-  {
-   "id": "jacuk:DSS897",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Head of School, Accounting, Finance and Economics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS897/head-of-school-accounting-finance-and-economics",
-   "predoc": false,
-   "senior": false
   },
   {
    "id": "ej:idb-energy-economics-data-analysis-internship",
