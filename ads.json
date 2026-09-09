@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T08:31:08Z",
+ "generated_at": "2026-09-09T09:08:14Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -35,7 +35,8 @@
    "deadline": "2025-11-03",
    "posted": "2025-09-19",
    "url": "https://econjobmarket.org/positions/11797",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:11803",
@@ -59,7 +60,8 @@
    "deadline": "2026-09-21",
    "posted": "2025-09-22",
    "url": "https://econjobmarket.org/positions/11803",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:11897",
@@ -77,7 +79,8 @@
    "deadline": "2025-12-01",
    "posted": "2025-10-08",
    "url": "https://econjobmarket.org/positions/11897",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:11974",
@@ -112,7 +115,8 @@
    "deadline": "2026-10-16",
    "posted": "2025-10-17",
    "url": "https://econjobmarket.org/positions/11974",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12043",
@@ -143,7 +147,8 @@
    "deadline": "2026-09-30",
    "posted": "2025-10-29",
    "url": "https://econjobmarket.org/positions/12043",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12205",
@@ -182,7 +187,8 @@
    "deadline": "2026-12-01",
    "posted": "2025-12-02",
    "url": "https://econjobmarket.org/positions/12205",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12225",
@@ -205,7 +211,8 @@
    "deadline": "2026-12-05",
    "posted": "2025-12-06",
    "url": "https://econjobmarket.org/positions/12225",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12271",
@@ -223,7 +230,8 @@
    "deadline": "2026-01-31",
    "posted": "2025-12-20",
    "url": "https://econjobmarket.org/positions/12271",
-   "predoc": true
+   "predoc": true,
+   "senior": false
   },
   {
    "id": "ejm:12293",
@@ -241,7 +249,8 @@
    "deadline": "2026-06-30",
    "posted": "2026-01-13",
    "url": "https://econjobmarket.org/positions/12293",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12319",
@@ -259,7 +268,8 @@
    "deadline": "2026-12-31",
    "posted": "2026-02-02",
    "url": "https://econjobmarket.org/positions/12319",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12320",
@@ -277,7 +287,8 @@
    "deadline": "2026-12-31",
    "posted": "2026-02-02",
    "url": "https://econjobmarket.org/positions/12320",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12348",
@@ -297,7 +308,8 @@
    "deadline": "2026-12-31",
    "posted": "2026-02-11",
    "url": "https://econjobmarket.org/positions/12348",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12405",
@@ -318,7 +330,8 @@
    "deadline": "2027-03-09",
    "posted": "2026-03-10",
    "url": "https://econjobmarket.org/positions/12405",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12410",
@@ -336,7 +349,8 @@
    "deadline": "2026-12-31",
    "posted": "2026-03-19",
    "url": "https://econjobmarket.org/positions/12410",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12463",
@@ -361,7 +375,8 @@
    "deadline": "2026-11-01",
    "posted": "2026-04-20",
    "url": "https://econjobmarket.org/positions/12463",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12472",
@@ -379,7 +394,8 @@
    "deadline": "2026-10-31",
    "posted": "2026-04-25",
    "url": "https://econjobmarket.org/positions/12472",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12477",
@@ -400,7 +416,8 @@
    "deadline": "2026-06-30",
    "posted": "2026-04-30",
    "url": "https://econjobmarket.org/positions/12477",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12485",
@@ -424,7 +441,8 @@
    "deadline": "2026-12-31",
    "posted": "2026-05-20",
    "url": "https://econjobmarket.org/positions/12485",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12494",
@@ -445,7 +463,8 @@
    "deadline": "2026-11-30",
    "posted": "2026-05-15",
    "url": "https://econjobmarket.org/positions/12494",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12513",
@@ -463,7 +482,8 @@
    "deadline": "2026-11-01",
    "posted": "2026-06-05",
    "url": "https://econjobmarket.org/positions/12513",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12514",
@@ -481,7 +501,8 @@
    "deadline": "2026-11-01",
    "posted": "2026-06-11",
    "url": "https://econjobmarket.org/positions/12514",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12515",
@@ -507,7 +528,8 @@
    "deadline": "2027-06-10",
    "posted": "2026-06-15",
    "url": "https://econjobmarket.org/positions/12515",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12521",
@@ -527,7 +549,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-06-18",
    "url": "https://econjobmarket.org/positions/12521",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12522",
@@ -545,7 +568,8 @@
    "deadline": "2026-09-30",
    "posted": "2026-06-22",
    "url": "https://econjobmarket.org/positions/12522",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12530",
@@ -571,7 +595,8 @@
    "deadline": "2026-10-15",
    "posted": "2026-07-01",
    "url": "https://econjobmarket.org/positions/12530",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12537",
@@ -591,7 +616,8 @@
    "deadline": "2026-09-21",
    "posted": "2026-07-01",
    "url": "https://econjobmarket.org/positions/12537",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12539",
@@ -617,7 +643,8 @@
    "deadline": "2026-09-13",
    "posted": "2026-07-08",
    "url": "https://econjobmarket.org/positions/12539",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12543",
@@ -635,7 +662,8 @@
    "deadline": "2026-09-30",
    "posted": "2026-07-15",
    "url": "https://econjobmarket.org/positions/12543",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12550",
@@ -654,7 +682,8 @@
    "deadline": "2026-08-23",
    "posted": "2026-07-19",
    "url": "https://econjobmarket.org/positions/12550",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12551",
@@ -672,7 +701,8 @@
    "deadline": "2026-09-23",
    "posted": "2026-07-23",
    "url": "https://econjobmarket.org/positions/12551",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12552",
@@ -693,7 +723,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-07-27",
    "url": "https://econjobmarket.org/positions/12552",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12553",
@@ -713,7 +744,8 @@
    "deadline": "2026-10-25",
    "posted": "2026-07-29",
    "url": "https://econjobmarket.org/positions/12553",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12554",
@@ -736,7 +768,8 @@
    "deadline": "2026-12-31",
    "posted": "2026-08-18",
    "url": "https://econjobmarket.org/positions/12554",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12555",
@@ -754,7 +787,8 @@
    "deadline": "2026-09-30",
    "posted": "2026-07-30",
    "url": "https://econjobmarket.org/positions/12555",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12556",
@@ -772,7 +806,8 @@
    "deadline": "2026-11-18",
    "posted": "2026-07-31",
    "url": "https://econjobmarket.org/positions/12556",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12557",
@@ -790,7 +825,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-08-01",
    "url": "https://econjobmarket.org/positions/12557",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12558",
@@ -808,7 +844,8 @@
    "deadline": "2027-02-03",
    "posted": "2026-08-03",
    "url": "https://econjobmarket.org/positions/12558",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12559",
@@ -826,7 +863,8 @@
    "deadline": "2027-02-03",
    "posted": "2026-08-03",
    "url": "https://econjobmarket.org/positions/12559",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12561",
@@ -844,7 +882,8 @@
    "deadline": "2026-10-05",
    "posted": "2026-08-06",
    "url": "https://econjobmarket.org/positions/12561",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12562",
@@ -864,7 +903,8 @@
    "deadline": "2027-03-01",
    "posted": "2026-08-10",
    "url": "https://econjobmarket.org/positions/12562",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12563",
@@ -884,7 +924,8 @@
    "deadline": "2027-03-01",
    "posted": "2026-08-10",
    "url": "https://econjobmarket.org/positions/12563",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12566",
@@ -902,7 +943,8 @@
    "deadline": "2026-09-20",
    "posted": "2026-08-06",
    "url": "https://econjobmarket.org/positions/12566",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12569",
@@ -929,7 +971,8 @@
    "deadline": "2026-11-01",
    "posted": "2026-08-07",
    "url": "https://econjobmarket.org/positions/12569",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12570",
@@ -947,7 +990,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-08-07",
    "url": "https://econjobmarket.org/positions/12570",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12571",
@@ -967,7 +1011,8 @@
    "deadline": "2026-09-21",
    "posted": "2026-08-08",
    "url": "https://econjobmarket.org/positions/12571",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12572",
@@ -985,7 +1030,8 @@
    "deadline": "2026-10-04",
    "posted": "2026-08-10",
    "url": "https://econjobmarket.org/positions/12572",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12574",
@@ -1003,7 +1049,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-08-20",
    "url": "https://econjobmarket.org/positions/12574",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12575",
@@ -1022,7 +1069,8 @@
    "deadline": "2026-11-01",
    "posted": "2026-08-14",
    "url": "https://econjobmarket.org/positions/12575",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12576",
@@ -1040,7 +1088,8 @@
    "deadline": "2026-08-26",
    "posted": "2026-08-16",
    "url": "https://econjobmarket.org/positions/12576",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12577",
@@ -1058,7 +1107,8 @@
    "deadline": "2026-12-01",
    "posted": "2026-08-15",
    "url": "https://econjobmarket.org/positions/12577",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12578",
@@ -1078,7 +1128,8 @@
    "deadline": "2027-01-01",
    "posted": "2026-08-16",
    "url": "https://econjobmarket.org/positions/12578",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12579",
@@ -1097,7 +1148,8 @@
    "deadline": "2026-11-02",
    "posted": "2026-08-15",
    "url": "https://econjobmarket.org/positions/12579",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12580",
@@ -1117,7 +1169,8 @@
    "deadline": "2026-11-02",
    "posted": "2026-08-15",
    "url": "https://econjobmarket.org/positions/12580",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12581",
@@ -1137,7 +1190,8 @@
    "deadline": "2026-11-30",
    "posted": "2026-08-18",
    "url": "https://econjobmarket.org/positions/12581",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12583",
@@ -1156,7 +1210,8 @@
    "deadline": "2026-10-30",
    "posted": "2026-08-24",
    "url": "https://econjobmarket.org/positions/12583",
-   "predoc": true
+   "predoc": true,
+   "senior": false
   },
   {
    "id": "ejm:12584",
@@ -1174,7 +1229,8 @@
    "deadline": "2027-01-31",
    "posted": "2026-08-20",
    "url": "https://econjobmarket.org/positions/12584",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12585",
@@ -1193,7 +1249,8 @@
    "deadline": "2026-09-16",
    "posted": "2026-08-21",
    "url": "https://econjobmarket.org/positions/12585",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12586",
@@ -1212,7 +1269,8 @@
    "deadline": "2026-11-29",
    "posted": "2026-08-21",
    "url": "https://econjobmarket.org/positions/12586",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12587",
@@ -1231,7 +1289,8 @@
    "deadline": "2026-10-30",
    "posted": "2026-08-21",
    "url": "https://econjobmarket.org/positions/12587",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12588",
@@ -1249,7 +1308,8 @@
    "deadline": "2026-10-30",
    "posted": "2026-08-21",
    "url": "https://econjobmarket.org/positions/12588",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12589",
@@ -1268,7 +1328,8 @@
    "deadline": "2026-10-30",
    "posted": "2026-08-21",
    "url": "https://econjobmarket.org/positions/12589",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12590",
@@ -1287,7 +1348,8 @@
    "deadline": "2026-10-15",
    "posted": "2026-09-01",
    "url": "https://econjobmarket.org/positions/12590",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12591",
@@ -1305,7 +1367,8 @@
    "deadline": "2026-12-01",
    "posted": "2026-08-22",
    "url": "https://econjobmarket.org/positions/12591",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12592",
@@ -1325,7 +1388,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-08-25",
    "url": "https://econjobmarket.org/positions/12592",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12593",
@@ -1343,7 +1407,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-08-25",
    "url": "https://econjobmarket.org/positions/12593",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12594",
@@ -1361,7 +1426,8 @@
    "deadline": "2026-11-20",
    "posted": "2026-08-25",
    "url": "https://econjobmarket.org/positions/12594",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12595",
@@ -1380,7 +1446,8 @@
    "deadline": "2026-12-25",
    "posted": "2026-08-25",
    "url": "https://econjobmarket.org/positions/12595",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12596",
@@ -1400,7 +1467,8 @@
    "deadline": "2026-11-30",
    "posted": "2026-08-26",
    "url": "https://econjobmarket.org/positions/12596",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12597",
@@ -1420,7 +1488,8 @@
    "deadline": "2026-09-10",
    "posted": "2026-08-26",
    "url": "https://econjobmarket.org/positions/12597",
-   "predoc": true
+   "predoc": true,
+   "senior": false
   },
   {
    "id": "ejm:12598",
@@ -1441,7 +1510,8 @@
    "deadline": "2026-09-11",
    "posted": "2026-08-27",
    "url": "https://econjobmarket.org/positions/12598",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12599",
@@ -1459,7 +1529,8 @@
    "deadline": "2026-10-04",
    "posted": "2026-08-26",
    "url": "https://econjobmarket.org/positions/12599",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12601",
@@ -1477,7 +1548,8 @@
    "deadline": "2026-09-27",
    "posted": "2026-08-27",
    "url": "https://econjobmarket.org/positions/12601",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12602",
@@ -1496,7 +1568,8 @@
    "deadline": "2027-04-30",
    "posted": "2026-08-26",
    "url": "https://econjobmarket.org/positions/12602",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12603",
@@ -1515,7 +1588,8 @@
    "deadline": "2027-02-26",
    "posted": "2026-09-04",
    "url": "https://econjobmarket.org/positions/12603",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12605",
@@ -1534,7 +1608,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-08-28",
    "url": "https://econjobmarket.org/positions/12605",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12606",
@@ -1553,7 +1628,8 @@
    "deadline": "2026-11-08",
    "posted": "2026-08-28",
    "url": "https://econjobmarket.org/positions/12606",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12607",
@@ -1571,7 +1647,8 @@
    "deadline": "2026-09-30",
    "posted": "2026-08-28",
    "url": "https://econjobmarket.org/positions/12607",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12608",
@@ -1590,7 +1667,8 @@
    "deadline": "2026-09-28",
    "posted": "2026-08-29",
    "url": "https://econjobmarket.org/positions/12608",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12609",
@@ -1612,7 +1690,8 @@
    "deadline": "2026-11-18",
    "posted": "2026-08-29",
    "url": "https://econjobmarket.org/positions/12609",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12610",
@@ -1632,7 +1711,8 @@
    "deadline": "2026-12-05",
    "posted": "2026-08-31",
    "url": "https://econjobmarket.org/positions/12610",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12611",
@@ -1653,7 +1733,8 @@
    "deadline": "2026-10-01",
    "posted": "2026-09-01",
    "url": "https://econjobmarket.org/positions/12611",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12612",
@@ -1671,7 +1752,8 @@
    "deadline": "2027-03-01",
    "posted": "2026-08-31",
    "url": "https://econjobmarket.org/positions/12612",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12613",
@@ -1691,7 +1773,8 @@
    "deadline": "2026-11-01",
    "posted": "2026-09-02",
    "url": "https://econjobmarket.org/positions/12613",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12614",
@@ -1714,7 +1797,8 @@
    "deadline": "2026-11-01",
    "posted": "2026-09-02",
    "url": "https://econjobmarket.org/positions/12614",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12615",
@@ -1736,7 +1820,8 @@
    "deadline": "2026-11-01",
    "posted": "2026-09-02",
    "url": "https://econjobmarket.org/positions/12615",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12616",
@@ -1759,7 +1844,8 @@
    "deadline": "2026-11-18",
    "posted": "2026-09-02",
    "url": "https://econjobmarket.org/positions/12616",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12617",
@@ -1779,7 +1865,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12617",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12618",
@@ -1797,7 +1884,8 @@
    "deadline": "2026-11-22",
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12618",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12619",
@@ -1815,7 +1903,8 @@
    "deadline": "2026-11-22",
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12619",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12620",
@@ -1833,7 +1922,8 @@
    "deadline": "2026-10-01",
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12620",
-   "predoc": true
+   "predoc": true,
+   "senior": false
   },
   {
    "id": "ejm:12621",
@@ -1852,7 +1942,8 @@
    "deadline": "2026-11-06",
    "posted": "2026-09-04",
    "url": "https://econjobmarket.org/positions/12621",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12622",
@@ -1878,7 +1969,8 @@
    "deadline": "2026-11-06",
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12622",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12623",
@@ -1896,7 +1988,8 @@
    "deadline": "2026-11-19",
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12623",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12624",
@@ -1915,7 +2008,8 @@
    "deadline": "2026-11-16",
    "posted": "2026-09-04",
    "url": "https://econjobmarket.org/positions/12624",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12625",
@@ -1935,7 +2029,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-04",
    "url": "https://econjobmarket.org/positions/12625",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12626",
@@ -1953,7 +2048,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-04",
    "url": "https://econjobmarket.org/positions/12626",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12627",
@@ -1971,7 +2067,8 @@
    "deadline": "2026-09-21",
    "posted": "2026-09-05",
    "url": "https://econjobmarket.org/positions/12627",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12628",
@@ -1989,7 +2086,8 @@
    "deadline": "2026-11-20",
    "posted": "2026-09-05",
    "url": "https://econjobmarket.org/positions/12628",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12629",
@@ -2009,7 +2107,8 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-05",
    "url": "https://econjobmarket.org/positions/12629",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12630",
@@ -2030,7 +2129,8 @@
    "deadline": "2026-10-09",
    "posted": "2026-09-05",
    "url": "https://econjobmarket.org/positions/12630",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477663",
@@ -2056,7 +2156,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477663",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477646",
@@ -2072,7 +2173,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477646",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477777",
@@ -2088,7 +2190,8 @@
    "deadline": "2027-01-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477777",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477746",
@@ -2110,7 +2213,8 @@
    "deadline": "2026-11-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477746",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477571",
@@ -2126,7 +2230,8 @@
    "deadline": "2026-10-05",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477571",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477553",
@@ -2142,7 +2247,8 @@
    "deadline": "2026-09-09",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477553",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477766",
@@ -2158,7 +2264,8 @@
    "deadline": "2027-03-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477766",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477619",
@@ -2182,7 +2289,8 @@
    "deadline": "2027-03-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477619",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477620",
@@ -2205,7 +2313,8 @@
    "deadline": "2027-03-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477620",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477618",
@@ -2221,7 +2330,8 @@
    "deadline": "2026-09-07",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477618",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477552",
@@ -2237,7 +2347,8 @@
    "deadline": "2026-10-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477552",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477640",
@@ -2256,7 +2367,8 @@
    "deadline": "2027-03-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477640",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477624",
@@ -2272,7 +2384,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477624",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477723",
@@ -2288,7 +2401,8 @@
    "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477723",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477722",
@@ -2304,7 +2418,8 @@
    "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477722",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477578",
@@ -2326,7 +2441,8 @@
    "deadline": "2026-09-11",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477578",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477608",
@@ -2344,7 +2460,8 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477608",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477652",
@@ -2360,7 +2477,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477652",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477590",
@@ -2376,7 +2494,8 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477590",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477643",
@@ -2392,7 +2511,8 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477643",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477718",
@@ -2408,7 +2528,8 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477718",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477674",
@@ -2424,7 +2545,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477674",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477681",
@@ -2440,7 +2562,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477681",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477627",
@@ -2461,7 +2584,8 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477627",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477639",
@@ -2482,7 +2606,8 @@
    "deadline": "2026-10-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477639",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477670",
@@ -2498,7 +2623,8 @@
    "deadline": "2027-04-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477670",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477809",
@@ -2520,7 +2646,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477809",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477711",
@@ -2536,7 +2663,8 @@
    "deadline": "2027-01-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477711",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477765",
@@ -2555,7 +2683,8 @@
    "deadline": "2026-10-12",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477765",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477763",
@@ -2575,7 +2704,8 @@
    "deadline": "2026-10-12",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477763",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477764",
@@ -2595,7 +2725,8 @@
    "deadline": "2026-10-12",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477764",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477596",
@@ -2611,7 +2742,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477596",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477564",
@@ -2630,7 +2762,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477564",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477744",
@@ -2646,7 +2779,8 @@
    "deadline": "2027-01-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477744",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477591",
@@ -2662,7 +2796,8 @@
    "deadline": "2027-04-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477591",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477775",
@@ -2678,7 +2813,8 @@
    "deadline": "2027-03-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477775",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477540",
@@ -2694,7 +2830,8 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477540",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477705",
@@ -2712,7 +2849,8 @@
    "deadline": "2026-10-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477705",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477708",
@@ -2728,7 +2866,8 @@
    "deadline": "2026-10-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477708",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477709",
@@ -2744,7 +2883,8 @@
    "deadline": "2026-10-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477709",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477701",
@@ -2763,7 +2903,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477701",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477700",
@@ -2784,7 +2925,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477700",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477730",
@@ -2800,7 +2942,8 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477730",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477758",
@@ -2818,7 +2961,8 @@
    "deadline": "2026-11-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477758",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477725",
@@ -2835,7 +2979,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477725",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477621",
@@ -2851,7 +2996,8 @@
    "deadline": "2026-11-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477621",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477615",
@@ -2867,7 +3013,8 @@
    "deadline": "2026-11-09",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477615",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477669",
@@ -2883,7 +3030,8 @@
    "deadline": "2026-11-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477669",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477780",
@@ -2899,7 +3047,8 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477780",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477693",
@@ -2915,7 +3064,8 @@
    "deadline": "2026-09-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477693",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477710",
@@ -2931,7 +3081,8 @@
    "deadline": "2026-09-20",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477710",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477645",
@@ -2947,7 +3098,8 @@
    "deadline": "2026-11-03",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477645",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477542",
@@ -2963,7 +3115,8 @@
    "deadline": "2026-09-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477542",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477656",
@@ -2988,7 +3141,8 @@
    "deadline": "2026-11-22",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477656",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477685",
@@ -3004,7 +3158,8 @@
    "deadline": "2026-11-17",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477685",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477686",
@@ -3020,7 +3175,8 @@
    "deadline": "2026-11-17",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477686",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477691",
@@ -3036,7 +3192,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477691",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477726",
@@ -3053,7 +3210,8 @@
    "deadline": "2026-11-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477726",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477752",
@@ -3075,7 +3233,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477752",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477599",
@@ -3091,7 +3250,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477599",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477667",
@@ -3107,7 +3267,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477667",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477716",
@@ -3123,7 +3284,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477716",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477595",
@@ -3142,7 +3304,8 @@
    "deadline": "2026-12-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477595",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477753",
@@ -3158,7 +3321,8 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477753",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477634",
@@ -3175,7 +3339,8 @@
    "deadline": "2026-11-13",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477634",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477558",
@@ -3191,7 +3356,8 @@
    "deadline": "2026-12-06",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477558",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477707",
@@ -3207,7 +3373,8 @@
    "deadline": "2027-02-20",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477707",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477617",
@@ -3228,7 +3395,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477617",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477631",
@@ -3244,7 +3412,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477631",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477651",
@@ -3260,7 +3429,8 @@
    "deadline": "2026-08-28",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477651",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477724",
@@ -3276,7 +3446,8 @@
    "deadline": "2026-10-04",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477724",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477757",
@@ -3292,7 +3463,8 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477757",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477736",
@@ -3310,7 +3482,8 @@
    "deadline": "2026-11-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477736",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477606",
@@ -3326,7 +3499,8 @@
    "deadline": "2027-04-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477606",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477561",
@@ -3342,7 +3516,8 @@
    "deadline": "2026-10-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477561",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477576",
@@ -3358,7 +3533,8 @@
    "deadline": "2026-10-09",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477576",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477565",
@@ -3376,7 +3552,8 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477565",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477637",
@@ -3396,7 +3573,8 @@
    "deadline": "2027-01-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477637",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477598",
@@ -3412,7 +3590,8 @@
    "deadline": "2026-12-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477598",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477745",
@@ -3431,7 +3610,8 @@
    "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477745",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477555",
@@ -3451,7 +3631,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477555",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477532",
@@ -3468,7 +3649,8 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477532",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477721",
@@ -3485,7 +3667,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477721",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477577",
@@ -3501,7 +3684,8 @@
    "deadline": "2026-10-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477577",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477761",
@@ -3523,7 +3707,8 @@
    "deadline": "2026-11-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477761",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477783",
@@ -3545,7 +3730,8 @@
    "deadline": "2026-11-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477783",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477603",
@@ -3562,7 +3748,8 @@
    "deadline": "2027-08-06",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477603",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477754",
@@ -3580,7 +3767,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477754",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477733",
@@ -3596,7 +3784,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477733",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477633",
@@ -3612,7 +3801,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477633",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477630",
@@ -3633,7 +3823,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477630",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477675",
@@ -3649,7 +3840,8 @@
    "deadline": "2027-01-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477675",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477787",
@@ -3665,7 +3857,8 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477787",
-   "predoc": true
+   "predoc": true,
+   "senior": false
   },
   {
    "id": "joe:111477790",
@@ -3681,7 +3874,8 @@
    "deadline": "2026-12-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477790",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477741",
@@ -3698,7 +3892,8 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477741",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477687",
@@ -3714,7 +3909,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477687",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477688",
@@ -3731,7 +3927,8 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477688",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477770",
@@ -3747,7 +3944,8 @@
    "deadline": "2026-12-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477770",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477767",
@@ -3763,7 +3961,8 @@
    "deadline": "2026-12-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477767",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477771",
@@ -3779,7 +3978,8 @@
    "deadline": "2026-12-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477771",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477772",
@@ -3795,7 +3995,8 @@
    "deadline": "2026-12-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477772",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477768",
@@ -3811,7 +4012,8 @@
    "deadline": "2026-12-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477768",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477706",
@@ -3827,7 +4029,8 @@
    "deadline": "2026-11-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477706",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477657",
@@ -3843,7 +4046,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477657",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477556",
@@ -3859,7 +4063,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477556",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477544",
@@ -3875,7 +4080,8 @@
    "deadline": "2027-07-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477544",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477568",
@@ -3891,7 +4097,8 @@
    "deadline": "2026-09-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477568",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477644",
@@ -3909,7 +4116,8 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477644",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477485",
@@ -3925,7 +4133,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477485",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477604",
@@ -3941,7 +4150,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477604",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477683",
@@ -3957,7 +4167,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477683",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477682",
@@ -3973,7 +4184,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477682",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477689",
@@ -3994,7 +4206,8 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477689",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477575",
@@ -4010,7 +4223,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477575",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477610",
@@ -4026,7 +4240,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477610",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477585",
@@ -4042,7 +4257,8 @@
    "deadline": "2026-10-25",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477585",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477574",
@@ -4058,7 +4274,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477574",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477653",
@@ -4074,7 +4291,8 @@
    "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477653",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477536",
@@ -4090,7 +4308,8 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477536",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477197",
@@ -4108,7 +4327,8 @@
    "deadline": "2026-02-28",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477197",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477784",
@@ -4124,7 +4344,8 @@
    "deadline": "2026-12-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477784",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477659",
@@ -4140,7 +4361,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477659",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477607",
@@ -4156,7 +4378,8 @@
    "deadline": "2026-11-22",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477607",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477729",
@@ -4176,7 +4399,8 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477729",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477731",
@@ -4192,7 +4416,8 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477731",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477727",
@@ -4209,7 +4434,8 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477727",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477732",
@@ -4227,7 +4453,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477732",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477734",
@@ -4243,7 +4470,8 @@
    "deadline": "2026-10-13",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477734",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477735",
@@ -4259,7 +4487,8 @@
    "deadline": "2026-10-13",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477735",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477636",
@@ -4275,7 +4504,8 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477636",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477649",
@@ -4291,7 +4521,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477649",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477698",
@@ -4309,7 +4540,8 @@
    "deadline": "2026-11-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477698",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477739",
@@ -4325,7 +4557,8 @@
    "deadline": "2026-12-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477739",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477665",
@@ -4341,7 +4574,8 @@
    "deadline": "2026-11-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477665",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477623",
@@ -4357,7 +4591,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477623",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477650",
@@ -4373,7 +4608,8 @@
    "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477650",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477664",
@@ -4392,7 +4628,8 @@
    "deadline": "2026-10-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477664",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477728",
@@ -4418,7 +4655,8 @@
    "deadline": "2027-03-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477728",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477592",
@@ -4434,7 +4672,8 @@
    "deadline": "2026-08-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477592",
-   "predoc": true
+   "predoc": true,
+   "senior": false
   },
   {
    "id": "joe:111477583",
@@ -4450,7 +4689,8 @@
    "deadline": "2027-06-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477583",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477668",
@@ -4466,7 +4706,8 @@
    "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477668",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477737",
@@ -4482,7 +4723,8 @@
    "deadline": "2026-11-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477737",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477647",
@@ -4498,7 +4740,8 @@
    "deadline": "2026-09-25",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477647",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477632",
@@ -4517,7 +4760,8 @@
    "deadline": "2026-10-09",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477632",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477517",
@@ -4533,7 +4777,8 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477517",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477699",
@@ -4550,7 +4795,8 @@
    "deadline": "2026-09-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477699",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477694",
@@ -4567,7 +4813,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477694",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477492",
@@ -4592,7 +4839,8 @@
    "deadline": "2026-10-22",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477492",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477748",
@@ -4608,7 +4856,8 @@
    "deadline": "2026-09-25",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477748",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477781",
@@ -4626,7 +4875,8 @@
    "deadline": "2026-11-19",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477781",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477740",
@@ -4643,7 +4893,8 @@
    "deadline": "2026-11-14",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477740",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477786",
@@ -4659,7 +4910,8 @@
    "deadline": "2026-11-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477786",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477588",
@@ -4675,7 +4927,8 @@
    "deadline": "2026-11-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477588",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477676",
@@ -4692,7 +4945,8 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477676",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477549",
@@ -4708,7 +4962,8 @@
    "deadline": "2026-08-14",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477549",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477738",
@@ -4724,7 +4979,8 @@
    "deadline": "2026-09-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477738",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477622",
@@ -4740,7 +4996,8 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477622",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477662",
@@ -4758,7 +5015,8 @@
    "deadline": "2026-08-26",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477662",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477751",
@@ -4784,7 +5042,8 @@
    "deadline": "2026-12-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477751",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477680",
@@ -4800,7 +5059,8 @@
    "deadline": "2026-12-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477680",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477528",
@@ -4816,7 +5076,8 @@
    "deadline": "2027-05-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477528",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477529",
@@ -4832,7 +5093,8 @@
    "deadline": "2027-05-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477529",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477635",
@@ -4848,7 +5110,8 @@
    "deadline": "2026-09-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477635",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477776",
@@ -4864,7 +5127,8 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477776",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477717",
@@ -4880,7 +5144,8 @@
    "deadline": "2026-09-21",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477717",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477805",
@@ -4896,7 +5161,8 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477805",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477678",
@@ -4912,7 +5178,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477678",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477526",
@@ -4929,7 +5196,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477526",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477560",
@@ -4945,7 +5213,8 @@
    "deadline": "2026-09-13",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477560",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477533",
@@ -4961,7 +5230,8 @@
    "deadline": "2026-09-13",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477533",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477814",
@@ -4978,7 +5248,8 @@
    "deadline": "2026-09-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477814",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477661",
@@ -4994,7 +5265,8 @@
    "deadline": "2026-09-17",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477661",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477660",
@@ -5010,7 +5282,8 @@
    "deadline": "2026-09-17",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477660",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477580",
@@ -5026,7 +5299,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477580",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477697",
@@ -5046,7 +5320,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477697",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477696",
@@ -5066,7 +5341,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477696",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477581",
@@ -5084,7 +5360,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477581",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477582",
@@ -5102,7 +5379,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477582",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477597",
@@ -5118,7 +5396,8 @@
    "deadline": "2027-02-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477597",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477756",
@@ -5134,7 +5413,8 @@
    "deadline": "2026-11-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477756",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477614",
@@ -5150,7 +5430,8 @@
    "deadline": "2026-09-14",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477614",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477562",
@@ -5166,7 +5447,8 @@
    "deadline": "2026-08-23",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477562",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477692",
@@ -5189,7 +5471,8 @@
    "deadline": "2026-10-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477692",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477703",
@@ -5218,7 +5501,8 @@
    "deadline": "2027-01-24",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477703",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477714",
@@ -5239,7 +5523,8 @@
    "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477714",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477611",
@@ -5255,7 +5540,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477611",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477612",
@@ -5271,7 +5557,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477612",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477788",
@@ -5287,7 +5574,8 @@
    "deadline": "2026-11-13",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477788",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477509",
@@ -5305,7 +5593,8 @@
    "deadline": "2026-08-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477509",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477720",
@@ -5321,7 +5610,8 @@
    "deadline": "2026-09-21",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477720",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477782",
@@ -5340,7 +5630,8 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477782",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477601",
@@ -5358,7 +5649,8 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477601",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477600",
@@ -5376,7 +5668,8 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477600",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477594",
@@ -5392,7 +5685,8 @@
    "deadline": "2026-09-20",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477594",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477658",
@@ -5408,7 +5702,8 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477658",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477769",
@@ -5424,7 +5719,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477769",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477569",
@@ -5440,7 +5736,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477569",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477638",
@@ -5458,7 +5755,8 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSW200",
@@ -5472,7 +5770,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSW200/curriculum-leader-business-economics-and-accounting-and-finance",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSW134",
@@ -5486,7 +5785,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSW134/senior-research-fellow-in-maritime-and-ocean-governance",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSV833",
@@ -5500,7 +5800,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV833/postdoctoral-fellowship-in-entrepreneurship",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSV828",
@@ -5514,7 +5815,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV828/scientific-scouting-officer",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSV920",
@@ -5528,7 +5830,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV920/research-associate-in-process-systems-engineering-for-sustainability",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSV783",
@@ -5542,7 +5845,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV783/fellowship-by-examination-jrf-2026-2027",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSV342",
@@ -5556,21 +5860,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV342/lecturer-in-health-economics",
-   "predoc": false
-  },
-  {
-   "id": "jacuk:DSV230",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Research Fellow in Health Economics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV230/research-fellow-in-health-economics",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSV199",
@@ -5584,7 +5875,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV199/lecturer-in-psychology-of-business",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSV178",
@@ -5598,7 +5890,23 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV178/lecturer-in-economics",
-   "predoc": false
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "jacuk:DSV230",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Research Fellow in Health Economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSV230/research-fellow-in-health-economics",
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSU869",
@@ -5612,7 +5920,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSU869/research-fellow-or-assistant-professor",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSU805",
@@ -5626,7 +5935,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSU805/senior-research-officer",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSU539",
@@ -5640,7 +5950,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSU539/research-and-innovation-fellows",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSU500",
@@ -5654,7 +5965,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSU500/stipendiary-and-non-stipendiary-research-fellowships",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DST240",
@@ -5668,7 +5980,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DST240/jean-monnet-postdoctoral-fellowships",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DST233",
@@ -5682,7 +5995,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DST233/max-weber-postdoctoral-fellowships",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSU163",
@@ -5696,7 +6010,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSU163/assistant-professor-in-international-development",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DST222",
@@ -5710,7 +6025,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DST222/assistant-professor-in-economics-and-social-sciences",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSS737",
@@ -5724,7 +6040,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSS737/scientific-advisory-committee-chair-full-member-associate-member-and-lay-member-positions",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "jacuk:DST275",
@@ -5738,7 +6055,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DST275/research-associate-in-health-economics",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DST125",
@@ -5752,7 +6070,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DST125/postdoctoral-research-associate-in-landscape-natural-capital-accounting-and-biodiversity-reporting",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSS937",
@@ -5766,7 +6085,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSS937/postdoctoral-positions-in-mathematics-and-stochastics",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSS884",
@@ -5780,7 +6100,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSS884/postdoctoral-researcher-position-in-labour-immigration-and-institutional-change",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "jacuk:DSS618",
@@ -5794,7 +6115,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSS618/faculty-position-in-economics-associate-professor-and-above",
-   "predoc": false
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "jacuk:DSS897",
@@ -5808,7 +6130,8 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSS897/head-of-school-accounting-finance-and-economics",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ej:idb-energy-economics-data-analysis-internship",
@@ -5822,7 +6145,8 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/idb-energy-economics-data-analysis-internship/",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ej:idb-research-department-and-behavioral-economics-internship",
@@ -5836,7 +6160,8 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/idb-research-department-and-behavioral-economics-internship/",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ej:2027-sf-fed-research-associate",
@@ -5850,7 +6175,8 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/2027-sf-fed-research-associate/",
-   "predoc": true
+   "predoc": true,
+   "senior": false
   },
   {
    "id": "ej:health-economics-and-outcomes-research-intern",
@@ -5864,7 +6190,8 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/health-economics-and-outcomes-research-intern/",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ej:associate-quantitative-analyst",
@@ -5878,7 +6205,8 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/associate-quantitative-analyst/",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ej:eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2",
@@ -5892,7 +6220,8 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
-   "predoc": false
+   "predoc": false,
+   "senior": false
   }
  ]
 }

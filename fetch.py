@@ -153,6 +153,24 @@ def is_predoc(ad):
     return False
 
 
+JUNIOR_RE = re.compile(r"assistant|\basst\b|junior|open.?rank|any.?rank|all.?ranks|postdoc|pre-?doc|\bw1\b|\blecturer\b", re.I)
+SENIOR_RE = re.compile(r"\b(associate|full|tenured)\s+professor|professor\s*\(full\)|\bprofessorship|\bw[23]\b|\bchair\b|senior lecturer|\breadership\b|\breader in\b|full or advanced", re.I)
+
+
+def is_senior(ad):
+    """Exclusively associate-and-above ads (Nelson is a junior candidate).
+    Open-rank ads that include assistant level are NOT senior."""
+    title = ad["title"] or ""
+    pts = ad["position_types"] or []
+    if any(re.search(r"assistant|postdoc|lecturer|instructor|visiting", p, re.I) for p in pts):
+        return False
+    if JUNIOR_RE.search(title):
+        return False
+    if any(re.search(r"associate professor|full professor|tenured", p, re.I) for p in pts):
+        return True
+    return bool(SENIOR_RE.search(title))
+
+
 def main():
     # NABE dropped 2026-09-09: econjobs.nabe.com 403s GitHub runners permanently.
     fetchers = {
@@ -171,6 +189,7 @@ def main():
             status[name] = {"status": f"error: {type(e).__name__}: {e}", "count": 0}
     for ad in all_ads:
         ad["predoc"] = is_predoc(ad)
+        ad["senior"] = is_senior(ad)
     out = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sources": status,
