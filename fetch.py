@@ -144,6 +144,14 @@ def is_predoc(ad):
         return True
     if any("Pre-Doc" in p for p in pts):
         return True
+    # PhD-student positions (not jobs FOR PhD holders like "PhD Economist" or
+    # "Consultant (New PhD)", and not post-docs).
+    if any(re.search(r"\bdoctoral student\b", p, re.I) for p in pts):
+        return True
+    if not re.search(r"post-?doc", title, re.I) and re.search(
+            r"(ph\.?d|doctoral)[\s-]+(position|student|studentship|candidate|scholarship|researcher|programme|program)|\bstudentship\b",
+            title, re.I):
+        return True
     if ad["source"] != "jobsacuk" and re.search(r"\bresearch (assistant|associate|professional)\b", title, re.I):
         if re.search(r"post-?doc|professor|fellow", title, re.I):
             return False

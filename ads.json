@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T09:09:39Z",
+ "generated_at": "2026-09-09T13:08:23Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -1011,7 +1011,7 @@
    "deadline": "2026-09-21",
    "posted": "2026-08-08",
    "url": "https://econjobmarket.org/positions/12571",
-   "predoc": false,
+   "predoc": true,
    "senior": false
   },
   {
@@ -1030,7 +1030,7 @@
    "deadline": "2026-10-04",
    "posted": "2026-08-10",
    "url": "https://econjobmarket.org/positions/12572",
-   "predoc": false,
+   "predoc": true,
    "senior": false
   },
   {
