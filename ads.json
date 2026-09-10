@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-10T00:33:38Z",
+ "generated_at": "2026-09-10T09:09:21Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 100
+   "count": 101
   },
   "joe": {
    "status": "ok",
@@ -1471,27 +1471,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12597",
-   "source": "ejm",
-   "institution": "CEMFI",
-   "title": "2026-G Research Pre-Doctoral Fellow",
-   "location": "Madrid, ES",
-   "fields": [
-    "Labor; Demographic Economics",
-    "Political Economy",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Research Assistant (Pre-Doc)"
-   ],
-   "section": null,
-   "deadline": "2026-09-10",
-   "posted": "2026-08-26",
-   "url": "https://econjobmarket.org/positions/12597",
-   "predoc": true,
-   "senior": false
-  },
-  {
    "id": "ejm:12598",
    "source": "ejm",
    "institution": "CEMFI",
@@ -2129,6 +2108,46 @@
    "deadline": "2026-10-09",
    "posted": "2026-09-05",
    "url": "https://econjobmarket.org/positions/12630",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12631",
+   "source": "ejm",
+   "institution": "Bank of Finland",
+   "title": "Bank of Finland Research Unit Visiting Scholars Programme",
+   "location": "Helsinki, FI",
+   "fields": [
+    "Finance",
+    "International Finance/Macro",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-10-04",
+   "posted": "2026-09-09",
+   "url": "https://econjobmarket.org/positions/12631",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12633",
+   "source": "ejm",
+   "institution": "Fundação Getulio Vargas (FGV)",
+   "title": "Assistant Professor of Economics (FGV EPGE - Rio)",
+   "location": "Rio de Janeiro, BR",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-09",
+   "url": "https://econjobmarket.org/positions/12633",
    "predoc": false,
    "senior": false
   },
@@ -5847,6 +5866,21 @@
    "senior": false
   },
   {
+   "id": "jacuk:DSW737",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Senior Research Fellow in Health Economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSW737/senior-research-fellow-in-health-economics",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "jacuk:DSW584",
    "source": "jobsacuk",
    "institution": null,
@@ -6205,21 +6239,6 @@
    "url": "https://www.jobs.ac.uk/job/DSS884/postdoctoral-researcher-position-in-labour-immigration-and-institutional-change",
    "predoc": false,
    "senior": false
-  },
-  {
-   "id": "jacuk:DSS618",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Faculty Position in Economics (Associate Professor and Above)",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS618/faculty-position-in-economics-associate-professor-and-above",
-   "predoc": false,
-   "senior": true
   },
   {
    "id": "ej:idb-energy-economics-data-analysis-internship",
