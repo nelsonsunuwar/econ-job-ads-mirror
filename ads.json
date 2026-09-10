@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T14:37:55Z",
+ "generated_at": "2026-09-10T19:15:07Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -5974,6 +5974,21 @@
    "senior": false
   },
   {
+   "id": "jacuk:DSW936",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Senior Research Fellow in Political Economy of UK Energy and Materials Policy",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSW936/senior-research-fellow-in-political-economy-of-uk-energy-and-materials-policy",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "jacuk:DSW893",
    "source": "jobsacuk",
    "institution": null,
@@ -6332,21 +6347,6 @@
    "url": "https://www.jobs.ac.uk/job/DSS737/scientific-advisory-committee-chair-full-member-associate-member-and-lay-member-positions",
    "predoc": false,
    "senior": true
-  },
-  {
-   "id": "jacuk:DST275",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Research Associate in Health Economics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DST275/research-associate-in-health-economics",
-   "predoc": false,
-   "senior": false
   },
   {
    "id": "ej:idb-energy-economics-data-analysis-internship",
