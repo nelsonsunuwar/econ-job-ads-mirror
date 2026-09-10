@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T09:09:21Z",
+ "generated_at": "2026-09-10T14:37:55Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 203
+   "count": 209
   },
   "jobsacuk": {
    "status": "ok",
@@ -2390,6 +2390,28 @@
    "senior": false
   },
   {
+   "id": "joe:111477797",
+   "source": "joe",
+   "institution": "Charles River Associates",
+   "title": "Senior Associate",
+   "location": "Boston, United States; Chicago, United States; College Station, United States; Los Angeles, United States; New York, United States; Oakland, United States; Tallahassee, United States; Washington, United States; Toronto, Canada",
+   "fields": [
+    "D Microeconomics",
+    "G Financial Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-06",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477797",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477624",
    "source": "joe",
    "institution": "City University of Hong Kong",
@@ -2549,6 +2571,40 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477718",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "joe:111477801",
+   "source": "joe",
+   "institution": "Cornell University",
+   "title": "Assistant or Associate Professor, Finance",
+   "location": "Ithaca, United States",
+   "fields": [
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-22",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477801",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477802",
+   "source": "joe",
+   "institution": "Cornell University",
+   "title": "Associate or Full Professor, Finance",
+   "location": "Ithaca, United States",
+   "fields": [
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-22",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477802",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477674",
@@ -4171,6 +4227,24 @@
    "senior": false
   },
   {
+   "id": "joe:111477798",
+   "source": "joe",
+   "institution": "Princeton University",
+   "title": "Postdoctoral Research Associate",
+   "location": "Princeton, United States",
+   "fields": [
+    "F5 International Relations, National Security, and International Political Economy",
+    "F6 Economic Impacts of Globalization"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-10-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477798",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477644",
    "source": "joe",
    "institution": "Resources for the Future",
@@ -4276,6 +4350,23 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477689",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477803",
+   "source": "joe",
+   "institution": "Singapore Management University",
+   "title": "Assistant, Associate, or Full Professor",
+   "location": "Singapore",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477803",
    "predoc": false,
    "senior": false
   },
@@ -5255,6 +5346,23 @@
    "senior": true
   },
   {
+   "id": "joe:111477747",
+   "source": "joe",
+   "institution": "University of Kansas",
+   "title": "Assistant Professor of Finance",
+   "location": "Lawrence, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477747",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477805",
    "source": "joe",
    "institution": "University of Kentucky",
@@ -5866,6 +5974,51 @@
    "senior": false
   },
   {
+   "id": "jacuk:DSW893",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Deputy Director of Campaign for Youth Wellbeing",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSW893/deputy-director-of-campaign-for-youth-wellbeing",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "jacuk:DSW884",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Research Assistant in Social Network Analysis",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSW884/research-assistant-in-social-network-analysis",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "jacuk:DSW860",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Research Officer in Health Economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSW860/research-officer-in-health-economics",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "jacuk:DSW737",
    "source": "jobsacuk",
    "institution": null,
@@ -6192,51 +6345,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DST275/research-associate-in-health-economics",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "jacuk:DST125",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Postdoctoral Research Associate in Landscape-natural Capital Accounting and Biodiversity Reporting",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DST125/postdoctoral-research-associate-in-landscape-natural-capital-accounting-and-biodiversity-reporting",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "jacuk:DSS937",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Postdoctoral Positions in Mathematics and Stochastics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS937/postdoctoral-positions-in-mathematics-and-stochastics",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "jacuk:DSS884",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Postdoctoral Researcher Position in Labour Immigration and Institutional Change",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS884/postdoctoral-researcher-position-in-labour-immigration-and-institutional-change",
    "predoc": false,
    "senior": false
   },
