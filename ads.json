@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-11T00:31:42Z",
+ "generated_at": "2026-09-11T09:06:55Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 101
+   "count": 103
   },
   "joe": {
    "status": "ok",
@@ -1471,28 +1471,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12598",
-   "source": "ejm",
-   "institution": "CEMFI",
-   "title": "2026-H Research Project Coordinator",
-   "location": "Madrid, ES",
-   "fields": [
-    "Labor; Demographic Economics",
-    "Public Economics",
-    "Political Economy",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-09-11",
-   "posted": "2026-08-27",
-   "url": "https://econjobmarket.org/positions/12598",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12599",
    "source": "ejm",
    "institution": "Maynooth University",
@@ -2148,6 +2126,64 @@
    "deadline": "2026-11-16",
    "posted": "2026-09-09",
    "url": "https://econjobmarket.org/positions/12633",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12635",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Cleveland",
+   "title": "Research Analyst",
+   "location": "Cleveland, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Research Assistant"
+   ],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-10",
+   "url": "https://econjobmarket.org/positions/12635",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12636",
+   "source": "ejm",
+   "institution": "Rice University",
+   "title": "Open Rank in Health Economics",
+   "location": "Houston, US",
+   "fields": [
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-09-10",
+   "url": "https://econjobmarket.org/positions/12636",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12638",
+   "source": "ejm",
+   "institution": "Rice University",
+   "title": "Open Rank in Labor and Public Economics",
+   "location": "Houston, US",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Public Economics"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-09-10",
+   "url": "https://econjobmarket.org/positions/12638",
    "predoc": false,
    "senior": false
   },
@@ -5974,6 +6010,21 @@
    "senior": false
   },
   {
+   "id": "jacuk:DSX086",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Teacher (Fixed Term, Absence Cover)",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSX086/teacher-fixed-term-absence-cover",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "jacuk:DSW936",
    "source": "jobsacuk",
    "institution": null,
@@ -6184,21 +6235,6 @@
    "senior": false
   },
   {
-   "id": "jacuk:DSV178",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Lecturer in Economics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV178/lecturer-in-economics",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "jacuk:DSV230",
    "source": "jobsacuk",
    "institution": null,
@@ -6210,6 +6246,21 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV230/research-fellow-in-health-economics",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "jacuk:DSV178",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "Lecturer in Economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSV178/lecturer-in-economics",
    "predoc": false,
    "senior": false
   },
@@ -6332,21 +6383,6 @@
    "url": "https://www.jobs.ac.uk/job/DST222/assistant-professor-in-economics-and-social-sciences",
    "predoc": false,
    "senior": false
-  },
-  {
-   "id": "jacuk:DSS737",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Scientific Advisory Committee Chair, Full Member, Associate Member and Lay Member Positions",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSS737/scientific-advisory-committee-chair-full-member-associate-member-and-lay-member-positions",
-   "predoc": false,
-   "senior": true
   },
   {
    "id": "ej:idb-energy-economics-data-analysis-internship",
