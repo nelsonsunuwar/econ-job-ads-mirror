@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T14:36:44Z",
+ "generated_at": "2026-09-11T19:16:20Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -6113,6 +6113,36 @@
    "senior": false
   },
   {
+   "id": "jacuk:DSX382",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "PhD Studentship - AI Scientists for Understanding Dementia Modifiable Risk Factors",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSX382/phd-studentship-ai-scientists-for-understanding-dementia-modifiable-risk-factors",
+   "predoc": true,
+   "senior": false
+  },
+  {
+   "id": "jacuk:DSX354",
+   "source": "jobsacuk",
+   "institution": null,
+   "title": "PhD Studentship - Turning Off Transcription Factors to Understand what Happens First in Neurodevelopmental Disorders",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.jobs.ac.uk/job/DSX354/phd-studentship-turning-off-transcription-factors-to-understand-what-happens-first-in-neurodevelopmental-disorders",
+   "predoc": true,
+   "senior": false
+  },
+  {
    "id": "jacuk:DSX328",
    "source": "jobsacuk",
    "institution": null,
@@ -6454,36 +6484,6 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSV833/postdoctoral-fellowship-in-entrepreneurship",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "jacuk:DSV828",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Scientific Scouting Officer",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV828/scientific-scouting-officer",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "jacuk:DSV920",
-   "source": "jobsacuk",
-   "institution": null,
-   "title": "Research Associate in Process Systems Engineering for Sustainability",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.jobs.ac.uk/job/DSV920/research-associate-in-process-systems-engineering-for-sustainability",
    "predoc": false,
    "senior": false
   },
