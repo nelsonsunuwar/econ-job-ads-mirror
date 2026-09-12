@@ -51,6 +51,14 @@ def fetch_ejm():
 def fetch_joe():
     xml = get("https://www.aeaweb.org/joe/resultset_output.php?mode=full_xml")
     root = ET.fromstring(xml)
+    # Canonical listing URLs need the cycle prefix (e.g. 2026-02_<jp_id>);
+    # bare numeric JOE_IDs work but bounce through a 302, which trips Gmail's
+    # redirect interstitial.
+    yr = root.find("year")
+    iss = yr.find("issue") if yr is not None else None
+    prefix = ""
+    if yr is not None and iss is not None and yr.get("joe_year_ID") and iss.get("joe_issue_ID"):
+        prefix = f"{yr.get('joe_year_ID')}-{int(iss.get('joe_issue_ID')):02d}_"
     ads = []
     for p in root.iter("position"):
         jp_id = p.get("jp_id")
@@ -73,7 +81,7 @@ def fetch_joe():
             "section": txt("jp_section"),
             "deadline": deadline,
             "posted": None,
-            "url": f"https://www.aeaweb.org/joe/listing.php?JOE_ID={jp_id}",
+            "url": f"https://www.aeaweb.org/joe/listing.php?JOE_ID={prefix}{jp_id}",
         })
     return ads
 
