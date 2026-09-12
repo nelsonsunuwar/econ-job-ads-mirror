@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T08:34:29Z",
+ "generated_at": "2026-09-12T08:45:47Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -944,7 +944,7 @@
    "posted": "2026-08-06",
    "url": "https://econjobmarket.org/positions/12566",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "ejm:12569",
@@ -1605,7 +1605,7 @@
    "posted": "2026-08-28",
    "url": "https://econjobmarket.org/positions/12607",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "ejm:12608",
@@ -3460,7 +3460,7 @@
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477667",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "joe:111477716",
@@ -3673,7 +3673,7 @@
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477757",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "joe:111477736",
@@ -4084,7 +4084,7 @@
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477675",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "joe:111477787",
@@ -5461,7 +5461,7 @@
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477635",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "joe:111477776",
@@ -6070,7 +6070,7 @@
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477594",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "joe:111477658",
@@ -6427,7 +6427,7 @@
    "posted": null,
    "url": "https://www.jobs.ac.uk/job/DSW893/deputy-director-of-campaign-for-youth-wellbeing",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "jacuk:DSW884",

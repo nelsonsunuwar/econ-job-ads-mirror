@@ -170,7 +170,7 @@ def is_predoc(ad):
 
 
 JUNIOR_RE = re.compile(r"assistant|\basst\b|junior|open.?rank|any.?rank|all.?ranks|postdoc|pre-?doc|\bw1\b|\blecturer\b", re.I)
-SENIOR_RE = re.compile(r"\b(associate|full|tenured)\s+professor|professor\s*\(full\)|\bprofessorship|\bw[23]\b|\bchair\b|senior lecturer|\breadership\b|\breader in\b|full or advanced", re.I)
+SENIOR_RE = re.compile(r"\b(associate|full|tenured)\s+professor|professor\s*\(full\)|\bprofessorship|\bw[23]\b|\bchair\b|senior lecturer|\breadership\b|\breader in\b|full or advanced|\bdirector\b", re.I)
 
 
 def is_senior(ad):
