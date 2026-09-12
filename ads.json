@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-12T00:36:41Z",
+ "generated_at": "2026-09-12T08:34:15Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 103
+   "count": 105
   },
   "joe": {
    "status": "ok",
@@ -2168,6 +2168,34 @@
    "senior": false
   },
   {
+   "id": "ejm:12637",
+   "source": "ejm",
+   "institution": "University of Wisconsin, Madison",
+   "title": "Assistant Professor of Economics",
+   "location": "Madison, US",
+   "fields": [
+    "Development; Growth",
+    "Econometrics",
+    "Industrial Organization",
+    "International Finance/Macro",
+    "International Trade",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Computational Economics",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-11",
+   "url": "https://econjobmarket.org/positions/12637",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12638",
    "source": "ejm",
    "institution": "Rice University",
@@ -2184,6 +2212,25 @@
    "deadline": "2027-01-31",
    "posted": "2026-09-10",
    "url": "https://econjobmarket.org/positions/12638",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12639",
+   "source": "ejm",
+   "institution": "Wayne State University",
+   "title": "Assistant Professor of Economics — Macroeconomics",
+   "location": "Detroit, US",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-11",
+   "url": "https://econjobmarket.org/positions/12639",
    "predoc": false,
    "senior": false
   },
@@ -2210,7 +2257,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477663",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477663",
    "predoc": false,
    "senior": false
   },
@@ -2227,7 +2274,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477646",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477646",
    "predoc": false,
    "senior": false
   },
@@ -2244,7 +2291,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477777",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477777",
    "predoc": false,
    "senior": false
   },
@@ -2267,7 +2314,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477746",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477746",
    "predoc": false,
    "senior": false
   },
@@ -2284,7 +2331,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-05",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477571",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477571",
    "predoc": false,
    "senior": false
   },
@@ -2301,7 +2348,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477553",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477553",
    "predoc": false,
    "senior": false
   },
@@ -2318,7 +2365,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-03-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477766",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477766",
    "predoc": false,
    "senior": false
   },
@@ -2343,7 +2390,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-03-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477619",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477619",
    "predoc": false,
    "senior": false
   },
@@ -2367,7 +2414,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-03-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477620",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477620",
    "predoc": false,
    "senior": false
   },
@@ -2384,7 +2431,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-07",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477618",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477618",
    "predoc": false,
    "senior": false
   },
@@ -2401,7 +2448,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477552",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477552",
    "predoc": false,
    "senior": false
   },
@@ -2421,7 +2468,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-03-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477640",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477640",
    "predoc": false,
    "senior": false
   },
@@ -2443,7 +2490,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-06",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477797",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477797",
    "predoc": false,
    "senior": false
   },
@@ -2460,7 +2507,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477624",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477624",
    "predoc": false,
    "senior": false
   },
@@ -2477,7 +2524,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477723",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477723",
    "predoc": false,
    "senior": false
   },
@@ -2494,7 +2541,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477722",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477722",
    "predoc": false,
    "senior": false
   },
@@ -2517,7 +2564,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-11",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477578",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477578",
    "predoc": false,
    "senior": true
   },
@@ -2536,7 +2583,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477608",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477608",
    "predoc": false,
    "senior": false
   },
@@ -2553,7 +2600,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477652",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477652",
    "predoc": false,
    "senior": false
   },
@@ -2570,7 +2617,7 @@
    "section": "US: Other Academic (Part-time or Adjunct)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477590",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477590",
    "predoc": false,
    "senior": false
   },
@@ -2587,7 +2634,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477643",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477643",
    "predoc": false,
    "senior": false
   },
@@ -2604,7 +2651,7 @@
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477718",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477718",
    "predoc": false,
    "senior": false
   },
@@ -2621,7 +2668,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-22",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477801",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477801",
    "predoc": false,
    "senior": false
   },
@@ -2638,7 +2685,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-22",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477802",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477802",
    "predoc": false,
    "senior": true
   },
@@ -2655,7 +2702,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477674",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477674",
    "predoc": false,
    "senior": false
   },
@@ -2672,7 +2719,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477681",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477681",
    "predoc": false,
    "senior": false
   },
@@ -2694,7 +2741,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477627",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477627",
    "predoc": false,
    "senior": false
   },
@@ -2716,7 +2763,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477639",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477639",
    "predoc": false,
    "senior": false
   },
@@ -2733,7 +2780,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-04-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477670",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477670",
    "predoc": false,
    "senior": false
   },
@@ -2756,7 +2803,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477809",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477809",
    "predoc": false,
    "senior": false
   },
@@ -2773,7 +2820,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477711",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477711",
    "predoc": false,
    "senior": false
   },
@@ -2790,7 +2837,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-08-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477792",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477792",
    "predoc": false,
    "senior": false
   },
@@ -2810,7 +2857,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-12",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477765",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477765",
    "predoc": false,
    "senior": false
   },
@@ -2831,7 +2878,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-12",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477763",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477763",
    "predoc": false,
    "senior": false
   },
@@ -2852,7 +2899,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-12",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477764",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477764",
    "predoc": false,
    "senior": false
   },
@@ -2869,7 +2916,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477596",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477596",
    "predoc": false,
    "senior": false
   },
@@ -2889,7 +2936,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477564",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477564",
    "predoc": false,
    "senior": false
   },
@@ -2906,7 +2953,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477744",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477744",
    "predoc": false,
    "senior": false
   },
@@ -2923,7 +2970,7 @@
    "section": "US: Other Academic (Part-time or Adjunct)",
    "deadline": "2027-04-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477591",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477591",
    "predoc": false,
    "senior": false
   },
@@ -2940,7 +2987,7 @@
    "section": "International: Other Academic (Visiting or Temporary)",
    "deadline": "2027-03-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477775",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477775",
    "predoc": false,
    "senior": false
   },
@@ -2957,7 +3004,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477540",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477540",
    "predoc": false,
    "senior": false
   },
@@ -2976,7 +3023,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477705",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477705",
    "predoc": false,
    "senior": false
   },
@@ -2993,7 +3040,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477708",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477708",
    "predoc": false,
    "senior": false
   },
@@ -3010,7 +3057,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477709",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477709",
    "predoc": false,
    "senior": false
   },
@@ -3030,7 +3077,7 @@
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477701",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477701",
    "predoc": false,
    "senior": false
   },
@@ -3052,7 +3099,7 @@
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477700",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477700",
    "predoc": false,
    "senior": false
   },
@@ -3069,7 +3116,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477730",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477730",
    "predoc": false,
    "senior": false
   },
@@ -3088,7 +3135,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477758",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477758",
    "predoc": false,
    "senior": false
   },
@@ -3106,7 +3153,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477725",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477725",
    "predoc": false,
    "senior": false
   },
@@ -3123,7 +3170,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477815",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477815",
    "predoc": false,
    "senior": false
   },
@@ -3140,7 +3187,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477621",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477621",
    "predoc": false,
    "senior": false
   },
@@ -3157,7 +3204,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477615",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477615",
    "predoc": false,
    "senior": false
   },
@@ -3174,7 +3221,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477669",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477669",
    "predoc": false,
    "senior": false
   },
@@ -3191,7 +3238,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477780",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477780",
    "predoc": false,
    "senior": false
   },
@@ -3208,7 +3255,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477693",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477693",
    "predoc": false,
    "senior": false
   },
@@ -3225,7 +3272,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-20",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477710",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477710",
    "predoc": false,
    "senior": false
   },
@@ -3242,7 +3289,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-03",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477645",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477645",
    "predoc": false,
    "senior": false
   },
@@ -3259,7 +3306,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477542",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477542",
    "predoc": false,
    "senior": false
   },
@@ -3285,7 +3332,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-22",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477656",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477656",
    "predoc": false,
    "senior": false
   },
@@ -3302,7 +3349,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-17",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477685",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477685",
    "predoc": false,
    "senior": false
   },
@@ -3319,7 +3366,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-17",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477686",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477686",
    "predoc": false,
    "senior": false
   },
@@ -3336,7 +3383,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477691",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477691",
    "predoc": false,
    "senior": false
   },
@@ -3354,7 +3401,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477726",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477726",
    "predoc": false,
    "senior": false
   },
@@ -3377,7 +3424,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477752",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477752",
    "predoc": false,
    "senior": false
   },
@@ -3394,7 +3441,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477599",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477599",
    "predoc": false,
    "senior": false
   },
@@ -3411,7 +3458,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477667",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477667",
    "predoc": false,
    "senior": false
   },
@@ -3428,7 +3475,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477716",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477716",
    "predoc": false,
    "senior": true
   },
@@ -3448,7 +3495,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477595",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477595",
    "predoc": false,
    "senior": false
   },
@@ -3465,7 +3512,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477753",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477753",
    "predoc": false,
    "senior": false
   },
@@ -3482,7 +3529,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477794",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477794",
    "predoc": false,
    "senior": false
   },
@@ -3500,7 +3547,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477634",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477634",
    "predoc": false,
    "senior": false
   },
@@ -3517,7 +3564,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-06",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477558",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477558",
    "predoc": false,
    "senior": false
   },
@@ -3534,7 +3581,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-02-20",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477707",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477707",
    "predoc": false,
    "senior": false
   },
@@ -3556,7 +3603,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477617",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477617",
    "predoc": false,
    "senior": false
   },
@@ -3573,7 +3620,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477631",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477631",
    "predoc": false,
    "senior": false
   },
@@ -3590,7 +3637,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-08-28",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477651",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477651",
    "predoc": false,
    "senior": false
   },
@@ -3607,7 +3654,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-04",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477724",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477724",
    "predoc": false,
    "senior": false
   },
@@ -3624,7 +3671,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477757",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477757",
    "predoc": false,
    "senior": false
   },
@@ -3643,7 +3690,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477736",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477736",
    "predoc": false,
    "senior": false
   },
@@ -3660,7 +3707,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-04-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477606",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477606",
    "predoc": false,
    "senior": false
   },
@@ -3677,7 +3724,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477561",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477561",
    "predoc": false,
    "senior": false
   },
@@ -3694,7 +3741,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477576",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477576",
    "predoc": false,
    "senior": false
   },
@@ -3713,7 +3760,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477565",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477565",
    "predoc": false,
    "senior": false
   },
@@ -3734,7 +3781,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477637",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477637",
    "predoc": false,
    "senior": false
   },
@@ -3751,7 +3798,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477598",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477598",
    "predoc": false,
    "senior": false
   },
@@ -3768,7 +3815,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477791",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477791",
    "predoc": false,
    "senior": false
   },
@@ -3788,7 +3835,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477745",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477745",
    "predoc": false,
    "senior": false
   },
@@ -3809,7 +3856,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477555",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477555",
    "predoc": false,
    "senior": false
   },
@@ -3827,7 +3874,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477532",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477532",
    "predoc": false,
    "senior": false
   },
@@ -3845,7 +3892,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477721",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477721",
    "predoc": false,
    "senior": false
   },
@@ -3862,7 +3909,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477577",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477577",
    "predoc": false,
    "senior": false
   },
@@ -3885,7 +3932,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477761",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477761",
    "predoc": false,
    "senior": false
   },
@@ -3908,7 +3955,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477783",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477783",
    "predoc": false,
    "senior": false
   },
@@ -3926,7 +3973,7 @@
    "section": "US: Other Academic (Part-time or Adjunct)",
    "deadline": "2027-08-06",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477603",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477603",
    "predoc": false,
    "senior": false
   },
@@ -3945,7 +3992,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477754",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477754",
    "predoc": false,
    "senior": false
   },
@@ -3962,7 +4009,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477733",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477733",
    "predoc": false,
    "senior": false
   },
@@ -3979,7 +4026,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477633",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477633",
    "predoc": false,
    "senior": false
   },
@@ -3996,7 +4043,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477811",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477811",
    "predoc": false,
    "senior": true
   },
@@ -4018,7 +4065,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477630",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477630",
    "predoc": false,
    "senior": false
   },
@@ -4035,7 +4082,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477675",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477675",
    "predoc": false,
    "senior": false
   },
@@ -4052,7 +4099,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477787",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477787",
    "predoc": true,
    "senior": false
   },
@@ -4069,7 +4116,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477790",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477790",
    "predoc": false,
    "senior": false
   },
@@ -4087,7 +4134,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477741",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477741",
    "predoc": false,
    "senior": false
   },
@@ -4104,7 +4151,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477687",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477687",
    "predoc": false,
    "senior": false
   },
@@ -4122,7 +4169,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477688",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477688",
    "predoc": false,
    "senior": true
   },
@@ -4139,7 +4186,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477770",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477770",
    "predoc": false,
    "senior": false
   },
@@ -4156,7 +4203,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477767",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477767",
    "predoc": false,
    "senior": false
   },
@@ -4173,7 +4220,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477771",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477771",
    "predoc": false,
    "senior": false
   },
@@ -4190,7 +4237,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477772",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477772",
    "predoc": false,
    "senior": false
   },
@@ -4207,7 +4254,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477768",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477768",
    "predoc": false,
    "senior": false
   },
@@ -4224,7 +4271,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477706",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477706",
    "predoc": false,
    "senior": false
   },
@@ -4241,7 +4288,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477657",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477657",
    "predoc": false,
    "senior": false
   },
@@ -4258,7 +4305,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477556",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477556",
    "predoc": false,
    "senior": false
   },
@@ -4275,7 +4322,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-07-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477544",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477544",
    "predoc": false,
    "senior": false
   },
@@ -4292,7 +4339,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477568",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477568",
    "predoc": false,
    "senior": false
   },
@@ -4310,7 +4357,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477798",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477798",
    "predoc": false,
    "senior": false
   },
@@ -4329,7 +4376,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477644",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477644",
    "predoc": false,
    "senior": false
   },
@@ -4346,7 +4393,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": null,
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477485",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477485",
    "predoc": false,
    "senior": false
   },
@@ -4363,7 +4410,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477604",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477604",
    "predoc": false,
    "senior": false
   },
@@ -4380,7 +4427,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477683",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477683",
    "predoc": false,
    "senior": false
   },
@@ -4397,7 +4444,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477682",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477682",
    "predoc": false,
    "senior": false
   },
@@ -4419,7 +4466,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477689",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477689",
    "predoc": false,
    "senior": false
   },
@@ -4436,7 +4483,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-20",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477803",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477803",
    "predoc": false,
    "senior": false
   },
@@ -4453,7 +4500,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477795",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477795",
    "predoc": false,
    "senior": false
   },
@@ -4470,7 +4517,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477575",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477575",
    "predoc": false,
    "senior": false
   },
@@ -4487,7 +4534,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477610",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477610",
    "predoc": false,
    "senior": false
   },
@@ -4504,7 +4551,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-25",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477585",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477585",
    "predoc": false,
    "senior": false
   },
@@ -4521,7 +4568,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477574",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477574",
    "predoc": false,
    "senior": false
   },
@@ -4538,7 +4585,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477653",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477653",
    "predoc": false,
    "senior": false
   },
@@ -4555,7 +4602,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477536",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477536",
    "predoc": false,
    "senior": false
   },
@@ -4574,7 +4621,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-02-28",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477197",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477197",
    "predoc": false,
    "senior": false
   },
@@ -4591,7 +4638,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477784",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477784",
    "predoc": false,
    "senior": false
   },
@@ -4608,7 +4655,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477659",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477659",
    "predoc": false,
    "senior": false
   },
@@ -4625,7 +4672,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-22",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477607",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477607",
    "predoc": false,
    "senior": false
   },
@@ -4646,7 +4693,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477729",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477729",
    "predoc": false,
    "senior": false
   },
@@ -4663,7 +4710,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477731",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477731",
    "predoc": false,
    "senior": false
   },
@@ -4681,7 +4728,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477727",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477727",
    "predoc": false,
    "senior": false
   },
@@ -4700,7 +4747,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477732",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477732",
    "predoc": false,
    "senior": false
   },
@@ -4720,7 +4767,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477796",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477796",
    "predoc": false,
    "senior": false
   },
@@ -4737,7 +4784,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477734",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477734",
    "predoc": false,
    "senior": false
   },
@@ -4754,7 +4801,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-10-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477735",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477735",
    "predoc": false,
    "senior": false
   },
@@ -4771,7 +4818,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477636",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477636",
    "predoc": false,
    "senior": false
   },
@@ -4788,7 +4835,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477649",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477649",
    "predoc": false,
    "senior": false
   },
@@ -4807,7 +4854,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477698",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477698",
    "predoc": false,
    "senior": false
   },
@@ -4824,7 +4871,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477739",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477739",
    "predoc": false,
    "senior": false
   },
@@ -4841,7 +4888,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-11-02",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477665",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477665",
    "predoc": false,
    "senior": false
   },
@@ -4858,7 +4905,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477623",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477623",
    "predoc": false,
    "senior": false
   },
@@ -4875,7 +4922,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477650",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477650",
    "predoc": false,
    "senior": false
   },
@@ -4895,7 +4942,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477664",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477664",
    "predoc": false,
    "senior": false
   },
@@ -4922,7 +4969,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-03-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477728",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477728",
    "predoc": false,
    "senior": false
   },
@@ -4939,7 +4986,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-08-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477592",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477592",
    "predoc": true,
    "senior": false
   },
@@ -4956,7 +5003,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-06-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477583",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477583",
    "predoc": false,
    "senior": false
   },
@@ -4973,7 +5020,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477668",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477668",
    "predoc": false,
    "senior": false
   },
@@ -4990,7 +5037,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477808",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477808",
    "predoc": false,
    "senior": false
   },
@@ -5007,7 +5054,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477737",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477737",
    "predoc": false,
    "senior": false
   },
@@ -5024,7 +5071,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-25",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477647",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477647",
    "predoc": false,
    "senior": false
   },
@@ -5044,7 +5091,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477632",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477632",
    "predoc": false,
    "senior": false
   },
@@ -5061,7 +5108,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477517",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477517",
    "predoc": false,
    "senior": false
   },
@@ -5079,7 +5126,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-16",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477699",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477699",
    "predoc": false,
    "senior": false
   },
@@ -5097,7 +5144,7 @@
    "section": "International: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477694",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477694",
    "predoc": false,
    "senior": false
   },
@@ -5123,7 +5170,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-22",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477492",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477492",
    "predoc": false,
    "senior": false
   },
@@ -5140,7 +5187,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-25",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477748",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477748",
    "predoc": false,
    "senior": false
   },
@@ -5159,7 +5206,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-19",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477781",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477781",
    "predoc": false,
    "senior": false
   },
@@ -5177,7 +5224,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-14",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477740",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477740",
    "predoc": false,
    "senior": false
   },
@@ -5194,7 +5241,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477786",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477786",
    "predoc": false,
    "senior": false
   },
@@ -5211,7 +5258,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477588",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477588",
    "predoc": false,
    "senior": false
   },
@@ -5229,7 +5276,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477676",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477676",
    "predoc": false,
    "senior": false
   },
@@ -5246,7 +5293,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-08-14",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477549",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477549",
    "predoc": false,
    "senior": false
   },
@@ -5263,7 +5310,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477738",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477738",
    "predoc": false,
    "senior": false
   },
@@ -5280,7 +5327,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477622",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477622",
    "predoc": false,
    "senior": false
   },
@@ -5298,7 +5345,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477806",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477806",
    "predoc": false,
    "senior": false
   },
@@ -5317,7 +5364,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-08-26",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477662",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477662",
    "predoc": false,
    "senior": false
   },
@@ -5344,7 +5391,7 @@
    "section": "International: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477751",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477751",
    "predoc": false,
    "senior": false
   },
@@ -5361,7 +5408,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477680",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477680",
    "predoc": false,
    "senior": false
   },
@@ -5378,7 +5425,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-05-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477528",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477528",
    "predoc": false,
    "senior": false
   },
@@ -5395,7 +5442,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-05-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477529",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477529",
    "predoc": false,
    "senior": false
   },
@@ -5412,7 +5459,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477635",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477635",
    "predoc": false,
    "senior": false
   },
@@ -5429,7 +5476,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477776",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477776",
    "predoc": false,
    "senior": false
   },
@@ -5446,7 +5493,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-21",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477717",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477717",
    "predoc": false,
    "senior": true
   },
@@ -5463,7 +5510,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477747",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477747",
    "predoc": false,
    "senior": false
   },
@@ -5480,7 +5527,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-12-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477805",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477805",
    "predoc": false,
    "senior": false
   },
@@ -5497,7 +5544,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": null,
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477678",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477678",
    "predoc": false,
    "senior": false
   },
@@ -5515,7 +5562,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477526",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477526",
    "predoc": false,
    "senior": false
   },
@@ -5532,7 +5579,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477560",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477560",
    "predoc": false,
    "senior": false
   },
@@ -5549,7 +5596,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477533",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477533",
    "predoc": false,
    "senior": false
   },
@@ -5567,7 +5614,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477814",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477814",
    "predoc": false,
    "senior": false
   },
@@ -5584,7 +5631,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-17",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477661",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477661",
    "predoc": false,
    "senior": false
   },
@@ -5601,7 +5648,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-17",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477660",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477660",
    "predoc": false,
    "senior": false
   },
@@ -5618,7 +5665,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477580",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477580",
    "predoc": false,
    "senior": false
   },
@@ -5639,7 +5686,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477697",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477697",
    "predoc": false,
    "senior": false
   },
@@ -5660,7 +5707,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477696",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477696",
    "predoc": false,
    "senior": false
   },
@@ -5679,7 +5726,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477581",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477581",
    "predoc": false,
    "senior": true
   },
@@ -5698,7 +5745,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477582",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477582",
    "predoc": false,
    "senior": false
   },
@@ -5715,7 +5762,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-02-01",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477597",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477597",
    "predoc": false,
    "senior": false
   },
@@ -5732,7 +5779,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-08",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477756",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477756",
    "predoc": false,
    "senior": false
   },
@@ -5749,7 +5796,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-14",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477614",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477614",
    "predoc": false,
    "senior": true
   },
@@ -5766,7 +5813,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-08-23",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477562",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477562",
    "predoc": false,
    "senior": true
   },
@@ -5783,7 +5830,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-09",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477810",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477810",
    "predoc": false,
    "senior": false
   },
@@ -5807,7 +5854,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-18",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477692",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477692",
    "predoc": false,
    "senior": false
   },
@@ -5837,7 +5884,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2027-01-24",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477703",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477703",
    "predoc": false,
    "senior": false
   },
@@ -5859,7 +5906,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-11-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477714",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477714",
    "predoc": false,
    "senior": false
   },
@@ -5876,7 +5923,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477611",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477611",
    "predoc": false,
    "senior": false
   },
@@ -5893,7 +5940,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477612",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477612",
    "predoc": false,
    "senior": false
   },
@@ -5910,7 +5957,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-13",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477788",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477788",
    "predoc": false,
    "senior": false
   },
@@ -5929,7 +5976,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-08-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477509",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477509",
    "predoc": false,
    "senior": false
   },
@@ -5946,7 +5993,7 @@
    "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2026-09-21",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477720",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477720",
    "predoc": false,
    "senior": false
   },
@@ -5966,7 +6013,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477782",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477782",
    "predoc": false,
    "senior": false
   },
@@ -5985,7 +6032,7 @@
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477601",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477601",
    "predoc": false,
    "senior": false
   },
@@ -6004,7 +6051,7 @@
    "section": "Full-Time Nonacademic",
    "deadline": "2026-09-30",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477600",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477600",
    "predoc": false,
    "senior": false
   },
@@ -6021,7 +6068,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-09-20",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477594",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477594",
    "predoc": false,
    "senior": false
   },
@@ -6038,7 +6085,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-10-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477658",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477658",
    "predoc": false,
    "senior": false
   },
@@ -6055,7 +6102,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477769",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477769",
    "predoc": false,
    "senior": false
   },
@@ -6072,7 +6119,7 @@
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477569",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477569",
    "predoc": false,
    "senior": true
   },
@@ -6091,7 +6138,7 @@
    "section": "International: Other Academic (Visiting or Temporary)",
    "deadline": "2027-01-31",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477638",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477638",
    "predoc": false,
    "senior": false
   },
@@ -6108,7 +6155,7 @@
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2027-01-15",
    "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=111477804",
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477804",
    "predoc": false,
    "senior": false
   },
