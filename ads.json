@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-13T00:17:18Z",
+ "generated_at": "2026-09-13T09:42:46Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 105
+   "count": 109
   },
   "joe": {
    "status": "ok",
@@ -616,33 +616,6 @@
    "deadline": "2026-09-21",
    "posted": "2026-07-01",
    "url": "https://econjobmarket.org/positions/12537",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12539",
-   "source": "ejm",
-   "institution": "UniDistance",
-   "title": "Assistant Professorships in Empirical Management Research",
-   "location": "Brig, CH",
-   "fields": [
-    "Industrial Organization",
-    "Business Economics",
-    "Accounting",
-    "Decision Sciences",
-    "Management, General",
-    "Management, Information Technology",
-    "Marketing",
-    "Operations Research",
-    "Organizational Behavior"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-09-13",
-   "posted": "2026-07-08",
-   "url": "https://econjobmarket.org/positions/12539",
    "predoc": false,
    "senior": false
   },
@@ -2231,6 +2204,104 @@
    "deadline": "2026-11-16",
    "posted": "2026-09-11",
    "url": "https://econjobmarket.org/positions/12639",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12640",
+   "source": "ejm",
+   "institution": "National University of Singapore",
+   "title": "Dean, Faculty of Arts and Social Sciences, National University of Singapore",
+   "location": "Singapore, SG",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Tenured Professor"
+   ],
+   "section": null,
+   "deadline": "2026-10-16",
+   "posted": "2026-09-12",
+   "url": "https://econjobmarket.org/positions/12640",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "ejm:12641",
+   "source": "ejm",
+   "institution": "Technical University of Denmark",
+   "title": "PhD scholarship in Sustainable Finance with Focus on Climate Banking",
+   "location": "Kgs. Lyngby, DK",
+   "fields": [
+    "Environmental; Ag. Econ.",
+    "Insurance",
+    "Real Estate"
+   ],
+   "position_types": [
+    "Research Assistant (Pre-Doc)"
+   ],
+   "section": null,
+   "deadline": "2026-10-18",
+   "posted": "2026-09-12",
+   "url": "https://econjobmarket.org/positions/12641",
+   "predoc": true,
+   "senior": false
+  },
+  {
+   "id": "ejm:12644",
+   "source": "ejm",
+   "institution": "Universidad de Salamanca",
+   "title": "Urgent: Postdoc Position in Environmental Economics - Deadline 22 Sept",
+   "location": "Salamanca, ES",
+   "fields": [
+    "Environmental; Ag. Econ."
+   ],
+   "position_types": [
+    "Research Assistant"
+   ],
+   "section": null,
+   "deadline": "2026-09-22",
+   "posted": "2026-09-12",
+   "url": "https://econjobmarket.org/positions/12644",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12645",
+   "source": "ejm",
+   "institution": "Universíté de Montréal",
+   "title": "Assistant Professor of Macroeconomics",
+   "location": "Montreal, CA",
+   "fields": [
+    "International Finance/Macro",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-12",
+   "url": "https://econjobmarket.org/positions/12645",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12646",
+   "source": "ejm",
+   "institution": "Universíté de Montréal",
+   "title": "Assistant Professor of Applied Microeconomics",
+   "location": "Montreal, CA",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-12",
+   "url": "https://econjobmarket.org/positions/12646",
    "predoc": false,
    "senior": false
   },
