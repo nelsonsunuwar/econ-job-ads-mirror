@@ -86,32 +86,6 @@ def fetch_joe():
     return ads
 
 
-def fetch_jobsacuk():
-    # The old RSS feeds 404 now; the category/search pages are server-rendered.
-    ads, seen = [], set()
-    for page in ("https://www.jobs.ac.uk/categories/economics",
-                 "https://www.jobs.ac.uk/search/economics"):
-        html = get(page)
-        for m in re.finditer(r'href="/job/([A-Z0-9]+)/([^"]*)"[^>]*>(.*?)</a>', html, re.S | re.I):
-            code, text = m.group(1), unescape(re.sub(r"<[^>]+>", " ", m.group(3))).strip()
-            if code in seen:
-                continue
-            seen.add(code)
-            ads.append({
-                "id": "jacuk:" + code,
-                "source": "jobsacuk",
-                "institution": None,
-                "title": re.sub(r"\s+", " ", text)[:200] or m.group(2).replace("-", " "),
-                "location": None,
-                "fields": [],
-                "position_types": [],
-                "section": None,
-                "deadline": None,
-                "posted": None,
-                "url": f"https://www.jobs.ac.uk/job/{code}/{m.group(2)}",
-            })
-    return ads
-
 
 
 def fetch_econjobs():
@@ -144,8 +118,8 @@ def fetch_econjobs():
 
 def is_predoc(ad):
     """Pre-doc / RA-level ads (Nelson is post-PhD; these are filtered downstream).
-    jobs.ac.uk is exempt from the bare research-associate rule: in UK usage that
-    title is usually a postdoc."""
+    (jobs.ac.uk source dropped 2026-09-13; its exemption below is now moot but
+    kept harmless)."""
     title = ad["title"] or ""
     pts = ad["position_types"] or []
     if re.search(r"pre-?doc", title, re.I):
@@ -192,7 +166,6 @@ def main():
     fetchers = {
         "ejm": fetch_ejm,
         "joe": fetch_joe,
-        "jobsacuk": fetch_jobsacuk,
         "econjobs": fetch_econjobs,
     }
     all_ads, status = [], {}
