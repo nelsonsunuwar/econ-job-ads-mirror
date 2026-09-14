@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-14T00:24:37Z",
+ "generated_at": "2026-09-14T10:06:53Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 109
+   "count": 111
   },
   "joe": {
    "status": "ok",
@@ -2298,6 +2298,46 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-12",
    "url": "https://econjobmarket.org/positions/12646",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12647",
+   "source": "ejm",
+   "institution": "University of Amsterdam",
+   "title": "Assistant or Associate Professor in Finance",
+   "location": "Amsterdam, NL",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-17",
+   "posted": "2026-09-13",
+   "url": "https://econjobmarket.org/positions/12647",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12648",
+   "source": "ejm",
+   "institution": "Heinrich Heine University Dusseldorf",
+   "title": "Assistant Professorship (TT) in Global Competition Economics",
+   "location": "Dusseldorf, DE",
+   "fields": [
+    "Industrial Organization",
+    "International Trade"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-09-30",
+   "posted": "2026-09-13",
+   "url": "https://econjobmarket.org/positions/12648",
    "predoc": false,
    "senior": false
   },
