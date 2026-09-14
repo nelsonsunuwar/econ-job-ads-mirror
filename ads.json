@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-14T10:06:53Z",
+ "generated_at": "2026-09-14T16:32:30Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 111
+   "count": 110
   },
   "joe": {
    "status": "ok",
-   "count": 215
+   "count": 219
   },
   "econjobs": {
    "status": "ok",
@@ -461,25 +461,6 @@
    "url": "https://econjobmarket.org/positions/12494",
    "predoc": false,
    "senior": true
-  },
-  {
-   "id": "ejm:12513",
-   "source": "ejm",
-   "institution": "Institut Polytechnique de Paris",
-   "title": "Post-doctoral position in Experimental Economics",
-   "location": "Palaiseau, FR",
-   "fields": [
-    "Experimental Economics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-06-05",
-   "url": "https://econjobmarket.org/positions/12513",
-   "predoc": false,
-   "senior": false
   },
   {
    "id": "ejm:12514",
@@ -2403,6 +2384,25 @@
    "senior": false
   },
   {
+   "id": "joe:111477816",
+   "source": "joe",
+   "institution": "Bank of Finland",
+   "title": "Visiting Scholars Programme",
+   "location": "Helsinki, Finland",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
+   "deadline": "2026-10-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477816",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477746",
    "source": "joe",
    "institution": "Bates White Economic Consulting",
@@ -2439,6 +2439,26 @@
    "deadline": "2026-10-05",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477571",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477863",
+   "source": "joe",
+   "institution": "BRG",
+   "title": "Managing Economist",
+   "location": "Washington, United States; Boston, United States; Chicago, United States; Los Angeles, United States",
+   "fields": [
+    "D4 Market Structure, Pricing, and Design",
+    "D7 Analysis of Collective Decision-Making",
+    "G2 Financial Institutions and Services",
+    "L4 Antitrust Issues and Policies"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477863",
    "predoc": false,
    "senior": false
   },
@@ -4591,6 +4611,41 @@
    "deadline": "2026-11-20",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477803",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477830",
+   "source": "joe",
+   "institution": "Southern Methodist University",
+   "title": "Assistant Professor - Tenure Track",
+   "location": "Dallas, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477830",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477857",
+   "source": "joe",
+   "institution": "Southern Methodist University",
+   "title": "Assistant Teaching Professor",
+   "location": "Dallas, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "Z2 Sports Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477857",
    "predoc": false,
    "senior": false
   },
