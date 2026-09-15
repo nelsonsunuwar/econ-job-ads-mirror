@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T15:15:30Z",
+ "generated_at": "2026-09-15T19:49:03Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -1833,26 +1833,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12621",
-   "source": "ejm",
-   "institution": "Massachusetts Institute of Technology",
-   "title": "Assistant or Untenured Associate Professor – Tenure Track",
-   "location": "Cambridge, US",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-09-04",
-   "url": "https://econjobmarket.org/positions/12621",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12622",
    "source": "ejm",
    "institution": "Charles River Associates",
@@ -2222,6 +2202,26 @@
    "posted": "2026-09-12",
    "url": "https://econjobmarket.org/positions/12641",
    "predoc": true,
+   "senior": false
+  },
+  {
+   "id": "ejm:12642",
+   "source": "ejm",
+   "institution": "University of Cyprus",
+   "title": "Tenure-track Lecturer or Assistant Professor in Economics (two positions)",
+   "location": "Nicosia, CY",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-09-14",
+   "url": "https://econjobmarket.org/positions/12642",
+   "predoc": false,
    "senior": false
   },
   {
