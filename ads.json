@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-15T00:53:15Z",
+ "generated_at": "2026-09-15T09:35:05Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 110
+   "count": 111
   },
   "joe": {
    "status": "ok",
@@ -2223,6 +2223,25 @@
    "url": "https://econjobmarket.org/positions/12641",
    "predoc": true,
    "senior": false
+  },
+  {
+   "id": "ejm:12643",
+   "source": "ejm",
+   "institution": "Utrecht University",
+   "title": "Full Professor Banking & Finance",
+   "location": "Utrecht, NL",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-09-14",
+   "url": "https://econjobmarket.org/positions/12643",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "ejm:12644",
