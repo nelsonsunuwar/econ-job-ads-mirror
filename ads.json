@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T09:35:05Z",
+ "generated_at": "2026-09-15T15:15:30Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 219
+   "count": 229
   },
   "econjobs": {
    "status": "ok",
@@ -3609,6 +3609,23 @@
    "senior": true
   },
   {
+   "id": "joe:111477824",
+   "source": "joe",
+   "institution": "Joint Commission",
+   "title": "Healthcare Research Scientist",
+   "location": "United States",
+   "fields": [
+    "I2 Education and Research Institutions"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477824",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477716",
    "source": "joe",
    "institution": "Kiel Institute for the World Economy",
@@ -3642,6 +3659,23 @@
    "deadline": "2026-12-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477595",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477821",
+   "source": "joe",
+   "institution": "London School of Economics",
+   "title": "Assistant Professor in Finance",
+   "location": "London, United Kingdom",
+   "fields": [
+    "G1 General Financial Markets"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477821",
    "predoc": false,
    "senior": false
   },
@@ -3837,6 +3871,40 @@
    "deadline": "2026-11-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477736",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477829",
+   "source": "joe",
+   "institution": "MITRE",
+   "title": "Computable General Equilibrium Modeler",
+   "location": "McLean, United States",
+   "fields": [
+    "E1 General Aggregative Models"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-02-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477829",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477828",
+   "source": "joe",
+   "institution": "MITRE",
+   "title": "Industrial Organization Economist",
+   "location": "McLean, United States",
+   "fields": [
+    "L0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-02-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477828",
    "predoc": false,
    "senior": false
   },
@@ -4060,6 +4128,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477817",
+   "source": "joe",
+   "institution": "National University of Singapore",
+   "title": "Assistant Professor",
+   "location": "Singapore, Singapore",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477817",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477761",
    "source": "joe",
    "institution": "NERA",
@@ -4102,6 +4187,28 @@
    "deadline": "2026-11-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477783",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477822",
+   "source": "joe",
+   "institution": "Newcastle University",
+   "title": "Lecturer in Economics",
+   "location": "Newcastle Upon Tyne, United Kingdom",
+   "fields": [
+    "C9 Design of Experiments",
+    "D9 Micro-Based Behavioral Economics",
+    "E7 Macro-Based Behavioral Economics",
+    "G4 Behavioral Finance",
+    "I1 Health",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-02",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477822",
    "predoc": false,
    "senior": false
   },
@@ -4634,6 +4741,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477826",
+   "source": "joe",
+   "institution": "Soka University of America (SUA)",
+   "title": "Assistant Professor of Economics",
+   "location": "Aliso Viejo, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477826",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477830",
    "source": "joe",
    "institution": "Southern Methodist University",
@@ -4837,6 +4961,23 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477659",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477715",
+   "source": "joe",
+   "institution": "Tel Aviv University",
+   "title": "Assistant, Associciate of Full Professor in Economics",
+   "location": "Tel Aviv, Israel",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-16",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477715",
    "predoc": false,
    "senior": false
   },
@@ -5124,6 +5265,40 @@
    "deadline": "2026-10-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477664",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477702",
+   "source": "joe",
+   "institution": "The South East Asian Central Banks (SEACEN) Research and Training Centre",
+   "title": "Director, Financial Stability, Supervision, and Payments",
+   "location": "Malaysia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-09-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477702",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "joe:111477827",
+   "source": "joe",
+   "institution": "The University of Alabama",
+   "title": "Assistant Professor of Economics",
+   "location": "Tuscaloosa, United States",
+   "fields": [
+    "C9 Design of Experiments"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-03-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477827",
    "predoc": false,
    "senior": false
   },
