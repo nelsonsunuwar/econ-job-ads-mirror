@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T09:29:40Z",
+ "generated_at": "2026-09-16T15:09:26Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7,7 +7,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 229
+   "count": 239
   },
   "econjobs": {
    "status": "ok",
@@ -2953,6 +2953,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477901",
+   "source": "joe",
+   "institution": "Council of Economic Advisers, The White House",
+   "title": "Senior Economist",
+   "location": "Washington, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477901",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477670",
    "source": "joe",
    "institution": "Delaware State University",
@@ -3360,6 +3377,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477823",
+   "source": "joe",
+   "institution": "Getulio Vargas Foundation",
+   "title": "Assistant Professor",
+   "location": "Rio de Janeiro, Brazil",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-16",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477823",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477621",
    "source": "joe",
    "institution": "Hamilton College",
@@ -3407,6 +3441,23 @@
    "deadline": "2026-11-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477669",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477672",
+   "source": "joe",
+   "institution": "Harvard Business School",
+   "title": "Tenure-Track Position in Technology and Operations Management",
+   "location": "Boston, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-29",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477672",
    "predoc": false,
    "senior": false
   },
@@ -3587,6 +3638,23 @@
    "deadline": "2026-11-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477726",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477825",
+   "source": "joe",
+   "institution": "Indiana University",
+   "title": "Assistant Professor Positions, (Finance)",
+   "location": "Bloomington, United States",
+   "fields": [
+    "G0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477825",
    "predoc": false,
    "senior": false
   },
@@ -4686,6 +4754,40 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477485",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477841",
+   "source": "joe",
+   "institution": "Rice University",
+   "title": "Open Rank in Health Economics",
+   "location": "Houston, United States",
+   "fields": [
+    "I1 Health"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477841",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477842",
+   "source": "joe",
+   "institution": "Rice University",
+   "title": "Open Rank in Labor and Public Economics",
+   "location": "Houston, United States",
+   "fields": [
+    "I1 Health"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477842",
    "predoc": false,
    "senior": false
   },
@@ -5808,6 +5910,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477762",
+   "source": "joe",
+   "institution": "University of Chile",
+   "title": "Assistant/Associate Professor",
+   "location": "Santiago, Chile",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477762",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477528",
    "source": "joe",
    "institution": "University of Colorado Boulder",
@@ -6048,6 +6167,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477836",
+   "source": "joe",
+   "institution": "University of North Carolina-Charlotte",
+   "title": "Clinical Professor of Economics",
+   "location": "Charlotte, United States",
+   "fields": [
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477836",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477580",
    "source": "joe",
    "institution": "University of Notre Dame",
@@ -6145,6 +6281,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477831",
+   "source": "joe",
+   "institution": "University of Rochester",
+   "title": "Assistant Professor",
+   "location": "Rochester, United States",
+   "fields": [
+    "E0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-16",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477831",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477597",
    "source": "joe",
    "institution": "University of Southern California",
@@ -6226,6 +6379,23 @@
    "deadline": "2026-10-09",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477810",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477839",
+   "source": "joe",
+   "institution": "University of Wisconsin - Madison",
+   "title": "Assistant Professor of Economics",
+   "location": "Madison, United States",
+   "fields": [
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477839",
    "predoc": false,
    "senior": false
   },
