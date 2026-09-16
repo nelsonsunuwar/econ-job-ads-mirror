@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-16T00:46:48Z",
+ "generated_at": "2026-09-16T09:29:40Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 111
+   "count": 113
   },
   "joe": {
    "status": "ok",
@@ -2338,6 +2338,45 @@
    "deadline": "2026-09-30",
    "posted": "2026-09-13",
    "url": "https://econjobmarket.org/positions/12648",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12649",
+   "source": "ejm",
+   "institution": "University of Chicago",
+   "title": "Assistant/Associate Professor of Finance",
+   "location": "Chicago, US",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-09-15",
+   "url": "https://econjobmarket.org/positions/12649",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12650",
+   "source": "ejm",
+   "institution": "McGill University",
+   "title": "Assistant Professor, Any Field",
+   "location": "Montreal, CA",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-15",
+   "url": "https://econjobmarket.org/positions/12650",
    "predoc": false,
    "senior": false
   },
