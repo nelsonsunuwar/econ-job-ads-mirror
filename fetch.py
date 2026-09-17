@@ -240,7 +240,21 @@ def main():
         except Exception as e:  # noqa: BLE001
             status["ejm"]["status"] = f"warning: site supplement failed: {type(e).__name__}: {e}"
 
-    # FAILSAFE 2: a source whose count collapses versus the last snapshot
+    # FAILSAFE 2: JOE coverage assertion — one light fetch of the site's first
+    # listings page; any id there that the XML export lacks means the export
+    # has developed an EJM-style gap. Warn, don't crawl further (JOE ToS).
+    if status.get("joe", {}).get("status") == "ok":
+        try:
+            html = get_browser("https://www.aeaweb.org/joe/listings")
+            page_ids = set(re.findall(r"JOE_ID=(?:\d{4}-\d\d_)?(\d+)", html))
+            joe_ids = {a["id"].split(":")[1] for a in all_ads if a["source"] == "joe"}
+            gap = page_ids - joe_ids
+            if page_ids and gap:
+                status["joe"]["status"] = f"warning: {len(gap)} ads on the JOE site are missing from the XML export"
+        except Exception:  # noqa: BLE001 — the assertion itself must never break the fetch
+            pass
+
+    # FAILSAFE 3: a source whose count collapses versus the last snapshot
     # probably means silent parser/format breakage — surface it in the digest.
     try:
         prev = json.load(open(OUT))["sources"]

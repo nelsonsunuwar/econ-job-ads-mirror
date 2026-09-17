@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T13:33:38Z",
+ "generated_at": "2026-09-17T13:39:33Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -9,7 +9,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 242
+   "count": 244
   },
   "econjobs": {
    "status": "ok",
@@ -5725,6 +5725,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477919",
+   "source": "joe",
+   "institution": "The University of Texas at Austin",
+   "title": "Professor of Finance (Assistant, Associate, and Full) 2026-27",
+   "location": "Austin, United States",
+   "fields": [
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-08",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477919",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477632",
    "source": "joe",
    "institution": "Trinity College",
@@ -6531,6 +6548,23 @@
    "deadline": "2026-10-09",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477810",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477920",
+   "source": "joe",
+   "institution": "University of Utah, David Eccles School of Business",
+   "title": "Assistant Professor (Pre-tenured) - The Department of Entrepreneurship and Strategy",
+   "location": "Salt Lake City, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477920",
    "predoc": false,
    "senior": false
   },
