@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T13:39:33Z",
+ "generated_at": "2026-09-17T13:40:03Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -9,7 +9,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 244
+   "count": 245
   },
   "econjobs": {
    "status": "ok",
@@ -6179,6 +6179,23 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477717",
    "predoc": false,
    "senior": true
+  },
+  {
+   "id": "joe:111477868",
+   "source": "joe",
+   "institution": "University of Georgia",
+   "title": "Assistant or Associate Professor",
+   "location": "Athens, United States",
+   "fields": [
+    "E Macroeconomics and Monetary Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477868",
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477747",
