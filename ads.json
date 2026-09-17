@@ -1,13 +1,15 @@
 {
- "generated_at": "2026-09-17T09:38:38Z",
+ "generated_at": "2026-09-17T13:32:48Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 118
+   "count": 125,
+   "site_listing": 113,
+   "site_extra": 7
   },
   "joe": {
    "status": "ok",
-   "count": 238
+   "count": 242
   },
   "econjobs": {
    "status": "ok",
@@ -2856,6 +2858,28 @@
    "senior": true
   },
   {
+   "id": "joe:111477916",
+   "source": "joe",
+   "institution": "CNA",
+   "title": "Research Analyst (Economist)",
+   "location": "Arlington, United States",
+   "fields": [
+    "C1 Econometric and Statistical Methods and Methodology:  General",
+    "D Microeconomics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-10-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477916",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477608",
    "source": "joe",
    "institution": "Columbia Business School",
@@ -3404,6 +3428,32 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477700",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477904",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Cleveland",
+   "title": "Economist/Senior Economist/Economic Policy Advisor",
+   "location": "Cleveland, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "C Mathematical and Quantitative Methods",
+    "C5 Econometric Modeling",
+    "E Macroeconomics and Monetary Economics",
+    "E3 Prices, Business Fluctuations, and Cycles",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "R1 General Regional Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-06",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477904",
    "predoc": false,
    "senior": false
   },
@@ -5017,6 +5067,23 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477857",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "joe:111477911",
+   "source": "joe",
+   "institution": "Southern Methodist University",
+   "title": "Associate and Full Professor Position",
+   "location": "Dallas, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477911",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477795",
@@ -6723,6 +6790,25 @@
    "senior": true
   },
   {
+   "id": "joe:111477917",
+   "source": "joe",
+   "institution": "World Bank Group",
+   "title": "WBG Young Professional (Economics Related)",
+   "location": "United States",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-09-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477917",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477658",
    "source": "joe",
    "institution": "Yale School of the Environment",
@@ -6896,6 +6982,111 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12662",
+   "source": "ejm",
+   "institution": "Department of Economics, Stanford University",
+   "title": "Assistant Professor, Economics",
+   "location": "Stanford, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12662",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12667",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Cleveland",
+   "title": "Senior Economist/Economic Policy Advisor",
+   "location": "Cleveland, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-15",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12667",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12670",
+   "source": "ejm",
+   "institution": "Kellogg School of Management, Northwestern University",
+   "title": "Assistant Professor, Behavioral Economics/Business Economics/Finance",
+   "location": "Evanston, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12670",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12672",
+   "source": "ejm",
+   "institution": "Department of Economics, Stellenbosch University",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Development; Growth/Economic History/Industrial Organization/Labor; Demographic Economics/Political Economy/Public Economics",
+   "location": "Stellenbosch, ZA",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-08",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12672",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12604",
+   "source": "ejm",
+   "institution": "Economics, University of Toronto",
+   "title": "Assistant Professor, Economics",
+   "location": "Toronto, CA",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12604",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12664",
+   "source": "ejm",
+   "institution": "School of Business and Economics, Maastricht University",
+   "title": "Assistant Professor, Development; Growth/International Finance/Macro/International Trade/Macroeconomics; Monetary",
+   "location": "Maastricht, NL",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12664",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12673",
+   "source": "ejm",
+   "institution": "CNA",
+   "title": "Research Analyst (Economist)",
+   "location": "Arlington, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12673",
    "predoc": false,
    "senior": false
   }

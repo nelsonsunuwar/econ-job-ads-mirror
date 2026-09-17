@@ -48,6 +48,58 @@ def fetch_ejm():
     return ads
 
 
+BROWSER_UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
+
+
+def get_browser(url, timeout=30):
+    req = urllib.request.Request(url, headers=BROWSER_UA)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8", errors="replace")
+
+
+def supplement_ejm_from_site(have_ids):
+    """FAILSAFE: EJM's public JSON feed omits some live ads (recruiters opt in;
+    e.g. Stanford's 2026-09-17 TT ad never appeared). Crawl the site's own
+    /positions listing (paginated), and for ids the feed missed, build records
+    from each position page's schema.org JobPosting JSON-LD.
+    Returns (records, site_id_count)."""
+    site_ids = []
+    for page in range(1, 9):
+        html = get_browser(f"https://econjobmarket.org/positions?page={page}")
+        ids = list(dict.fromkeys(re.findall(r"/positions/(\d+)", html)))
+        new = [i for i in ids if i not in site_ids]
+        if not new:
+            break
+        site_ids.extend(new)
+    missing = [i for i in site_ids if i not in have_ids][:25]  # politeness cap
+    records = []
+    for pid in missing:
+        try:
+            html = get_browser(f"https://econjobmarket.org/positions/{pid}")
+            m = re.search(r'<script type="application/ld\+json">(.*?)</script>', html, re.S)
+            if not m:
+                continue
+            j = json.loads(m.group(1))
+            loc = (j.get("jobLocation") or [{}])[0].get("address", {})
+            city = (loc.get("addressLocality") or "").title()
+            records.append({
+                "id": f"ejm:{pid}",
+                "source": "ejm",
+                "institution": (j.get("hiringOrganization") or {}).get("name"),
+                "title": j.get("title"),
+                "location": ", ".join(x for x in [city, loc.get("addressCountry")] if x),
+                "fields": [],
+                "position_types": [],
+                "section": None,
+                "deadline": (j.get("validThrough") or "")[:10] or None,
+                "posted": (j.get("datePosted") or "")[:10] or None,
+                "url": f"https://econjobmarket.org/positions/{pid}",
+            })
+        except Exception:  # noqa: BLE001 — one bad page must not kill the sweep
+            continue
+    return records, len(site_ids)
+
+
 def fetch_joe():
     xml = get("https://www.aeaweb.org/joe/resultset_output.php?mode=full_xml")
     root = ET.fromstring(xml)
@@ -176,6 +228,29 @@ def main():
             all_ads.extend(ads)
         except Exception as e:  # noqa: BLE001 — a broken source must not kill the rest
             status[name] = {"status": f"error: {type(e).__name__}: {e}", "count": 0}
+    # FAILSAFE 1: catch EJM ads the public feed omits, via the site listing.
+    if status.get("ejm", {}).get("status") == "ok":
+        try:
+            have = {a["id"].split(":")[1] for a in all_ads if a["source"] == "ejm"}
+            extra, site_n = supplement_ejm_from_site(have)
+            all_ads.extend(extra)
+            status["ejm"]["count"] += len(extra)
+            status["ejm"]["site_listing"] = site_n
+            status["ejm"]["site_extra"] = len(extra)
+        except Exception as e:  # noqa: BLE001
+            status["ejm"]["status"] = f"warning: site supplement failed: {type(e).__name__}: {e}"
+
+    # FAILSAFE 2: a source whose count collapses versus the last snapshot
+    # probably means silent parser/format breakage — surface it in the digest.
+    try:
+        prev = json.load(open(OUT))["sources"]
+        for name, s in status.items():
+            old = prev.get(name, {}).get("count", 0)
+            if s["status"] == "ok" and old >= 20 and s["count"] < old * 0.5:
+                s["status"] = f"warning: count dropped {old}->{s['count']} (possible parser breakage)"
+    except Exception:  # noqa: BLE001 — no previous snapshot is fine
+        pass
+
     for ad in all_ads:
         ad["predoc"] = is_predoc(ad)
         ad["senior"] = is_senior(ad)
