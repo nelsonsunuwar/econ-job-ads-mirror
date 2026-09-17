@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-17T00:52:14Z",
+ "generated_at": "2026-09-17T09:38:38Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 113
+   "count": 118
   },
   "joe": {
    "status": "ok",
-   "count": 239
+   "count": 238
   },
   "econjobs": {
    "status": "ok",
@@ -2381,6 +2381,108 @@
    "senior": false
   },
   {
+   "id": "ejm:12651",
+   "source": "ejm",
+   "institution": "Cornell University",
+   "title": "Assistant Professor in International Trade",
+   "location": "Ithaca, US",
+   "fields": [
+    "International Trade"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-07",
+   "posted": "2026-09-16",
+   "url": "https://econjobmarket.org/positions/12651",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12652",
+   "source": "ejm",
+   "institution": "Hebrew University of Jerusalem",
+   "title": "Tenure track faculty position",
+   "location": "Rehovot, IL",
+   "fields": [
+    "Environmental; Ag. Econ."
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-09-16",
+   "url": "https://econjobmarket.org/positions/12652",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12653",
+   "source": "ejm",
+   "institution": "University of St. Gallen",
+   "title": "Assistant Professor (Tenure Track) in Macroeconomics",
+   "location": "St. Gallen, CH",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-16",
+   "url": "https://econjobmarket.org/positions/12653",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12654",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Cleveland",
+   "title": "Economist/Senior Economist/Economic Policy Advisor",
+   "location": "Cleveland, US",
+   "fields": [
+    "Industrial Organization",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Any field",
+    "Urban; Rural; Regional Economics",
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-09-16",
+   "url": "https://econjobmarket.org/positions/12654",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12658",
+   "source": "ejm",
+   "institution": "Cornell University",
+   "title": "Associate or Full Professor in Industrial Organization",
+   "location": "Ithaca, US",
+   "fields": [
+    "Industrial Organization"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-07",
+   "posted": "2026-09-16",
+   "url": "https://econjobmarket.org/positions/12658",
+   "predoc": false,
+   "senior": true
+  },
+  {
    "id": "joe:111477663",
    "source": "joe",
    "institution": "America First Policy Institute",
@@ -4683,23 +4785,6 @@
    "deadline": "2027-07-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477544",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "joe:111477568",
-   "source": "joe",
-   "institution": "Princeton University",
-   "title": "Postdoctoral Research Associate",
-   "location": "Princeton, United States",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-09-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477568",
    "predoc": false,
    "senior": false
   },
