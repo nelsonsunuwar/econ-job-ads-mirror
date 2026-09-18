@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T14:38:17Z",
+ "generated_at": "2026-09-18T19:10:51Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -4358,7 +4358,7 @@
    "id": "joe:111477719",
    "source": "joe",
    "institution": "Massachusetts Institute of Technology",
-   "title": "Postdoctoral Associate, Education Programs",
+   "title": "Postdoctoral Associate, Charter Schools",
    "location": "Cambridge, United States",
    "fields": [
     "D0 General",
@@ -4874,7 +4874,7 @@
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2027-03-01",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477860",
    "predoc": false,
