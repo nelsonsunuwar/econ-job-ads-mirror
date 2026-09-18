@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T09:11:06Z",
+ "generated_at": "2026-09-18T14:38:17Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -9,7 +9,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 255
+   "count": 264
   },
   "econjobs": {
    "status": "ok",
@@ -2611,6 +2611,28 @@
    "senior": false
   },
   {
+   "id": "joe:111477855",
+   "source": "joe",
+   "institution": "Ahmedabad University",
+   "title": "Assistant Professor/ Associate/ Full Professor - Economics",
+   "location": "AHMEDABAD, India",
+   "fields": [
+    "A1 General Economics",
+    "F International Economics",
+    "G0 General",
+    "I1 Health",
+    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-07-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477855",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477663",
    "source": "joe",
    "institution": "America First Policy Institute",
@@ -2884,6 +2906,31 @@
    "deadline": "2027-03-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477640",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477854",
+   "source": "joe",
+   "institution": "Central Bank of the Republic of Türkiye",
+   "title": "Economist",
+   "location": "Istanbul, Turkey",
+   "fields": [
+    "C5 Econometric Modeling",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-10-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477854",
    "predoc": false,
    "senior": false
   },
@@ -3584,6 +3631,24 @@
    "senior": false
   },
   {
+   "id": "joe:111477937",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Cleveland",
+   "title": "Senior Economist/Economic Policy Advisor/Senior Economic Policy Advisor",
+   "location": "Cleveland, United States",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "E3 Prices, Business Fluctuations, and Cycles"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477937",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477730",
    "source": "joe",
    "institution": "Federal Reserve Bank of New York",
@@ -4069,6 +4134,31 @@
    "senior": false
   },
   {
+   "id": "joe:111477945",
+   "source": "joe",
+   "institution": "Keystone",
+   "title": "Full Time Economist 2027",
+   "location": "Boston, United States; New York, United States; San Francisco, United States; Seattle, United States; Washington, United States; London, United Kingdom",
+   "fields": [
+    "C1 Econometric and Statistical Methods and Methodology:  General",
+    "C5 Econometric Modeling",
+    "C7 Game Theory and Bargaining Theory",
+    "D4 Market Structure, Pricing, and Design",
+    "D9 Micro-Based Behavioral Economics",
+    "G4 Behavioral Finance",
+    "L0 General",
+    "L1 Market Structure, Firm Strategy, and Market Performance",
+    "L2 Firm Objectives, Organization, and Behavior"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477945",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477716",
    "source": "joe",
    "institution": "Kiel Institute for the World Economy",
@@ -4102,6 +4192,23 @@
    "deadline": "2026-12-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477595",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477862",
+   "source": "joe",
+   "institution": "Lewis &amp; Clark College",
+   "title": "Assistant Professor of Data Science",
+   "location": "Portland, United States",
+   "fields": [
+    "C Mathematical and Quantitative Methods"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477862",
    "predoc": false,
    "senior": false
   },
@@ -4248,6 +4355,24 @@
    "senior": false
   },
   {
+   "id": "joe:111477719",
+   "source": "joe",
+   "institution": "Massachusetts Institute of Technology",
+   "title": "Postdoctoral Associate, Education Programs",
+   "location": "Cambridge, United States",
+   "fields": [
+    "D0 General",
+    "I2 Education and Research Institutions"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-10-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477719",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477651",
    "source": "joe",
    "institution": "Mathematica, Inc.",
@@ -4314,6 +4439,24 @@
    "deadline": "2026-11-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477736",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477858",
+   "source": "joe",
+   "institution": "Milligan University",
+   "title": "Assistant/Associate Professor of Economics",
+   "location": "Milligan, United States",
+   "fields": [
+    "A General Economics and Teaching",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477858",
    "predoc": false,
    "senior": false
   },
@@ -4536,6 +4679,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477648",
+   "source": "joe",
+   "institution": "National Taipei University",
+   "title": "Assistant Professor or Above",
+   "location": "New Taipei City, Taiwan",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477648",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477721",
    "source": "joe",
    "institution": "National Tsing Hua University",
@@ -4700,6 +4860,23 @@
    "deadline": "2026-10-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477822",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477860",
+   "source": "joe",
+   "institution": "North Carolina State University",
+   "title": "Assistant Professor",
+   "location": "Raleigh, United States",
+   "fields": [
+    "E0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477860",
    "predoc": false,
    "senior": false
   },
