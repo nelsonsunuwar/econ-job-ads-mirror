@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-18T00:46:25Z",
+ "generated_at": "2026-09-18T09:11:06Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 126,
    "site_listing": 113,
-   "site_extra": 8
+   "site_extra": 2
   },
   "joe": {
    "status": "ok",
@@ -17,25 +17,6 @@
   }
  },
  "ads": [
-  {
-   "id": "ejm:11797",
-   "source": "ejm",
-   "institution": "University of California, Davis",
-   "title": "Assistant Professor of Agricultural and Resource Economics",
-   "location": "Davis, US",
-   "fields": [
-    "Environmental; Ag. Econ."
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2025-11-03",
-   "posted": "2025-09-19",
-   "url": "https://econjobmarket.org/positions/11797",
-   "predoc": false,
-   "senior": false
-  },
   {
    "id": "ejm:11803",
    "source": "ejm",
@@ -1501,6 +1482,25 @@
    "senior": true
   },
   {
+   "id": "ejm:12604",
+   "source": "ejm",
+   "institution": "University of Toronto",
+   "title": "Assistant Professor, Teaching Stream - Economics",
+   "location": "Toronto, CA",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12604",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12605",
    "source": "ejm",
    "institution": "Northwestern University",
@@ -2483,6 +2483,132 @@
    "url": "https://econjobmarket.org/positions/12658",
    "predoc": false,
    "senior": true
+  },
+  {
+   "id": "ejm:12662",
+   "source": "ejm",
+   "institution": "Stanford University",
+   "title": "Assistant Professor in Economics",
+   "location": "STANFORD, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12662",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12664",
+   "source": "ejm",
+   "institution": "Maastricht University",
+   "title": "Assistant Professor in Macroeconomics (tenure-track)",
+   "location": "Maastricht, NL",
+   "fields": [
+    "Development; Growth",
+    "International Finance/Macro",
+    "International Trade",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12664",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12667",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Cleveland",
+   "title": "Senior Economist/Economic Policy Advisor/Senior Economic Policy Advisor",
+   "location": "Cleveland, US",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2027-01-15",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12667",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12670",
+   "source": "ejm",
+   "institution": "Northwestern University",
+   "title": "Assistant Professor in Finance",
+   "location": "Evanston, US",
+   "fields": [
+    "Finance",
+    "Behavioral Economics",
+    "Business Economics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12670",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12672",
+   "source": "ejm",
+   "institution": "Stellenbosch University",
+   "title": "Postdoctoral Fellowships (x2): Economic Growth",
+   "location": "Stellenbosch, ZA",
+   "fields": [
+    "Development; Growth",
+    "Economic History",
+    "Industrial Organization",
+    "Labor; Demographic Economics",
+    "Public Economics",
+    "Behavioral Economics",
+    "Political Economy",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-08",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12672",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12673",
+   "source": "ejm",
+   "institution": "CNA",
+   "title": "Research Analyst (Economist)",
+   "location": "Arlington, US",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12673",
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477663",
@@ -7234,96 +7360,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12662",
-   "source": "ejm",
-   "institution": "Department of Economics, Stanford University",
-   "title": "Assistant Professor, Economics",
-   "location": "Stanford, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12662",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12667",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Cleveland",
-   "title": "Senior Economist/Economic Policy Advisor",
-   "location": "Cleveland, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-15",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12667",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12670",
-   "source": "ejm",
-   "institution": "Kellogg School of Management, Northwestern University",
-   "title": "Assistant Professor, Behavioral Economics/Business Economics/Finance",
-   "location": "Evanston, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12670",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12672",
-   "source": "ejm",
-   "institution": "Department of Economics, Stellenbosch University",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Development; Growth/Economic History/Industrial Organization/Labor; Demographic Economics/Political Economy/Public Economics",
-   "location": "Stellenbosch, ZA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-08",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12672",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12604",
-   "source": "ejm",
-   "institution": "Economics, University of Toronto",
-   "title": "Assistant Professor, Economics",
-   "location": "Toronto, CA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12604",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12664",
-   "source": "ejm",
-   "institution": "School of Business and Economics, Maastricht University",
-   "title": "Assistant Professor, Development; Growth/International Finance/Macro/International Trade/Macroeconomics; Monetary",
-   "location": "Maastricht, NL",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12664",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12674",
    "source": "ejm",
    "institution": "Business School, IE University",
@@ -7339,17 +7375,17 @@
    "senior": false
   },
   {
-   "id": "ejm:12673",
+   "id": "ejm:11797",
    "source": "ejm",
-   "institution": "CNA",
-   "title": "Research Analyst (Economist)",
-   "location": "Arlington, US",
+   "institution": "Agricultural and Resource Economics, University of California, Davis",
+   "title": "Assistant Professor of Agricultural and Resource Economics",
+   "location": "Davis, US",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12673",
+   "deadline": "2025-11-03",
+   "posted": "2025-09-19",
+   "url": "https://econjobmarket.org/positions/11797",
    "predoc": false,
    "senior": false
   }
