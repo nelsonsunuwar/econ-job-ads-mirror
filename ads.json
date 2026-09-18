@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-17T19:50:35Z",
+ "generated_at": "2026-09-18T00:46:25Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 125,
+   "count": 126,
    "site_listing": 113,
-   "site_extra": 7
+   "site_extra": 8
   },
   "joe": {
    "status": "ok",
@@ -7320,6 +7320,21 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-17",
    "url": "https://econjobmarket.org/positions/12664",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12674",
+   "source": "ejm",
+   "institution": "Business School, IE University",
+   "title": "Assistant Professor, Finance",
+   "location": "Madrid, ES",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-18",
+   "url": "https://econjobmarket.org/positions/12674",
    "predoc": false,
    "senior": false
   },
