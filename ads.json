@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-18T19:10:51Z",
+ "generated_at": "2026-09-19T00:36:41Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 126,
-   "site_listing": 113,
-   "site_extra": 2
+   "count": 130,
+   "site_listing": 117,
+   "site_extra": 6
   },
   "joe": {
    "status": "ok",
@@ -7537,6 +7537,51 @@
    "senior": false
   },
   {
+   "id": "ejm:12680",
+   "source": "ejm",
+   "institution": "College of Agricultural and Environmental Sciences, University of California, Davis",
+   "title": "Associate Professor/Full Professor, Environmental; Ag. Econ.",
+   "location": "Davis, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-06-30",
+   "posted": "2026-09-18",
+   "url": "https://econjobmarket.org/positions/12680",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "ejm:12681",
+   "source": "ejm",
+   "institution": "School of Banking and Finance, University of New South Wales (UNSW), Sydney",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
+   "location": "Sydney, AU",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-09-19",
+   "url": "https://econjobmarket.org/positions/12681",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12679",
+   "source": "ejm",
+   "institution": "Keystone Strategy",
+   "title": "Consultant, Applied microeconomics/Behavioral Economics/Business Economics/Computational Economics/Decision Sciences/Econometrics/Experimental Economics/Industrial Organization/Marketing/Micr",
+   "location": "London, GB",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-18",
+   "url": "https://econjobmarket.org/positions/12679",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12674",
    "source": "ejm",
    "institution": "Business School, IE University",
@@ -7552,17 +7597,32 @@
    "senior": false
   },
   {
-   "id": "ejm:11797",
+   "id": "ejm:12683",
    "source": "ejm",
-   "institution": "Agricultural and Resource Economics, University of California, Davis",
-   "title": "Assistant Professor of Agricultural and Resource Economics",
-   "location": "Davis, US",
+   "institution": "Institute for Economic Research, Kyoto University",
+   "title": "Assistant Professor/Associate Professor, Economics",
+   "location": "Kyoto, JP",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2025-11-03",
-   "posted": "2025-09-19",
-   "url": "https://econjobmarket.org/positions/11797",
+   "deadline": "2026-11-06",
+   "posted": "2026-09-19",
+   "url": "https://econjobmarket.org/positions/12683",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12684",
+   "source": "ejm",
+   "institution": "Community Development, Federal Reserve Bank of St. Louis",
+   "title": "Community Development Research Fellow",
+   "location": "",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-09",
+   "posted": "2026-09-19",
+   "url": "https://econjobmarket.org/positions/12684",
    "predoc": false,
    "senior": false
   }
