@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-19T00:36:41Z",
+ "generated_at": "2026-09-19T08:57:55Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 130,
    "site_listing": 117,
-   "site_extra": 6
+   "site_extra": 3
   },
   "joe": {
    "status": "ok",
-   "count": 264
+   "count": 263
   },
   "econjobs": {
    "status": "ok",
@@ -2611,6 +2611,74 @@
    "senior": false
   },
   {
+   "id": "ejm:12674",
+   "source": "ejm",
+   "institution": "IE University",
+   "title": "Tenure-Track Assistant Professor in Finance 2027-2028",
+   "location": "Madrid, ES",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-18",
+   "url": "https://econjobmarket.org/positions/12674",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12679",
+   "source": "ejm",
+   "institution": "Keystone Strategy",
+   "title": "Economist",
+   "location": "London, GB",
+   "fields": [
+    "Econometrics",
+    "Experimental Economics",
+    "Industrial Organization",
+    "Behavioral Economics",
+    "Business Economics",
+    "Computational Economics",
+    "Decision Sciences",
+    "Marketing",
+    "Organizational Behavior",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Consultant"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-18",
+   "url": "https://econjobmarket.org/positions/12679",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12680",
+   "source": "ejm",
+   "institution": "University of California, Davis",
+   "title": "Associate/Full Professor of Agricultural Economics",
+   "location": "Davis, US",
+   "fields": [
+    "Environmental; Ag. Econ."
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-06-30",
+   "posted": "2026-09-18",
+   "url": "https://econjobmarket.org/positions/12680",
+   "predoc": false,
+   "senior": true
+  },
+  {
    "id": "joe:111477855",
    "source": "joe",
    "institution": "Ahmedabad University",
@@ -3886,23 +3954,6 @@
    "deadline": "2026-11-03",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477645",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "joe:111477542",
-   "source": "joe",
-   "institution": "Harvard University",
-   "title": "Harvard Academy Scholar",
-   "location": "Cambridge, United States",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-09-18",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477542",
    "predoc": false,
    "senior": false
   },
@@ -7537,21 +7588,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12680",
-   "source": "ejm",
-   "institution": "College of Agricultural and Environmental Sciences, University of California, Davis",
-   "title": "Associate Professor/Full Professor, Environmental; Ag. Econ.",
-   "location": "Davis, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-06-30",
-   "posted": "2026-09-18",
-   "url": "https://econjobmarket.org/positions/12680",
-   "predoc": false,
-   "senior": true
-  },
-  {
    "id": "ejm:12681",
    "source": "ejm",
    "institution": "School of Banking and Finance, University of New South Wales (UNSW), Sydney",
@@ -7563,36 +7599,6 @@
    "deadline": "2027-01-31",
    "posted": "2026-09-19",
    "url": "https://econjobmarket.org/positions/12681",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12679",
-   "source": "ejm",
-   "institution": "Keystone Strategy",
-   "title": "Consultant, Applied microeconomics/Behavioral Economics/Business Economics/Computational Economics/Decision Sciences/Econometrics/Experimental Economics/Industrial Organization/Marketing/Micr",
-   "location": "London, GB",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-09-18",
-   "url": "https://econjobmarket.org/positions/12679",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12674",
-   "source": "ejm",
-   "institution": "Business School, IE University",
-   "title": "Assistant Professor, Finance",
-   "location": "Madrid, ES",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-18",
-   "url": "https://econjobmarket.org/positions/12674",
    "predoc": false,
    "senior": false
   },
