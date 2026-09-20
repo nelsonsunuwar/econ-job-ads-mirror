@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-19T18:52:42Z",
+ "generated_at": "2026-09-20T00:22:19Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 130,
-   "site_listing": 117,
-   "site_extra": 3
+   "count": 131,
+   "site_listing": 118,
+   "site_extra": 4
   },
   "joe": {
    "status": "ok",
@@ -7599,6 +7599,21 @@
    "deadline": "2027-01-31",
    "posted": "2026-09-19",
    "url": "https://econjobmarket.org/positions/12681",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12688",
+   "source": "ejm",
+   "institution": "Einaudi Institute for Economics and Finance",
+   "title": "Assistant Professor, Economics",
+   "location": "Rome, IT",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-09-20",
+   "url": "https://econjobmarket.org/positions/12688",
    "predoc": false,
    "senior": false
   },
