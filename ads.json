@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-20T00:22:19Z",
+ "generated_at": "2026-09-20T09:26:42Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 131,
    "site_listing": 118,
-   "site_extra": 4
+   "site_extra": 3
   },
   "joe": {
    "status": "ok",
@@ -861,25 +861,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12566",
-   "source": "ejm",
-   "institution": "Berlin Social Science Center (WZB)",
-   "title": "Director (f/m/x) for the study of international relations, broadly understood",
-   "location": "Berlin, DE",
-   "fields": [
-    "Political Economy"
-   ],
-   "position_types": [
-    "Other academic"
-   ],
-   "section": null,
-   "deadline": "2026-09-20",
-   "posted": "2026-08-06",
-   "url": "https://econjobmarket.org/positions/12566",
-   "predoc": false,
-   "senior": true
-  },
-  {
    "id": "ejm:12569",
    "source": "ejm",
    "institution": "OECD (Organisation for Economic Co-operation and Development)",
@@ -1162,26 +1143,6 @@
    "deadline": "2027-01-31",
    "posted": "2026-08-20",
    "url": "https://econjobmarket.org/positions/12584",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12585",
-   "source": "ejm",
-   "institution": "Monash University",
-   "title": "Monash University - Postdoctoral Research Fellow",
-   "location": "Caulfield East, AU",
-   "fields": [
-    "Development; Growth",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-09-16",
-   "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12585",
    "predoc": false,
    "senior": false
   },
@@ -2677,6 +2638,69 @@
    "url": "https://econjobmarket.org/positions/12680",
    "predoc": false,
    "senior": true
+  },
+  {
+   "id": "ejm:12681",
+   "source": "ejm",
+   "institution": "University of New South Wales (UNSW), Sydney",
+   "title": "Tenure-track faculty in Finance, UNSW Business School",
+   "location": "Sydney, AU",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-09-19",
+   "url": "https://econjobmarket.org/positions/12681",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12683",
+   "source": "ejm",
+   "institution": "Kyoto University",
+   "title": "Tenure Track Assistant/Associate Professor, Institute of Economic Research",
+   "location": "Kyoto, JP",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-09-19",
+   "url": "https://econjobmarket.org/positions/12683",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12684",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of St. Louis",
+   "title": "Community Development Research Fellow",
+   "location": "",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Any field",
+    "Urban; Rural; Regional Economics",
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-10-09",
+   "posted": "2026-09-19",
+   "url": "https://econjobmarket.org/positions/12684",
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477855",
@@ -7588,19 +7612,19 @@
    "senior": false
   },
   {
-   "id": "ejm:12681",
+   "id": "ejm:12566",
    "source": "ejm",
-   "institution": "School of Banking and Finance, University of New South Wales (UNSW), Sydney",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
-   "location": "Sydney, AU",
+   "institution": "Berlin Social Science Center (WZB)",
+   "title": "Director (f/m/x) for the Study of International Relations",
+   "location": "Berlin, DE",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-09-19",
-   "url": "https://econjobmarket.org/positions/12681",
+   "deadline": "2026-09-20",
+   "posted": "2026-08-06",
+   "url": "https://econjobmarket.org/positions/12566",
    "predoc": false,
-   "senior": false
+   "senior": true
   },
   {
    "id": "ejm:12688",
@@ -7618,32 +7642,17 @@
    "senior": false
   },
   {
-   "id": "ejm:12683",
+   "id": "ejm:12585",
    "source": "ejm",
-   "institution": "Institute for Economic Research, Kyoto University",
-   "title": "Assistant Professor/Associate Professor, Economics",
-   "location": "Kyoto, JP",
+   "institution": "Department of Economics, Monash University",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Development; Growth",
+   "location": "Caulfield East, AU",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-09-19",
-   "url": "https://econjobmarket.org/positions/12683",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12684",
-   "source": "ejm",
-   "institution": "Community Development, Federal Reserve Bank of St. Louis",
-   "title": "Community Development Research Fellow",
-   "location": "",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-09",
-   "posted": "2026-09-19",
-   "url": "https://econjobmarket.org/positions/12684",
+   "deadline": "2026-09-16",
+   "posted": "2026-08-21",
+   "url": "https://econjobmarket.org/positions/12585",
    "predoc": false,
    "senior": false
   }
