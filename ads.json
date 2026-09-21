@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T19:02:10Z",
+ "generated_at": "2026-09-21T00:29:03Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -7612,19 +7612,19 @@
    "senior": false
   },
   {
-   "id": "ejm:12566",
+   "id": "ejm:12665",
    "source": "ejm",
-   "institution": "Berlin Social Science Center (WZB)",
-   "title": "Director (f/m/x) for the Study of International Relations",
-   "location": "Berlin, DE",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Development; Growth/Econometrics/Health; Education; Welfare/Industrial Organization/Labor; Demographic Economics/Public Econo",
+   "location": "London, GB",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-09-20",
-   "posted": "2026-08-06",
-   "url": "https://econjobmarket.org/positions/12566",
+   "deadline": "2026-11-15",
+   "posted": "2026-09-21",
+   "url": "https://econjobmarket.org/positions/12665",
    "predoc": false,
-   "senior": true
+   "senior": false
   },
   {
    "id": "ejm:12688",
@@ -7642,17 +7642,17 @@
    "senior": false
   },
   {
-   "id": "ejm:12585",
+   "id": "ejm:12657",
    "source": "ejm",
-   "institution": "Department of Economics, Monash University",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Development; Growth",
-   "location": "Caulfield East, AU",
+   "institution": "Economics, Massachusetts Institute of Technology",
+   "title": "Assistant Professor/Associate Professor, Economics",
+   "location": "Cambridge, US",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-09-16",
-   "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12585",
+   "deadline": "2026-11-06",
+   "posted": "2026-09-21",
+   "url": "https://econjobmarket.org/positions/12657",
    "predoc": false,
    "senior": false
   }
