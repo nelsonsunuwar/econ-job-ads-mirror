@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T10:11:54Z",
+ "generated_at": "2026-09-21T16:35:03Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -9,7 +9,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 262
+   "count": 280
   },
   "econjobs": {
    "status": "ok",
@@ -2282,10 +2282,10 @@
    "id": "ejm:12650",
    "source": "ejm",
    "institution": "McGill University",
-   "title": "Assistant Professor, Any Field",
+   "title": "Assistant Professor, Theory",
    "location": "Montreal, CA",
    "fields": [
-    "Any field"
+    "Microeconomic theory"
    ],
    "position_types": [
     "Assistant Professor"
@@ -2778,6 +2778,27 @@
    "senior": false
   },
   {
+   "id": "joe:111477873",
+   "source": "joe",
+   "institution": "Bank of Japan",
+   "title": "Economist",
+   "location": "Tokyo, Japan",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics",
+    "O Economic Development, Innovation, Technological Change, and Growth"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477873",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477746",
    "source": "joe",
    "institution": "Bates White Economic Consulting",
@@ -2799,6 +2820,30 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477746",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "joe:111477955",
+   "source": "joe",
+   "institution": "Bentley University",
+   "title": "Endowed Bartlett Chair Professor/Associate Professor, (Free Enterprise)",
+   "location": "Waltham, United States",
+   "fields": [
+    "I3 Welfare, Well-Being, and Poverty",
+    "K2 Regulation and Business Law",
+    "L1 Market Structure, Firm Strategy, and Market Performance",
+    "L2 Firm Objectives, Organization, and Behavior",
+    "L3 Nonprofit Organizations and Public Enterprise",
+    "L4 Antitrust Issues and Policies",
+    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights",
+    "P1 Capitalist Economies"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477955",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477571",
@@ -3022,6 +3067,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477872",
+   "source": "joe",
+   "institution": "China Europe International Business School",
+   "title": "Faculty Positions (Open Rank) in Economics at CEIBS",
+   "location": "Shanghai, China",
+   "fields": [
+    "D Microeconomics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477872",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477624",
    "source": "joe",
    "institution": "City University of Hong Kong",
@@ -3205,6 +3267,25 @@
    "senior": false
   },
   {
+   "id": "joe:111477876",
+   "source": "joe",
+   "institution": "Compass Lexecon",
+   "title": "Senior Economist - PhD",
+   "location": "Chicago, United States; Washington, United States",
+   "fields": [
+    "D0 General",
+    "G0 General",
+    "L0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477876",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477801",
    "source": "joe",
    "institution": "Cornell University",
@@ -3237,6 +3318,25 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477802",
    "predoc": false,
    "senior": true
+  },
+  {
+   "id": "joe:111477880",
+   "source": "joe",
+   "institution": "Cornell University",
+   "title": "Assistant Professor",
+   "location": "Ithaca, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "F0 General",
+    "F1 Trade"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477880",
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477674",
@@ -3470,6 +3570,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477881",
+   "source": "joe",
+   "institution": "Duke University",
+   "title": "Clarence F. Korstian Professor of Forest Economics &amp; Management",
+   "location": "Durham, United States",
+   "fields": [
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477881",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477596",
    "source": "joe",
    "institution": "Duke University",
@@ -3520,6 +3637,29 @@
    "deadline": "2027-01-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477744",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477882",
+   "source": "joe",
+   "institution": "Emory University",
+   "title": "Advanced Assistant Professor or Associate Professor",
+   "location": "Atlanta, United States",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",
+    "J2 Demand and Supply of Labor",
+    "J6 Mobility, Unemployment, Vacancies, and Immigrant Workers",
+    "K3 Other Substantive Areas of Law",
+    "L5 Regulation and Industrial Policy",
+    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477882",
    "predoc": false,
    "senior": false
   },
@@ -4107,6 +4247,24 @@
    "senior": false
   },
   {
+   "id": "joe:111477878",
+   "source": "joe",
+   "institution": "Iowa State University",
+   "title": "Adjunct Assistant Professor",
+   "location": "Ames, United States",
+   "fields": [
+    "L Industrial Organization",
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Part-time or Adjunct)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477878",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477599",
    "source": "joe",
    "institution": "Japan Fair Trade Commission",
@@ -4120,6 +4278,23 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477599",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477884",
+   "source": "joe",
+   "institution": "Johns Hopkins University",
+   "title": "SNF Agora Academy Postdoctoral Fellowship",
+   "location": "Baltimore, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-05",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477884",
    "predoc": false,
    "senior": false
   },
@@ -4274,6 +4449,30 @@
    "deadline": "2026-11-13",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477821",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477885",
+   "source": "joe",
+   "institution": "Louisiana State University",
+   "title": "Assistant Professor",
+   "location": "Baton Rouge, United States",
+   "fields": [
+    "D Microeconomics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization",
+    "Q4 Energy",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-24",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477885",
    "predoc": false,
    "senior": false
   },
@@ -4590,6 +4789,37 @@
    "deadline": "2026-10-09",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477576",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477887",
+   "source": "joe",
+   "institution": "National Association of Insurance Commissioners (NAIC)",
+   "title": "Postdoctoral Research Positions",
+   "location": "Kansas City, United States",
+   "fields": [
+    "C5 Econometric Modeling",
+    "C8 Data Collection and Data Estimation Methodology; Computer Programs",
+    "C9 Design of Experiments",
+    "D8 Information, Knowledge, and Uncertainty",
+    "D9 Micro-Based Behavioral Economics",
+    "E4 Money and Interest Rates",
+    "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",
+    "G0 General",
+    "G2 Financial Institutions and Services",
+    "G4 Behavioral Finance",
+    "G5 Household Finance",
+    "I1 Health",
+    "J1 Demographic Economics",
+    "N4 Government, War, Law, International Relations, and Regulation",
+    "Q4 Energy"
+   ],
+   "position_types": [],
+   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
+   "deadline": "2026-10-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477887",
    "predoc": false,
    "senior": false
   },
@@ -5073,6 +5303,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477871",
+   "source": "joe",
+   "institution": "Peking University",
+   "title": "Assistant Professor/Associate Professor/Full Professor",
+   "location": "Beijing, China",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-22",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477871",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477790",
    "source": "joe",
    "institution": "Peking University HSBC Business School",
@@ -5086,6 +5333,23 @@
    "deadline": "2026-12-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477790",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477879",
+   "source": "joe",
+   "institution": "Pennsylvania State University",
+   "title": "Assistant Professor of Agribusiness Management",
+   "location": "University Park, United States",
+   "fields": [
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477879",
    "predoc": false,
    "senior": false
   },
@@ -5431,6 +5695,23 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477682",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477869",
+   "source": "joe",
+   "institution": "Shanghai Jiao Tong University",
+   "title": "Assistant Professor in Finance",
+   "location": "Shanghai, China",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-29",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477869",
    "predoc": false,
    "senior": false
   },
@@ -6572,6 +6853,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477874",
+   "source": "joe",
+   "institution": "University of Chicago Booth School of Business",
+   "title": "Assistant/Associate Professor of Finance",
+   "location": "Chicago, United States",
+   "fields": [
+    "G0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477874",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477762",
    "source": "joe",
    "institution": "University of Chile",
@@ -6638,6 +6936,23 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477635",
    "predoc": false,
    "senior": true
+  },
+  {
+   "id": "joe:111477865",
+   "source": "joe",
+   "institution": "University of Cyprus",
+   "title": "Tenure-track Lecturer or Assistant Professor in Economics",
+   "location": "Nicosia, Cyprus",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477865",
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477776",
@@ -7314,6 +7629,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477875",
+   "source": "joe",
+   "institution": "Wilfrid Laurier University",
+   "title": "Assistant Professor (Tenure Track)",
+   "location": "Waterloo, Canada",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477875",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477782",
    "source": "joe",
    "institution": "Williams College",
@@ -7387,6 +7719,23 @@
    "deadline": "2026-09-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477917",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477866",
+   "source": "joe",
+   "institution": "Xiamen University",
+   "title": "Tenured &amp; Tenure Track Open Rank Full-Time Faculty",
+   "location": "Xiamen, China",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477866",
    "predoc": false,
    "senior": false
   },
