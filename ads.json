@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-21T16:35:03Z",
+ "generated_at": "2026-09-21T20:33:56Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 131,
-   "site_listing": 118,
-   "site_extra": 4
+   "count": 132,
+   "site_listing": 119,
+   "site_extra": 5
   },
   "joe": {
    "status": "ok",
@@ -7913,6 +7913,21 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12694",
+   "source": "ejm",
+   "institution": "School of Economics, University College Dublin",
+   "title": "Assistant Professor, Economics",
+   "location": "Belfield, IE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-09-21",
+   "url": "https://econjobmarket.org/positions/12694",
    "predoc": false,
    "senior": false
   },
