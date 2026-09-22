@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-21T20:33:56Z",
+ "generated_at": "2026-09-22T01:08:12Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 132,
-   "site_listing": 119,
-   "site_extra": 5
+   "count": 135,
+   "site_listing": 122,
+   "site_extra": 8
   },
   "joe": {
    "status": "ok",
@@ -7917,6 +7917,66 @@
    "senior": false
   },
   {
+   "id": "ejm:12696",
+   "source": "ejm",
+   "institution": "School of Global Policy and Strategy, University of California, San Diego",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "La Jolla, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-08-30",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12696",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12695",
+   "source": "ejm",
+   "institution": "Département des sciences économiques, Université du Québec à Montréal (UQAM)",
+   "title": "Assistant Professor/Associate Professor/Full Professor, International Finance/Macro",
+   "location": "Montréal, CA",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-18",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12695",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12691",
+   "source": "ejm",
+   "institution": "CUNEF Universidad",
+   "title": "Assistant Professor, Economics",
+   "location": "Madrid, ES",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12691",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12692",
+   "source": "ejm",
+   "institution": "Institute for Employment Research",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Econometrics/Health; Education; Welfare/Labor; Demographic Economics",
+   "location": "90478 Nürnberg, DE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12692",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12694",
    "source": "ejm",
    "institution": "School of Economics, University College Dublin",
@@ -7962,34 +8022,19 @@
    "senior": false
   },
   {
-   "id": "ejm:11803",
+   "id": "ejm:12693",
    "source": "ejm",
-   "institution": "School of Social Sciences, Nanyang Technological University",
-   "title": "Lecturer (Teaching Track) for Nanyang Centre for Public Administration",
-   "location": "Singapore, SG",
+   "institution": "School of Economics, University College Dublin",
+   "title": "Associate Professor, Environmental; Ag. Econ.",
+   "location": "Belfield, IE",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-09-21",
-   "posted": "2025-09-22",
-   "url": "https://econjobmarket.org/positions/11803",
+   "deadline": "2026-10-13",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12693",
    "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12537",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Fribourg",
-   "title": "Professorship in Applied Microeconomics (Open Rank)",
-   "location": "Fribourg, CH",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-09-21",
-   "posted": "2026-07-01",
-   "url": "https://econjobmarket.org/positions/12537",
-   "predoc": false,
-   "senior": false
+   "senior": true
   }
  ]
 }
