@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-22T01:08:12Z",
+ "generated_at": "2026-09-22T09:28:18Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 135,
    "site_listing": 122,
-   "site_extra": 8
+   "site_extra": 5
   },
   "joe": {
    "status": "ok",
@@ -2380,6 +2380,26 @@
    "senior": false
   },
   {
+   "id": "ejm:12657",
+   "source": "ejm",
+   "institution": "Massachusetts Institute of Technology",
+   "title": "Assistant or Untenured Associate Professor – Tenure Track",
+   "location": "Cambridge, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-09-21",
+   "url": "https://econjobmarket.org/positions/12657",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12658",
    "source": "ejm",
    "institution": "Cornell University",
@@ -2437,6 +2457,32 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-17",
    "url": "https://econjobmarket.org/positions/12664",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12665",
+   "source": "ejm",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Postdoctoral Fellow",
+   "location": "London, GB",
+   "fields": [
+    "Development; Growth",
+    "Econometrics",
+    "Industrial Organization",
+    "Labor; Demographic Economics",
+    "Public Economics",
+    "Behavioral Economics",
+    "Health; Education; Welfare",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-21",
+   "url": "https://econjobmarket.org/positions/12665",
    "predoc": false,
    "senior": false
   },
@@ -2672,6 +2718,25 @@
    "deadline": "2026-11-13",
    "posted": "2026-09-20",
    "url": "https://econjobmarket.org/positions/12688",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12694",
+   "source": "ejm",
+   "institution": "University College Dublin",
+   "title": "Lecturer/Assistant Professor",
+   "location": "Belfield, IE",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-09-21",
+   "url": "https://econjobmarket.org/positions/12694",
    "predoc": false,
    "senior": false
   },
@@ -7973,51 +8038,6 @@
    "deadline": "2026-11-20",
    "posted": "2026-09-22",
    "url": "https://econjobmarket.org/positions/12692",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12694",
-   "source": "ejm",
-   "institution": "School of Economics, University College Dublin",
-   "title": "Assistant Professor, Economics",
-   "location": "Belfield, IE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-09-21",
-   "url": "https://econjobmarket.org/positions/12694",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12665",
-   "source": "ejm",
-   "institution": "Institute for Fiscal Studies",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Development; Growth/Econometrics/Health; Education; Welfare/Industrial Organization/Labor; Demographic Economics/Public Econo",
-   "location": "London, GB",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-21",
-   "url": "https://econjobmarket.org/positions/12665",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12657",
-   "source": "ejm",
-   "institution": "Economics, Massachusetts Institute of Technology",
-   "title": "Assistant Professor/Associate Professor, Economics",
-   "location": "Cambridge, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-09-21",
-   "url": "https://econjobmarket.org/positions/12657",
    "predoc": false,
    "senior": false
   },
