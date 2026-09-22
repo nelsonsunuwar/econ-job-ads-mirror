@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-22T15:09:40Z",
+ "generated_at": "2026-09-22T19:52:34Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 135,
-   "site_listing": 122,
-   "site_extra": 5
+   "count": 137,
+   "site_listing": 124,
+   "site_extra": 6
   },
   "joe": {
    "status": "ok",
@@ -2587,6 +2587,25 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-18",
    "url": "https://econjobmarket.org/positions/12674",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12675",
+   "source": "ejm",
+   "institution": "Lebanese American University",
+   "title": "Tenure-Track Faculty Position in Economics",
+   "location": "Byblos, LB",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-30",
+   "posted": "2026-09-21",
+   "url": "https://econjobmarket.org/positions/12675",
    "predoc": false,
    "senior": false
   },
@@ -6680,7 +6699,7 @@
    "title": "Professor of Finance (Assistant, Associate, and Full) 2026-27",
    "location": "Austin, United States",
    "fields": [
-    "G2 Financial Institutions and Services"
+    "G Financial Economics"
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
@@ -8254,6 +8273,21 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-22",
    "url": "https://econjobmarket.org/positions/12691",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12668",
+   "source": "ejm",
+   "institution": "Department of Economics, Ben-Gurion University of the Negev",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "Be'Er Sheva, IL",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12668",
    "predoc": false,
    "senior": false
   },
