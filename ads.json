@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-22T19:52:34Z",
+ "generated_at": "2026-09-23T00:55:02Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 137,
-   "site_listing": 124,
-   "site_extra": 6
+   "count": 138,
+   "site_listing": 125,
+   "site_extra": 7
   },
   "joe": {
    "status": "ok",
@@ -6838,7 +6838,7 @@
    ],
    "position_types": [],
    "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2027-01-07",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477851",
    "predoc": false,
@@ -8303,6 +8303,21 @@
    "deadline": "2026-11-20",
    "posted": "2026-09-22",
    "url": "https://econjobmarket.org/positions/12692",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12678",
+   "source": "ejm",
+   "institution": "Department of Economics, Washington University in St. Louis",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "St. Louis, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12678",
    "predoc": false,
    "senior": false
   },
