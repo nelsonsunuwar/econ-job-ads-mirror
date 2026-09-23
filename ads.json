@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-23T15:10:58Z",
+ "generated_at": "2026-09-23T19:47:57Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 137,
-   "site_listing": 125,
-   "site_extra": 1
+   "count": 140,
+   "site_listing": 128,
+   "site_extra": 4
   },
   "joe": {
    "status": "ok",
@@ -8633,6 +8633,51 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12699",
+   "source": "ejm",
+   "institution": "Finance, Goethe-Universität Frankfurt am Main",
+   "title": "Postdoctoral Scholar, Finance",
+   "location": "Frankfurt Am Main, DE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-18",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12699",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12698",
+   "source": "ejm",
+   "institution": "École Supérieure d’Etudes Internationales, Université Laval",
+   "title": "Assistant Professor/Associate Professor/Full Professor, International Finance/Macro/International Trade/Law and Economics/Political Economy",
+   "location": "Quebec City, CA",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12698",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12682",
+   "source": "ejm",
+   "institution": "Good Business Lab",
+   "title": "Research Fellow",
+   "location": "Delhi, IN",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-12",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12682",
    "predoc": false,
    "senior": false
   },
