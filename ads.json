@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-23T00:55:02Z",
+ "generated_at": "2026-09-23T09:31:21Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 138,
+   "count": 137,
    "site_listing": 125,
-   "site_extra": 7
+   "site_extra": 1
   },
   "joe": {
    "status": "ok",
@@ -571,25 +571,6 @@
    "url": "https://econjobmarket.org/positions/12550",
    "predoc": false,
    "senior": true
-  },
-  {
-   "id": "ejm:12551",
-   "source": "ejm",
-   "institution": "University of Oxford",
-   "title": "Nuffield Postdoctoral Research Fellowships",
-   "location": "Oxford, GB",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-09-23",
-   "posted": "2026-07-23",
-   "url": "https://econjobmarket.org/positions/12551",
-   "predoc": false,
-   "senior": false
   },
   {
    "id": "ejm:12552",
@@ -2161,25 +2142,6 @@
    "senior": true
   },
   {
-   "id": "ejm:12644",
-   "source": "ejm",
-   "institution": "Universidad de Salamanca",
-   "title": "Urgent: Postdoc Position in Environmental Economics - Deadline 22 Sept",
-   "location": "Salamanca, ES",
-   "fields": [
-    "Environmental; Ag. Econ."
-   ],
-   "position_types": [
-    "Research Assistant"
-   ],
-   "section": null,
-   "deadline": "2026-09-22",
-   "posted": "2026-09-12",
-   "url": "https://econjobmarket.org/positions/12644",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12645",
    "source": "ejm",
    "institution": "Universíté de Montréal",
@@ -2506,6 +2468,27 @@
    "senior": false
   },
   {
+   "id": "ejm:12668",
+   "source": "ejm",
+   "institution": "Ben-Gurion University of the Negev",
+   "title": "Open-rank Tenure-Track position in Economics",
+   "location": "Be'er Sheva, IL",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12668",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12670",
    "source": "ejm",
    "institution": "Northwestern University",
@@ -2606,6 +2589,27 @@
    "deadline": "2026-12-30",
    "posted": "2026-09-21",
    "url": "https://econjobmarket.org/positions/12675",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12678",
+   "source": "ejm",
+   "institution": "Washington University in St. Louis",
+   "title": "Assistant, Associate or Full Professor of Economics",
+   "location": "St. Louis, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12678",
    "predoc": false,
    "senior": false
   },
@@ -2741,6 +2745,66 @@
    "senior": false
   },
   {
+   "id": "ejm:12691",
+   "source": "ejm",
+   "institution": "CUNEF Universidad",
+   "title": "Assistant Professor positions",
+   "location": "Madrid, ES",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12691",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12692",
+   "source": "ejm",
+   "institution": "Institute for Employment Research",
+   "title": "Research Associate in Labor Economics",
+   "location": "90478 Nürnberg, DE",
+   "fields": [
+    "Econometrics",
+    "Labor; Demographic Economics",
+    "Health; Education; Welfare",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12692",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12693",
+   "source": "ejm",
+   "institution": "University College Dublin",
+   "title": "Associate Professor in Economics (Environmental Economics)",
+   "location": "Belfield, IE",
+   "fields": [
+    "Environmental; Ag. Econ."
+   ],
+   "position_types": [
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-10-13",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12693",
+   "predoc": false,
+   "senior": true
+  },
+  {
    "id": "ejm:12694",
    "source": "ejm",
    "institution": "University College Dublin",
@@ -2756,6 +2820,48 @@
    "deadline": "2026-11-20",
    "posted": "2026-09-21",
    "url": "https://econjobmarket.org/positions/12694",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12695",
+   "source": "ejm",
+   "institution": "Université du Québec à Montréal (UQAM)",
+   "title": "Professor in international economics (any level)",
+   "location": "Montréal, CA",
+   "fields": [
+    "International Finance/Macro"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-18",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12695",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12696",
+   "source": "ejm",
+   "institution": "University of California, San Diego",
+   "title": "Assistant/Associate/Full Professor of Economics",
+   "location": "La Jolla, US",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-08-30",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12696",
    "predoc": false,
    "senior": false
   },
@@ -8232,109 +8338,19 @@
    "senior": false
   },
   {
-   "id": "ejm:12696",
+   "id": "ejm:12551",
    "source": "ejm",
-   "institution": "School of Global Policy and Strategy, University of California, San Diego",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "La Jolla, US",
+   "institution": "Economics, University of Oxford",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Oxford, GB",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-08-30",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12696",
+   "deadline": "2026-09-23",
+   "posted": "2026-07-23",
+   "url": "https://econjobmarket.org/positions/12551",
    "predoc": false,
    "senior": false
-  },
-  {
-   "id": "ejm:12695",
-   "source": "ejm",
-   "institution": "Département des sciences économiques, Université du Québec à Montréal (UQAM)",
-   "title": "Assistant Professor/Associate Professor/Full Professor, International Finance/Macro",
-   "location": "Montréal, CA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12695",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12691",
-   "source": "ejm",
-   "institution": "CUNEF Universidad",
-   "title": "Assistant Professor, Economics",
-   "location": "Madrid, ES",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12691",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12668",
-   "source": "ejm",
-   "institution": "Department of Economics, Ben-Gurion University of the Negev",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Be'Er Sheva, IL",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12668",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12692",
-   "source": "ejm",
-   "institution": "Institute for Employment Research",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Econometrics/Health; Education; Welfare/Labor; Demographic Economics",
-   "location": "90478 Nürnberg, DE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12692",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12678",
-   "source": "ejm",
-   "institution": "Department of Economics, Washington University in St. Louis",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "St. Louis, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12678",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12693",
-   "source": "ejm",
-   "institution": "School of Economics, University College Dublin",
-   "title": "Associate Professor, Environmental; Ag. Econ.",
-   "location": "Belfield, IE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-13",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12693",
-   "predoc": false,
-   "senior": true
   }
  ]
 }
