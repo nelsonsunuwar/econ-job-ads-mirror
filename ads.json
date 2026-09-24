@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T19:47:57Z",
+ "generated_at": "2026-09-24T00:52:12Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -9,7 +9,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 308
+   "count": 309
   },
   "econjobs": {
    "status": "ok",
@@ -46,7 +46,7 @@
     "Development; Growth",
     "Econometrics",
     "Economic History",
-    "Environmental; Ag. Econ.",
+    "Environmental; Energy; Ag. Econ",
     "Experimental Economics",
     "Finance",
     "Industrial Organization",
@@ -194,7 +194,7 @@
    "title": "Postdoctoral Position Available in Environmental Economics",
    "location": "Guangzhou, CN",
    "fields": [
-    "Environmental; Ag. Econ."
+    "Environmental; Energy; Ag. Econ"
    ],
    "position_types": [
     "Postdoctoral Scholar"
@@ -381,7 +381,7 @@
    "location": "Cergy-Pontoise, FR",
    "fields": [
     "Econometrics",
-    "Environmental; Ag. Econ.",
+    "Environmental; Energy; Ag. Econ",
     "Public Economics",
     "Behavioral Economics",
     "Any field",
@@ -623,7 +623,7 @@
    "location": "Burnaby, CA",
    "fields": [
     "Econometrics",
-    "Environmental; Ag. Econ.",
+    "Environmental; Energy; Ag. Econ",
     "Industrial Organization",
     "International Trade",
     "Urban; Rural; Regional Economics"
@@ -849,7 +849,7 @@
    "title": "PhD position in Economics: renewable energy auctions",
    "location": "Louvain-la -Neuve, BE",
    "fields": [
-    "Environmental; Ag. Econ.",
+    "Environmental; Energy; Ag. Econ",
     "Industrial Organization",
     "Microeconomic theory"
    ],
@@ -889,7 +889,7 @@
    "title": "Assistant Professor of International and Public Affairs",
    "location": "New York, US",
    "fields": [
-    "Environmental; Ag. Econ."
+    "Environmental; Energy; Ag. Econ"
    ],
    "position_types": [
     "Assistant Professor"
@@ -1588,7 +1588,7 @@
    "title": "Faculty Position in Applied Economics",
    "location": "Kunshan, CN",
    "fields": [
-    "Environmental; Ag. Econ.",
+    "Environmental; Energy; Ag. Econ",
     "Labor; Demographic Economics",
     "Health; Education; Welfare",
     "Applied microeconomics"
@@ -1635,7 +1635,7 @@
    "title": "Assistant Professor - Economic Analysis & Policy - Haas School of Business",
    "location": "Berkeley, US",
    "fields": [
-    "Environmental; Ag. Econ.",
+    "Environmental; Energy; Ag. Econ",
     "Industrial Organization",
     "Macroeconomics; Monetary",
     "Public Economics",
@@ -2088,7 +2088,7 @@
    "title": "PhD scholarship in Sustainable Finance with Focus on Climate Banking",
    "location": "Kgs. Lyngby, DK",
    "fields": [
-    "Environmental; Ag. Econ.",
+    "Environmental; Energy; Ag. Econ",
     "Insurance",
     "Real Estate"
    ],
@@ -2285,7 +2285,7 @@
    "title": "Tenure track faculty position",
    "location": "Rehovot, IL",
    "fields": [
-    "Environmental; Ag. Econ."
+    "Environmental; Energy; Ag. Econ"
    ],
    "position_types": [
     "Assistant Professor"
@@ -2649,7 +2649,7 @@
    "title": "Associate/Full Professor of Agricultural Economics",
    "location": "Davis, US",
    "fields": [
-    "Environmental; Ag. Econ."
+    "Environmental; Energy; Ag. Econ"
    ],
    "position_types": [
     "Associate Professor",
@@ -2792,7 +2792,7 @@
    "title": "Associate Professor in Economics (Environmental Economics)",
    "location": "Belfield, IE",
    "fields": [
-    "Environmental; Ag. Econ."
+    "Environmental; Energy; Ag. Econ"
    ],
    "position_types": [
     "Associate Professor"
@@ -4972,6 +4972,23 @@
    "deadline": "2027-02-20",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477707",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477883",
+   "source": "joe",
+   "institution": "Massachusetts Institute of Technology",
+   "title": "Assistant or Untenured Associate Professor – Tenure Track",
+   "location": "Cambridge, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-06",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477883",
    "predoc": false,
    "senior": false
   },
@@ -8652,6 +8669,21 @@
    "senior": false
   },
   {
+   "id": "ejm:12704",
+   "source": "ejm",
+   "institution": "Economics, University of Virginia",
+   "title": "Assistant Professor, Industrial Organization/Microeconomic theory",
+   "location": "Charlottesville, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-09-24",
+   "url": "https://econjobmarket.org/positions/12704",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12698",
    "source": "ejm",
    "institution": "École Supérieure d’Etudes Internationales, Université Laval",
@@ -8678,21 +8710,6 @@
    "deadline": "2026-10-12",
    "posted": "2026-09-23",
    "url": "https://econjobmarket.org/positions/12682",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12551",
-   "source": "ejm",
-   "institution": "Economics, University of Oxford",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Oxford, GB",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-09-23",
-   "posted": "2026-07-23",
-   "url": "https://econjobmarket.org/positions/12551",
    "predoc": false,
    "senior": false
   }
