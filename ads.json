@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T09:30:34Z",
+ "generated_at": "2026-09-24T15:29:43Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -9,7 +9,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 309
+   "count": 335
   },
   "econjobs": {
    "status": "ok",
@@ -3155,6 +3155,25 @@
    "senior": false
   },
   {
+   "id": "joe:111477820",
+   "source": "joe",
+   "institution": "Ben-Gurion University of the Negev",
+   "title": "Lecturer/Senior Lecturer/Associate/Full Professor",
+   "location": "Beer-Sheva, Israel",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477820",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477955",
    "source": "joe",
    "institution": "Bentley University",
@@ -3356,6 +3375,31 @@
    "senior": false
   },
   {
+   "id": "joe:111477864",
+   "source": "joe",
+   "institution": "California State University, Fullerton",
+   "title": "Tenure Track Assistant Professor of Economics",
+   "location": "Fullerton, United States",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "F1 Trade",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477864",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477640",
    "source": "joe",
    "institution": "Center for Global Development",
@@ -3549,6 +3593,41 @@
    "deadline": "2026-10-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477916",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477940",
+   "source": "joe",
+   "institution": "Colgate University",
+   "title": "Behavioral Economics",
+   "location": "Hamilton, United States",
+   "fields": [
+    "D Microeconomics",
+    "D9 Micro-Based Behavioral Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477940",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477942",
+   "source": "joe",
+   "institution": "Colgate University",
+   "title": "Gender Economics",
+   "location": "Hamilton, United States",
+   "fields": [
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477942",
    "predoc": false,
    "senior": false
   },
@@ -4343,6 +4422,87 @@
    "senior": false
   },
   {
+   "id": "joe:111477936",
+   "source": "joe",
+   "institution": "Financial Institutions &amp; Services",
+   "title": "2027 Summer Intern - Masters Quant Research Analyst",
+   "location": "Newport Beach, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-14",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477936",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477935",
+   "source": "joe",
+   "institution": "Financial Institutions &amp; Services",
+   "title": "2027 Summer Intern – PhD Quant Research Analyst",
+   "location": "Newport Beach, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-14",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477935",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477938",
+   "source": "joe",
+   "institution": "Financial Institutions &amp; Services",
+   "title": "2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst",
+   "location": "Newport Beach, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "E0 General",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-14",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477938",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477939",
+   "source": "joe",
+   "institution": "Financial Institutions &amp; Services",
+   "title": "MFE/2027 PhD Summer Intern – Quantitative Portfolio Management",
+   "location": "Newport Beach, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-14",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477939",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477725",
    "source": "joe",
    "institution": "Franklin &amp; Marshall College",
@@ -4395,6 +4555,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477932",
+   "source": "joe",
+   "institution": "George Washington University School of Business",
+   "title": "Assistant Professor of Finance",
+   "location": "Washington, United States",
+   "fields": [
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477932",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477823",
    "source": "joe",
    "institution": "Getulio Vargas Foundation",
@@ -4408,6 +4585,24 @@
    "deadline": "2026-11-16",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477823",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477930",
+   "source": "joe",
+   "institution": "Halle Institute for Economic Research (IWH), Otto von Guericke Universitaet",
+   "title": "Assistant Professor (W1) in Financial Economics",
+   "location": "Halle (Saale), Germany",
+   "fields": [
+    "G Financial Economics",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-29",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477930",
    "predoc": false,
    "senior": false
   },
@@ -4510,6 +4705,23 @@
    "deadline": "2026-11-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477780",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477950",
+   "source": "joe",
+   "institution": "Harvard Kennedy School",
+   "title": "Energy and Climate Change (tenure-track and/or lecturer)",
+   "location": "Cambridge, United States",
+   "fields": [
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477950",
    "predoc": false,
    "senior": false
   },
@@ -4735,6 +4947,26 @@
    "senior": false
   },
   {
+   "id": "joe:111477941",
+   "source": "joe",
+   "institution": "James Madison University",
+   "title": "Assistant Professor",
+   "location": "Harrisonburg, United States",
+   "fields": [
+    "H Public Economics",
+    "L Industrial Organization",
+    "Q4 Energy",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477941",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477599",
    "source": "joe",
    "institution": "Japan Fair Trade Commission",
@@ -4765,6 +4997,23 @@
    "deadline": "2026-11-05",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477884",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477928",
+   "source": "joe",
+   "institution": "Johns Hopkins University",
+   "title": "Assistant/Associate/Full Professor (Open Field)",
+   "location": "Baltimore, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477928",
    "predoc": false,
    "senior": false
   },
@@ -4867,6 +5116,23 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477716",
    "predoc": false,
    "senior": true
+  },
+  {
+   "id": "joe:111477812",
+   "source": "joe",
+   "institution": "KnowKancer, Inc.",
+   "title": "Senior Research Scientist, Cancer Risk + Pathway Intelligence",
+   "location": "United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
+   "deadline": "2026-10-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477812",
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "joe:111477870",
@@ -5111,6 +5377,23 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477631",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477943",
+   "source": "joe",
+   "institution": "Massachusetts Institute of Technology",
+   "title": "Postdoctoral Associate, AI in Education",
+   "location": "Cambridge, United States",
+   "fields": [
+    "I2 Education and Research Institutions"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-10-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477943",
    "predoc": false,
    "senior": false
   },
@@ -5546,6 +5829,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477929",
+   "source": "joe",
+   "institution": "National Taiwan University",
+   "title": "Assistant Professor Level or Above",
+   "location": "Taipei, Taiwan",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477929",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477721",
    "source": "joe",
    "institution": "National Tsing Hua University",
@@ -5785,6 +6085,25 @@
    "senior": false
   },
   {
+   "id": "joe:111477944",
+   "source": "joe",
+   "institution": "Northwestern University",
+   "title": "Postdoctoral Research Fellow",
+   "location": "Evanston, United States",
+   "fields": [
+    "H7 State and Local Government; Intergovernmental Relations",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477944",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477633",
    "source": "joe",
    "institution": "Northwestern University",
@@ -5957,6 +6276,23 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477741",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477951",
+   "source": "joe",
+   "institution": "Pittsburg State University",
+   "title": "Assistant or Associate Professor of Economics",
+   "location": "Pittsburg, United States",
+   "fields": [
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477951",
    "predoc": false,
    "senior": false
   },
@@ -6551,6 +6887,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478020",
+   "source": "joe",
+   "institution": "Stanford University",
+   "title": "Assistant Professor",
+   "location": "Stanford, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-06",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478020",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477197",
    "source": "joe",
    "institution": "Stanford University (US) and Heidelberg University (Germany)",
@@ -6983,6 +7336,29 @@
    "senior": true
   },
   {
+   "id": "joe:111478023",
+   "source": "joe",
+   "institution": "The Truepenny Project",
+   "title": "Paid referee for a working paper on cross-country income comparison",
+   "location": "France; Germany; United States",
+   "fields": [
+    "C8 Data Collection and Data Estimation Methodology; Computer Programs",
+    "D3 Distribution",
+    "H5 National Government Expenditures and Related Policies",
+    "I3 Welfare, Well-Being, and Poverty",
+    "J1 Demographic Economics",
+    "J3 Wages, Compensation, and Labor Costs",
+    "P5 Comparative Economic Systems"
+   ],
+   "position_types": [],
+   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
+   "deadline": "2026-10-02",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478023",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477827",
    "source": "joe",
    "institution": "The University of Alabama",
@@ -7253,6 +7629,25 @@
    "senior": false
   },
   {
+   "id": "joe:111477946",
+   "source": "joe",
+   "institution": "Universidad de los Andes",
+   "title": "Assistant or Associate Professor in Finance or Accounting",
+   "location": "Bogotá D.C, Colombia",
+   "fields": [
+    "G0 General",
+    "M2 Business Economics",
+    "M4 Accounting and Auditing"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-09-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477946",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477492",
    "source": "joe",
    "institution": "Universidad del CEMA (UCEMA)",
@@ -7275,6 +7670,39 @@
    "deadline": "2026-10-22",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477492",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477947",
+   "source": "joe",
+   "institution": "Universidad EAFIT",
+   "title": "Tenure-Track Assistant/Associate Professor — (3 positions)",
+   "location": "Medellin, Colombia",
+   "fields": [
+    "D2 Production and Organizations",
+    "D7 Analysis of Collective Decision-Making",
+    "E4 Money and Interest Rates",
+    "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",
+    "F3 International Finance",
+    "G2 Financial Institutions and Services",
+    "G3 Corporate Finance and Governance",
+    "H1 Structure and Scope of Government",
+    "H7 State and Local Government; Intergovernmental Relations",
+    "H8 Miscellaneous Issues",
+    "L1 Market Structure, Firm Strategy, and Market Performance",
+    "L9 Industry Studies: Transportation and Utilities",
+    "M5 Personnel Economics",
+    "O1 Economic Development",
+    "O4 Economic Growth and Aggregate Productivity",
+    "Q4 Energy",
+    "R3 Real Estate Markets, Spatial Production Analysis, and Firm Location"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477947",
    "predoc": false,
    "senior": false
   },
@@ -7453,6 +7881,24 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477738",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "joe:111477952",
+   "source": "joe",
+   "institution": "University of California Davis",
+   "title": "Associate/Full Professor of Agricultural Economics",
+   "location": "Davis, United States",
+   "fields": [
+    "Q1 Agriculture",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477952",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477622",
@@ -7736,6 +8182,51 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477868",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477924",
+   "source": "joe",
+   "institution": "University of Hawaii at Mānoa",
+   "title": "Assistant Professor (Geoeconomics)",
+   "location": "Honolulu, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "C Mathematical and Quantitative Methods",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477924",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477949",
+   "source": "joe",
+   "institution": "University of Illinois at Urbana-Champaign",
+   "title": "Assistant Professor",
+   "location": "Urbana, United States; Champaign, United States; Urbana-Champaign, United States; Champaign-Urbana, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "Z0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-12",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477949",
    "predoc": false,
    "senior": false
   },
@@ -8272,6 +8763,28 @@
    "deadline": "2026-10-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477692",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477909",
+   "source": "joe",
+   "institution": "University of Zurich",
+   "title": "Assistant Professorship in Finance (with tenure-track)",
+   "location": "Zurich, Switzerland",
+   "fields": [
+    "G0 General",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services",
+    "G3 Corporate Finance and Governance",
+    "G4 Behavioral Finance",
+    "G5 Household Finance"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477909",
    "predoc": false,
    "senior": false
   },
