@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-24T00:52:12Z",
+ "generated_at": "2026-09-24T09:30:34Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 140,
+   "count": 141,
    "site_listing": 128,
-   "site_extra": 4
+   "site_extra": 1
   },
   "joe": {
    "status": "ok",
@@ -2684,6 +2684,26 @@
    "senior": false
   },
   {
+   "id": "ejm:12682",
+   "source": "ejm",
+   "institution": "Good Business Lab",
+   "title": "Research Fellow",
+   "location": "Delhi, IN",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Business Economics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-10-12",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12682",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12683",
    "source": "ejm",
    "institution": "Kyoto University",
@@ -2862,6 +2882,69 @@
    "deadline": "2027-08-30",
    "posted": "2026-09-22",
    "url": "https://econjobmarket.org/positions/12696",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12697",
+   "source": "ejm",
+   "institution": "University of Southern Denmark",
+   "title": "PhD scholarships in Economics at the Department of Economics, University of Sout",
+   "location": "Odense M, DK",
+   "fields": [
+    "Health; Education; Welfare",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Research Assistant"
+   ],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12697",
+   "predoc": true,
+   "senior": false
+  },
+  {
+   "id": "ejm:12698",
+   "source": "ejm",
+   "institution": "Université Laval",
+   "title": "Faculty position in Arctic defence and security",
+   "location": "Quebec City, CA",
+   "fields": [
+    "International Finance/Macro",
+    "International Trade",
+    "Law and Economics",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12698",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12699",
+   "source": "ejm",
+   "institution": "Goethe-Universität Frankfurt am Main",
+   "title": "Postdoctoral Researcher in Finance, Asset Pricing",
+   "location": "Frankfurt am Main, DE",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-18",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12699",
    "predoc": false,
    "senior": false
   },
@@ -8654,21 +8737,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12699",
-   "source": "ejm",
-   "institution": "Finance, Goethe-Universität Frankfurt am Main",
-   "title": "Postdoctoral Scholar, Finance",
-   "location": "Frankfurt Am Main, DE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-09-23",
-   "url": "https://econjobmarket.org/positions/12699",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12704",
    "source": "ejm",
    "institution": "Economics, University of Virginia",
@@ -8680,36 +8748,6 @@
    "deadline": "2026-11-10",
    "posted": "2026-09-24",
    "url": "https://econjobmarket.org/positions/12704",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12698",
-   "source": "ejm",
-   "institution": "École Supérieure d’Etudes Internationales, Université Laval",
-   "title": "Assistant Professor/Associate Professor/Full Professor, International Finance/Macro/International Trade/Law and Economics/Political Economy",
-   "location": "Quebec City, CA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-09-23",
-   "url": "https://econjobmarket.org/positions/12698",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12682",
-   "source": "ejm",
-   "institution": "Good Business Lab",
-   "title": "Research Fellow",
-   "location": "Delhi, IN",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-12",
-   "posted": "2026-09-23",
-   "url": "https://econjobmarket.org/positions/12682",
    "predoc": false,
    "senior": false
   }
