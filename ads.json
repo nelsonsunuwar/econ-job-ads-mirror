@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-24T20:07:12Z",
+ "generated_at": "2026-09-25T00:47:10Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 141,
-   "site_listing": 128,
-   "site_extra": 1
+   "count": 143,
+   "site_listing": 130,
+   "site_extra": 3
   },
   "joe": {
    "status": "ok",
@@ -3608,7 +3608,7 @@
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2027-01-15",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477940",
    "predoc": false,
@@ -3625,7 +3625,7 @@
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2027-01-15",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477942",
    "predoc": false,
@@ -7587,7 +7587,7 @@
    ],
    "position_types": [],
    "section": "Full-Time Nonacademic",
-   "deadline": "2026-09-16",
+   "deadline": "2026-10-07",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477699",
    "predoc": false,
@@ -9250,6 +9250,21 @@
    "senior": false
   },
   {
+   "id": "ejm:12705",
+   "source": "ejm",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Research Economist",
+   "location": "London, GB",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12705",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12704",
    "source": "ejm",
    "institution": "Economics, University of Virginia",
@@ -9261,6 +9276,21 @@
    "deadline": "2026-11-10",
    "posted": "2026-09-24",
    "url": "https://econjobmarket.org/positions/12704",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12708",
+   "source": "ejm",
+   "institution": "Philosophy, Politics and Economics Program, University of Pennsylvania",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Philadelphia, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-24",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12708",
    "predoc": false,
    "senior": false
   }
