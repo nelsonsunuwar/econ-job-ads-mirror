@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-26T00:51:48Z",
+ "generated_at": "2026-09-26T09:30:58Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 149,
+   "count": 150,
    "site_listing": 136,
-   "site_extra": 8
+   "site_extra": 4
   },
   "joe": {
    "status": "ok",
@@ -2401,6 +2401,26 @@
    "senior": false
   },
   {
+   "id": "ejm:12663",
+   "source": "ejm",
+   "institution": "Catholic University of Portugal",
+   "title": "Assistant Professor (tenure track) in Finance or Accounting",
+   "location": "Lisbon, PT",
+   "fields": [
+    "Finance",
+    "Accounting"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12663",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12664",
    "source": "ejm",
    "institution": "Maastricht University",
@@ -2965,6 +2985,92 @@
    "deadline": "2026-11-10",
    "posted": "2026-09-24",
    "url": "https://econjobmarket.org/positions/12704",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12705",
+   "source": "ejm",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Research Economist",
+   "location": "London, GB",
+   "fields": [
+    "Econometrics",
+    "Environmental; Energy; Ag. Econ",
+    "Business Economics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other academic",
+    "Other nonacademic",
+    "Research Assistant"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12705",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12707",
+   "source": "ejm",
+   "institution": "University of Fribourg",
+   "title": "Assistant Professorship (tenure-track) in Economics of Sustainability",
+   "location": "Fribourg, CH",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Public Economics",
+    "Other"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-05",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12707",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12708",
+   "source": "ejm",
+   "institution": "University of Pennsylvania",
+   "title": "Postdoctoral Fellowship in Philosophy, Politics and Economics",
+   "location": "Philadelphia, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-10-24",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12708",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12709",
+   "source": "ejm",
+   "institution": "University of British Columbia",
+   "title": "Tenure Track Position in International Trade and/or Industrial Organization",
+   "location": "Vancouver, CA",
+   "fields": [
+    "Industrial Organization",
+    "International Trade"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-09",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12709",
    "predoc": false,
    "senior": false
   },
@@ -9560,21 +9666,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12709",
-   "source": "ejm",
-   "institution": "Strategy and Business Economics, Sauder School of Business, University of British Columbia",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Industrial Organization/International Trade",
-   "location": "Vancouver, CA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-09",
-   "posted": "2026-09-25",
-   "url": "https://econjobmarket.org/positions/12709",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12711",
    "source": "ejm",
    "institution": "Economics, Sciences Po",
@@ -9605,36 +9696,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12705",
-   "source": "ejm",
-   "institution": "Institute for Fiscal Studies",
-   "title": "Research Economist",
-   "location": "London, GB",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-25",
-   "url": "https://econjobmarket.org/positions/12705",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12707",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Fribourg",
-   "title": "Assistant Professor, Environmental; Energy; Ag. Econ/Public Economics",
-   "location": "Fribourg, CH",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-05",
-   "posted": "2026-09-25",
-   "url": "https://econjobmarket.org/positions/12707",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12706",
    "source": "ejm",
    "institution": "École Supérieure d’Etudes Internationales, Université Laval",
@@ -9661,21 +9722,6 @@
    "deadline": "2026-10-31",
    "posted": "2026-09-26",
    "url": "https://econjobmarket.org/positions/12713",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12708",
-   "source": "ejm",
-   "institution": "Philosophy, Politics and Economics Program, University of Pennsylvania",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Philadelphia, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-24",
-   "posted": "2026-09-25",
-   "url": "https://econjobmarket.org/positions/12708",
    "predoc": false,
    "senior": false
   }
