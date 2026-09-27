@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-27T00:51:16Z",
+ "generated_at": "2026-09-27T10:11:46Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 150,
+   "count": 152,
    "site_listing": 136,
-   "site_extra": 4
+   "site_extra": 0
   },
   "joe": {
    "status": "ok",
@@ -3013,6 +3013,25 @@
    "senior": false
   },
   {
+   "id": "ejm:12706",
+   "source": "ejm",
+   "institution": "Université Laval",
+   "title": "Faculty Position in Global inequalities and trade",
+   "location": "Quebec City, CA",
+   "fields": [
+    "International Trade"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12706",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12707",
    "source": "ejm",
    "institution": "University of Fribourg",
@@ -3071,6 +3090,108 @@
    "deadline": "2026-11-09",
    "posted": "2026-09-25",
    "url": "https://econjobmarket.org/positions/12709",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12711",
+   "source": "ejm",
+   "institution": "Sciences Po",
+   "title": "Two Assistant professor positions in Sciences Po",
+   "location": "PARIS, FR",
+   "fields": [
+    "Econometrics",
+    "Behavioral Economics",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-09",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12711",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12712",
+   "source": "ejm",
+   "institution": "E.CA Economics",
+   "title": "Senior Associate (m/f/d) - Competition Economics Consultancy",
+   "location": "Berlin, DE",
+   "fields": [
+    "Econometrics",
+    "Industrial Organization",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Consultant"
+   ],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12712",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12713",
+   "source": "ejm",
+   "institution": "Technical University of Denmark",
+   "title": "Associate Professor or DTU Tenure Track Assistant Professor",
+   "location": "Kgs. Lyngby, DK",
+   "fields": [
+    "Management, General"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12713",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12714",
+   "source": "ejm",
+   "institution": "Stockholm School of Economics",
+   "title": "Two tenure track positions in Economics",
+   "location": "Stockholm, SE",
+   "fields": [
+    "Any field",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12714",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12715",
+   "source": "ejm",
+   "institution": "Bocconi University",
+   "title": "Two Assistant Professor Positions in Economics for Junior Candidates",
+   "location": "Milano, IT",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12715",
    "predoc": false,
    "senior": false
   },
@@ -9662,66 +9783,6 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12711",
-   "source": "ejm",
-   "institution": "Economics, Sciences Po",
-   "title": "Assistant Professor, Behavioral Economics/Econometrics/Microeconomic theory",
-   "location": "Paris, FR",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-09",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12711",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12714",
-   "source": "ejm",
-   "institution": "Department of Economics, Stockholm School of Economics",
-   "title": "Assistant Professor, Economics",
-   "location": "Stockholm, SE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12714",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12706",
-   "source": "ejm",
-   "institution": "École Supérieure d’Etudes Internationales, Université Laval",
-   "title": "Assistant Professor, International Trade",
-   "location": "Quebec City, CA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12706",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12713",
-   "source": "ejm",
-   "institution": "Management, Technical University of Denmark",
-   "title": "Assistant Professor/Associate Professor, Management, General",
-   "location": "Kgs. Lyngby, DK",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12713",
    "predoc": false,
    "senior": false
   }
