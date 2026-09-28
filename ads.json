@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-28T01:10:17Z",
+ "generated_at": "2026-09-28T11:13:06Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 155,
-   "site_listing": 139,
-   "site_extra": 3
+   "count": 156,
+   "site_listing": 140,
+   "site_extra": 6
   },
   "joe": {
    "status": "ok",
@@ -1319,25 +1319,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12601",
-   "source": "ejm",
-   "institution": "University of Bonn",
-   "title": "W2 Professorships (Bonn Junior Fellows)",
-   "location": "Bonn, DE",
-   "fields": [
-    "Other"
-   ],
-   "position_types": [
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-09-27",
-   "posted": "2026-08-27",
-   "url": "https://econjobmarket.org/positions/12601",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12602",
    "source": "ejm",
    "institution": "University of Toronto",
@@ -1454,26 +1435,6 @@
    "url": "https://econjobmarket.org/positions/12607",
    "predoc": false,
    "senior": true
-  },
-  {
-   "id": "ejm:12608",
-   "source": "ejm",
-   "institution": "Ghent University",
-   "title": "Professor in International Economics",
-   "location": "Gent, BE",
-   "fields": [
-    "Industrial Organization",
-    "International Trade"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-09-28",
-   "posted": "2026-08-29",
-   "url": "https://econjobmarket.org/positions/12608",
-   "predoc": false,
-   "senior": false
   },
   {
    "id": "ejm:12609",
@@ -9787,6 +9748,21 @@
    "senior": false
   },
   {
+   "id": "ejm:12608",
+   "source": "ejm",
+   "institution": "Department of Economics, Ghent University",
+   "title": "Assistant Professor, Industrial Organization/International Trade",
+   "location": "Gent, BE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-09-28",
+   "posted": "2026-08-29",
+   "url": "https://econjobmarket.org/positions/12608",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12718",
    "source": "ejm",
    "institution": "Economics, Queen's University",
@@ -9830,6 +9806,36 @@
    "url": "https://econjobmarket.org/positions/12702",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "ejm:12710",
+   "source": "ejm",
+   "institution": "Department of Economics, Ashoka University",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "Sonepat, IN",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12710",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12601",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Bonn",
+   "title": "Associate Professor, Economics",
+   "location": "Bonn, DE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-09-27",
+   "posted": "2026-08-27",
+   "url": "https://econjobmarket.org/positions/12601",
+   "predoc": false,
+   "senior": true
   }
  ]
 }
