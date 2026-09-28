@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-28T11:13:06Z",
+ "generated_at": "2026-09-28T22:16:14Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 156,
-   "site_listing": 140,
-   "site_extra": 6
+   "count": 160,
+   "site_listing": 145,
+   "site_extra": 11
   },
   "joe": {
    "status": "ok",
-   "count": 351
+   "count": 362
   },
   "econjobs": {
    "status": "ok",
@@ -1919,6 +1919,25 @@
    "senior": false
   },
   {
+   "id": "ejm:12634",
+   "source": "ejm",
+   "institution": "Leibniz Institute for Financial Research SAFE",
+   "title": "Postdoctoral Researcher in Finance (m/f/d)",
+   "location": "Frankfurt am Main, DE",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Research Assistant"
+   ],
+   "section": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-09-10",
+   "url": "https://econjobmarket.org/positions/12634",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12635",
    "source": "ejm",
    "institution": "Federal Reserve Bank of Cleveland",
@@ -2358,26 +2377,6 @@
    "deadline": "2026-11-06",
    "posted": "2026-09-17",
    "url": "https://econjobmarket.org/positions/12662",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12663",
-   "source": "ejm",
-   "institution": "Catholic University of Portugal",
-   "title": "Assistant Professor (tenure track) in Finance or Accounting",
-   "location": "Lisbon, PT",
-   "fields": [
-    "Finance",
-    "Accounting"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-25",
-   "url": "https://econjobmarket.org/positions/12663",
    "predoc": false,
    "senior": false
   },
@@ -3134,25 +3133,6 @@
    "deadline": "2026-11-16",
    "posted": "2026-09-26",
    "url": "https://econjobmarket.org/positions/12714",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12715",
-   "source": "ejm",
-   "institution": "Bocconi University",
-   "title": "Two Assistant Professor Positions in Economics for Junior Candidates",
-   "location": "Milano, IT",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12715",
    "predoc": false,
    "senior": false
   },
@@ -5209,6 +5189,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478049",
+   "source": "joe",
+   "institution": "Inter-American Development Bank",
+   "title": "Deputy Chief Economist",
+   "location": "Washington, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-10-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478049",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477878",
    "source": "joe",
    "institution": "Iowa State University",
@@ -5474,6 +5471,23 @@
    "deadline": "2026-12-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477595",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477889",
+   "source": "joe",
+   "institution": "Lebanese American University",
+   "title": "Tenure-Track Faculty Position in Economics",
+   "location": "Byblos, Lebanon",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477889",
    "predoc": false,
    "senior": false
   },
@@ -7514,6 +7528,40 @@
    "senior": false
   },
   {
+   "id": "joe:111477976",
+   "source": "joe",
+   "institution": "The American University in Cairo",
+   "title": "Assistant, Associate or Full Professor in Finance",
+   "location": "Cairo, Egypt",
+   "fields": [
+    "G1 General Financial Markets"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477976",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477980",
+   "source": "joe",
+   "institution": "The American University in Cairo",
+   "title": "Assistant, Associate or Full Professor",
+   "location": "Cairo, Egypt",
+   "fields": [
+    "C1 Econometric and Statistical Methods and Methodology:  General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477980",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477734",
    "source": "joe",
    "institution": "The Brattle Group",
@@ -7917,6 +7965,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478036",
+   "source": "joe",
+   "institution": "The University of Queensland",
+   "title": "Lecturer / Senior Lecturer in Economics",
+   "location": "Brisbane, Australia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478036",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477737",
    "source": "joe",
    "institution": "The University of Texas at Austin",
@@ -8155,6 +8220,44 @@
    "senior": false
   },
   {
+   "id": "joe:111477974",
+   "source": "joe",
+   "institution": "University College Dublin",
+   "title": "Lecturer/Assistant Professor in Economics",
+   "location": "Dublin, Ireland",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477974",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477973",
+   "source": "joe",
+   "institution": "University College Dublin",
+   "title": "Associate Professor in Economics",
+   "location": "Dublin, Ireland",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "Q2 Renewable Resources and Conservation",
+    "Q3 Nonrenewable Resources and Conservation",
+    "Q4 Energy",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477973",
+   "predoc": false,
+   "senior": true
+  },
+  {
    "id": "joe:111477748",
    "source": "joe",
    "institution": "University of Arizona",
@@ -8347,6 +8450,23 @@
    "senior": true
   },
   {
+   "id": "joe:111477987",
+   "source": "joe",
+   "institution": "University of California San Diego",
+   "title": "Assistant/Associate/Full Professor of Economics",
+   "location": "La Jolla, United States",
+   "fields": [
+    "F International Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-08-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477987",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477622",
    "source": "joe",
    "institution": "University of California San Diego",
@@ -8364,6 +8484,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477985",
+   "source": "joe",
+   "institution": "University of California, Berkeley",
+   "title": "Postdoctoral Scholar",
+   "location": "Berkeley, United States",
+   "fields": [
+    "D Microeconomics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Part-time or Adjunct)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477985",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477806",
    "source": "joe",
    "institution": "University of California, Los Angeles",
@@ -8375,7 +8512,7 @@
    ],
    "position_types": [],
    "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-10-09",
+   "deadline": "2026-11-11",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477806",
    "predoc": false,
@@ -9069,6 +9206,24 @@
    "senior": false
   },
   {
+   "id": "joe:111477983",
+   "source": "joe",
+   "institution": "University of Texas at Austin",
+   "title": "Assistant Professor",
+   "location": "Austin, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "E0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477983",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477756",
    "source": "joe",
    "institution": "University of Texas at Austin",
@@ -9261,6 +9416,23 @@
    "deadline": "2027-01-24",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477703",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477975",
+   "source": "joe",
+   "institution": "US Securities &amp; Exchange Commission",
+   "title": "Financial Economist",
+   "location": "Washington, United States",
+   "fields": [
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-03-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477975",
    "predoc": false,
    "senior": false
   },
@@ -9763,6 +9935,21 @@
    "senior": false
   },
   {
+   "id": "ejm:12700",
+   "source": "ejm",
+   "institution": "Análisis Económico y Economía Cuantitativa, Universidad Complutense de Madrid",
+   "title": "Assistant Professor/Postdoctoral Scholar, Economics",
+   "location": "Pozuelo De Alarcón, ES",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-11",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12700",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12718",
    "source": "ejm",
    "institution": "Economics, Queen's University",
@@ -9776,6 +9963,36 @@
    "url": "https://econjobmarket.org/positions/12718",
    "predoc": false,
    "senior": true
+  },
+  {
+   "id": "ejm:12719",
+   "source": "ejm",
+   "institution": "Swedish Institute for Social Research (SOFI), Stockholm University",
+   "title": "Assistant Professor, Labor; Demographic Economics",
+   "location": "Stockholm, SE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12719",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12669",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Michigan",
+   "title": "Assistant Professor, Economics",
+   "location": "Ann Arbor, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12669",
+   "predoc": false,
+   "senior": false
   },
   {
    "id": "ejm:12701",
@@ -9819,6 +10036,36 @@
    "deadline": "2026-11-30",
    "posted": "2026-09-28",
    "url": "https://econjobmarket.org/positions/12710",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12663",
+   "source": "ejm",
+   "institution": "Católica Lisbon School of Business and Economics, Catholic University of Portugal",
+   "title": "Assistant Professor, Accounting/Finance",
+   "location": "Lisbon, PT",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12663",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12715",
+   "source": "ejm",
+   "institution": "Economics, Bocconi University",
+   "title": "Assistant Professor, Economics",
+   "location": "Milano, IT",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12715",
    "predoc": false,
    "senior": false
   },
