@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-27T19:51:48Z",
+ "generated_at": "2026-09-28T01:10:17Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 152,
-   "site_listing": 136,
-   "site_extra": 0
+   "count": 155,
+   "site_listing": 139,
+   "site_extra": 3
   },
   "joe": {
    "status": "ok",
@@ -9783,6 +9783,51 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12718",
+   "source": "ejm",
+   "institution": "Economics, Queen's University",
+   "title": "Associate Professor/Full Professor, Economics",
+   "location": "Kingston, CA",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12718",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "ejm:12701",
+   "source": "ejm",
+   "institution": "Economics, Columbia University",
+   "title": "Associate Professor/Full Professor, Finance/Labor; Demographic Economics/Macroeconomics; Monetary",
+   "location": "New York, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12701",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "ejm:12702",
+   "source": "ejm",
+   "institution": "Economics, Columbia University",
+   "title": "Assistant Professor/Associate Professor, Finance/Labor; Demographic Economics/Macroeconomics; Monetary",
+   "location": "New York, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12702",
    "predoc": false,
    "senior": false
   }
