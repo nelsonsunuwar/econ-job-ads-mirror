@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-29T10:53:40Z",
+ "generated_at": "2026-09-29T21:01:30Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 159,
-   "site_listing": 144,
-   "site_extra": 1
+   "count": 160,
+   "site_listing": 145,
+   "site_extra": 2
   },
   "joe": {
    "status": "ok",
-   "count": 362
+   "count": 380
   },
   "econjobs": {
    "status": "ok",
@@ -4566,6 +4566,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477992",
+   "source": "joe",
+   "institution": "EIEF Einaudi Institute for Economics and Finance",
+   "title": "Assistant Professor",
+   "location": "Rome, Italy",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477992",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477744",
    "source": "joe",
    "institution": "El Colegio de México",
@@ -5225,6 +5242,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478007",
+   "source": "joe",
+   "institution": "HEC Montreal",
+   "title": "Assistant Professor in International Business",
+   "location": "Montréal, Canada",
+   "fields": [
+    "F0 General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478007",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477656",
    "source": "joe",
    "institution": "Hong Kong University of Science and Technology",
@@ -5445,6 +5479,23 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477599",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477972",
+   "source": "joe",
+   "institution": "Jinan University",
+   "title": "Tenure-track Assistant/Associate/Full Professor",
+   "location": "Guangzhou, China",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477972",
    "predoc": false,
    "senior": false
   },
@@ -6175,6 +6226,24 @@
    "senior": false
   },
   {
+   "id": "joe:111478000",
+   "source": "joe",
+   "institution": "National Bureau of Economic Research",
+   "title": "Dissertation Fellow, Gender in the Economy",
+   "location": "United States; Canada",
+   "fields": [
+    "J Labor and Demographic Economics",
+    "O Economic Development, Innovation, Technological Change, and Growth"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478000",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477565",
    "source": "joe",
    "institution": "National Bureau of Economic Research",
@@ -6311,6 +6380,26 @@
    "senior": false
   },
   {
+   "id": "joe:111478008",
+   "source": "joe",
+   "institution": "National Chengchi University",
+   "title": "Assistant/Associate/Full Professor",
+   "location": "TAIPEI, Taiwan",
+   "fields": [
+    "E4 Money and Interest Rates",
+    "E5 Monetary Policy, Central Banking, and the Supply of Money and Credit",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478008",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477555",
    "source": "joe",
    "institution": "National Chung Cheng University",
@@ -6380,6 +6469,23 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477929",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477989",
+   "source": "joe",
+   "institution": "National Tsing Hua University",
+   "title": "Assistant Professor / Associate Professor / Professor",
+   "location": "Hsinchu City, Taiwan",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-29",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477989",
    "predoc": false,
    "senior": false
   },
@@ -6526,6 +6632,45 @@
    "deadline": "2026-12-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477832",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477990",
+   "source": "joe",
+   "institution": "New York University Abu Dhabi",
+   "title": "Postdoctoral Researcher",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "fields": [
+    "C7 Game Theory and Bargaining Theory",
+    "C9 Design of Experiments",
+    "D4 Market Structure, Pricing, and Design"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477990",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477958",
+   "source": "joe",
+   "institution": "New York University Arts and Science",
+   "title": "Assistant Professor",
+   "location": "New York, United States",
+   "fields": [
+    "A General Economics and Teaching",
+    "F International Economics",
+    "H7 State and Local Government; Intergovernmental Relations",
+    "P Political Economy and Comparative Economic Systems"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-06",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477958",
    "predoc": false,
    "senior": false
   },
@@ -6853,6 +6998,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477999",
+   "source": "joe",
+   "institution": "Pontificia Universidad Católica de Chile (PUC-Chile)",
+   "title": "Assistant/Associate/Full Professor",
+   "location": "Santiago, Chile",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477999",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477687",
    "source": "joe",
    "institution": "Princeton University",
@@ -7059,6 +7221,44 @@
    "senior": false
   },
   {
+   "id": "joe:111477927",
+   "source": "joe",
+   "institution": "Renmin University of China",
+   "title": "Assistant Professor / Associate Professor / Professor",
+   "location": "Beijing, China",
+   "fields": [
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics",
+    "H Public Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477927",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477926",
+   "source": "joe",
+   "institution": "Renmin University of China-Department of Public Finance",
+   "title": "Assistant Professor / Associate Professor / Professor",
+   "location": "Beijing, China",
+   "fields": [
+    "G Financial Economics",
+    "H Public Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477926",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477644",
    "source": "joe",
    "institution": "Resources for the Future",
@@ -7216,6 +7416,23 @@
    "deadline": "2026-11-29",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477869",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478009",
+   "source": "joe",
+   "institution": "Shanghai University",
+   "title": "Tenure-track Assistant/ Associate/Full Professor Positions",
+   "location": "Shanghai, China",
+   "fields": [
+    "D0 General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478009",
    "predoc": false,
    "senior": false
   },
@@ -8095,7 +8312,7 @@
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2027-06-30",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477913",
    "predoc": false,
@@ -8389,6 +8606,27 @@
    "senior": false
   },
   {
+   "id": "joe:111477813",
+   "source": "joe",
+   "institution": "Universidad ORT Uruguay",
+   "title": "Assistant/Associate Professor",
+   "location": "Montevideo, Uruguay",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477813",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477851",
    "source": "joe",
    "institution": "University at Buffalo",
@@ -8491,7 +8729,7 @@
     "A General Economics and Teaching"
    ],
    "position_types": [],
-   "section": "US: Other Academic (Visiting or Temporary)",
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
    "deadline": "2026-11-06",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478028",
@@ -8983,6 +9221,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478064",
+   "source": "joe",
+   "institution": "University of Houston",
+   "title": "Assistant, Associate, or Full Professor - Economics",
+   "location": "Houston, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-04-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478064",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477949",
    "source": "joe",
    "institution": "University of Illinois at Urbana-Champaign",
@@ -9049,6 +9304,23 @@
    "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477678",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477906",
+   "source": "joe",
+   "institution": "University of Michigan",
+   "title": "Assistant Professor of Economics - Any Field",
+   "location": "Ann Arbor, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477906",
    "predoc": false,
    "senior": false
   },
@@ -9170,6 +9442,40 @@
    "deadline": "2026-09-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477814",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478068",
+   "source": "joe",
+   "institution": "University of North Carolina at Chapel Hill",
+   "title": "Assistant or Associate Professor",
+   "location": "Chapel Hill, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478068",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478069",
+   "source": "joe",
+   "institution": "University of North Carolina at Chapel Hill",
+   "title": "Teaching Assistant Professor",
+   "location": "Chapel Hill, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478069",
    "predoc": false,
    "senior": false
   },
@@ -9356,6 +9662,32 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477893",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111477996",
+   "source": "joe",
+   "institution": "University of Pennsylvania",
+   "title": "Assistant Professor of Real Estate (Tenure Track) 2026-2027",
+   "location": "Philadelphia, United States",
+   "fields": [
+    "D Microeconomics",
+    "F International Economics",
+    "G Financial Economics",
+    "H Public Economics",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics",
+    "R3 Real Estate Markets, Spatial Production Analysis, and Firm Location"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-16",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477996",
    "predoc": false,
    "senior": false
   },
@@ -10104,6 +10436,21 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12724",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Konstanz",
+   "title": "Assistant Professor, Macroeconomics; Monetary",
+   "location": "Konstanz, DE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-08",
+   "posted": "2026-09-29",
+   "url": "https://econjobmarket.org/positions/12724",
    "predoc": false,
    "senior": false
   },
