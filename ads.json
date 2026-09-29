@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-28T22:16:14Z",
+ "generated_at": "2026-09-29T02:17:22Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 160,
-   "site_listing": 145,
-   "site_extra": 11
+   "count": 159,
+   "site_listing": 144,
+   "site_extra": 10
   },
   "joe": {
    "status": "ok",
@@ -9920,21 +9920,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12608",
-   "source": "ejm",
-   "institution": "Department of Economics, Ghent University",
-   "title": "Assistant Professor, Industrial Organization/International Trade",
-   "location": "Gent, BE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-09-28",
-   "posted": "2026-08-29",
-   "url": "https://econjobmarket.org/positions/12608",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12700",
    "source": "ejm",
    "institution": "Análisis Económico y Economía Cuantitativa, Universidad Complutense de Madrid",
@@ -10070,19 +10055,19 @@
    "senior": false
   },
   {
-   "id": "ejm:12601",
+   "id": "ejm:12721",
    "source": "ejm",
-   "institution": "Department of Economics, University of Bonn",
-   "title": "Associate Professor, Economics",
-   "location": "Bonn, DE",
+   "institution": "School of Economics, University of Queensland",
+   "title": "Assistant Professor/Lecturer/Senior Lecturer, Economics",
+   "location": "St Lucia, AU",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-09-27",
-   "posted": "2026-08-27",
-   "url": "https://econjobmarket.org/positions/12601",
+   "deadline": "2026-11-01",
+   "posted": "2026-09-29",
+   "url": "https://econjobmarket.org/positions/12721",
    "predoc": false,
-   "senior": true
+   "senior": false
   }
  ]
 }
