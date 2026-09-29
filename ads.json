@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-29T02:17:22Z",
+ "generated_at": "2026-09-29T10:53:40Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 159,
    "site_listing": 144,
-   "site_extra": 10
+   "site_extra": 1
   },
   "joe": {
    "status": "ok",
@@ -2381,6 +2381,26 @@
    "senior": false
   },
   {
+   "id": "ejm:12663",
+   "source": "ejm",
+   "institution": "Catholic University of Portugal",
+   "title": "Assistant Professor (tenure track) in Finance or Accounting",
+   "location": "Lisbon, PT",
+   "fields": [
+    "Finance",
+    "Accounting"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12663",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12664",
    "source": "ejm",
    "institution": "Maastricht University",
@@ -2465,6 +2485,25 @@
    "deadline": "2026-12-31",
    "posted": "2026-09-22",
    "url": "https://econjobmarket.org/positions/12668",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12669",
+   "source": "ejm",
+   "institution": "University of Michigan",
+   "title": "Assistant Professor of Economics - Any Field",
+   "location": "Ann Arbor, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12669",
    "predoc": false,
    "senior": false
   },
@@ -2929,6 +2968,70 @@
    "senior": false
   },
   {
+   "id": "ejm:12700",
+   "source": "ejm",
+   "institution": "Universidad Complutense de Madrid",
+   "title": "Assistant Professor and Postdoc positions at Universidad Complutense de Madrid",
+   "location": "Pozuelo de Alarcón, ES",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-11",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12700",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12701",
+   "source": "ejm",
+   "institution": "Columbia University",
+   "title": "Associate Professor (tenured)/Professor",
+   "location": "New York, US",
+   "fields": [
+    "Finance",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12701",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "ejm:12702",
+   "source": "ejm",
+   "institution": "Columbia University",
+   "title": "Assistant Professor/Associate Professor (tenure-track)",
+   "location": "New York, US",
+   "fields": [
+    "Finance",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12702",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12704",
    "source": "ejm",
    "institution": "University of Virginia",
@@ -3054,6 +3157,27 @@
    "senior": false
   },
   {
+   "id": "ejm:12710",
+   "source": "ejm",
+   "institution": "Ashoka University",
+   "title": "Faculty Positions at Department of Economics, Ashoka University (Open Rank)",
+   "location": "Sonepat, IN",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12710",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12711",
    "source": "ejm",
    "institution": "Sciences Po",
@@ -3133,6 +3257,70 @@
    "deadline": "2026-11-16",
    "posted": "2026-09-26",
    "url": "https://econjobmarket.org/positions/12714",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12715",
+   "source": "ejm",
+   "institution": "Bocconi University",
+   "title": "Two Assistant Professor Positions in Economics for Junior Candidates",
+   "location": "Milano, IT",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12715",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12718",
+   "source": "ejm",
+   "institution": "Queen's University",
+   "title": "Stephen J.R. Smith Chair in Economics Policy",
+   "location": "Kingston, CA",
+   "fields": [
+    "Finance",
+    "Industrial Organization",
+    "International Finance/Macro",
+    "International Trade",
+    "Public Economics",
+    "Any field",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12718",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "ejm:12719",
+   "source": "ejm",
+   "institution": "Stockholm University",
+   "title": "Assistant Professor in Labor Economics",
+   "location": "Stockholm, SE",
+   "fields": [
+    "Labor; Demographic Economics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-09-28",
+   "url": "https://econjobmarket.org/positions/12719",
    "predoc": false,
    "senior": false
   },
@@ -9916,141 +10104,6 @@
    "deadline": null,
    "posted": "2026-09-01",
    "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12700",
-   "source": "ejm",
-   "institution": "Análisis Económico y Economía Cuantitativa, Universidad Complutense de Madrid",
-   "title": "Assistant Professor/Postdoctoral Scholar, Economics",
-   "location": "Pozuelo De Alarcón, ES",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-11",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12700",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12718",
-   "source": "ejm",
-   "institution": "Economics, Queen's University",
-   "title": "Associate Professor/Full Professor, Economics",
-   "location": "Kingston, CA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-02-28",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12718",
-   "predoc": false,
-   "senior": true
-  },
-  {
-   "id": "ejm:12719",
-   "source": "ejm",
-   "institution": "Swedish Institute for Social Research (SOFI), Stockholm University",
-   "title": "Assistant Professor, Labor; Demographic Economics",
-   "location": "Stockholm, SE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12719",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12669",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Michigan",
-   "title": "Assistant Professor, Economics",
-   "location": "Ann Arbor, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12669",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12701",
-   "source": "ejm",
-   "institution": "Economics, Columbia University",
-   "title": "Associate Professor/Full Professor, Finance/Labor; Demographic Economics/Macroeconomics; Monetary",
-   "location": "New York, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12701",
-   "predoc": false,
-   "senior": true
-  },
-  {
-   "id": "ejm:12702",
-   "source": "ejm",
-   "institution": "Economics, Columbia University",
-   "title": "Assistant Professor/Associate Professor, Finance/Labor; Demographic Economics/Macroeconomics; Monetary",
-   "location": "New York, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12702",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12710",
-   "source": "ejm",
-   "institution": "Department of Economics, Ashoka University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Sonepat, IN",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12710",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12663",
-   "source": "ejm",
-   "institution": "Católica Lisbon School of Business and Economics, Catholic University of Portugal",
-   "title": "Assistant Professor, Accounting/Finance",
-   "location": "Lisbon, PT",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12663",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12715",
-   "source": "ejm",
-   "institution": "Economics, Bocconi University",
-   "title": "Assistant Professor, Economics",
-   "location": "Milano, IT",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12715",
    "predoc": false,
    "senior": false
   },
