@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-30T01:32:43Z",
+ "generated_at": "2026-09-30T10:43:16Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 167,
+   "count": 168,
    "site_listing": 153,
-   "site_extra": 9
+   "site_extra": 14
   },
   "joe": {
    "status": "ok",
@@ -13,7 +13,7 @@
   },
   "econjobs": {
    "status": "ok",
-   "count": 6
+   "count": 13
   }
  },
  "ads": [
@@ -71,38 +71,6 @@
    "url": "https://econjobmarket.org/positions/11974",
    "predoc": false,
    "senior": true
-  },
-  {
-   "id": "ejm:12043",
-   "source": "ejm",
-   "institution": "Hong Kong University of Science and Technology (Guangzhou)",
-   "title": "Open-rank faculty position in Fintech/Financial Engineering/Mathematical Finance",
-   "location": "Guangzhou, CN",
-   "fields": [
-    "Finance",
-    "International Finance/Macro",
-    "Macroeconomics; Monetary",
-    "Behavioral Economics",
-    "Any field",
-    "Business Economics",
-    "Computational Economics",
-    "Decision Sciences",
-    "Insurance",
-    "Operations Research",
-    "Statistics",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-09-30",
-   "posted": "2025-10-29",
-   "url": "https://econjobmarket.org/positions/12043",
-   "predoc": false,
-   "senior": false
   },
   {
    "id": "ejm:12205",
@@ -488,25 +456,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12522",
-   "source": "ejm",
-   "institution": "University of Toronto Scarborough",
-   "title": "Associate Professor/Professor - Entrepreneurship",
-   "location": "Scarborough, CA",
-   "fields": [
-    "Management, General"
-   ],
-   "position_types": [
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-09-30",
-   "posted": "2026-06-22",
-   "url": "https://econjobmarket.org/positions/12522",
-   "predoc": false,
-   "senior": true
-  },
-  {
    "id": "ejm:12530",
    "source": "ejm",
    "institution": "Norwegian University of Science and Technology",
@@ -530,25 +479,6 @@
    "deadline": "2026-10-15",
    "posted": "2026-07-01",
    "url": "https://econjobmarket.org/positions/12530",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12543",
-   "source": "ejm",
-   "institution": "University of Oxford",
-   "title": "Postdoctoral Research Fellow",
-   "location": "Oxford, GB",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-09-30",
-   "posted": "2026-07-15",
-   "url": "https://econjobmarket.org/positions/12543",
    "predoc": false,
    "senior": false
   },
@@ -636,25 +566,6 @@
    "deadline": "2026-12-31",
    "posted": "2026-08-18",
    "url": "https://econjobmarket.org/positions/12554",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12555",
-   "source": "ejm",
-   "institution": "Université Paris-Dauphine",
-   "title": "Junior Professor Chair in Economics, Information, Data & AI, Paris, France",
-   "location": "Paris, FR",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-09-30",
-   "posted": "2026-07-30",
-   "url": "https://econjobmarket.org/positions/12555",
    "predoc": false,
    "senior": false
   },
@@ -918,25 +829,6 @@
    "deadline": "2026-11-01",
    "posted": "2026-08-14",
    "url": "https://econjobmarket.org/positions/12575",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12576",
-   "source": "ejm",
-   "institution": "University of California, Riverside",
-   "title": "Visiting Assistant Professor of Economics",
-   "location": "Riverside, US",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Visiting Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-08-26",
-   "posted": "2026-08-16",
-   "url": "https://econjobmarket.org/positions/12576",
    "predoc": false,
    "senior": false
   },
@@ -1416,25 +1308,6 @@
    "url": "https://econjobmarket.org/positions/12606",
    "predoc": false,
    "senior": false
-  },
-  {
-   "id": "ejm:12607",
-   "source": "ejm",
-   "institution": "University of Pennsylvania",
-   "title": "Associate Director, Philosophy, Politics, and Economics",
-   "location": "Philadelphia, US",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-09-30",
-   "posted": "2026-08-28",
-   "url": "https://econjobmarket.org/positions/12607",
-   "predoc": false,
-   "senior": true
   },
   {
    "id": "ejm:12609",
@@ -2177,26 +2050,6 @@
    "deadline": "2026-11-17",
    "posted": "2026-09-13",
    "url": "https://econjobmarket.org/positions/12647",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12648",
-   "source": "ejm",
-   "institution": "Heinrich Heine University Dusseldorf",
-   "title": "Assistant Professorship (TT) in Global Competition Economics",
-   "location": "Dusseldorf, DE",
-   "fields": [
-    "Industrial Organization",
-    "International Trade"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-09-30",
-   "posted": "2026-09-13",
-   "url": "https://econjobmarket.org/positions/12648",
    "predoc": false,
    "senior": false
   },
@@ -3321,6 +3174,67 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-28",
    "url": "https://econjobmarket.org/positions/12719",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12720",
+   "source": "ejm",
+   "institution": "University of Warwick",
+   "title": "Assistant / Associate / Full Professor",
+   "location": "Coventry, GB",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-29",
+   "posted": "2026-09-29",
+   "url": "https://econjobmarket.org/positions/12720",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12721",
+   "source": "ejm",
+   "institution": "University of Queensland",
+   "title": "Lecturer / Senior Lecturer in Economics",
+   "location": "St Lucia, AU",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Lecturer",
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-09-29",
+   "url": "https://econjobmarket.org/positions/12721",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12724",
+   "source": "ejm",
+   "institution": "University of Konstanz",
+   "title": "Postdoctoral Position in Macroeconomics",
+   "location": "Konstanz, DE",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-08",
+   "posted": "2026-09-29",
+   "url": "https://econjobmarket.org/positions/12724",
    "predoc": false,
    "senior": false
   },
@@ -10440,6 +10354,141 @@
    "senior": false
   },
   {
+   "id": "ej:research-associate-in-health-economics",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Research associate in health economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-30",
+   "url": "https://econ-jobs.com/job-offer/research-associate-in-health-economics/",
+   "predoc": true,
+   "senior": false
+  },
+  {
+   "id": "ej:health-economic-outcomes-research-strategy-lead-uk",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Health economic outcomes research strategy lead uk",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-30",
+   "url": "https://econ-jobs.com/job-offer/health-economic-outcomes-research-strategy-lead-uk/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ej:phd-economics-intern-reduced-form-causal-inference-summer-2027",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Phd economics intern reduced form causal inference summer 2027",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-30",
+   "url": "https://econ-jobs.com/job-offer/phd-economics-intern-reduced-form-causal-inference-summer-2027/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ej:phd-economics-intern-structural-io-summer-2027",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Phd economics intern structural io summer 2027",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-30",
+   "url": "https://econ-jobs.com/job-offer/phd-economics-intern-structural-io-summer-2027/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ej:lecturer-senior-lecturer-in-economics",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Lecturer senior lecturer in economics",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-30",
+   "url": "https://econ-jobs.com/job-offer/lecturer-senior-lecturer-in-economics/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ej:daffodil-centre-research-fellow-senior-research-fellow",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Daffodil centre research fellow senior research fellow",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-30",
+   "url": "https://econ-jobs.com/job-offer/daffodil-centre-research-fellow-senior-research-fellow/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ej:principal-data-scientist-economic-research",
+   "source": "econjobs",
+   "institution": null,
+   "title": "Principal data scientist economic research",
+   "location": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": null,
+   "posted": "2026-09-30",
+   "url": "https://econ-jobs.com/job-offer/principal-data-scientist-economic-research/",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12043",
+   "source": "ejm",
+   "institution": "Financial Technology, Hong Kong University of Science and Technology (Guangzhou)",
+   "title": "Open-rank faculty position in Fintech/Financial Engineering/Mathematical Finance",
+   "location": "Guangzhou, CN",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-09-30",
+   "posted": "2025-10-29",
+   "url": "https://econjobmarket.org/positions/12043",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12576",
+   "source": "ejm",
+   "institution": "Economics, University of California, Riverside",
+   "title": "Visiting Assistant Professor, Economics",
+   "location": "Riverside, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-08-26",
+   "posted": "2026-08-16",
+   "url": "https://econjobmarket.org/positions/12576",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12677",
    "source": "ejm",
    "institution": "Economics, Universidad Carlos III de Madrid",
@@ -10451,21 +10500,6 @@
    "deadline": "2026-11-13",
    "posted": "2026-09-30",
    "url": "https://econjobmarket.org/positions/12677",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12724",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Konstanz",
-   "title": "Assistant Professor, Macroeconomics; Monetary",
-   "location": "Konstanz, DE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-08",
-   "posted": "2026-09-29",
-   "url": "https://econjobmarket.org/positions/12724",
    "predoc": false,
    "senior": false
   },
@@ -10560,17 +10594,77 @@
    "senior": false
   },
   {
-   "id": "ejm:12721",
+   "id": "ejm:12555",
    "source": "ejm",
-   "institution": "School of Economics, University of Queensland",
-   "title": "Assistant Professor/Lecturer/Senior Lecturer, Economics",
-   "location": "St Lucia, AU",
+   "institution": "LEDa (Laboratoire d’Economie de Dauphine), Université Paris-Dauphine",
+   "title": "Assistant Professor, Economics",
+   "location": "Paris, FR",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-09-29",
-   "url": "https://econjobmarket.org/positions/12721",
+   "deadline": "2026-09-30",
+   "posted": "2026-07-30",
+   "url": "https://econjobmarket.org/positions/12555",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12607",
+   "source": "ejm",
+   "institution": "Philosophy, Politics and Economics Program, University of Pennsylvania",
+   "title": "Associate Director, Philosophy, Politics, and Economics",
+   "location": "Philadelphia, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-09-30",
+   "posted": "2026-08-28",
+   "url": "https://econjobmarket.org/positions/12607",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "ejm:12648",
+   "source": "ejm",
+   "institution": "DICE (Düsseldorf Institute for Competition Economics), Heinrich Heine University Dusseldorf",
+   "title": "Assistant Professor, Industrial Organization/International Trade",
+   "location": "Dusseldorf, DE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-09-30",
+   "posted": "2026-09-13",
+   "url": "https://econjobmarket.org/positions/12648",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12522",
+   "source": "ejm",
+   "institution": "Management, University of Toronto Scarborough",
+   "title": "Associate Professor/Professor - Entrepreneurship",
+   "location": "Scarborough, CA",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-09-30",
+   "posted": "2026-06-22",
+   "url": "https://econjobmarket.org/positions/12522",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "ejm:12543",
+   "source": "ejm",
+   "institution": "Economics, University of Oxford",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Oxford, GB",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-09-30",
+   "posted": "2026-07-15",
+   "url": "https://econjobmarket.org/positions/12543",
    "predoc": false,
    "senior": false
   }
