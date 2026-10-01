@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-01T01:33:03Z",
+ "generated_at": "2026-10-01T11:09:50Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 170,
-   "site_listing": 155,
-   "site_extra": 16
+   "count": 169,
+   "site_listing": 156,
+   "site_extra": 8
   },
   "joe": {
    "status": "ok",
@@ -1354,28 +1354,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12611",
-   "source": "ejm",
-   "institution": "Vilnius University",
-   "title": "Postdoctoral fellowship for research topic \"Impact of News’ Signals on European",
-   "location": "Vilnius, LT",
-   "fields": [
-    "Econometrics",
-    "Finance",
-    "Other",
-    "Computational Economics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-10-01",
-   "posted": "2026-09-01",
-   "url": "https://econjobmarket.org/positions/12611",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12612",
    "source": "ejm",
    "institution": "Brown University",
@@ -1543,25 +1521,6 @@
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12619",
    "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12620",
-   "source": "ejm",
-   "institution": "Opportunity Insights",
-   "title": "Predoctoral Fellow",
-   "location": "Cambridge, US",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Research Assistant (Pre-Doc)"
-   ],
-   "section": null,
-   "deadline": "2026-10-01",
-   "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12620",
-   "predoc": true,
    "senior": false
   },
   {
@@ -2302,6 +2261,26 @@
    "senior": false
   },
   {
+   "id": "ejm:12666",
+   "source": "ejm",
+   "institution": "Universitat Autònoma de Barcelona",
+   "title": "Assistant and Associate level positions",
+   "location": "Bellaterra, ES",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12666",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12667",
    "source": "ejm",
    "institution": "Federal Reserve Bank of Cleveland",
@@ -2378,6 +2357,29 @@
    "deadline": "2026-11-15",
    "posted": "2026-09-17",
    "url": "https://econjobmarket.org/positions/12670",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12671",
+   "source": "ejm",
+   "institution": "Compass Lexecon",
+   "title": "Economist",
+   "location": "Madrid, ES",
+   "fields": [
+    "Econometrics",
+    "Industrial Organization",
+    "Business Economics",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Consultant"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12671",
    "predoc": false,
    "senior": false
   },
@@ -2461,6 +2463,28 @@
    "deadline": "2026-12-30",
    "posted": "2026-09-21",
    "url": "https://econjobmarket.org/positions/12675",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12677",
+   "source": "ejm",
+   "institution": "Universidad Carlos III de Madrid",
+   "title": "Assistant Professor of Economics",
+   "location": "Getafe, Madrid, ES",
+   "fields": [
+    "Econometrics",
+    "International Trade",
+    "Macroeconomics; Monetary",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12677",
    "predoc": false,
    "senior": false
   },
@@ -3178,27 +3202,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12720",
-   "source": "ejm",
-   "institution": "University of Warwick",
-   "title": "Assistant / Associate / Full Professor",
-   "location": "Coventry, GB",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-29",
-   "posted": "2026-09-29",
-   "url": "https://econjobmarket.org/positions/12720",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12721",
    "source": "ejm",
    "institution": "University of Queensland",
@@ -3220,6 +3223,52 @@
    "senior": false
   },
   {
+   "id": "ejm:12722",
+   "source": "ejm",
+   "institution": "Reserve Bank of Australia",
+   "title": "Researcher/Senior Researcher",
+   "location": "Sydney, AU",
+   "fields": [
+    "International Finance/Macro",
+    "Macroeconomics; Monetary",
+    "Computational Economics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12722",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12723",
+   "source": "ejm",
+   "institution": "Charles River Associates",
+   "title": "Senior Associate/Antitrust & Competition Economics (Europe)",
+   "location": "London, GB",
+   "fields": [
+    "Econometrics",
+    "Industrial Organization",
+    "Labor; Demographic Economics",
+    "Law and Economics",
+    "Health; Education; Welfare",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Consultant"
+   ],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12723",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12724",
    "source": "ejm",
    "institution": "University of Konstanz",
@@ -3235,6 +3284,105 @@
    "deadline": "2026-11-08",
    "posted": "2026-09-29",
    "url": "https://econjobmarket.org/positions/12724",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12725",
+   "source": "ejm",
+   "institution": "Aarhus University",
+   "title": "Post-Doctoral Fellowships in Economics of Education",
+   "location": "Aarhus, DK",
+   "fields": [
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-14",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12725",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12727",
+   "source": "ejm",
+   "institution": "Aarhus University",
+   "title": "Post-Doc in Energy Economics, the Climate and the Green Energy Transition",
+   "location": "Aarhus, DK",
+   "fields": [
+    "Econometrics",
+    "Environmental; Energy; Ag. Econ",
+    "Finance"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-14",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12727",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12729",
+   "source": "ejm",
+   "institution": "Aarhus University",
+   "title": "Post-Doctoral Fellowship in Econometrics",
+   "location": "Aarhus, DK",
+   "fields": [
+    "Econometrics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-14",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12729",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12730",
+   "source": "ejm",
+   "institution": "Aarhus University",
+   "title": "Post-Doc in the Automation and Labor Market in the Global Economy",
+   "location": "Aarhus, DK",
+   "fields": [
+    "International Trade",
+    "Labor; Demographic Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-14",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12730",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12732",
+   "source": "ejm",
+   "institution": "Aarhus University",
+   "title": "Post-Doctoral Fellowship in Microeconomic Theory/Decision Theory",
+   "location": "Aarhus, DK",
+   "fields": [
+    "Decision Sciences",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-14",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12732",
    "predoc": false,
    "senior": false
   },
@@ -5144,23 +5292,6 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477950",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "joe:111477693",
-   "source": "joe",
-   "institution": "Harvard Kennedy School",
-   "title": "Professor of Technology and Public Policy",
-   "location": "Cambridge, United States",
-   "fields": [
-    "Z0 General"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-09-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477693",
    "predoc": false,
    "senior": false
   },
@@ -7973,6 +8104,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477743",
+   "source": "joe",
+   "institution": "Texas Christian University",
+   "title": "Assistant or Associate Professor of Economics",
+   "location": "Fort Worth, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477743",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477796",
    "source": "joe",
    "institution": "Texas Tech University",
@@ -10743,36 +10891,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12666",
-   "source": "ejm",
-   "institution": "Department of Economics and Economic History, Universitat Autònoma de Barcelona",
-   "title": "Assistant Professor/Associate Professor, Economics",
-   "location": "Bellaterra, ES",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12666",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12722",
-   "source": "ejm",
-   "institution": "Reserve Bank of Australia",
-   "title": "Researcher/Senior Researcher",
-   "location": "Sydney, AU",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12722",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12738",
    "source": "ejm",
    "institution": "Department of Applied Economics, Universitat Autònoma de Barcelona",
@@ -10784,96 +10902,6 @@
    "deadline": "2026-11-29",
    "posted": "2026-10-01",
    "url": "https://econjobmarket.org/positions/12738",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12677",
-   "source": "ejm",
-   "institution": "Economics, Universidad Carlos III de Madrid",
-   "title": "Assistant Professor, Applied microeconomics/Econometrics/International Trade/Macroeconomics; Monetary",
-   "location": "Getafe, Madrid, ES",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12677",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12725",
-   "source": "ejm",
-   "institution": "Department of Economics and Business Economics, School of Business and Social Sciences, Aarhus University",
-   "title": "Postdoctoral Scholar, Health; Education; Welfare",
-   "location": "Aarhus, DK",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-14",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12725",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12727",
-   "source": "ejm",
-   "institution": "Department of Economics and Business Economics, School of Business and Social Sciences, Aarhus University",
-   "title": "Postdoctoral Scholar, Econometrics/Environmental; Energy; Ag. Econ/Finance",
-   "location": "Aarhus, DK",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-14",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12727",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12729",
-   "source": "ejm",
-   "institution": "Department of Economics and Business Economics, School of Business and Social Sciences, Aarhus University",
-   "title": "Postdoctoral Scholar, Econometrics",
-   "location": "Aarhus, DK",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-14",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12729",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12730",
-   "source": "ejm",
-   "institution": "Department of Economics and Business Economics, School of Business and Social Sciences, Aarhus University",
-   "title": "Postdoctoral Scholar, International Trade/Labor; Demographic Economics",
-   "location": "Aarhus, DK",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-14",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12730",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12732",
-   "source": "ejm",
-   "institution": "Department of Economics and Business Economics, School of Business and Social Sciences, Aarhus University",
-   "title": "Postdoctoral Scholar, Decision Sciences/Microeconomic theory",
-   "location": "Aarhus, DK",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-14",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12732",
    "predoc": false,
    "senior": false
   },
@@ -10893,21 +10921,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12723",
-   "source": "ejm",
-   "institution": "Charles River Associates",
-   "title": "Consultant, Applied microeconomics/Econometrics/Health; Education; Welfare/Industrial Organization/Labor; Demographic Economics/Law and Economics/Microeconomic theory",
-   "location": "London, GB",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12723",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12737",
    "source": "ejm",
    "institution": "Nova School of Business and Economics, Universidade Nova de Lisboa",
@@ -10923,17 +10936,17 @@
    "senior": false
   },
   {
-   "id": "ejm:12671",
+   "id": "ejm:12720",
    "source": "ejm",
-   "institution": "European Competition Policy practice, Compass Lexecon",
-   "title": "Consultant, Applied microeconomics/Business Economics/Econometrics/Industrial Organization/Microeconomic theory",
-   "location": "Madrid, ES",
+   "institution": "Warwick Business School, University of Warwick",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
+   "location": "Coventry, GB",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12671",
+   "deadline": "2026-11-29",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12720",
    "predoc": false,
    "senior": false
   },
@@ -10949,6 +10962,21 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-01",
    "url": "https://econjobmarket.org/positions/12742",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12611",
+   "source": "ejm",
+   "institution": "Faculty of Economics and Business Administration, Vilnius University",
+   "title": "Postdoctoral Scholar, Computational Economics/Econometrics/Finance",
+   "location": "Vilnius, LT",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-01",
+   "posted": "2026-09-01",
+   "url": "https://econjobmarket.org/positions/12611",
    "predoc": false,
    "senior": false
   }
