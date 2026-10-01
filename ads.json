@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-01T11:09:50Z",
+ "generated_at": "2026-10-01T21:19:17Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 169,
-   "site_listing": 156,
+   "count": 168,
+   "site_listing": 155,
    "site_extra": 8
   },
   "joe": {
    "status": "ok",
-   "count": 393
+   "count": 404
   },
   "econjobs": {
    "status": "ok",
@@ -2887,28 +2887,6 @@
    "senior": true
   },
   {
-   "id": "ejm:12702",
-   "source": "ejm",
-   "institution": "Columbia University",
-   "title": "Assistant Professor/Associate Professor (tenure-track)",
-   "location": "New York, US",
-   "fields": [
-    "Finance",
-    "Labor; Demographic Economics",
-    "Macroeconomics; Monetary"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12702",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12704",
    "source": "ejm",
    "institution": "University of Virginia",
@@ -3701,6 +3679,26 @@
    "senior": false
   },
   {
+   "id": "joe:111478024",
+   "source": "joe",
+   "institution": "Bowdoin College",
+   "title": "Assistant Professor, Economics",
+   "location": "Brunswick, United States",
+   "fields": [
+    "F3 International Finance",
+    "G0 General",
+    "G3 Corporate Finance and Governance",
+    "L0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478024",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477863",
    "source": "joe",
    "institution": "BRG",
@@ -4250,6 +4248,27 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477876",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "joe:111478114",
+   "source": "joe",
+   "institution": "Concordia University Wisconsin",
+   "title": "Faculty: Economics and Chair of Financial Studies Department",
+   "location": "Mequon, United States",
+   "fields": [
+    "A1 General Economics",
+    "D0 General",
+    "E0 General",
+    "E5 Monetary Policy, Central Banking, and the Supply of Money and Credit",
+    "G3 Corporate Finance and Governance"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478114",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477801",
@@ -5697,6 +5716,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478027",
+   "source": "joe",
+   "institution": "Johns Hopkins University",
+   "title": "Assistant / Associate / Full Professor",
+   "location": "Washington, United States",
+   "fields": [
+    "K3 Other Substantive Areas of Law"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-25",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478027",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477824",
    "source": "joe",
    "institution": "Joint Commission",
@@ -6388,6 +6424,44 @@
    "senior": false
   },
   {
+   "id": "joe:111478033",
+   "source": "joe",
+   "institution": "National Bureau of Economic Research",
+   "title": "Post-Doctoral Fellow",
+   "location": "Cambridge, United States",
+   "fields": [
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478033",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478034",
+   "source": "joe",
+   "institution": "National Bureau of Economic Research",
+   "title": "Post-Doctoral Fellow",
+   "location": "Cambridge, United States",
+   "fields": [
+    "D3 Distribution",
+    "E2 Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy",
+    "H2 Taxation, Subsidies, and Revenue"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478034",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477637",
    "source": "joe",
    "institution": "National Central University",
@@ -7054,6 +7128,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478110",
+   "source": "joe",
+   "institution": "Peking University",
+   "title": "Assistant/Associate/Full Professor",
+   "location": "Beijing, China",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478110",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477790",
    "source": "joe",
    "institution": "Peking University HSBC Business School",
@@ -7454,6 +7545,27 @@
    "senior": false
   },
   {
+   "id": "joe:111478089",
+   "source": "joe",
+   "institution": "ROCKWOOL Foundation Berlin – Institute for the Economy and the Future of Work",
+   "title": "Postdoctoral Fellow in Economics",
+   "location": "Berlin, Germany",
+   "fields": [
+    "F International Economics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478089",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477604",
    "source": "joe",
    "institution": "Salisbury University",
@@ -7808,6 +7920,26 @@
    "senior": false
   },
   {
+   "id": "joe:111478106",
+   "source": "joe",
+   "institution": "Stanford University",
+   "title": "Postdoctoral Fellow in Financial Decision-Making",
+   "location": "Palo Alto, United States",
+   "fields": [
+    "D1 Household Behavior and Family Economics",
+    "D9 Micro-Based Behavioral Economics",
+    "G5 Household Finance",
+    "I3 Welfare, Well-Being, and Poverty"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478106",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477536",
    "source": "joe",
    "institution": "Stanford University",
@@ -8141,6 +8273,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478025",
+   "source": "joe",
+   "institution": "The American University in Cairo",
+   "title": "Assistant, Associate or Full Professor in Economic Development",
+   "location": "Cairo, Egypt",
+   "fields": [
+    "O1 Economic Development"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478025",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477976",
    "source": "joe",
    "institution": "The American University in Cairo",
@@ -8439,6 +8588,23 @@
    "deadline": "2026-09-28",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477702",
+   "predoc": false,
+   "senior": true
+  },
+  {
+   "id": "joe:111478006",
+   "source": "joe",
+   "institution": "The TerraCotta Group, LLC",
+   "title": "Research Director",
+   "location": "Los Angeles, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478006",
    "predoc": false,
    "senior": true
   },
@@ -9635,6 +9801,27 @@
    "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477993",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478099",
+   "source": "joe",
+   "institution": "University of Nevada, Las Vegas",
+   "title": "Assistant Professor, Economics",
+   "location": "Las Vegas, United States",
+   "fields": [
+    "D Microeconomics",
+    "H Public Economics",
+    "I1 Health",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478099",
    "predoc": false,
    "senior": false
   },
