@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T10:43:25Z",
+ "generated_at": "2026-10-02T16:22:10Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -9,7 +9,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 401
+   "count": 419
   },
   "econjobs": {
    "status": "ok",
@@ -3683,6 +3683,57 @@
    "senior": false
   },
   {
+   "id": "joe:111478043",
+   "source": "joe",
+   "institution": "Arizona State University",
+   "title": "Assistant Professor (Applied Microeconomics)",
+   "location": "Tempe, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478043",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478044",
+   "source": "joe",
+   "institution": "Arizona State University",
+   "title": "Assistant Professor (Economic Theory)",
+   "location": "Tempe, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478044",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478038",
+   "source": "joe",
+   "institution": "Ashoka University",
+   "title": "Faculty Positions  (Open Rank)",
+   "location": "Sonipat, India",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478038",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477646",
    "source": "joe",
    "institution": "Augsburg University",
@@ -3731,6 +3782,28 @@
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477777",
    "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478126",
+   "source": "joe",
+   "institution": "Bank of Canada",
+   "title": "PhD Researcher (2026-2027 PhD Job Market)",
+   "location": "Ottawa, Canada",
+   "fields": [
+    "C0 General",
+    "D0 General",
+    "E0 General",
+    "F0 General",
+    "G0 General",
+    "L0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-04-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478126",
+   "predoc": true,
    "senior": false
   },
   {
@@ -4058,6 +4131,23 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477864",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478026",
+   "source": "joe",
+   "institution": "Capital One",
+   "title": "Principal Quantitative Modeler",
+   "location": "McLean, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478026",
    "predoc": false,
    "senior": false
   },
@@ -5345,6 +5435,26 @@
    "senior": false
   },
   {
+   "id": "joe:111478119",
+   "source": "joe",
+   "institution": "Furman University",
+   "title": "Assistant/Associate/Full Professor of Economics",
+   "location": "Greenville, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A General Economics and Teaching",
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478119",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477932",
    "source": "joe",
    "institution": "George Washington University School of Business",
@@ -5563,6 +5673,23 @@
    "deadline": "2026-10-23",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478007",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478035",
+   "source": "joe",
+   "institution": "Hong Kong Monetary Authority",
+   "title": "Graduate Economist (2027 Intake)",
+   "location": "Hong Kong, China",
+   "fields": [
+    "H0 General"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-10-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478035",
    "predoc": false,
    "senior": false
   },
@@ -6589,6 +6716,42 @@
    "senior": false
   },
   {
+   "id": "joe:111478046",
+   "source": "joe",
+   "institution": "National Bureau of Economic Research",
+   "title": "Post-Doctoral Fellow, Long-Term Fiscal Policy",
+   "location": "Cambridge, United States",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "H Public Economics",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478046",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478047",
+   "source": "joe",
+   "institution": "National Bureau of Economic Research",
+   "title": "Post-Doctoral Fellow, New Perspectives on Agricultural Economics",
+   "location": "Cambridge, United States",
+   "fields": [
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478047",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477565",
    "source": "joe",
    "institution": "National Bureau of Economic Research",
@@ -7415,6 +7578,53 @@
    "senior": false
   },
   {
+   "id": "joe:111478122",
+   "source": "joe",
+   "institution": "PricewaterhouseCoopers LLP (PwC)",
+   "title": "PwC Transfer Pricing PhD - Senior Associate - Summer/Fall 2027",
+   "location": "Atlanta, United States; Boston, United States; Chicago, United States; Los Angeles, United States; New York, United States; San Francisco, United States; Silicon Valley, United States; Washington DC, United States",
+   "fields": [
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics",
+    "H Public Economics",
+    "K Law and Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-11",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478122",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478120",
+   "source": "joe",
+   "institution": "PricewaterhouseCoopers LLP (PwC)",
+   "title": "Transfer Pricing PhD - Senior Associate - January 2027",
+   "location": "Philadelphia, United States; Washington, United States",
+   "fields": [
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics",
+    "H Public Economics",
+    "K Law and Economics",
+    "L Industrial Organization",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478120",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477687",
    "source": "joe",
    "institution": "Princeton University",
@@ -7617,6 +7827,23 @@
    "deadline": "2026-10-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477798",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478045",
+   "source": "joe",
+   "institution": "Purdue University",
+   "title": "Assistant Professor in Management Information Systems",
+   "location": "West Lafayette, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-04-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478045",
    "predoc": false,
    "senior": false
   },
@@ -7984,6 +8211,23 @@
    "senior": false
   },
   {
+   "id": "joe:111477991",
+   "source": "joe",
+   "institution": "St. Mary's College of Maryland",
+   "title": "Assistant Professor of Economics",
+   "location": "St Mary's City, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477991",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477795",
    "source": "joe",
    "institution": "Stanford Graduate School of Business",
@@ -8190,6 +8434,23 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477994",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478039",
+   "source": "joe",
+   "institution": "Technical University of Denmark",
+   "title": "Associate Professor or DTU Tenure Track Assistant Professor",
+   "location": "Copenhagen, Denmark",
+   "fields": [
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478039",
    "predoc": false,
    "senior": false
   },
@@ -9071,6 +9332,32 @@
    "senior": false
   },
   {
+   "id": "joe:111477979",
+   "source": "joe",
+   "institution": "Uber Technologies, Inc.",
+   "title": "Scientist/Economist",
+   "location": "San Francisco, United States; Seattle, United States; New York, United States; Toronto, Canada; Amsterdam, Netherlands",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "C Mathematical and Quantitative Methods",
+    "C5 Econometric Modeling",
+    "C6 Mathematical Methods; Programming Models; Mathematical and Simulation Modeling",
+    "C9 Design of Experiments",
+    "D Microeconomics",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics",
+    "R4 Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477979",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477859",
    "source": "joe",
    "institution": "UC Irvine",
@@ -9102,6 +9389,23 @@
    "deadline": "2027-01-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477694",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478048",
+   "source": "joe",
+   "institution": "UCLA",
+   "title": "Tenure-track Position-Assistant Professor",
+   "location": "Los Angeles, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-06-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478048",
    "predoc": false,
    "senior": false
   },
@@ -9201,6 +9505,25 @@
    "deadline": "2027-01-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477813",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478050",
+   "source": "joe",
+   "institution": "University at Buffalo",
+   "title": "Assistant Professor, Economics (Tenure-track)",
+   "location": "Buffalo, United States",
+   "fields": [
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-08-16",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478050",
    "predoc": false,
    "senior": false
   },
@@ -10041,6 +10364,23 @@
    "deadline": "2026-09-18",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477814",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478042",
+   "source": "joe",
+   "institution": "University of North Carolina Asheville",
+   "title": "Assistant Professor of Finance",
+   "location": "Asheville, United States",
+   "fields": [
+    "G0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-12",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478042",
    "predoc": false,
    "senior": false
   },
