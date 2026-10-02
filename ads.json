@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-02T01:48:46Z",
+ "generated_at": "2026-10-02T10:43:25Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 175,
+   "count": 176,
    "site_listing": 162,
-   "site_extra": 15
+   "site_extra": 7
   },
   "joe": {
    "status": "ok",
-   "count": 404
+   "count": 401
   },
   "econjobs": {
    "status": "ok",
@@ -2642,6 +2642,33 @@
    "senior": false
   },
   {
+   "id": "ejm:12685",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of St. Louis",
+   "title": "Economist",
+   "location": "St. Louis, US",
+   "fields": [
+    "Development; Growth",
+    "Econometrics",
+    "Finance",
+    "Industrial Organization",
+    "International Finance/Macro",
+    "International Trade",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-05",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12685",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12688",
    "source": "ejm",
    "institution": "Einaudi Institute for Economics and Finance",
@@ -3180,6 +3207,27 @@
    "senior": false
   },
   {
+   "id": "ejm:12720",
+   "source": "ejm",
+   "institution": "University of Warwick",
+   "title": "Assistant / Associate / Full Professor",
+   "location": "Coventry, GB",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-29",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12720",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12721",
    "source": "ejm",
    "institution": "University of Queensland",
@@ -3361,6 +3409,159 @@
    "deadline": "2026-12-14",
    "posted": "2026-09-30",
    "url": "https://econjobmarket.org/positions/12732",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12733",
+   "source": "ejm",
+   "institution": "Stanford University",
+   "title": "Stanford Graduate School of Business - Faculty Positions in Economics",
+   "location": "Stanford, US",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12733",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12736",
+   "source": "ejm",
+   "institution": "Université Toulouse Capitole",
+   "title": "Assistant Professor -Tenure Track",
+   "location": "Toulouse, FR",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-08",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12736",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12737",
+   "source": "ejm",
+   "institution": "Universidade Nova de Lisboa",
+   "title": "Economics Professor at Nova School of Business and Economics",
+   "location": "Cascais, PT",
+   "fields": [
+    "Development; Growth",
+    "Econometrics",
+    "Environmental; Energy; Ag. Econ",
+    "Industrial Organization",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Behavioral Economics",
+    "Health; Education; Welfare",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12737",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12738",
+   "source": "ejm",
+   "institution": "Universitat Autònoma de Barcelona",
+   "title": "Tenure-track position in applied economics",
+   "location": "Cerdanyola del Vallés (Bellaterra), ES",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-29",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12738",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12739",
+   "source": "ejm",
+   "institution": "University of Southern Denmark",
+   "title": "4329, ØI, PhD scholarships in Economics at the Department of Economics",
+   "location": "Odense M, DK",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Other"
+   ],
+   "position_types": [
+    "Research Assistant"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12739",
+   "predoc": true,
+   "senior": false
+  },
+  {
+   "id": "ejm:12741",
+   "source": "ejm",
+   "institution": "Rockwool Foundation Berlin",
+   "title": "Postdoctoral Fellow in Economics",
+   "location": "Berlin, DE",
+   "fields": [
+    "Industrial Organization",
+    "International Trade",
+    "Labor; Demographic Economics",
+    "Public Economics",
+    "Health; Education; Welfare",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12741",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12742",
+   "source": "ejm",
+   "institution": "IE University",
+   "title": "Tenure-Track Faculty Positions in Economics 2027-2028",
+   "location": "Madrid, ES",
+   "fields": [
+    "Econometrics",
+    "Macroeconomics; Monetary",
+    "Other"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12742",
    "predoc": false,
    "senior": false
   },
@@ -6200,23 +6401,6 @@
    "senior": false
   },
   {
-   "id": "joe:111477757",
-   "source": "joe",
-   "institution": "Michigan State University",
-   "title": "Director of TelFarm Data Center",
-   "location": "East Lansing, United States",
-   "fields": [
-    "Q1 Agriculture"
-   ],
-   "position_types": [],
-   "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-10-01",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477757",
-   "predoc": false,
-   "senior": true
-  },
-  {
    "id": "joe:111477736",
    "source": "joe",
    "institution": "Michigan State University",
@@ -7936,23 +8120,6 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478106",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "joe:111477536",
-   "source": "joe",
-   "institution": "Stanford University",
-   "title": "Assistant Professor in Communication",
-   "location": "Palo Alto, United States",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-10-01",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477536",
    "predoc": false,
    "senior": false
   },
@@ -10661,25 +10828,6 @@
    "senior": false
   },
   {
-   "id": "joe:111477917",
-   "source": "joe",
-   "institution": "World Bank Group",
-   "title": "WBG Young Professional (Economics Related)",
-   "location": "United States",
-   "fields": [
-    "C Mathematical and Quantitative Methods",
-    "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",
-    "G Financial Economics"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-09-30",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477917",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "joe:111477866",
    "source": "joe",
    "institution": "Xiamen University",
@@ -11048,36 +11196,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12741",
-   "source": "ejm",
-   "institution": "Rockwool Foundation Berlin",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Health; Education; Welfare/Industrial Organization/International Trade/Labor; Demographic Economics/Public Economics",
-   "location": "Berlin, DE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12741",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12736",
-   "source": "ejm",
-   "institution": "Toulouse School of Economics, Université Toulouse Capitole",
-   "title": "Assistant Professor, Economics",
-   "location": "Toulouse, FR",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-08",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12736",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12746",
    "source": "ejm",
    "institution": "Department of Economics, University of Gothenburg",
@@ -11108,21 +11226,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12738",
-   "source": "ejm",
-   "institution": "Department of Applied Economics, Universitat Autònoma de Barcelona",
-   "title": "Assistant Professor, Economics",
-   "location": "Cerdanyola Del Vallés (Bellaterra), ES",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-29",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12738",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12750",
    "source": "ejm",
    "institution": "Economics, Columbia University",
@@ -11138,21 +11241,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12685",
-   "source": "ejm",
-   "institution": "All departments, Federal Reserve Bank of St. Louis",
-   "title": "Economist",
-   "location": "St. Louis, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-05",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12685",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12752",
    "source": "ejm",
    "institution": "Département d'économie appliquée, HEC, Universíté de Montréal",
@@ -11164,21 +11252,6 @@
    "deadline": "2026-12-01",
    "posted": "2026-10-02",
    "url": "https://econjobmarket.org/positions/12752",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12737",
-   "source": "ejm",
-   "institution": "Nova School of Business and Economics, Universidade Nova de Lisboa",
-   "title": "Assistant Professor, Behavioral Economics/Development; Growth/Econometrics/Environmental; Energy; Ag. Econ/Health; Education; Welfare/Industrial Organization/Labor; Demographic Economics/Macr",
-   "location": "Cascais, PT",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12737",
    "predoc": false,
    "senior": false
   },
@@ -11213,36 +11286,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12720",
-   "source": "ejm",
-   "institution": "Warwick Business School, University of Warwick",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
-   "location": "Coventry, GB",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-29",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12720",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12742",
-   "source": "ejm",
-   "institution": "School of Politics, Economics & Public Affairs, IE University",
-   "title": "Assistant Professor/Associate Professor, Econometrics/Macroeconomics; Monetary",
-   "location": "Madrid, ES",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12742",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12743",
    "source": "ejm",
    "institution": "Initiative for Financial Decision-Making, Stanford University",
@@ -11254,21 +11297,6 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-02",
    "url": "https://econjobmarket.org/positions/12743",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12733",
-   "source": "ejm",
-   "institution": "Economics, Graduate School of Business, Stanford University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Stanford, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12733",
    "predoc": false,
    "senior": false
   }
