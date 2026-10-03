@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-03T01:25:04Z",
+ "generated_at": "2026-10-03T10:02:07Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 181,
+   "count": 182,
    "site_listing": 167,
-   "site_extra": 12
+   "site_extra": 3
   },
   "joe": {
    "status": "ok",
@@ -3333,6 +3333,25 @@
    "senior": false
   },
   {
+   "id": "ejm:12726",
+   "source": "ejm",
+   "institution": "Vienna University of Economics and Business",
+   "title": "Assistant Professor (tenure track) in Finance",
+   "location": "Vienna, AT",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12726",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12727",
    "source": "ejm",
    "institution": "Aarhus University",
@@ -3430,6 +3449,25 @@
    "deadline": "2026-11-10",
    "posted": "2026-10-01",
    "url": "https://econjobmarket.org/positions/12733",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12734",
+   "source": "ejm",
+   "institution": "Umeå University",
+   "title": "Postdoctoral scholarship (3 years) in Economics",
+   "location": "Umeå, SE",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-05",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12734",
    "predoc": false,
    "senior": false
   },
@@ -3562,6 +3600,169 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-01",
    "url": "https://econjobmarket.org/positions/12742",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12743",
+   "source": "ejm",
+   "institution": "Stanford University",
+   "title": "Postdoctoral Fellow in Financial Decision-Making",
+   "location": "Stanford, US",
+   "fields": [
+    "Econometrics",
+    "Experimental Economics",
+    "Finance",
+    "Behavioral Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12743",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12746",
+   "source": "ejm",
+   "institution": "University of Gothenburg",
+   "title": "Assistant Professor in Environmental Economics",
+   "location": "Göteborg, SE",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12746",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12747",
+   "source": "ejm",
+   "institution": "University of Gothenburg",
+   "title": "Assistant Professor in Applied Microeconomics",
+   "location": "Göteborg, SE",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Law and Economics",
+    "Health; Education; Welfare",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12747",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12748",
+   "source": "ejm",
+   "institution": "Bocconi University",
+   "title": "Two Assistant Professor Positions in the Department of Decision Sciences",
+   "location": "Milano, IT",
+   "fields": [
+    "Decision Sciences"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-15",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12748",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12749",
+   "source": "ejm",
+   "institution": "Massachusetts Institute of Technology",
+   "title": "Postdoctoral Associate, Charter Schools",
+   "location": "Cambridge, US",
+   "fields": [
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12749",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12750",
+   "source": "ejm",
+   "institution": "Columbia University",
+   "title": "Assistant Professor/Associate Professor (tenure-track)",
+   "location": "New York, US",
+   "fields": [
+    "Finance",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12750",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12751",
+   "source": "ejm",
+   "institution": "Massachusetts Institute of Technology",
+   "title": "Postdoctoral Associate, AI in Education",
+   "location": "Cambridge, US",
+   "fields": [
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12751",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12752",
+   "source": "ejm",
+   "institution": "Universíté de Montréal",
+   "title": "Assistant/Associate/Full Professor, Dept. of Applied Economics, HEC Montréal",
+   "location": "Montréal, CA",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12752",
    "predoc": false,
    "senior": false
   },
@@ -11548,141 +11749,6 @@
    "posted": "2026-10-03",
    "url": "https://econjobmarket.org/positions/12755",
    "predoc": true,
-   "senior": false
-  },
-  {
-   "id": "ejm:12746",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Gothenburg",
-   "title": "Assistant Professor, Environmental; Energy; Ag. Econ",
-   "location": "Göteborg, SE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12746",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12747",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Gothenburg",
-   "title": "Assistant Professor, Applied microeconomics/Health; Education; Welfare/Labor; Demographic Economics/Law and Economics",
-   "location": "Göteborg, SE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12747",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12734",
-   "source": "ejm",
-   "institution": "Umeå School of Business, Economics and Statistics, Umeå University",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Umeå, SE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-05",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12734",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12750",
-   "source": "ejm",
-   "institution": "Economics, Columbia University",
-   "title": "Assistant Professor/Associate Professor, Finance/Labor; Demographic Economics/Macroeconomics; Monetary",
-   "location": "New York, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12750",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12752",
-   "source": "ejm",
-   "institution": "Département d'économie appliquée, HEC, Universíté de Montréal",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Montréal, CA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12752",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12726",
-   "source": "ejm",
-   "institution": "Department of Finance, Accounting and Statistics, Vienna University of Economics and Business",
-   "title": "Assistant Professor, Finance",
-   "location": "Vienna, AT",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12726",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12749",
-   "source": "ejm",
-   "institution": "Economics, Massachusetts Institute of Technology",
-   "title": "Postdoctoral Scholar, Health; Education; Welfare",
-   "location": "Cambridge, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12749",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12751",
-   "source": "ejm",
-   "institution": "Economics, Massachusetts Institute of Technology",
-   "title": "Postdoctoral Scholar, Health; Education; Welfare",
-   "location": "Cambridge, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12751",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12743",
-   "source": "ejm",
-   "institution": "Initiative for Financial Decision-Making, Stanford University",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Econometrics/Experimental Economics/Finance",
-   "location": "Stanford, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12743",
-   "predoc": false,
    "senior": false
   },
   {
