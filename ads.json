@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-02T20:57:33Z",
+ "generated_at": "2026-10-03T01:25:04Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 176,
-   "site_listing": 162,
-   "site_extra": 7
+   "count": 181,
+   "site_listing": 167,
+   "site_extra": 12
   },
   "joe": {
    "status": "ok",
@@ -9521,7 +9521,7 @@
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2027-08-16",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478050",
    "predoc": false,
@@ -11536,6 +11536,21 @@
    "senior": false
   },
   {
+   "id": "ejm:12755",
+   "source": "ejm",
+   "institution": "Bank of Canada",
+   "title": "PhD Researcher (2026-2027 PhD Job Market)",
+   "location": "Ottawa, CA",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-10-03",
+   "url": "https://econjobmarket.org/positions/12755",
+   "predoc": true,
+   "senior": false
+  },
+  {
    "id": "ejm:12746",
    "source": "ejm",
    "institution": "Department of Economics, University of Gothenburg",
@@ -11566,6 +11581,21 @@
    "senior": false
   },
   {
+   "id": "ejm:12734",
+   "source": "ejm",
+   "institution": "Umeå School of Business, Economics and Statistics, Umeå University",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Umeå, SE",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-05",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12734",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12750",
    "source": "ejm",
    "institution": "Economics, Columbia University",
@@ -11592,6 +11622,21 @@
    "deadline": "2026-12-01",
    "posted": "2026-10-02",
    "url": "https://econjobmarket.org/positions/12752",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12726",
+   "source": "ejm",
+   "institution": "Department of Finance, Accounting and Statistics, Vienna University of Economics and Business",
+   "title": "Assistant Professor, Finance",
+   "location": "Vienna, AT",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-02",
+   "url": "https://econjobmarket.org/positions/12726",
    "predoc": false,
    "senior": false
   },
@@ -11637,6 +11682,36 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-02",
    "url": "https://econjobmarket.org/positions/12743",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12753",
+   "source": "ejm",
+   "institution": "School of Business and Economics, Maastricht University",
+   "title": "Assistant Professor, Applied microeconomics/Behavioral Economics/Decision Sciences/Experimental Economics/Health; Education; Welfare/Industrial Organization/Microeconomic theory/Political Eco",
+   "location": "Maastricht, NL",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-03",
+   "url": "https://econjobmarket.org/positions/12753",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12756",
+   "source": "ejm",
+   "institution": "Economics, Syracuse University",
+   "title": "Assistant Professor, Econometrics",
+   "location": "Syracuse, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-10-03",
+   "url": "https://econjobmarket.org/positions/12756",
    "predoc": false,
    "senior": false
   }
