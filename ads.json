@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-03T19:23:24Z",
+ "generated_at": "2026-10-04T01:58:43Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 182,
-   "site_listing": 167,
-   "site_extra": 3
+   "count": 183,
+   "site_listing": 168,
+   "site_extra": 4
   },
   "joe": {
    "status": "ok",
@@ -11749,6 +11749,21 @@
    "posted": "2026-10-03",
    "url": "https://econjobmarket.org/positions/12755",
    "predoc": true,
+   "senior": false
+  },
+  {
+   "id": "ejm:12760",
+   "source": "ejm",
+   "institution": "Economics, University of Virginia",
+   "title": "Assistant Professor, Applied microeconomics/International Trade/Labor; Demographic Economics",
+   "location": "Charlottesville, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-04",
+   "url": "https://econjobmarket.org/positions/12760",
+   "predoc": false,
    "senior": false
   },
   {
