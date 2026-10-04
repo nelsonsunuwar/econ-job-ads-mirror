@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-04T15:30:21Z",
+ "generated_at": "2026-10-04T19:47:39Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 182,
-   "site_listing": 168,
-   "site_extra": 2
+   "count": 183,
+   "site_listing": 169,
+   "site_extra": 3
   },
   "joe": {
    "status": "ok",
@@ -11755,6 +11755,21 @@
    "deadline": "2026-11-10",
    "posted": "2026-10-04",
    "url": "https://econjobmarket.org/positions/12760",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12759",
+   "source": "ejm",
+   "institution": "Faculty of Economics and Administrative Sciences, TED University",
+   "title": "Assistant Professor, Economics",
+   "location": "Ankara, TR",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-04",
+   "url": "https://econjobmarket.org/positions/12759",
    "predoc": false,
    "senior": false
   },
