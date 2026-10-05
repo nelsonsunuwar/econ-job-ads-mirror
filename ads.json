@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-05T01:15:46Z",
+ "generated_at": "2026-10-05T11:49:50Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 185,
+   "count": 186,
    "site_listing": 171,
-   "site_extra": 5
+   "site_extra": 4
   },
   "joe": {
    "status": "ok",
@@ -642,25 +642,6 @@
    "deadline": "2027-02-03",
    "posted": "2026-08-03",
    "url": "https://econjobmarket.org/positions/12559",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12561",
-   "source": "ejm",
-   "institution": "Bocconi University",
-   "title": "Two Assistant Professor Positions in Economics for Experienced Candidates",
-   "location": "Milano, IT",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-05",
-   "posted": "2026-08-06",
-   "url": "https://econjobmarket.org/positions/12561",
    "predoc": false,
    "senior": false
   },
@@ -3792,6 +3773,67 @@
    "deadline": "2026-10-30",
    "posted": "2026-10-03",
    "url": "https://econjobmarket.org/positions/12756",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12757",
+   "source": "ejm",
+   "institution": "Bilkent University",
+   "title": "Faculty Positions in Finance",
+   "location": "Ankara, TR",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-04",
+   "url": "https://econjobmarket.org/positions/12757",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12759",
+   "source": "ejm",
+   "institution": "TED University",
+   "title": "Tenure Track Position",
+   "location": "Ankara, TR",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-04",
+   "url": "https://econjobmarket.org/positions/12759",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12760",
+   "source": "ejm",
+   "institution": "University of Virginia",
+   "title": "Assistant Professor of Economics (Applied Microeconomics)",
+   "location": "Charlottesville, US",
+   "fields": [
+    "International Trade",
+    "Labor; Demographic Economics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-04",
+   "url": "https://econjobmarket.org/positions/12760",
    "predoc": false,
    "senior": false
   },
@@ -11744,21 +11786,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12760",
-   "source": "ejm",
-   "institution": "Economics, University of Virginia",
-   "title": "Assistant Professor, Applied microeconomics/International Trade/Labor; Demographic Economics",
-   "location": "Charlottesville, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-04",
-   "url": "https://econjobmarket.org/positions/12760",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12761",
    "source": "ejm",
    "institution": "Information Systems, Decision Sciences and Statistics Department, ESSEC Business School",
@@ -11804,17 +11831,17 @@
    "senior": false
   },
   {
-   "id": "ejm:12759",
+   "id": "ejm:12561",
    "source": "ejm",
-   "institution": "Faculty of Economics and Administrative Sciences, TED University",
+   "institution": "Economics, Bocconi University",
    "title": "Assistant Professor, Economics",
-   "location": "Ankara, TR",
+   "location": "Milano, IT",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-04",
-   "url": "https://econjobmarket.org/positions/12759",
+   "deadline": "2026-10-05",
+   "posted": "2026-08-06",
+   "url": "https://econjobmarket.org/positions/12561",
    "predoc": false,
    "senior": false
   }
