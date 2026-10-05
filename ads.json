@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-04T19:47:39Z",
+ "generated_at": "2026-10-05T01:15:46Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 183,
-   "site_listing": 169,
-   "site_extra": 3
+   "count": 185,
+   "site_listing": 171,
+   "site_extra": 5
   },
   "joe": {
    "status": "ok",
@@ -11759,6 +11759,51 @@
    "senior": false
   },
   {
+   "id": "ejm:12761",
+   "source": "ejm",
+   "institution": "Information Systems, Decision Sciences and Statistics Department, ESSEC Business School",
+   "title": "Assistant Professor/Associate Professor, Econometrics/Statistics",
+   "location": "Cergy-Pontoise Cedex, FR",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-05",
+   "url": "https://econjobmarket.org/positions/12761",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12731",
+   "source": "ejm",
+   "institution": "Economics, IESE Business School, Universidad de Navarra",
+   "title": "Assistant Professor, Economics",
+   "location": "Barcelona, ES",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-07",
+   "posted": "2026-10-05",
+   "url": "https://econjobmarket.org/positions/12731",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12763",
+   "source": "ejm",
+   "institution": "Roberta Buffett Institute for Global Affairs, Northwestern University",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Evanston, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-05",
+   "url": "https://econjobmarket.org/positions/12763",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12759",
    "source": "ejm",
    "institution": "Faculty of Economics and Administrative Sciences, TED University",
@@ -11770,21 +11815,6 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-04",
    "url": "https://econjobmarket.org/positions/12759",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12599",
-   "source": "ejm",
-   "institution": "Department of Economics, Maynooth University",
-   "title": "Assistant Professor, Macroeconomics; Monetary",
-   "location": "Maynooth, IE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-04",
-   "posted": "2026-08-26",
-   "url": "https://econjobmarket.org/positions/12599",
    "predoc": false,
    "senior": false
   }
