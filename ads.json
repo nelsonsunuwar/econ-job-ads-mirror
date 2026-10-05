@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-10-05T11:49:50Z",
+ "generated_at": "2026-10-05T22:54:13Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 186,
-   "site_listing": 171,
-   "site_extra": 4
+   "count": 187,
+   "site_listing": 173,
+   "site_extra": 6
   },
   "joe": {
    "status": "ok",
-   "count": 418
+   "count": 428
   },
   "econjobs": {
-   "status": "ok",
-   "count": 13
+   "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 0
   }
  },
  "ads": [
@@ -3610,25 +3610,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12748",
-   "source": "ejm",
-   "institution": "Bocconi University",
-   "title": "Two Assistant Professor Positions in the Department of Decision Sciences",
-   "location": "Milano, IT",
-   "fields": [
-    "Decision Sciences"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2027-01-15",
-   "posted": "2026-10-02",
-   "url": "https://econjobmarket.org/positions/12748",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12749",
    "source": "ejm",
    "institution": "Massachusetts Institute of Technology",
@@ -4221,6 +4202,23 @@
    "deadline": "2026-10-05",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477571",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478040",
+   "source": "joe",
+   "institution": "Bocconi University",
+   "title": "Two Assistant Professor Positions in Economics for Junior Candidates",
+   "location": "Milano, Italy",
+   "fields": [
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478040",
    "predoc": false,
    "senior": false
   },
@@ -5175,6 +5173,23 @@
    "deadline": "2026-11-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477596",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478052",
+   "source": "joe",
+   "institution": "East China University of Science and Technology",
+   "title": "Assistant Professor",
+   "location": "Shanghai, China",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478052",
    "predoc": false,
    "senior": false
   },
@@ -7239,6 +7254,28 @@
    "senior": false
   },
   {
+   "id": "joe:111478051",
+   "source": "joe",
+   "institution": "National Council of Applied Economic Research",
+   "title": "Senior Fellow / Fellow / Associate Fellow",
+   "location": "New Delhi, India",
+   "fields": [
+    "F International Economics",
+    "H Public Economics",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478051",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477532",
    "source": "joe",
    "institution": "National Sun Yat-sen University",
@@ -7454,6 +7491,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478066",
+   "source": "joe",
+   "institution": "New York University",
+   "title": "Tenure-Track Assistant/Associate Professor",
+   "location": "New York, United States",
+   "fields": [
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478066",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477990",
    "source": "joe",
    "institution": "New York University Abu Dhabi",
@@ -7579,6 +7633,26 @@
    "deadline": "2026-12-15",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477944",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478147",
+   "source": "joe",
+   "institution": "Northwestern University",
+   "title": "Assistant Professor, Finance",
+   "location": "Evanston, United States",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A2 Economic Education and Teaching of Economics",
+    "G0 General",
+    "G1 General Financial Markets"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478147",
    "predoc": false,
    "senior": false
   },
@@ -8096,6 +8170,27 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478045",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "joe:111478053",
+   "source": "joe",
+   "institution": "Queen's University",
+   "title": "Stephen J.R. Smith Chair in Economic Policy",
+   "location": "Kingston, Canada",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "F International Economics",
+    "G Financial Economics",
+    "H Public Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-02-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478053",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477927",
@@ -9002,6 +9097,40 @@
    "senior": false
   },
   {
+   "id": "joe:111478059",
+   "source": "joe",
+   "institution": "The American University in Cairo",
+   "title": "Assistant, Associate or Full Professor",
+   "location": "Cairo, Egypt",
+   "fields": [
+    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478059",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "joe:111478057",
+   "source": "joe",
+   "institution": "The American University in Cairo",
+   "title": "Assistant, Associate or Full Professor",
+   "location": "Cairo, Egypt",
+   "fields": [
+    "D1 Household Behavior and Family Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478057",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111477980",
    "source": "joe",
    "institution": "The American University in Cairo",
@@ -9423,6 +9552,23 @@
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477583",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "joe:111478055",
+   "source": "joe",
+   "institution": "The University of Chicago",
+   "title": "Research Associate Professor",
+   "location": "Chicago, United States",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-06-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478055",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477668",
@@ -11185,6 +11331,23 @@
    "senior": false
   },
   {
+   "id": "joe:111478060",
+   "source": "joe",
+   "institution": "Vanderbilt University",
+   "title": "Senior Lecturer in Economics",
+   "location": "Nashville, United States",
+   "fields": [
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-02-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478060",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "joe:111478014",
    "source": "joe",
    "institution": "Wake Forest University",
@@ -11591,197 +11754,17 @@
    "senior": false
   },
   {
-   "id": "ej:idb-energy-economics-data-analysis-internship",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Idb energy economics data analysis internship",
-   "location": null,
+   "id": "ejm:12748",
+   "source": "ejm",
+   "institution": "Economics, Bocconi University",
+   "title": "Assistant Professor, Decision Sciences",
+   "location": "Milano, IT",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": null,
-   "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/idb-energy-economics-data-analysis-internship/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:idb-research-department-and-behavioral-economics-internship",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Idb research department and behavioral economics internship",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/idb-research-department-and-behavioral-economics-internship/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:2027-sf-fed-research-associate",
-   "source": "econjobs",
-   "institution": null,
-   "title": "2027 sf fed research associate",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/2027-sf-fed-research-associate/",
-   "predoc": true,
-   "senior": false
-  },
-  {
-   "id": "ej:health-economics-and-outcomes-research-intern",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Health economics and outcomes research intern",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/health-economics-and-outcomes-research-intern/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:associate-quantitative-analyst",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Associate quantitative analyst",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/associate-quantitative-analyst/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Eastern caribbean central bank st kitts and nevis west indies 16 senior economist monetary modelling and analytics unit 2",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-01",
-   "url": "https://econ-jobs.com/job-offer/eastern-caribbean-central-bank-st-kitts-and-nevis-west-indies-16-senior-economist-monetary-modelling-and-analytics-unit-2/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:research-associate-in-health-economics",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Research associate in health economics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-30",
-   "url": "https://econ-jobs.com/job-offer/research-associate-in-health-economics/",
-   "predoc": true,
-   "senior": false
-  },
-  {
-   "id": "ej:health-economic-outcomes-research-strategy-lead-uk",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Health economic outcomes research strategy lead uk",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-30",
-   "url": "https://econ-jobs.com/job-offer/health-economic-outcomes-research-strategy-lead-uk/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:phd-economics-intern-reduced-form-causal-inference-summer-2027",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Phd economics intern reduced form causal inference summer 2027",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-30",
-   "url": "https://econ-jobs.com/job-offer/phd-economics-intern-reduced-form-causal-inference-summer-2027/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:phd-economics-intern-structural-io-summer-2027",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Phd economics intern structural io summer 2027",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-30",
-   "url": "https://econ-jobs.com/job-offer/phd-economics-intern-structural-io-summer-2027/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:lecturer-senior-lecturer-in-economics",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Lecturer senior lecturer in economics",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-30",
-   "url": "https://econ-jobs.com/job-offer/lecturer-senior-lecturer-in-economics/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:daffodil-centre-research-fellow-senior-research-fellow",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Daffodil centre research fellow senior research fellow",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-30",
-   "url": "https://econ-jobs.com/job-offer/daffodil-centre-research-fellow-senior-research-fellow/",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ej:principal-data-scientist-economic-research",
-   "source": "econjobs",
-   "institution": null,
-   "title": "Principal data scientist economic research",
-   "location": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": null,
-   "posted": "2026-09-30",
-   "url": "https://econ-jobs.com/job-offer/principal-data-scientist-economic-research/",
+   "deadline": "2027-01-15",
+   "posted": "2026-10-05",
+   "url": "https://econjobmarket.org/positions/12748",
    "predoc": false,
    "senior": false
   },
@@ -11827,6 +11810,21 @@
    "deadline": "2026-12-01",
    "posted": "2026-10-05",
    "url": "https://econjobmarket.org/positions/12763",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12762",
+   "source": "ejm",
+   "institution": "Norges Bank",
+   "title": "PhD Intern",
+   "location": "Oslo, NO",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-10-05",
+   "url": "https://econjobmarket.org/positions/12762",
    "predoc": false,
    "senior": false
   },
