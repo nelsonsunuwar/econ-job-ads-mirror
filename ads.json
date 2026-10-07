@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-06T21:13:05Z",
+ "generated_at": "2026-10-07T01:47:59Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 191,
-   "site_listing": 179,
-   "site_extra": 7
+   "count": 192,
+   "site_listing": 180,
+   "site_extra": 8
   },
   "joe": {
    "status": "ok",
@@ -12079,6 +12079,21 @@
    "deadline": "2027-01-31",
    "posted": "2026-10-06",
    "url": "https://econjobmarket.org/positions/12769",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12744",
+   "source": "ejm",
+   "institution": "School of Economics, Business School, University of New South Wales (UNSW), Sydney",
+   "title": "Assistant Professor/Associate Professor/Lecturer/Senior Lecturer, Economics",
+   "location": "Sydney, AU",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-07",
+   "url": "https://econjobmarket.org/positions/12744",
    "predoc": false,
    "senior": false
   },
