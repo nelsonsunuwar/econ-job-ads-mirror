@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-07T01:47:59Z",
+ "generated_at": "2026-10-07T11:20:01Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 192,
+   "count": 193,
    "site_listing": 180,
-   "site_extra": 8
+   "site_extra": 2
   },
   "joe": {
    "status": "ok",
@@ -17,25 +17,6 @@
   }
  },
  "ads": [
-  {
-   "id": "ejm:11897",
-   "source": "ejm",
-   "institution": "University of Pennsylvania",
-   "title": "Assistant Professor of Finance (Tenure Track) 2025 - 2026",
-   "location": "Philadelphia, US",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2025-12-01",
-   "posted": "2025-10-08",
-   "url": "https://econjobmarket.org/positions/11897",
-   "predoc": false,
-   "senior": false
-  },
   {
    "id": "ejm:11974",
    "source": "ejm",
@@ -3024,6 +3005,27 @@
    "senior": false
   },
   {
+   "id": "ejm:12712",
+   "source": "ejm",
+   "institution": "E.CA Economics",
+   "title": "Senior Associate (m/f/d) - Competition Economics Consultancy",
+   "location": "Berlin, DE",
+   "fields": [
+    "Econometrics",
+    "Industrial Organization",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Consultant"
+   ],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12712",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12713",
    "source": "ejm",
    "institution": "Technical University of Denmark",
@@ -3567,6 +3569,25 @@
    "senior": false
   },
   {
+   "id": "ejm:12745",
+   "source": "ejm",
+   "institution": "Korea Institute of Public Finance (KIPF)",
+   "title": "[KIPF] Research FeIIow",
+   "location": "Sejong, KR",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12745",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12746",
    "source": "ejm",
    "institution": "University of Gothenburg",
@@ -3775,6 +3796,27 @@
    "senior": false
   },
   {
+   "id": "ejm:12757",
+   "source": "ejm",
+   "institution": "Bilkent University",
+   "title": "Faculty Positions in Finance",
+   "location": "Ankara, TR",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12757",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12759",
    "source": "ejm",
    "institution": "TED University",
@@ -3875,6 +3917,108 @@
    "deadline": "2026-12-01",
    "posted": "2026-10-05",
    "url": "https://econjobmarket.org/positions/12763",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12764",
+   "source": "ejm",
+   "institution": "Università degli Studi di Napoli Federico II",
+   "title": "Research Fellowships CSEF - DISES",
+   "location": "NAPOLI, IT",
+   "fields": [
+    "Experimental Economics",
+    "Industrial Organization",
+    "Public Economics",
+    "Behavioral Economics",
+    "Political Economy",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12764",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12766",
+   "source": "ejm",
+   "institution": "University of Chicago",
+   "title": "Assistant/Associate Professor of Economics (Microeconomics)",
+   "location": "Chicago, US",
+   "fields": [
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2027-06-30",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12766",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12767",
+   "source": "ejm",
+   "institution": "University of Zurich",
+   "title": "Pre-Doctoral Program – Global Talent Common Application",
+   "location": "Zürich, CH",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Research Assistant (Pre-Doc)"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12767",
+   "predoc": true,
+   "senior": false
+  },
+  {
+   "id": "ejm:12768",
+   "source": "ejm",
+   "institution": "University of Chicago",
+   "title": "Assistant/Associate Professor of Economics (Macroeconomics)",
+   "location": "Chicago, US",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12768",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12769",
+   "source": "ejm",
+   "institution": "Université de Genève",
+   "title": "Tenure-Track Assistant Professor in Economics",
+   "location": "Geneva, CH",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12769",
    "predoc": false,
    "senior": false
   },
@@ -12008,81 +12152,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12745",
-   "source": "ejm",
-   "institution": "Korea Institute of Public Finance (KIPF)",
-   "title": "Research FeIIow",
-   "location": "Sejong, KR",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12745",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12766",
-   "source": "ejm",
-   "institution": "Booth School of Business, University of Chicago",
-   "title": "Assistant Professor/Associate Professor, Microeconomic theory",
-   "location": "Chicago, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-06-30",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12766",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12757",
-   "source": "ejm",
-   "institution": "Faculty of Business Administration, Bilkent University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
-   "location": "Ankara, TR",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-15",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12757",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12768",
-   "source": "ejm",
-   "institution": "Booth School of Business, University of Chicago",
-   "title": "Assistant Professor/Associate Professor, Macroeconomics; Monetary",
-   "location": "Chicago, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-03-31",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12768",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12769",
-   "source": "ejm",
-   "institution": "Geneva School of Economics and Management (GSEM), Université de Genève",
-   "title": "Assistant Professor, Economics",
-   "location": "Geneva, CH",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12769",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12744",
    "source": "ejm",
    "institution": "School of Economics, Business School, University of New South Wales (UNSW), Sydney",
@@ -12098,32 +12167,17 @@
    "senior": false
   },
   {
-   "id": "ejm:12764",
+   "id": "ejm:11897",
    "source": "ejm",
-   "institution": "Department of Economics and Statistics, Università degli Studi di Napoli Federico II",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Experimental Economics/Industrial Organization/Microeconomic theory/Political Economy/Public Economics",
-   "location": "Napoli, IT",
+   "institution": "Finance, Wharton School, University of Pennsylvania",
+   "title": "Assistant Professor of Finance (Tenure Track) 2025 - 2026",
+   "location": "Philadelphia, US",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12764",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:12712",
-   "source": "ejm",
-   "institution": "E.CA Economics",
-   "title": "Consultant, Applied microeconomics/Econometrics/Industrial Organization",
-   "location": "Berlin, DE",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12712",
+   "deadline": "2025-12-01",
+   "posted": "2025-10-08",
+   "url": "https://econjobmarket.org/positions/11897",
    "predoc": false,
    "senior": false
   }
