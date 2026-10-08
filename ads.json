@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-08T02:15:23Z",
+ "generated_at": "2026-10-08T11:36:13Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 194,
+   "count": 196,
    "site_listing": 181,
-   "site_extra": 3
+   "site_extra": 2
   },
   "joe": {
    "status": "ok",
@@ -2838,6 +2838,25 @@
    "senior": true
   },
   {
+   "id": "ejm:12703",
+   "source": "ejm",
+   "institution": "University of Lisbon",
+   "title": "Two Assistant Professor Positions in Economics (any field) at ISEG - Lisbon",
+   "location": "Lisbon, PT",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-07",
+   "url": "https://econjobmarket.org/positions/12703",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12704",
    "source": "ejm",
    "institution": "University of Virginia",
@@ -3569,6 +3588,28 @@
    "senior": false
   },
   {
+   "id": "ejm:12744",
+   "source": "ejm",
+   "institution": "University of New South Wales (UNSW), Sydney",
+   "title": "Lecturer (Assistant Professor)/Senior Lecturer/Associate Professor",
+   "location": "Sydney, AU",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Lecturer",
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-07",
+   "url": "https://econjobmarket.org/positions/12744",
+   "predoc": false,
+   "senior": false
+  },
+  {
    "id": "ejm:12745",
    "source": "ejm",
    "institution": "Korea Institute of Public Finance (KIPF)",
@@ -4019,6 +4060,27 @@
    "deadline": "2027-01-31",
    "posted": "2026-10-06",
    "url": "https://econjobmarket.org/positions/12769",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12770",
+   "source": "ejm",
+   "institution": "Sabancı University",
+   "title": "Faculty Positions at the Faculty of Arts and Social Sciences, Sabanci University",
+   "location": "Tuzla, TR",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-10-07",
+   "url": "https://econjobmarket.org/positions/12770",
    "predoc": false,
    "senior": false
   },
@@ -12560,21 +12622,6 @@
    "url": "https://econjobmarket.org/positions/12776",
    "predoc": false,
    "senior": true
-  },
-  {
-   "id": "ejm:12744",
-   "source": "ejm",
-   "institution": "School of Economics, Business School, University of New South Wales (UNSW), Sydney",
-   "title": "Assistant Professor/Associate Professor/Lecturer/Senior Lecturer, Economics",
-   "location": "Sydney, AU",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-07",
-   "url": "https://econjobmarket.org/positions/12744",
-   "predoc": false,
-   "senior": false
   }
  ]
 }
