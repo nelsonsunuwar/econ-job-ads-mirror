@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-07T21:32:53Z",
+ "generated_at": "2026-10-08T02:15:23Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 193,
-   "site_listing": 180,
-   "site_extra": 2
+   "count": 194,
+   "site_listing": 181,
+   "site_extra": 3
   },
   "joe": {
    "status": "ok",
@@ -12532,6 +12532,36 @@
    "senior": false
   },
   {
+   "id": "ejm:12773",
+   "source": "ejm",
+   "institution": "Business School, Imperial College London",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "London, GB",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-03",
+   "posted": "2026-10-08",
+   "url": "https://econjobmarket.org/positions/12773",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12776",
+   "source": "ejm",
+   "institution": "School of Business, McMaster University",
+   "title": "Associate Professor, Finance",
+   "location": "Hamilton, CA",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-10-08",
+   "url": "https://econjobmarket.org/positions/12776",
+   "predoc": false,
+   "senior": true
+  },
+  {
    "id": "ejm:12744",
    "source": "ejm",
    "institution": "School of Economics, Business School, University of New South Wales (UNSW), Sydney",
@@ -12543,21 +12573,6 @@
    "deadline": "2026-11-27",
    "posted": "2026-10-07",
    "url": "https://econjobmarket.org/positions/12744",
-   "predoc": false,
-   "senior": false
-  },
-  {
-   "id": "ejm:11897",
-   "source": "ejm",
-   "institution": "Finance, Wharton School, University of Pennsylvania",
-   "title": "Assistant Professor of Finance (Tenure Track) 2025 - 2026",
-   "location": "Philadelphia, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2025-12-01",
-   "posted": "2025-10-08",
-   "url": "https://econjobmarket.org/positions/11897",
    "predoc": false,
    "senior": false
   }
