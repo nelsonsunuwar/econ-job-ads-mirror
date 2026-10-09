@@ -18,6 +18,60 @@ UA = {"User-Agent": "econ-job-ads-mirror/1.0 (personal job-search index; github.
 OUT = "ads.json"
 
 
+# Continent per ISO country code — Americas split so "North America" means
+# US/Canada for quick filtering. Turkey/Cyprus count as Europe (they recruit
+# on the European market), Egypt as Africa, Israel/Gulf as Asia.
+_CONTINENTS = {
+    "Europe": "AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IM IS IT JE LI LT LU LV "
+              "MC MD ME MK MT NL NO PL PT RO RS RU SE SI SK SM TR UA VA XK",
+    "North America": "US CA BM GL",
+    "Latin America": "MX GT BZ SV HN NI CR PA CU DO HT JM BS BB TT AG DM GD KN LC VC PR AR BO BR CL CO EC GY PY PE SR UY VE",
+    "Asia": "AE AF AM AZ BD BH BN BT CN GE HK ID IL IN IQ IR JO JP KG KH KR KW KZ LA LB LK MM MN MO MV MY NP OM PH "
+            "PK PS QA SA SG SY TH TJ TL TM TW UZ VN YE",
+    "Africa": "DZ AO BJ BW BF BI CM CV CF TD KM CG CD CI DJ EG GQ ER SZ ET GA GM GH GN GW KE LS LR LY MG MW ML MR MU "
+              "MA MZ NA NE NG RW ST SN SC SL SO ZA SS SD TZ TG TN UG ZM ZW",
+    "Oceania": "AU NZ FJ PG WS TO VU SB KI FM MH NR PW TV",
+}
+CONTINENT = {cc: cont for cont, codes in _CONTINENTS.items() for cc in codes.split()}
+# JOE gives country names (upper case); map to ISO codes.
+COUNTRY_ISO = {
+    "UNITED STATES": "US", "USA": "US", "CANADA": "CA", "MEXICO": "MX", "UNITED KINGDOM": "GB", "IRELAND": "IE",
+    "GERMANY": "DE", "FRANCE": "FR", "ITALY": "IT", "SPAIN": "ES", "PORTUGAL": "PT", "NETHERLANDS": "NL",
+    "BELGIUM": "BE", "LUXEMBOURG": "LU", "SWITZERLAND": "CH", "AUSTRIA": "AT", "DENMARK": "DK", "SWEDEN": "SE",
+    "NORWAY": "NO", "FINLAND": "FI", "ICELAND": "IS", "POLAND": "PL", "CZECH REPUBLIC": "CZ", "CZECHIA": "CZ",
+    "SLOVAKIA": "SK", "HUNGARY": "HU", "ROMANIA": "RO", "BULGARIA": "BG", "GREECE": "GR", "CYPRUS": "CY",
+    "MALTA": "MT", "CROATIA": "HR", "SLOVENIA": "SI", "SERBIA": "RS", "ESTONIA": "EE", "LATVIA": "LV",
+    "LITHUANIA": "LT", "UKRAINE": "UA", "RUSSIA": "RU", "RUSSIAN FEDERATION": "RU", "TURKEY": "TR", "TURKIYE": "TR",
+    "CHINA": "CN", "HONG KONG": "HK", "MACAO": "MO", "MACAU": "MO", "TAIWAN": "TW", "JAPAN": "JP",
+    "KOREA, REPUBLIC OF": "KR", "SOUTH KOREA": "KR", "KOREA": "KR", "SINGAPORE": "SG", "MALAYSIA": "MY",
+    "THAILAND": "TH", "VIETNAM": "VN", "VIET NAM": "VN", "INDONESIA": "ID", "PHILIPPINES": "PH", "INDIA": "IN",
+    "PAKISTAN": "PK", "BANGLADESH": "BD", "SRI LANKA": "LK", "NEPAL": "NP", "KAZAKHSTAN": "KZ", "ISRAEL": "IL",
+    "LEBANON": "LB", "JORDAN": "JO", "SAUDI ARABIA": "SA", "UNITED ARAB EMIRATES": "AE", "QATAR": "QA",
+    "KUWAIT": "KW", "BAHRAIN": "BH", "OMAN": "OM", "EGYPT": "EG", "MOROCCO": "MA", "TUNISIA": "TN",
+    "SOUTH AFRICA": "ZA", "NIGERIA": "NG", "KENYA": "KE", "GHANA": "GH", "ETHIOPIA": "ET", "RWANDA": "RW",
+    "AUSTRALIA": "AU", "NEW ZEALAND": "NZ", "ARGENTINA": "AR", "BRAZIL": "BR", "CHILE": "CL", "COLOMBIA": "CO",
+    "PERU": "PE", "URUGUAY": "UY", "ECUADOR": "EC", "COSTA RICA": "CR", "PUERTO RICO": "PR",
+}
+UNMAPPED = set()  # countries we couldn't place — surfaced in sources.status for upkeep
+
+
+def continent_of(countries):
+    """'Europe', 'North America', … from ISO codes or country names; several
+    distinct continents join as 'Europe / North America'."""
+    out = []
+    for c in countries:
+        c = (c or "").strip()
+        if not c:
+            continue
+        iso = c.upper() if len(c) == 2 else COUNTRY_ISO.get(c.upper())
+        cont = CONTINENT.get(iso or "")
+        if cont is None:
+            UNMAPPED.add(c)
+        elif cont not in out:
+            out.append(cont)
+    return " / ".join(sorted(out)) or None
+
+
 def get(url, timeout=60):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -39,12 +93,14 @@ def fetch_ejm():
         city, country = loc.get("city"), loc.get("country_code") or loc.get("country")
         ad_id = "ejm:" + (m.group(1) if m else url)
         EJM_TEXT[ad_id] = a.get("adtext") or ""
+        codes = [l.get("country_code") or l.get("country") for l in a.get("locations") or []]
         ads.append({
             "id": ad_id,
             "source": "ejm",
             "institution": a.get("name"),
             "title": a.get("adtitle"),
             "location": ", ".join(x for x in [city, country] if x),
+            "continent": continent_of(codes),
             "fields": [c.get("name") for c in a.get("categories") or []],
             "position_types": [p.get("name") for p in a.get("position_types") or []],
             "section": None,
@@ -162,6 +218,7 @@ def supplement_ejm_from_site(have_ids, site_ids):
                 "institution": (j.get("hiringOrganization") or {}).get("name"),
                 "title": j.get("title"),
                 "location": ", ".join(x for x in [city, loc.get("addressCountry")] if x),
+                "continent": continent_of([loc.get("addressCountry")]),
                 "fields": [],
                 "position_types": [],
                 "section": None,
@@ -189,10 +246,11 @@ def fetch_joe():
     for p in root.iter("position"):
         jp_id = p.get("jp_id")
         txt = lambda tag: (p.findtext(tag) or "").strip()
-        locs = []
+        locs, countries = [], []
         for loc in p.iter("location"):
             city = (loc.findtext("city") or "").strip()
-            country = (loc.findtext("country") or "").strip().title()
+            countries.append((loc.findtext("country") or "").strip())
+            country = countries[-1].title()
             locs.append(", ".join(x for x in [city, country] if x))
         deadline = txt("jp_application_deadline").split(" ")[0] or None
         ads.append({
@@ -201,6 +259,7 @@ def fetch_joe():
             "institution": txt("jp_institution"),
             "title": txt("jp_title"),
             "location": "; ".join(x for x in locs if x),
+            "continent": continent_of(countries),
             "fields": sorted({(j.findtext("jc_code") or "").strip() + " " + (j.findtext("jc_description") or "").strip()
                               for j in p.iter("jel_class")}),
             "position_types": [],
@@ -232,6 +291,7 @@ def fetch_econjobs():
             "institution": None,
             "title": slug.replace("-", " ").capitalize(),
             "location": None,
+            "continent": None,
             "fields": [],
             "position_types": [],
             "section": None,
@@ -373,6 +433,7 @@ def main():
     out = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sources": status,
+        "continent_unmapped": sorted(UNMAPPED),  # countries to add to COUNTRY_ISO/_CONTINENTS
         "ads": all_ads,
     }
     with open(OUT, "w") as f:

@@ -72,6 +72,7 @@ footer a { color: var(--muted); }
     <button class="chipbtn on" id="fFuture">Hide past deadlines</button>
     <button class="chipbtn on" id="fPredoc">Hide pre-docs</button>
     <button class="chipbtn on" id="fSenior">Hide assoc/full prof</button>
+    <select class="chipbtn" id="cont"><option value="">All continents</option></select>
     <select class="chipbtn" id="sort">
       <option value="deadline">Sort: deadline</option>
       <option value="posted">Sort: newest posted</option>
@@ -117,7 +118,7 @@ function render(a) {
   }
   const star = isStar(a) ? '<span class="chip star">★ your fields</span>' : "";
   const notLive = a.link_status === "not_live" ? '<span class="chip warn">not live on EJM yet — ad text</span>' : "";
-  const bits = [a.location, ...(a.fields || []).slice(0, 3)].filter(Boolean)
+  const bits = [a.continent, a.location, ...(a.fields || []).slice(0, 3)].filter(Boolean)
     .map(x => `<span class="chip">${esc(x)}</span>`).join("");
   const inst = a.institution ? `<strong>${esc(a.institution)}</strong> — ` : "";
   return `<div class="ad">
@@ -128,7 +129,7 @@ function render(a) {
 
 let ADS = [];
 const el = id => document.getElementById(id);
-const state = { q: "", star: false, future: true, nopredoc: true, nosenior: true, sort: "deadline" };
+const state = { q: "", star: false, future: true, nopredoc: true, nosenior: true, cont: "", sort: "deadline" };
 
 function draw() {
   const q = state.q.toLowerCase();
@@ -137,6 +138,7 @@ function draw() {
     if (state.future && a.deadline && days(a) < 0) return false;
     if (state.nopredoc && a.predoc) return false;
     if (state.nosenior && a.senior) return false;
+    if (state.cont && !(a.continent || "").split(" / ").includes(state.cont)) return false;
     if (!q) return true;
     return [a.institution, a.title, a.location, (a.fields || []).join(" "), a.section]
       .join(" ").toLowerCase().includes(q);
@@ -160,6 +162,8 @@ fetch("ads.json", { cache: "no-store" }).then(r => r.json()).then(d => {
   const bad = Object.entries(d.sources).filter(([, s]) => s.status !== "ok");
   if (bad.length) el("warnings").innerHTML =
     bad.map(([n, s]) => `<div class="warnbox">⚠ ${esc(n)}: ${esc(s.status)}</div>`).join("");
+  const conts = [...new Set(ADS.flatMap(a => (a.continent || "").split(" / ")).filter(Boolean))].sort();
+  conts.forEach(c => { const o = document.createElement("option"); o.value = c; o.textContent = c; el("cont").append(o); });
   draw();
 }).catch(e => { el("gen").textContent = "Failed to load ads.json: " + e; });
 
@@ -168,6 +172,7 @@ el("fStar").addEventListener("click", e => { state.star = !state.star; e.target.
 el("fFuture").addEventListener("click", e => { state.future = !state.future; e.target.classList.toggle("on"); draw(); });
 el("fPredoc").addEventListener("click", e => { state.nopredoc = !state.nopredoc; e.target.classList.toggle("on"); draw(); });
 el("fSenior").addEventListener("click", e => { state.nosenior = !state.nosenior; e.target.classList.toggle("on"); draw(); });
+el("cont").addEventListener("change", e => { state.cont = e.target.value; draw(); });
 el("sort").addEventListener("change", e => { state.sort = e.target.value; draw(); });
 </script>
 </body>
