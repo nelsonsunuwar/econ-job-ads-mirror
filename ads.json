@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-09T02:33:40Z",
+ "generated_at": "2026-10-09T11:30:16Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 208,
    "site_listing": 194,
-   "site_extra": 14
+   "site_extra": 12
   },
   "joe": {
    "status": "ok",
@@ -1611,28 +1611,6 @@
    "url": "https://econjobmarket.org/positions/12629",
    "predoc": false,
    "senior": true
-  },
-  {
-   "id": "ejm:12630",
-   "source": "ejm",
-   "institution": "University of Utah",
-   "title": "Assistant/Associate/Professor (Lecturer) for the QAMO Division",
-   "location": "SALT LAKE CITY, US",
-   "fields": [
-    "Business Economics"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor",
-    "Lecturer"
-   ],
-   "section": null,
-   "deadline": "2026-10-09",
-   "posted": "2026-09-05",
-   "url": "https://econjobmarket.org/positions/12630",
-   "predoc": false,
-   "senior": false
   },
   {
    "id": "ejm:12631",
@@ -4083,6 +4061,66 @@
    "url": "https://econjobmarket.org/positions/12770",
    "predoc": false,
    "senior": false
+  },
+  {
+   "id": "ejm:12773",
+   "source": "ejm",
+   "institution": "Imperial College London",
+   "title": "Assistant / Associate / Full Professors in Economics",
+   "location": "London, GB",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-03",
+   "posted": "2026-10-08",
+   "url": "https://econjobmarket.org/positions/12773",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12775",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Dallas",
+   "title": "Federal Reserve Bank of Dallas",
+   "location": "Dallas, US",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Other"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-08",
+   "url": "https://econjobmarket.org/positions/12775",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12776",
+   "source": "ejm",
+   "institution": "McMaster University",
+   "title": "Finance and Business Economics Area – CIBC Chair in Financial Markets",
+   "location": "Hamilton, CA",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-10-08",
+   "url": "https://econjobmarket.org/positions/12776",
+   "predoc": false,
+   "senior": true
   },
   {
    "id": "joe:111477855",
@@ -12936,21 +12974,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12773",
-   "source": "ejm",
-   "institution": "Business School, Imperial College London",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "London, GB",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-03",
-   "posted": "2026-10-08",
-   "url": "https://econjobmarket.org/positions/12773",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12784",
    "source": "ejm",
    "institution": "Institute for Economic and  Social Research (IESR), Jinan University",
@@ -12964,21 +12987,6 @@
    "url": "https://econjobmarket.org/positions/12784",
    "predoc": false,
    "senior": false
-  },
-  {
-   "id": "ejm:12776",
-   "source": "ejm",
-   "institution": "School of Business, McMaster University",
-   "title": "Associate Professor, Finance",
-   "location": "Hamilton, CA",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-04-30",
-   "posted": "2026-10-08",
-   "url": "https://econjobmarket.org/positions/12776",
-   "predoc": false,
-   "senior": true
   },
   {
    "id": "ejm:12783",
@@ -13056,21 +13064,6 @@
    "senior": false
   },
   {
-   "id": "ejm:12775",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Dallas",
-   "title": "Economists / Senior Economists",
-   "location": "Dallas, US",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-08",
-   "url": "https://econjobmarket.org/positions/12775",
-   "predoc": false,
-   "senior": false
-  },
-  {
    "id": "ejm:12781",
    "source": "ejm",
    "institution": "Department of Economics, University College London",
@@ -13097,6 +13090,21 @@
    "deadline": "2026-10-15",
    "posted": "2026-10-09",
    "url": "https://econjobmarket.org/positions/12791",
+   "predoc": false,
+   "senior": false
+  },
+  {
+   "id": "ejm:12630",
+   "source": "ejm",
+   "institution": "School of Business, University of Utah",
+   "title": "Assistant Professor/Associate Professor/Full Professor/Lecturer, Business Economics",
+   "location": "Salt Lake City, US",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-09",
+   "posted": "2026-09-05",
+   "url": "https://econjobmarket.org/positions/12630",
    "predoc": false,
    "senior": false
   }
