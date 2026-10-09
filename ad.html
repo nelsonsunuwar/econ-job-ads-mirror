@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Econ Job Ad</title>
+<style>
+:root {
+  --bg: #faf9f6; --card: #ffffff; --ink: #1a1a1a; --muted: #6b6b6b;
+  --line: #e4e2dd; --accent: #7a5af5; --accent-soft: #f0ecfe;
+  --warn: #8a5300; --warn-soft: #fff4e0; --chip: #f0efec;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16151a; --card: #201f26; --ink: #ece9e4; --muted: #9a97a0;
+    --line: #34323b; --accent: #a68bfa; --accent-soft: #2b2440;
+    --warn: #f0b35a; --warn-soft: #34291a; --chip: #2a2930;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+.wrap { max-width: 760px; margin: 0 auto; padding: 20px 16px 60px; }
+.back { font-size: 13px; color: var(--muted); }
+.back a { color: var(--muted); }
+h1 { font-size: 20px; margin: 10px 0 2px; }
+.inst { font-weight: 600; }
+.meta { color: var(--muted); font-size: 13px; margin: 4px 0 14px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.note { background: var(--warn-soft); color: var(--warn); border-radius: 8px; padding: 10px 12px; font-size: 13px; margin: 12px 0; }
+.note a { color: inherit; }
+.text { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; white-space: pre-wrap; overflow-wrap: anywhere; }
+.links { margin: 14px 0 0; font-size: 14px; }
+.links a { color: var(--accent); overflow-wrap: anywhere; }
+.links div { margin: 3px 0; }
+.empty { color: var(--muted); font-style: italic; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="back"><a href="./">← all ads</a></div>
+  <div id="ad"><p class="empty">loading…</p></div>
+</div>
+<script>
+// Ad view for ads whose source page isn't live (fetch.py sets link_status
+// "not_live" and stores the feed's plain-text ad). Everything from the feed is
+// inserted via textContent; only http(s) links are rendered as anchors.
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : null;
+const fmtDate = s => s ? new Date(s + "T12:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) : null;
+
+const id = decodeURIComponent(location.hash.slice(1));
+const box = document.getElementById("ad");
+
+fetch("ads.json", { cache: "no-store" }).then(r => r.json()).then(d => {
+  const a = d.ads.find(x => x.id === id);
+  box.replaceChildren();
+  if (!a) {
+    box.append(el("p", "empty", "This ad is no longer in the feed — the recruiter withdrew it or it expired."));
+    return;
+  }
+  // Page went live since the link was made: go straight to it.
+  if (a.link_status !== "not_live" && safeUrl(a.url) && !/\/ad\.html/.test(a.url)) {
+    location.replace(a.url);
+    return;
+  }
+  document.title = (a.institution ? a.institution + " — " : "") + (a.title || "Ad");
+  box.append(el("div", "inst", a.institution || ""), el("h1", null, a.title || ""));
+  const meta = el("div", "meta");
+  [a.location, a.deadline && "due " + fmtDate(a.deadline), a.first_seen && "first seen " + fmtDate(a.first_seen)]
+    .filter(Boolean).forEach(t => meta.append(el("span", null, t)));
+  box.append(meta);
+
+  const note = el("div", "note");
+  note.append("Not live on EconJobMarket yet: the ad is in EJM's data feed, but its EJM page is empty (even when logged in). " +
+    "Below is the recruiter's ad text from the feed. This link switches to the EJM page automatically once it goes live. ");
+  if (safeUrl(a.source_url)) {
+    const l = el("a", null, "Try the EJM page");
+    l.href = a.source_url; l.target = "_blank"; l.rel = "noopener";
+    note.append(l);
+  }
+  box.append(note, el("div", "text", a.text || "(no ad text in the feed)"));
+
+  const links = (a.links || []).map(safeUrl).filter(Boolean);
+  if (links.length) {
+    const ls = el("div", "links");
+    ls.append(el("div", null, "Links in the ad:"));
+    links.forEach(u => { const row = el("div"); const l = el("a", null, u); l.href = u; l.target = "_blank"; l.rel = "noopener"; row.append(l); ls.append(row); });
+    box.append(ls);
+  }
+}).catch(e => { box.replaceChildren(el("p", "empty", "Failed to load ads.json: " + e)); });
+</script>
+</body>
+</html>

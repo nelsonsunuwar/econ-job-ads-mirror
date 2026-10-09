@@ -24,6 +24,11 @@ def get(url, timeout=60):
         return r.read().decode("utf-8", errors="replace")
 
 
+PAGES = "https://nelsonsunuwar.github.io/econ-job-ads-mirror"
+FIRST_SEEN = "first_seen.json"
+EJM_TEXT = {}  # ejm id -> raw feed ad HTML, only consulted for ads whose EJM page isn't live
+
+
 def fetch_ejm():
     data = json.loads(get("https://backend.econjobmarket.org/data/zz_public/json/Ads"))
     ads = []
@@ -32,8 +37,10 @@ def fetch_ejm():
         m = re.search(r"/positions/(\d+)", url)
         loc = (a.get("locations") or [{}])[0]
         city, country = loc.get("city"), loc.get("country_code") or loc.get("country")
+        ad_id = "ejm:" + (m.group(1) if m else url)
+        EJM_TEXT[ad_id] = a.get("adtext") or ""
         ads.append({
-            "id": "ejm:" + (m.group(1) if m else url),
+            "id": ad_id,
             "source": "ejm",
             "institution": a.get("name"),
             "title": a.get("adtitle"),
@@ -48,6 +55,69 @@ def fetch_ejm():
     return ads
 
 
+def html_to_text(h):
+    """Feed ad HTML -> plain text (rendered with textContent on the Pages ad
+    view, so no markup from the feed ever reaches the page)."""
+    h = re.sub(r"(?is)<(script|style).*?</\1>", " ", h)
+    h = re.sub(r"(?i)<br\s*/?>|</p>|</li>|</h\d>|</div>", "\n", h)
+    h = re.sub(r"(?i)<li[^>]*>", "• ", h)
+    t = unescape(re.sub(r"<[^>]+>", "", h))
+    t = re.sub(r"[ \t\xa0]+", " ", t)
+    return re.sub(r"\n\s*\n+", "\n\n", t).strip()
+
+
+class NoRedirect(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, *args, **kwargs):
+        return None
+
+
+def ejm_page_status(pid):
+    """Probe one EJM position page without following redirects:
+    'ok' = live ad page, 'not_live' = redirects to login/home (seen even when
+    logged in), 'dead' = 404/410."""
+    req = urllib.request.Request(f"https://econjobmarket.org/positions/{pid}", headers=BROWSER_UA)
+    opener = urllib.request.build_opener(NoRedirect)
+    try:
+        with opener.open(req, timeout=30) as r:
+            html = r.read().decode("utf-8", errors="replace")
+            return "ok" if "application/ld+json" in html else "not_live"
+    except urllib.error.HTTPError as e:
+        if e.code in (301, 302, 303, 307, 308):
+            return "not_live"
+        if e.code in (404, 410):
+            return "dead"
+        raise
+
+
+def check_ejm_links(ads, site_ids):
+    """LINK CHECK (2026-10-09): EJM's feed carries some ads whose position page
+    is not live — it bounces to the login page, and stays empty even when
+    logged in (ISEG Lisbon 12703, Sabancı 12770, ...; recruiter hasn't
+    published it yet, or pulled it). Ads on the public /positions listing are
+    live; every other feed ad gets probed. Not-live ads keep a link that shows
+    something real: our Pages ad view with the feed's own ad text (EJM's
+    zz_public feed is the recruiter-approved redistribution channel). Re-probed
+    every run, so the link flips back to EJM as soon as the page goes live."""
+    for ad in ads:
+        if ad["source"] != "ejm":
+            continue
+        pid = ad["id"].split(":", 1)[1]
+        status = "ok" if pid in site_ids else None
+        if status is None:
+            try:
+                status = ejm_page_status(pid)
+            except Exception:  # noqa: BLE001 — a failed probe leaves the link as is
+                status = "ok"
+        ad["link_status"] = status
+        if status == "not_live":
+            raw = EJM_TEXT.get(ad["id"], "")
+            ad["source_url"] = ad["url"]
+            ad["url"] = f"{PAGES}/ad.html#{ad['id']}"
+            ad["text"] = html_to_text(raw)[:8000]
+            ad["links"] = list(dict.fromkeys(
+                u for u in re.findall(r'href="(https?://[^"]+)"', raw) if "econjobmarket.org" not in u))[:6]
+
+
 BROWSER_UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
 
@@ -57,12 +127,8 @@ def get_browser(url, timeout=30):
         return r.read().decode("utf-8", errors="replace")
 
 
-def supplement_ejm_from_site(have_ids):
-    """FAILSAFE: EJM's public JSON feed omits some live ads (recruiters opt in;
-    e.g. Stanford's 2026-09-17 TT ad never appeared). Crawl the site's own
-    /positions listing (paginated), and for ids the feed missed, build records
-    from each position page's schema.org JobPosting JSON-LD.
-    Returns (records, site_id_count)."""
+def ejm_site_ids():
+    """Ids on EJM's public /positions listing (paginated) — the live ads."""
     site_ids = []
     for page in range(1, 9):
         html = get_browser(f"https://econjobmarket.org/positions?page={page}")
@@ -71,6 +137,14 @@ def supplement_ejm_from_site(have_ids):
         if not new:
             break
         site_ids.extend(new)
+    return site_ids
+
+
+def supplement_ejm_from_site(have_ids, site_ids):
+    """FAILSAFE: EJM's public JSON feed omits some live ads (recruiters opt in;
+    e.g. Stanford's 2026-09-17 TT ad never appeared). For listing ids the feed
+    missed, build records from each position page's schema.org JobPosting
+    JSON-LD."""
     missing = [i for i in site_ids if i not in have_ids][:25]  # politeness cap
     records = []
     for pid in missing:
@@ -97,7 +171,7 @@ def supplement_ejm_from_site(have_ids):
             })
         except Exception:  # noqa: BLE001 — one bad page must not kill the sweep
             continue
-    return records, len(site_ids)
+    return records
 
 
 def fetch_joe():
@@ -176,6 +250,10 @@ def is_predoc(ad):
     pts = ad["position_types"] or []
     if re.search(r"pre-?doc", title, re.I):
         return True
+    # Not actual openings for a new PhD: internships and standing
+    # "unsolicited application" ads (e.g. IPP's EJM 12319/12320).
+    if re.search(r"\bintern(ship)?s?\b|\bstagiaire\b|unsolicited|candidature spontan", title, re.I):
+        return True
     if any("Pre-Doc" in p for p in pts):
         return True
     # PhD-student positions (not jobs FOR PhD holders like "PhD Economist" or
@@ -228,15 +306,20 @@ def main():
             all_ads.extend(ads)
         except Exception as e:  # noqa: BLE001 — a broken source must not kill the rest
             status[name] = {"status": f"error: {type(e).__name__}: {e}", "count": 0}
-    # FAILSAFE 1: catch EJM ads the public feed omits, via the site listing.
+    # FAILSAFE 1: catch EJM ads the public feed omits, via the site listing;
+    # then make sure every EJM link opens a live ad (see check_ejm_links).
     if status.get("ejm", {}).get("status") == "ok":
         try:
+            site_ids = ejm_site_ids()
             have = {a["id"].split(":")[1] for a in all_ads if a["source"] == "ejm"}
-            extra, site_n = supplement_ejm_from_site(have)
+            extra = supplement_ejm_from_site(have, site_ids)
             all_ads.extend(extra)
             status["ejm"]["count"] += len(extra)
-            status["ejm"]["site_listing"] = site_n
+            status["ejm"]["site_listing"] = len(site_ids)
             status["ejm"]["site_extra"] = len(extra)
+            check_ejm_links(all_ads, set(site_ids))
+            status["ejm"]["not_live"] = sum(a.get("link_status") == "not_live" for a in all_ads)
+            status["ejm"]["dead"] = sum(a.get("link_status") == "dead" for a in all_ads)
         except Exception as e:  # noqa: BLE001
             status["ejm"]["status"] = f"warning: site supplement failed: {type(e).__name__}: {e}"
 
@@ -251,6 +334,14 @@ def main():
             gap = page_ids - joe_ids
             if page_ids and gap:
                 status["joe"]["status"] = f"warning: {len(gap)} ads on the JOE site are missing from the XML export"
+            # Our listing links carry a cycle prefix (2026-02_…); if the site's
+            # own links use another one (cycle rollover), ours lead nowhere.
+            site_prefixes = set(re.findall(r"JOE_ID=(\d{4}-\d\d)_\d+", html))
+            ours = {m.group(1) for a in all_ads if a["source"] == "joe"
+                    for m in [re.search(r"JOE_ID=(\d{4}-\d\d)_", a["url"])] if m}
+            if site_prefixes and ours - site_prefixes:
+                status["joe"]["status"] = (f"warning: JOE links use cycle {', '.join(sorted(ours))} but the site uses "
+                                           f"{', '.join(sorted(site_prefixes))} — listing links may be broken")
         except Exception:  # noqa: BLE001 — the assertion itself must never break the fetch
             pass
 
@@ -265,9 +356,20 @@ def main():
     except Exception:  # noqa: BLE001 — no previous snapshot is fine
         pass
 
+    # first_seen: the UTC date an id first appeared in any snapshot. Kept in a
+    # monotonic side file so an ad that drops out and returns keeps its date.
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    try:
+        first_seen = json.load(open(FIRST_SEEN))
+    except Exception:  # noqa: BLE001
+        first_seen = {}
     for ad in all_ads:
         ad["predoc"] = is_predoc(ad)
         ad["senior"] = is_senior(ad)
+        ad.setdefault("link_status", "ok" if ad["source"] in ("ejm", "joe") else "unchecked")
+        ad["first_seen"] = first_seen.setdefault(ad["id"], today)
+    with open(FIRST_SEEN, "w") as f:
+        json.dump(dict(sorted(first_seen.items())), f, indent=0)
     out = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sources": status,
