@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-10T01:54:51Z",
+ "generated_at": "2026-10-10T10:47:53Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 217,
    "site_listing": 203,
-   "site_extra": 21,
+   "site_extra": 9,
    "not_live": 7,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 487
+   "count": 486
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -4678,6 +4678,30 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "ejm:12771",
+   "source": "ejm",
+   "institution": "Copenhagen Business School",
+   "title": "Faculty Positions at the Department of Finance, Copenhagen Business School",
+   "location": "Frederiksberg, DK",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12771",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
    "id": "ejm:12773",
    "source": "ejm",
    "institution": "Imperial College London",
@@ -4745,6 +4769,267 @@
    "predoc": false,
    "senior": true,
    "first_seen": "2026-10-08"
+  },
+  {
+   "id": "ejm:12779",
+   "source": "ejm",
+   "institution": "University of Melbourne",
+   "title": "Senior Lecturer, Economics / Econometrics",
+   "location": "Carlton, AU",
+   "continent": "Oceania",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12779",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12780",
+   "source": "ejm",
+   "institution": "Zayed University",
+   "title": "Assistant/Associate/Full Professor - Economics",
+   "location": "Abu Dhabi, AE",
+   "continent": "Asia",
+   "fields": [
+    "Econometrics",
+    "Environmental; Energy; Ag. Econ",
+    "Experimental Economics",
+    "International Finance/Macro",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Behavioral Economics",
+    "Political Economy",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12780",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12781",
+   "source": "ejm",
+   "institution": "University College London",
+   "title": "Research Fellow",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12781",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12783",
+   "source": "ejm",
+   "institution": "King's College London",
+   "title": "Assistant Professor in Economics - Macroeconomics",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "International Finance/Macro",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12783",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12784",
+   "source": "ejm",
+   "institution": "Jinan University",
+   "title": "3-year fixed-term International Research Fellows",
+   "location": "Guangzhou, CN",
+   "continent": "Asia",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-10-08",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12784",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12788",
+   "source": "ejm",
+   "institution": "University of Toronto Scarborough",
+   "title": "Assistant Professor, Environmental Economics",
+   "location": "Scarborough, CA",
+   "continent": "North America",
+   "fields": [
+    "Urban; Rural; Regional Economics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12788",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12789",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Philadelphia",
+   "title": "Senior Economist or Economic Advisor and Economist",
+   "location": "Philadelphia, US",
+   "continent": "North America",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12789",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12791",
+   "source": "ejm",
+   "institution": "Georgetown University",
+   "title": "Faculty Position in International Economics, Open Rank",
+   "location": "Doha, QA",
+   "continent": "Asia",
+   "fields": [
+    "International Finance/Macro",
+    "International Trade"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-10-15",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12791",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12792",
+   "source": "ejm",
+   "institution": "University of Alberta",
+   "title": "Tenure-track Microeconomics",
+   "location": "Edmonton, CA",
+   "continent": "North America",
+   "fields": [
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12792",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12793",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Dallas",
+   "title": "Federal Reserve Bank of Dallas",
+   "location": "Dallas, US",
+   "continent": "North America",
+   "fields": [
+    "Finance",
+    "International Finance/Macro",
+    "Macroeconomics; Monetary",
+    "Any field",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12793",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12794",
+   "source": "ejm",
+   "institution": "University of Alberta",
+   "title": "Tenure-Track Macroeconomics",
+   "location": "Edmonton, CA",
+   "continent": "North America",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12794",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
   },
   {
    "id": "joe:111477855",
@@ -12241,32 +12526,6 @@
    "first_seen": "2026-10-01"
   },
   {
-   "id": "joe:111478023",
-   "source": "joe",
-   "institution": "The Truepenny Project",
-   "title": "Paid referee for a working paper on cross-country income comparison",
-   "location": "France; Germany; United States",
-   "continent": "Europe / North America",
-   "fields": [
-    "C8 Data Collection and Data Estimation Methodology; Computer Programs",
-    "D3 Distribution",
-    "H5 National Government Expenditures and Related Policies",
-    "I3 Welfare, Well-Being, and Poverty",
-    "J1 Demographic Economics",
-    "J3 Wages, Compensation, and Labor Costs",
-    "P5 Comparative Economic Systems"
-   ],
-   "position_types": [],
-   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
-   "deadline": "2026-10-02",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478023",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-24"
-  },
-  {
    "id": "joe:111478080",
    "source": "joe",
    "institution": "The University of Alabama",
@@ -15266,78 +15525,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12789",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Philadelphia",
-   "title": "Senior Economist or Economic Advisor and Economist",
-   "location": "Philadelphia, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12789",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12792",
-   "source": "ejm",
-   "institution": "Economics, University of Alberta",
-   "title": "Assistant Professor, Applied microeconomics/Microeconomic theory",
-   "location": "Edmonton, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-26",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12792",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12794",
-   "source": "ejm",
-   "institution": "Economics, University of Alberta",
-   "title": "Assistant Professor, Macroeconomics; Monetary",
-   "location": "Edmonton, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-26",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12794",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12784",
-   "source": "ejm",
-   "institution": "Institute for Economic and  Social Research (IESR), Jinan University",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Guangzhou, CN",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-10-08",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12784",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "ejm:12765",
    "source": "ejm",
    "institution": "Faculty of Economics and Business, Katholieke Universiteit Leuven",
@@ -15372,24 +15559,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12783",
-   "source": "ejm",
-   "institution": "Business School, King's College London",
-   "title": "Assistant Professor, International Finance/Macro/Macroeconomics; Monetary",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12783",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
   },
   {
    "id": "ejm:12777",
@@ -15428,42 +15597,6 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "ejm:12793",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Dallas",
-   "title": "Economist / Senior Economist",
-   "location": "Dallas, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12793",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12771",
-   "source": "ejm",
-   "institution": "Department of Finance, Copenhagen Business School",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
-   "location": "Frederiksberg, DK",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12771",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "ejm:12802",
    "source": "ejm",
    "institution": "Department of Economics, Bilkent University",
@@ -15480,24 +15613,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12780",
-   "source": "ejm",
-   "institution": "College of Interdisciplinary Studies, Zayed University",
-   "title": "Assistant Professor/Associate Professor, Applied microeconomics/Behavioral Economics/Econometrics/Environmental; Energy; Ag. Econ/Experimental Economics/International Finance/Macro/Labor; Dem",
-   "location": "Abu Dhabi, AE",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12780",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
   },
   {
    "id": "ejm:12797",
@@ -15518,24 +15633,6 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "ejm:12779",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Melbourne",
-   "title": "Senior Lecturer, Economics",
-   "location": "Carlton, AU",
-   "continent": "Oceania",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12779",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "ejm:12803",
    "source": "ejm",
    "institution": "Economics and Management, Leibniz Universität Hannover",
@@ -15552,24 +15649,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12788",
-   "source": "ejm",
-   "institution": "Management, University of Toronto Scarborough",
-   "title": "Assistant Professor, Urban; Rural; Regional Economics",
-   "location": "Scarborough, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12788",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
   },
   {
    "id": "ejm:12800",
@@ -15606,42 +15685,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12781",
-   "source": "ejm",
-   "institution": "Department of Economics, University College London",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12781",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12791",
-   "source": "ejm",
-   "institution": "School of Foreign Service, Georgetown University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, International Finance/Macro/International Trade",
-   "location": "Doha, QA",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-15",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12791",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
   }
  ]
 }
