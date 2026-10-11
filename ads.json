@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-10T20:19:10Z",
+ "generated_at": "2026-10-11T01:14:13Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 217,
-   "site_listing": 203,
-   "site_extra": 9,
+   "count": 219,
+   "site_listing": 205,
+   "site_extra": 11,
    "not_live": 7,
    "dead": 0
   },
@@ -15651,6 +15651,24 @@
    "first_seen": "2026-10-10"
   },
   {
+   "id": "ejm:12806",
+   "source": "ejm",
+   "institution": "Innovation and Entrepreneurship Research, Max Planck Institute for Innovation and Competition",
+   "title": "Postdoctoral Scholar, Applied microeconomics",
+   "location": "Munich, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-11",
+   "url": "https://econjobmarket.org/positions/12806",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-11"
+  },
+  {
    "id": "ejm:12800",
    "source": "ejm",
    "institution": "Department of Economics, University of Mannheim",
@@ -15685,6 +15703,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12807",
+   "source": "ejm",
+   "institution": "Oslo Business School, Oslo Metropolitan University",
+   "title": "Associate Professor, Accounting",
+   "location": "Oslo, NO",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-11",
+   "url": "https://econjobmarket.org/positions/12807",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-11"
   }
  ]
 }
