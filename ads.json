@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-11T01:14:13Z",
+ "generated_at": "2026-10-11T11:00:32Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 219,
    "site_listing": 205,
-   "site_extra": 11,
+   "site_extra": 2,
    "not_live": 7,
    "dead": 0
   },
@@ -4561,6 +4561,28 @@
    "first_seen": "2026-10-06"
   },
   {
+   "id": "ejm:12765",
+   "source": "ejm",
+   "institution": "Katholieke Universiteit Leuven",
+   "title": "Postdoctoral Research Fellow in Industrial Organization",
+   "location": "Leuven, BE",
+   "continent": "Europe",
+   "fields": [
+    "Industrial Organization"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12765",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
+  },
+  {
    "id": "ejm:12766",
    "source": "ejm",
    "institution": "University of Chicago",
@@ -4771,6 +4793,29 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "ejm:12777",
+   "source": "ejm",
+   "institution": "ESSEC Business School",
+   "title": "Faculty positions in finance",
+   "location": "Cergy-Pontoise, FR",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12777",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
+  },
+  {
    "id": "ejm:12779",
    "source": "ejm",
    "institution": "University of Melbourne",
@@ -4890,6 +4935,28 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12787",
+   "source": "ejm",
+   "institution": "Cornell University",
+   "title": "Assistant Professor of Economics and Public Policy",
+   "location": "Ithaca, US",
+   "continent": "North America",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-09",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12787",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
   },
   {
    "id": "ejm:12788",
@@ -5030,6 +5097,146 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12797",
+   "source": "ejm",
+   "institution": "Technical University of Denmark",
+   "title": "Full Professor (chair) in Climate and Environmental Economics",
+   "location": "Kgs. Lyngby, DK",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Other"
+   ],
+   "position_types": [
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12797",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12798",
+   "source": "ejm",
+   "institution": "Queen Mary University of London",
+   "title": "Postdoctoral Research Associate",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-05-31",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12798",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12800",
+   "source": "ejm",
+   "institution": "University of Mannheim",
+   "title": "Assistant Professor of Theoretical Public Economics (W1)",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Public Economics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12800",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12801",
+   "source": "ejm",
+   "institution": "University of Mannheim",
+   "title": "Two Assistant Professorships in Macroeconomics",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12801",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12802",
+   "source": "ejm",
+   "institution": "Bilkent University",
+   "title": "Department of Economics (Tenure Track Position)",
+   "location": "Ankara, TR",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12802",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12803",
+   "source": "ejm",
+   "institution": "Leibniz Universität Hannover",
+   "title": "Postdoctoral Researcher in Innovation Economics",
+   "location": "Hannover, DE",
+   "continent": "Europe",
+   "fields": [
+    "Experimental Economics",
+    "Industrial Organization",
+    "Public Economics",
+    "Behavioral Economics",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12803",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
   },
   {
    "id": "joe:111477855",
@@ -15525,132 +15732,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12765",
-   "source": "ejm",
-   "institution": "Faculty of Economics and Business, Katholieke Universiteit Leuven",
-   "title": "Postdoctoral Scholar, Industrial Organization",
-   "location": "Leuven, BE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-04-30",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12765",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12798",
-   "source": "ejm",
-   "institution": "School of Economics and Finance, Queen Mary University of London",
-   "title": "Postdoctoral Scholar, Econometrics",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-05-31",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12798",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12777",
-   "source": "ejm",
-   "institution": "Finance Department, ESSEC Business School",
-   "title": "Assistant Professor/Associate Professor, Finance",
-   "location": "Cergy-Pontoise, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12777",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12787",
-   "source": "ejm",
-   "institution": "Economics, Cornell University",
-   "title": "Assistant Professor, Economics",
-   "location": "Ithaca, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-09",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12787",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12802",
-   "source": "ejm",
-   "institution": "Department of Economics, Bilkent University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Ankara, TR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12802",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12797",
-   "source": "ejm",
-   "institution": "Management, Technical University of Denmark",
-   "title": "Full Professor, Environmental; Energy; Ag. Econ",
-   "location": "Kgs. Lyngby, DK",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12797",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12803",
-   "source": "ejm",
-   "institution": "Economics and Management, Leibniz Universität Hannover",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Experimental Economics/Industrial Organization/Microeconomic theory/Public Economics",
-   "location": "Hannover, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12803",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
-  },
-  {
    "id": "ejm:12806",
    "source": "ejm",
    "institution": "Innovation and Entrepreneurship Research, Max Planck Institute for Innovation and Competition",
@@ -15667,42 +15748,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-11"
-  },
-  {
-   "id": "ejm:12800",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Mannheim",
-   "title": "Assistant Professor, Environmental; Energy; Ag. Econ/Public Economics",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12800",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12801",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Mannheim",
-   "title": "Assistant Professor, Macroeconomics; Monetary",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12801",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
   },
   {
    "id": "ejm:12807",
