@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-12T01:45:33Z",
+ "generated_at": "2026-10-12T12:25:21Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 220,
    "site_listing": 206,
-   "site_extra": 3,
+   "site_extra": 1,
    "not_live": 7,
    "dead": 0
   },
@@ -5237,6 +5237,50 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12806",
+   "source": "ejm",
+   "institution": "Max Planck Institute for Innovation and Competition",
+   "title": "Senior Research Fellows/Postdocs (m/f/d) in Management / Economics of Innovation",
+   "location": "Munich, DE",
+   "continent": "Europe",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-11",
+   "url": "https://econjobmarket.org/positions/12806",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-11"
+  },
+  {
+   "id": "ejm:12807",
+   "source": "ejm",
+   "institution": "Oslo Metropolitan University",
+   "title": "Associate Professor in Accounting",
+   "location": "Oslo, NO",
+   "continent": "Europe",
+   "fields": [
+    "Accounting"
+   ],
+   "position_types": [
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-11",
+   "url": "https://econjobmarket.org/positions/12807",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-11"
   },
   {
    "id": "joe:111477855",
@@ -15748,42 +15792,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-12"
-  },
-  {
-   "id": "ejm:12806",
-   "source": "ejm",
-   "institution": "Innovation and Entrepreneurship Research, Max Planck Institute for Innovation and Competition",
-   "title": "Postdoctoral Scholar, Applied microeconomics",
-   "location": "Munich, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-11",
-   "url": "https://econjobmarket.org/positions/12806",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-11"
-  },
-  {
-   "id": "ejm:12807",
-   "source": "ejm",
-   "institution": "Oslo Business School, Oslo Metropolitan University",
-   "title": "Associate Professor, Accounting",
-   "location": "Oslo, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-11",
-   "url": "https://econjobmarket.org/positions/12807",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-11"
   }
  ]
 }
