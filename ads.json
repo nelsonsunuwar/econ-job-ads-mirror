@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-12T23:12:51Z",
+ "generated_at": "2026-10-13T12:09:16Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 220,
-   "site_listing": 206,
-   "site_extra": 1,
-   "not_live": 7,
+   "count": 226,
+   "site_listing": 211,
+   "site_extra": 6,
+   "not_live": 8,
    "dead": 0
   },
   "joe": {
@@ -3031,28 +3031,6 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "ejm:12693",
-   "source": "ejm",
-   "institution": "University College Dublin",
-   "title": "Associate Professor in Economics (Environmental Economics)",
-   "location": "Belfield, IE",
-   "continent": "Europe",
-   "fields": [
-    "Environmental; Energy; Ag. Econ"
-   ],
-   "position_types": [
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-13",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12693",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-09-22"
-  },
-  {
    "id": "ejm:12694",
    "source": "ejm",
    "institution": "University College Dublin",
@@ -4937,6 +4915,36 @@
    "first_seen": "2026-10-09"
   },
   {
+   "id": "ejm:12786",
+   "source": "ejm",
+   "institution": "École Normale Superieure de Lyon",
+   "title": "Postdoctoral Researcher in Political Economy",
+   "location": "Lyon, FR",
+   "continent": "Europe",
+   "fields": [
+    "Economic History",
+    "Industrial Organization",
+    "Law and Economics",
+    "Public Economics",
+    "Behavioral Economics",
+    "Computational Economics",
+    "Political Economy",
+    "Organizational Behavior",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-10-12",
+   "url": "https://econjobmarket.org/positions/12786",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-12"
+  },
+  {
    "id": "ejm:12787",
    "source": "ejm",
    "institution": "Cornell University",
@@ -5237,6 +5245,37 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12805",
+   "source": "ejm",
+   "institution": "Heidelberg University",
+   "title": "Postdoctoral Researchers in Economics and Data Science (2 positions)",
+   "location": "Heidelberg, DE",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Health; Education; Welfare",
+    "Computational Economics",
+    "Statistics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-10-12",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12805",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12805",
+   "text": "The Chair for Labor Economics / New Political Economy (Prof. Simon Görlach PhD) at the Alfred-Weber-Institute for Economics at the University of Heidelberg invites applications for two\n\nPost-doctoral Researcher\n\nPositions in economics and/or data science. The initial contract is for three years, with the possibility of renewal. Positions are full-time (13 TV-L) and based in Heidelberg.\n\nCandidate Profile\n\nThe successful candidate should demonstrate the potential to produce high-quality research suitable for publication in leading academic journals. We seek applicants with a strong background in quantitative economics and econometrics. Candidates should demonstrate the potential to produce high-quality research suitable for publication in leading academic journals. For one of the positions, a solid understanding of data science and machine learning methods is an asset. Applicants must have (or must be expected to obtain soon) a doctoral degree in economics or related fields. German language knowledge is not required.\n\nJob Description\n\nThe University of Heidelberg offers an exceptional research environment, and the expectation is that post-doctoral researchers pursue independent high-quality academic research. Research activities (such as presenting at international conferences) will be actively supported by the chair and generous funding is available. Other tasks include contributions to external grant applications, as well as contributions to the chair’s teaching portfolio and supervision of degree theses. The formal teaching requirement for the position is two weekly contact hours per semester (SWS).\n\nApplication Process\n\nAs an equal opportunity employer, Heidelberg University actively encourages applications by women. Preference will be given to disabled applicants with equal qualifications. For full consideration, please submit your application (cover letter explaining your interest in the position, CV including hyperlinks to research papers, a job market paper, and two or more reference letters) via econjobmarket.org by 15 November 2026 (12:00 a.m. UTC).\n\nVirtual interviews will be held in December 2025, primarily as part of the European Job Market.\n\nFor further information about the position, contact Prof. Simon Görlach PhD (simon.goerlach@awi.uni-heidelberg.de).",
+   "links": [
+    "https://www.awi.uni-heidelberg.de/en"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
   },
   {
    "id": "ejm:12806",
@@ -16199,22 +16238,112 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12786",
+   "id": "ejm:12810",
    "source": "ejm",
-   "institution": "Center for Economic Research on Governance, Inequality and Conflict, École Normale Superieure de Lyon",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Computational Economics/Economic History/Industrial Organization/Law and Economics/Organizational Behavior/Political Economy/",
-   "location": "Lyon, FR",
+   "institution": "STATEC Research ASBL",
+   "title": "Junior Researcher in Economics",
+   "location": "Belvaux, LU",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-10-12",
-   "url": "https://econjobmarket.org/positions/12786",
+   "deadline": "2026-12-31",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12810",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-12"
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12811",
+   "source": "ejm",
+   "institution": "Economics, Indian Institute of Management Bangalore",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Macroeconomics; Monetary",
+   "location": "Bangalore, IN",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12811",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12812",
+   "source": "ejm",
+   "institution": "Department of Economics and Management \"Marco Fanno\", Università degli Studi di Padova",
+   "title": "Postdoctoral Scholar, Finance/Macroeconomics; Monetary/Political Economy",
+   "location": "Padova, IT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12812",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12809",
+   "source": "ejm",
+   "institution": "Institut Louis Bachelier",
+   "title": "Postdoctoral Scholar, Computational Economics/Experimental Economics/Finance/Macroeconomics; Monetary",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12809",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12804",
+   "source": "ejm",
+   "institution": "Department of Economics, Management and Quantitative Methods (DEMM), Università degli Studi di Milano",
+   "title": "Postdoctoral Scholar, Labor; Demographic Economics/Macroeconomics; Monetary/Public Economics",
+   "location": "Milan, IT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12804",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12693",
+   "source": "ejm",
+   "institution": "School of Economics, University College Dublin",
+   "title": "Associate Professor, Environmental; Ag. Econ.",
+   "location": "Belfield, IE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-13",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12693",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-09-22"
   }
  ]
 }
