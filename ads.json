@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-14T09:43:00Z",
+ "generated_at": "2026-10-14T15:28:01Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 231,
-   "site_listing": 216,
-   "site_extra": 6,
-   "not_live": 8,
+   "count": 232,
+   "site_listing": 218,
+   "site_extra": 8,
+   "not_live": 7,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 516
+   "count": 532
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -4651,33 +4651,6 @@
    "first_seen": "2026-10-06"
   },
   {
-   "id": "ejm:12770",
-   "source": "ejm",
-   "institution": "Sabancı University",
-   "title": "Faculty Positions at the Faculty of Arts and Social Sciences, Sabanci University",
-   "location": "Tuzla, TR",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2027-02-28",
-   "posted": "2026-10-07",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12770",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12770",
-   "text": "The Faculty of Arts and Social Sciences at Sabancı University invites applications for a full-time faculty position in economics at any rank and in any field. We seek candidates who are strongly committed to both high-quality research and teaching.\n\nThe medium of instruction at Sabancı University is English. The appointment will begin in September 2027. Selected candidates will be contacted by the search committee for online interviews.\n\nA complete application should include a cover letter, CV, research papers, job market paper, teaching evaluations, transcripts, and three recommendation letters.\n\nFor full consideration, we encourage applicants to apply by December 15, 2026. Applications will continue to be reviewed until the position is filled.\n\nFor more information about Sabancı University and the Faculty of Arts and Social Sciences, please visit: econ.sabanciuniv.edu.\n\nContact: Ayse Otenoglu (ayse.otenoglu@sabanciuniv.edu), FASS Administrative Affairs Manager",
-   "links": [],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "ejm:12771",
    "source": "ejm",
    "institution": "Copenhagen Business School",
@@ -6510,6 +6483,28 @@
    "first_seen": "2026-09-21"
   },
   {
+   "id": "joe:111478193",
+   "source": "joe",
+   "institution": "Christensen Associates",
+   "title": "Economist",
+   "location": "Madison, United States",
+   "continent": "North America",
+   "fields": [
+    "C4 Econometric and Statistical Methods:  Special Topics",
+    "D4 Market Structure, Pricing, and Design",
+    "L4 Antitrust Issues and Policies"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478193",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "joe:111477624",
    "source": "joe",
    "institution": "City University of Hong Kong",
@@ -7096,6 +7091,27 @@
    "first_seen": "2026-10-01"
   },
   {
+   "id": "joe:111478190",
+   "source": "joe",
+   "institution": "Connecticut College",
+   "title": "Assistant Professor",
+   "location": "New London, United States",
+   "continent": "North America",
+   "fields": [
+    "C1 Econometric and Statistical Methods and Methodology:  General",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478190",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "joe:111477801",
    "source": "joe",
    "institution": "Cornell University",
@@ -7543,6 +7559,26 @@
    "first_seen": "2026-09-21"
   },
   {
+   "id": "joe:111478197",
+   "source": "joe",
+   "institution": "Duke University",
+   "title": "Eads Professor of the Practice in Energy",
+   "location": "Durham, United States",
+   "continent": "North America",
+   "fields": [
+    "Q4 Energy"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478197",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "joe:111477596",
    "source": "joe",
    "institution": "Duke University",
@@ -7736,6 +7772,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-21"
+  },
+  {
+   "id": "joe:111478031",
+   "source": "joe",
+   "institution": "ETS",
+   "title": "Senior Research Scientist- Center for Policy Research",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "I2 Education and Research Institutions"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478031",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
   },
   {
    "id": "joe:111477591",
@@ -7970,7 +8026,7 @@
    ],
    "position_types": [],
    "section": "Full-Time Nonacademic",
-   "deadline": "2027-01-31",
+   "deadline": "2026-12-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478077",
    "predoc": false,
@@ -8167,6 +8223,26 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "joe:111478262",
+   "source": "joe",
+   "institution": "Florida State University",
+   "title": "Liberty Lab Director (12mth)",
+   "location": "Tallahassee, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478262",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
   },
   {
    "id": "joe:111478141",
@@ -8873,6 +8949,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-28"
+  },
+  {
+   "id": "joe:111478277",
+   "source": "joe",
+   "institution": "Inter-American Development Bank",
+   "title": "Research Economists",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478277",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
   },
   {
    "id": "joe:111477878",
@@ -10774,6 +10870,47 @@
    "first_seen": "2026-10-12"
   },
   {
+   "id": "joe:111478222",
+   "source": "joe",
+   "institution": "New York University Arts and Science",
+   "title": "Clinical Assistant Professor in Economics",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics",
+    "A2 Economic Education and Teaching of Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-04-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478222",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
+   "id": "joe:111478223",
+   "source": "joe",
+   "institution": "New York University Arts and Science",
+   "title": "Senior Faculty Position of Economics",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478223",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "joe:111477958",
    "source": "joe",
    "institution": "New York University Arts and Science",
@@ -11709,6 +11846,46 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-10-06"
+  },
+  {
+   "id": "joe:111478254",
+   "source": "joe",
+   "institution": "Randolph College",
+   "title": "Assistant Professor of Economics and Business",
+   "location": "Lynchburg, United States",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478254",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
+   "id": "joe:111478189",
+   "source": "joe",
+   "institution": "Reichman University (IDC Herzliya)",
+   "title": "Lecturer/Senior Lecturer/Associate Professor/Full Professor",
+   "location": "Herzliya, Israel",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-02-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478189",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
   },
   {
    "id": "joe:111477927",
@@ -13904,6 +14081,26 @@
    "first_seen": "2026-10-02"
   },
   {
+   "id": "joe:111478180",
+   "source": "joe",
+   "institution": "Universidad de Los Andes",
+   "title": "Assistant Professor",
+   "location": "Bogota, Colombia",
+   "continent": "Latin America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-21",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478180",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "joe:111477946",
    "source": "joe",
    "institution": "Universidad de los Andes",
@@ -14562,6 +14759,27 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "joe:111478256",
+   "source": "joe",
+   "institution": "University of Chicago - Harris School of Public Policy",
+   "title": "Assistant Professor - AI and Policy",
+   "location": "Chicago, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics",
+    "Z Other Special Topics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-05-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478256",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "joe:111478163",
    "source": "joe",
    "institution": "University of Chicago Booth School of Business",
@@ -14889,6 +15107,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478139",
+   "source": "joe",
+   "institution": "University of Hohenheim",
+   "title": "Full Professor (W3) of Household Finance",
+   "location": "Stuttgart, Germany",
+   "continent": "Europe",
+   "fields": [
+    "D1 Household Behavior and Family Economics",
+    "G1 General Financial Markets",
+    "G4 Behavioral Finance",
+    "G5 Household Finance"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-06",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478139",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
   },
   {
    "id": "joe:111478064",
@@ -15628,6 +15869,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478194",
+   "source": "joe",
+   "institution": "University of Southern Indiana",
+   "title": "Assistant Professor of Economics",
+   "location": "Evansville, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-04-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478194",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "joe:111478164",
    "source": "joe",
    "institution": "University of Tampa",
@@ -15910,6 +16171,26 @@
    "first_seen": "2026-09-24"
   },
   {
+   "id": "joe:111478270",
+   "source": "joe",
+   "institution": "UNSW Sydney",
+   "title": "Lecturer (Assistant Professor)/Senior Lecturer/Associate Professor",
+   "location": "Sydney, Australia",
+   "continent": "Oceania",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478270",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "joe:111477703",
    "source": "joe",
    "institution": "US Census Bureau",
@@ -16109,6 +16390,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-08"
+  },
+  {
+   "id": "joe:111478196",
+   "source": "joe",
+   "institution": "Washington State University",
+   "title": "Teaching Assistant Professor - Career",
+   "location": "Pullman, United States",
+   "continent": "North America",
+   "fields": [
+    "A2 Economic Education and Teaching of Economics",
+    "C0 General",
+    "Q0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478196",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-14"
   },
   {
    "id": "joe:111477948",
@@ -16600,6 +16903,42 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-14",
    "url": "https://econjobmarket.org/positions/12817",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-14"
+  },
+  {
+   "id": "ejm:12770",
+   "source": "ejm",
+   "institution": "Economics Program, Sabancı University",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "Tuzla, TR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12770",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-08"
+  },
+  {
+   "id": "ejm:12808",
+   "source": "ejm",
+   "institution": "Department of Economic Sciences, Indian Institute of Technology, Kanpur",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Computational Economics/Finance/Industrial Organization/International Trade/Macroeconomics; Monetary/Urban; Rural; Regional Economics",
+   "location": "Kanpur, IN",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-10",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12808",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
