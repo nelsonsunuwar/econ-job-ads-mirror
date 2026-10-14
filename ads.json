@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-14T01:23:08Z",
+ "generated_at": "2026-10-14T09:43:00Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 230,
-   "site_listing": 215,
-   "site_extra": 10,
+   "count": 231,
+   "site_listing": 216,
+   "site_extra": 6,
    "not_live": 8,
    "dead": 0
   },
@@ -5247,6 +5247,30 @@
    "first_seen": "2026-10-10"
   },
   {
+   "id": "ejm:12804",
+   "source": "ejm",
+   "institution": "Università degli Studi di Milano",
+   "title": "Post-Doctoral Position in Macroeconomics, Public Economics, Household Finance",
+   "location": "Milan, IT",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12804",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
    "id": "ejm:12805",
    "source": "ejm",
    "institution": "Heidelberg University",
@@ -5320,6 +5344,102 @@
    "predoc": false,
    "senior": true,
    "first_seen": "2026-10-11"
+  },
+  {
+   "id": "ejm:12809",
+   "source": "ejm",
+   "institution": "Institut Louis Bachelier",
+   "title": "Postdoc in AI agents and human-AI interactions in financial systems",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [
+    "Experimental Economics",
+    "Finance",
+    "Macroeconomics; Monetary",
+    "Computational Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12809",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12810",
+   "source": "ejm",
+   "institution": "STATEC Research ASBL",
+   "title": "Junior Economist",
+   "location": "Belvaux, LU",
+   "continent": "Europe",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12810",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12811",
+   "source": "ejm",
+   "institution": "Indian Institute of Management Bangalore",
+   "title": "Faculty Positions in Economics, Indian Institute of Management Bangalore",
+   "location": "Bangalore, IN",
+   "continent": "Asia",
+   "fields": [
+    "Macroeconomics; Monetary",
+    "Other"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12811",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12812",
+   "source": "ejm",
+   "institution": "Università degli Studi di Padova",
+   "title": "Postdoctoral Researcher in Economics",
+   "location": "Padova, IT",
+   "continent": "Europe",
+   "fields": [
+    "Finance",
+    "Macroeconomics; Monetary",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12812",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
   },
   {
    "id": "joe:111477855",
@@ -16486,24 +16606,6 @@
    "first_seen": "2026-10-14"
   },
   {
-   "id": "ejm:12810",
-   "source": "ejm",
-   "institution": "STATEC Research ASBL",
-   "title": "Junior Researcher in Economics",
-   "location": "Belvaux, LU",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-10-13",
-   "url": "https://econjobmarket.org/positions/12810",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-13"
-  },
-  {
    "id": "ejm:12796",
    "source": "ejm",
    "institution": "Banco de España",
@@ -16522,42 +16624,6 @@
    "first_seen": "2026-10-14"
   },
   {
-   "id": "ejm:12811",
-   "source": "ejm",
-   "institution": "Economics, Indian Institute of Management Bangalore",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Macroeconomics; Monetary",
-   "location": "Bangalore, IN",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-13",
-   "url": "https://econjobmarket.org/positions/12811",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-13"
-  },
-  {
-   "id": "ejm:12812",
-   "source": "ejm",
-   "institution": "Department of Economics and Management \"Marco Fanno\", Università degli Studi di Padova",
-   "title": "Postdoctoral Scholar, Finance/Macroeconomics; Monetary/Political Economy",
-   "location": "Padova, IT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-13",
-   "url": "https://econjobmarket.org/positions/12812",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-13"
-  },
-  {
    "id": "ejm:12814",
    "source": "ejm",
    "institution": "Institute of Economics, Corvinus University of Budapest",
@@ -16570,6 +16636,24 @@
    "deadline": "2026-11-22",
    "posted": "2026-10-14",
    "url": "https://econjobmarket.org/positions/12814",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-14"
+  },
+  {
+   "id": "ejm:12818",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Mannheim",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Experimental Economics",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12818",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -16610,42 +16694,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-14"
-  },
-  {
-   "id": "ejm:12809",
-   "source": "ejm",
-   "institution": "Institut Louis Bachelier",
-   "title": "Postdoctoral Scholar, Computational Economics/Experimental Economics/Finance/Macroeconomics; Monetary",
-   "location": "Paris, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-13",
-   "url": "https://econjobmarket.org/positions/12809",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-13"
-  },
-  {
-   "id": "ejm:12804",
-   "source": "ejm",
-   "institution": "Department of Economics, Management and Quantitative Methods (DEMM), Università degli Studi di Milano",
-   "title": "Postdoctoral Scholar, Labor; Demographic Economics/Macroeconomics; Monetary/Public Economics",
-   "location": "Milan, IT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-10-13",
-   "url": "https://econjobmarket.org/positions/12804",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-13"
   }
  ]
 }
