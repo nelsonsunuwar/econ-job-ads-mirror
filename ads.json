@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-13T21:32:49Z",
+ "generated_at": "2026-10-14T01:23:08Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 226,
-   "site_listing": 211,
-   "site_extra": 6,
+   "count": 230,
+   "site_listing": 215,
+   "site_extra": 10,
    "not_live": 8,
    "dead": 0
   },
@@ -16468,6 +16468,24 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:12817",
+   "source": "ejm",
+   "institution": "Faculty of Law, Economics and Governance, Utrecht University",
+   "title": "Assistant Professor, Public Economics",
+   "location": "Utrecht, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12817",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "ejm:12810",
    "source": "ejm",
    "institution": "STATEC Research ASBL",
@@ -16484,6 +16502,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12796",
+   "source": "ejm",
+   "institution": "Banco de España",
+   "title": "Doctorate",
+   "location": "Madrid, ES",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12796",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-14"
   },
   {
    "id": "ejm:12811",
@@ -16522,6 +16558,60 @@
    "first_seen": "2026-10-13"
   },
   {
+   "id": "ejm:12814",
+   "source": "ejm",
+   "institution": "Institute of Economics, Corvinus University of Budapest",
+   "title": "Assistant Professor, Economics",
+   "location": "Budapest, HU",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12814",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-14"
+  },
+  {
+   "id": "ejm:12819",
+   "source": "ejm",
+   "institution": "Finance, HEC Paris",
+   "title": "Assistant Professor, Finance",
+   "location": "Jouy En Josas, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12819",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-14"
+  },
+  {
+   "id": "ejm:12820",
+   "source": "ejm",
+   "institution": "Economics, Toronto Metropolitan University",
+   "title": "Assistant Professor, Applied microeconomics/Macroeconomics; Monetary",
+   "location": "Toronto, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12820",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-14"
+  },
+  {
    "id": "ejm:12809",
    "source": "ejm",
    "institution": "Institut Louis Bachelier",
@@ -16556,24 +16646,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-13"
-  },
-  {
-   "id": "ejm:12693",
-   "source": "ejm",
-   "institution": "School of Economics, University College Dublin",
-   "title": "Associate Professor, Environmental; Ag. Econ.",
-   "location": "Belfield, IE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-13",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12693",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-09-22"
   }
  ]
 }
