@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-15T15:19:37Z",
+ "generated_at": "2026-10-15T20:02:02Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 244,
-   "site_listing": 229,
-   "site_extra": 13,
+   "count": 250,
+   "site_listing": 234,
+   "site_extra": 18,
    "not_live": 8,
    "dead": 0
   },
@@ -4644,6 +4644,30 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12772",
+   "source": "ejm",
+   "institution": "University of Helsinki",
+   "title": "Professor/Tenure Track Assistant/Associate Professor in Agricultural Economics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-10-08",
+   "url": "https://econjobmarket.org/positions/12772",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-15"
   },
   {
    "id": "ejm:12773",
@@ -17483,6 +17507,42 @@
    "first_seen": "2026-10-15"
   },
   {
+   "id": "ejm:12836",
+   "source": "ejm",
+   "institution": "Analysis Group",
+   "title": "Consultant, Econometrics",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-03-12",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12836",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ejm:12837",
+   "source": "ejm",
+   "institution": "Analysis Group",
+   "title": "Consultant, Finance",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-03-12",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12837",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "ejm:12838",
    "source": "ejm",
    "institution": "Analysis Group",
@@ -17606,6 +17666,60 @@
    "link_status": "ok",
    "predoc": false,
    "senior": false,
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ejm:12827",
+   "source": "ejm",
+   "institution": "Department of Economics, Ghent University",
+   "title": "Assistant Professor, Experimental Economics",
+   "location": "Gent, BE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12827",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ejm:12840",
+   "source": "ejm",
+   "institution": "Institute for International Economic Studies, Stockholm University",
+   "title": "Assistant Professor, Economics",
+   "location": "Stockholm, SE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12840",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ejm:12845",
+   "source": "ejm",
+   "institution": "Heidelberg Center for American Studies, Heidelberg University",
+   "title": "Full Professor, Economic History/Political Economy",
+   "location": "Heidelberg, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-04",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12845",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
    "first_seen": "2026-10-15"
   },
   {
