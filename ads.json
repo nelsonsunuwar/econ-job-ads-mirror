@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T09:24:19Z",
+ "generated_at": "2026-10-15T15:19:37Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -11,7 +11,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 530
+   "count": 548
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -6179,6 +6179,26 @@
    "first_seen": "2026-10-05"
   },
   {
+   "id": "joe:111478287",
+   "source": "joe",
+   "institution": "Boston University",
+   "title": "Assistant Professor",
+   "location": "Boston, United States",
+   "continent": "North America",
+   "fields": [
+    "I1 Health"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478287",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111478024",
    "source": "joe",
    "institution": "Bowdoin College",
@@ -6451,6 +6471,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478282",
+   "source": "joe",
+   "institution": "Calvin University",
+   "title": "Assistant Professor of Economics",
+   "location": "Grand Rapids, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478282",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
   },
   {
    "id": "joe:111478026",
@@ -8184,6 +8224,49 @@
    "first_seen": "2026-09-18"
   },
   {
+   "id": "joe:111478207",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Dallas",
+   "title": "Economist / Senior Economist",
+   "location": "Dallas, United States",
+   "continent": "North America",
+   "fields": [
+    "Q4 Energy"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478207",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "joe:111478208",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Dallas",
+   "title": "Economists / Senior Economists",
+   "location": "Dallas, United States",
+   "continent": "North America",
+   "fields": [
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478208",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111478077",
    "source": "joe",
    "institution": "Federal Reserve Bank of Kansas City",
@@ -8560,6 +8643,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478209",
+   "source": "joe",
+   "institution": "Georgetown University in Qatar",
+   "title": "Faculty Position in International Economics, Open Rank",
+   "location": "Doha, Qatar",
+   "continent": "Asia",
+   "fields": [
+    "F International Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-10-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478209",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
   },
   {
    "id": "joe:111477823",
@@ -8993,6 +9096,26 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "joe:111478300",
+   "source": "joe",
+   "institution": "Indiana University",
+   "title": "Associate or Full Professor Position in Economics",
+   "location": "Bloomington, United States",
+   "continent": "North America",
+   "fields": [
+    "Y Miscellaneous Categories"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478300",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111477726",
    "source": "joe",
    "institution": "Indiana University",
@@ -9141,6 +9264,26 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "joe:111478301",
+   "source": "joe",
+   "institution": "Inter-American Development Bank",
+   "title": "Research Economists (Senior/Lead Research Economist)",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478301",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111477878",
    "source": "joe",
    "institution": "Iowa State University",
@@ -9225,6 +9368,26 @@
    "first_seen": "2026-09-01"
   },
   {
+   "id": "joe:111478202",
+   "source": "joe",
+   "institution": "Jinan University",
+   "title": "International Research Fellows - 3 year fixed-term",
+   "location": "Guangzhou, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-07-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478202",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111477972",
    "source": "joe",
    "institution": "Jinan University",
@@ -9263,6 +9426,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "joe:111478298",
+   "source": "joe",
+   "institution": "Johns Hopkins University",
+   "title": "Tenure Track Faculty Position in Health Economics",
+   "location": "Baltimore, United States",
+   "continent": "North America",
+   "fields": [
+    "I1 Health"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478298",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
   },
   {
    "id": "joe:111477884",
@@ -9767,6 +9950,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-04"
+  },
+  {
+   "id": "joe:111478199",
+   "source": "joe",
+   "institution": "Loyola Marymount University",
+   "title": "Assistant Professor of Economics",
+   "location": "Los Angeles, United States",
+   "continent": "North America",
+   "fields": [
+    "H Public Economics",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478199",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
   },
   {
    "id": "joe:111477794",
@@ -10998,6 +11202,26 @@
    "first_seen": "2026-10-05"
   },
   {
+   "id": "joe:111478192",
+   "source": "joe",
+   "institution": "New York University",
+   "title": "Assistant Professor of Finance",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "G0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478192",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111477990",
    "source": "joe",
    "institution": "New York University Abu Dhabi",
@@ -11189,6 +11413,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478284",
+   "source": "joe",
+   "institution": "Northern Michigan University",
+   "title": "Economics/Assistant Professor/Three Year Term",
+   "location": "Marquette, United States",
+   "continent": "North America",
+   "fields": [
+    "E0 General",
+    "N0 General",
+    "P5 Comparative Economic Systems"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478284",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
   },
   {
    "id": "joe:111477754",
@@ -13236,6 +13482,28 @@
    "first_seen": "2026-09-01"
   },
   {
+   "id": "joe:111478211",
+   "source": "joe",
+   "institution": "Texas A&amp;M University Corpus Christi",
+   "title": "Assistant Professor of Business Economics",
+   "location": "Corpus Christi, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching",
+    "C Mathematical and Quantitative Methods",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478211",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111477743",
    "source": "joe",
    "institution": "Texas Christian University",
@@ -13788,6 +14056,28 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "joe:111478288",
+   "source": "joe",
+   "institution": "The University of British Columbia",
+   "title": "Assistant Professor",
+   "location": "Vancouver, Canada",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-16",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478288",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111477592",
    "source": "joe",
    "institution": "The University of Chicago",
@@ -13906,6 +14196,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-11"
+  },
+  {
+   "id": "joe:111478201",
+   "source": "joe",
+   "institution": "The University of Osaka",
+   "title": "Associate Professor or Professor",
+   "location": "Toyonaka, Japan",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478201",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
   },
   {
    "id": "joe:111478036",
@@ -14889,6 +15199,28 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "joe:111478281",
+   "source": "joe",
+   "institution": "University of Chicago",
+   "title": "Assistant Professor",
+   "location": "Chicago, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics",
+    "Q4 Energy",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-05-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478281",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
+  },
+  {
    "id": "joe:111478256",
    "source": "joe",
    "institution": "University of Chicago - Harris School of Public Policy",
@@ -15445,6 +15777,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-29"
+  },
+  {
+   "id": "joe:111478285",
+   "source": "joe",
+   "institution": "University of Michigan",
+   "title": "Associate Professor/Professor of Economics",
+   "location": "Ann Arbor, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478285",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
   },
   {
    "id": "joe:111477526",
@@ -16872,6 +17224,26 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478204",
+   "source": "joe",
+   "institution": "Yale University",
+   "title": "Assistant or Associate Professor of Economics",
+   "location": "New Haven, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478204",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-15"
   },
   {
    "id": "joe:111477963",
