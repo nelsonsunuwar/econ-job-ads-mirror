@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-16T14:59:54Z",
+ "generated_at": "2026-10-16T19:41:57Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 256,
-   "site_listing": 240,
-   "site_extra": 10,
+   "count": 258,
+   "site_listing": 242,
+   "site_extra": 11,
    "not_live": 8,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 560
+   "count": 559
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -5572,6 +5572,28 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "ejm:12824",
+   "source": "ejm",
+   "institution": "Korea Development Institute (KDI)",
+   "title": "Korea Development Institue",
+   "location": "Sejong-si, KR",
+   "continent": "Asia",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-02",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12824",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "ejm:12825",
    "source": "ejm",
    "institution": "Tilburg University",
@@ -9942,26 +9964,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
-  },
-  {
-   "id": "joe:111477667",
-   "source": "joe",
-   "institution": "Johns Hopkins University",
-   "title": "Executive Director",
-   "location": "District of Columbia, United States",
-   "continent": "North America",
-   "fields": [
-    "Z0 General"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-10-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477667",
-   "predoc": false,
-   "senior": true,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
   },
   {
    "id": "joe:111477848",
@@ -18040,6 +18042,24 @@
    "deadline": "2026-11-18",
    "posted": "2026-10-16",
    "url": "https://econjobmarket.org/positions/12844",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "ejm:12850",
+   "source": "ejm",
+   "institution": "Department of Economics, University College London",
+   "title": "Assistant Professor, Economics",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12850",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
