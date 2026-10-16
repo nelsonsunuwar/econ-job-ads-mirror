@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-16T09:17:07Z",
+ "generated_at": "2026-10-16T14:59:54Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 254,
-   "site_listing": 238,
-   "site_extra": 8,
+   "count": 256,
+   "site_listing": 240,
+   "site_extra": 10,
    "not_live": 8,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 543
+   "count": 560
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -6351,6 +6351,27 @@
    "first_seen": "2026-10-06"
   },
   {
+   "id": "joe:111478308",
+   "source": "joe",
+   "institution": "Bellarmine University",
+   "title": "Assistant/Associate Professor of Economics",
+   "location": "Louisville, United States",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478308",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "joe:111478095",
    "source": "joe",
    "institution": "Beloit College",
@@ -6469,6 +6490,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-23"
+  },
+  {
+   "id": "joe:111478232",
+   "source": "joe",
+   "institution": "BlackRock",
+   "title": "Quantitative Researcher / Portfolio Manager – Summer 2027 Internship",
+   "location": "San Francisco, United States; London, United Kingdom",
+   "continent": "Europe / North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478232",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "joe:111478137",
@@ -8030,6 +8071,26 @@
    "first_seen": "2026-09-09"
   },
   {
+   "id": "joe:111478214",
+   "source": "joe",
+   "institution": "Donghua University",
+   "title": "Faculty Recruitment",
+   "location": "Shanghai, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478214",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "joe:111477765",
    "source": "joe",
    "institution": "Duke Kunshan University",
@@ -9239,6 +9300,26 @@
    "first_seen": "2026-10-13"
   },
   {
+   "id": "joe:111478234",
+   "source": "joe",
+   "institution": "Harvard University",
+   "title": "Harvard University Environmental Fellows Program",
+   "location": "Cambridge, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478234",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "joe:111477645",
    "source": "joe",
    "institution": "Harvard University",
@@ -9277,6 +9358,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-29"
+  },
+  {
+   "id": "joe:111478227",
+   "source": "joe",
+   "institution": "Heidelberg University",
+   "title": "Full professorship (W3) in “American Studies” (f/m/d)",
+   "location": "Heidelberg, Germany",
+   "continent": "Europe",
+   "fields": [
+    "A1 General Economics",
+    "N0 General",
+    "R0 General",
+    "Z1 Cultural Economics; Economic Sociology; Economic Anthropology"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478227",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "joe:111478035",
@@ -9326,6 +9430,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-01"
+  },
+  {
+   "id": "joe:111478213",
+   "source": "joe",
+   "institution": "Hong Kong University of Science and Technology, Hong Kong Campus",
+   "title": "Assistant, Associate, or Full Professor",
+   "location": "Hong Kong",
+   "continent": "Asia",
+   "fields": [
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478213",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "joe:111477685",
@@ -12509,6 +12633,28 @@
    "first_seen": "2026-10-02"
   },
   {
+   "id": "joe:111478218",
+   "source": "joe",
+   "institution": "Queen Mary University of London",
+   "title": "Postdoctoral Research Associate",
+   "location": "London, United Kingdom",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "L Industrial Organization",
+    "Y Miscellaneous Categories"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-05-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478218",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "joe:111478053",
    "source": "joe",
    "institution": "Queen's University",
@@ -13489,6 +13635,26 @@
    "first_seen": "2026-10-02"
   },
   {
+   "id": "joe:111478215",
+   "source": "joe",
+   "institution": "Technical University of Denmark",
+   "title": "Full Professor (chair) in Climate and Environmental Economics",
+   "location": "Copenhagen, Denmark",
+   "continent": "Europe",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478215",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "joe:111477986",
    "source": "joe",
    "institution": "Tecnologico de Monterrey",
@@ -13956,6 +14122,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-28"
+  },
+  {
+   "id": "joe:111478219",
+   "source": "joe",
+   "institution": "The Chinese University of Hong Kong",
+   "title": "Professor(s)/ Associate Professor(s)/ Assistant Professor(s)",
+   "location": "Hong Kong",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478219",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "joe:111477636",
@@ -14832,6 +15018,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478309",
+   "source": "joe",
+   "institution": "Universidad de los Andes, Chile",
+   "title": "Assistant/Associate Professor",
+   "location": "Santiago, Chile",
+   "continent": "Latin America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478309",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "joe:111477492",
@@ -15987,6 +16196,28 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478221",
+   "source": "joe",
+   "institution": "University of Mannheim",
+   "title": "Three Assistant Professorships",
+   "location": "Mannheim, Germany",
+   "continent": "Europe",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "H Public Economics",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478221",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "joe:111478041",
    "source": "joe",
    "institution": "University of Maryland, Baltimore",
@@ -16108,6 +16339,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478229",
+   "source": "joe",
+   "institution": "University of Minnesota",
+   "title": "Assistant/Associate Professor - Environmental Economics",
+   "location": "Minneapolis, United States",
+   "continent": "North America",
+   "fields": [
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478229",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "joe:111477993",
@@ -16377,6 +16628,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-16"
+  },
+  {
+   "id": "joe:111478231",
+   "source": "joe",
+   "institution": "University of North Dakota",
+   "title": "Endowed Chair of Real Estate",
+   "location": "Grand Forks, United States",
+   "continent": "North America",
+   "fields": [
+    "R3 Real Estate Markets, Spatial Production Analysis, and Firm Location"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-16",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478231",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "joe:111477580",
@@ -16684,6 +16955,96 @@
    "first_seen": "2026-09-04"
   },
   {
+   "id": "joe:111478224",
+   "source": "joe",
+   "institution": "University of Toronto",
+   "title": "Assistant Professor – Global Economics",
+   "location": "Toronto, Canada",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "P Political Economy and Comparative Economic Systems",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478224",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "joe:111478226",
+   "source": "joe",
+   "institution": "University of Toronto",
+   "title": "Associate Professor / Professor, Applied Economics and Munk Chair in Economics",
+   "location": "Toronto, Canada",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "P Political Economy and Comparative Economic Systems",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478226",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "joe:111478225",
+   "source": "joe",
+   "institution": "University of Toronto",
+   "title": "Associate Professor / Professor, Global Economics",
+   "location": "Toronto, Canada",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "P Political Economy and Comparative Economic Systems",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478225",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "joe:111477614",
    "source": "joe",
    "institution": "University of Tsukuba",
@@ -16823,6 +17184,30 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-16"
+  },
+  {
+   "id": "joe:111478233",
+   "source": "joe",
+   "institution": "University of Wisconsin-Madison",
+   "title": "Assistant, Associate, or Full Professor (Community Development Economics)",
+   "location": "Madison, United States",
+   "continent": "North America",
+   "fields": [
+    "H Public Economics",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478233",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "joe:111477905",
@@ -17661,6 +18046,24 @@
    "first_seen": "2026-10-16"
   },
   {
+   "id": "ejm:12854",
+   "source": "ejm",
+   "institution": "School of Business, McMaster University",
+   "title": "Assistant Professor, Finance",
+   "location": "Hamilton, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12854",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "ejm:12830",
    "source": "ejm",
    "institution": "Economics, Universitat Rovira i Virgili",
@@ -17727,6 +18130,24 @@
    "deadline": "2026-12-31",
    "posted": "2026-10-16",
    "url": "https://econjobmarket.org/positions/12848",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "ejm:12851",
+   "source": "ejm",
+   "institution": "Department of Economics, Ludwig-Maximilians-Universitat München (LMU) (University of Munich)",
+   "title": "Assistant Professor, Economics",
+   "location": "München, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12851",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
