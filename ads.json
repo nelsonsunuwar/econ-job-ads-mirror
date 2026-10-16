@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-15T20:02:02Z",
+ "generated_at": "2026-10-16T00:44:24Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 250,
-   "site_listing": 234,
-   "site_extra": 18,
+   "count": 253,
+   "site_listing": 237,
+   "site_extra": 21,
    "not_live": 8,
    "dead": 0
   },
@@ -17435,6 +17435,24 @@
    "first_seen": "2026-10-15"
   },
   {
+   "id": "ejm:12844",
+   "source": "ejm",
+   "institution": "Ifo Institute",
+   "title": "Postdoctoral Scholar, International Trade",
+   "location": "Munich, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-18",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12844",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "ejm:12826",
    "source": "ejm",
    "institution": "Department of Economics, University College London",
@@ -17451,24 +17469,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-15"
-  },
-  {
-   "id": "ejm:12530",
-   "source": "ejm",
-   "institution": "Business School, Norwegian University of Science and Technology",
-   "title": "Postdoctoral Fellow in Business and Administration",
-   "location": "Trondheim, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-15",
-   "posted": "2026-07-01",
-   "url": "https://econjobmarket.org/positions/12530",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
   },
   {
    "id": "ejm:12832",
@@ -17579,6 +17579,42 @@
    "first_seen": "2026-10-15"
   },
   {
+   "id": "ejm:12853",
+   "source": "ejm",
+   "institution": "School of Government, Universidad Torcuato Di Tella",
+   "title": "Assistant Professor, Applied microeconomics",
+   "location": "Buenos Aires, AR",
+   "continent": "Latin America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12853",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "ejm:12843",
+   "source": "ejm",
+   "institution": "Econometrics, Erasmus University Rotterdam",
+   "title": "Assistant Professor, Econometrics/Statistics",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12843",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
    "id": "ejm:12828",
    "source": "ejm",
    "institution": "Federal Reserve Bank of Boston",
@@ -17595,6 +17631,42 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ejm:12848",
+   "source": "ejm",
+   "institution": "Capital Fund Management",
+   "title": "Quantitative economics researcher",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12848",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "ejm:12846",
+   "source": "ejm",
+   "institution": "Economics, University of Oxford",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics/Public Economics",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12846",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
   },
   {
    "id": "ejm:12831",
@@ -17721,24 +17793,6 @@
    "predoc": false,
    "senior": true,
    "first_seen": "2026-10-15"
-  },
-  {
-   "id": "ejm:12590",
-   "source": "ejm",
-   "institution": "Kiel Institute for the World Economy",
-   "title": "Full Professor, International Trade/Macroeconomics; Monetary",
-   "location": "Berlin, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-15",
-   "posted": "2026-09-01",
-   "url": "https://econjobmarket.org/positions/12590",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-09-02"
   }
  ]
 }
