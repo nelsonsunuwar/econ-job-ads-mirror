@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-18T09:04:03Z",
+ "generated_at": "2026-10-18T14:08:48Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 266,
-   "site_listing": 251,
+   "count": 265,
+   "site_listing": 250,
    "site_extra": 3,
    "not_live": 8,
    "dead": 0
@@ -6165,28 +6165,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-16"
-  },
-  {
-   "id": "ejm:12855",
-   "source": "ejm",
-   "institution": "Institut Polytechnique de Paris",
-   "title": "Assistant/Associate professor in Economics, CREST",
-   "location": "Palaiseau, FR",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-16",
-   "url": "https://econjobmarket.org/positions/12855",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-17"
   },
   {
    "id": "ejm:12856",
