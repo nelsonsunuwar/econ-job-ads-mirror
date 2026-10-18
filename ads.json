@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-18T00:16:44Z",
+ "generated_at": "2026-10-18T09:04:03Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 266,
-   "site_listing": 250,
-   "site_extra": 6,
+   "site_listing": 251,
+   "site_extra": 3,
    "not_live": 8,
    "dead": 0
   },
@@ -1962,30 +1962,6 @@
    "first_seen": "2026-09-12"
   },
   {
-   "id": "ejm:12641",
-   "source": "ejm",
-   "institution": "Technical University of Denmark",
-   "title": "PhD scholarship in Sustainable Finance with Focus on Climate Banking",
-   "location": "Kgs. Lyngby, DK",
-   "continent": "Europe",
-   "fields": [
-    "Environmental; Energy; Ag. Econ",
-    "Insurance",
-    "Real Estate"
-   ],
-   "position_types": [
-    "Research Assistant (Pre-Doc)"
-   ],
-   "section": null,
-   "deadline": "2026-10-18",
-   "posted": "2026-09-12",
-   "url": "https://econjobmarket.org/positions/12641",
-   "link_status": "ok",
-   "predoc": true,
-   "senior": false,
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "ejm:12642",
    "source": "ejm",
    "institution": "University of Cyprus",
@@ -2747,29 +2723,6 @@
    "first_seen": "2026-09-19"
   },
   {
-   "id": "ejm:12682",
-   "source": "ejm",
-   "institution": "Good Business Lab",
-   "title": "Research Fellow",
-   "location": "Delhi, IN",
-   "continent": "Asia",
-   "fields": [
-    "Labor; Demographic Economics",
-    "Business Economics"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-10-12",
-   "posted": "2026-09-23",
-   "url": "https://econjobmarket.org/positions/12682",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-23"
-  },
-  {
    "id": "ejm:12683",
    "source": "ejm",
    "institution": "Kyoto University",
@@ -2787,31 +2740,6 @@
    "deadline": "2026-11-06",
    "posted": "2026-09-19",
    "url": "https://econjobmarket.org/positions/12683",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-19"
-  },
-  {
-   "id": "ejm:12684",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of St. Louis",
-   "title": "Community Development Research Fellow",
-   "location": "",
-   "continent": null,
-   "fields": [
-    "Labor; Demographic Economics",
-    "Any field",
-    "Urban; Rural; Regional Economics",
-    "Health; Education; Welfare"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-10-09",
-   "posted": "2026-09-19",
-   "url": "https://econjobmarket.org/positions/12684",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -6255,6 +6183,144 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-16",
    "url": "https://econjobmarket.org/positions/12855",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12856",
+   "source": "ejm",
+   "institution": "University of Bristol",
+   "title": "Lecturer in Economics (Assistant Professor)",
+   "location": "Bristol, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-12-11",
+   "posted": "2026-10-17",
+   "url": "https://econjobmarket.org/positions/12856",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12857",
+   "source": "ejm",
+   "institution": "Erasmus University Rotterdam",
+   "title": "Assistant Professor in Macroeconomics / International Economics (Tenure Track)",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [
+    "Development; Growth",
+    "International Finance/Macro",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-17",
+   "url": "https://econjobmarket.org/positions/12857",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12858",
+   "source": "ejm",
+   "institution": "ESSEC Business School",
+   "title": "Associate / Advanced Assistant Professor in Industrial Organization",
+   "location": "Cergy, FR",
+   "continent": "Europe",
+   "fields": [
+    "Industrial Organization"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-10-17",
+   "url": "https://econjobmarket.org/positions/12858",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12859",
+   "source": "ejm",
+   "institution": "University of St Andrews",
+   "title": "Post-Doctoral Research Fellow in Climate- and Macroeconometrics",
+   "location": "St Andrews, GB",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-17",
+   "url": "https://econjobmarket.org/positions/12859",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12863",
+   "source": "ejm",
+   "institution": "University of Guelph",
+   "title": "Assistant Professor in Empirical Applied Microeconomics",
+   "location": "Guelph, CA",
+   "continent": "North America",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-17",
+   "url": "https://econjobmarket.org/positions/12863",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12864",
+   "source": "ejm",
+   "institution": "University of Guelph",
+   "title": "Assistant Professor in Macroeconomics",
+   "location": "Guelph, CA",
+   "continent": "North America",
+   "fields": [
+    "International Finance/Macro",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-17",
+   "url": "https://econjobmarket.org/positions/12864",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -18332,112 +18398,58 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12858",
+   "id": "ejm:12795",
    "source": "ejm",
-   "institution": "Economics Department, ESSEC Business School",
-   "title": "Assistant Professor/Associate Professor, Industrial Organization",
-   "location": "Cergy, FR",
-   "continent": "Europe",
+   "institution": "Department of Economics, Monash University",
+   "title": "Assistant Professor/Lecturer/Senior Lecturer, Economics",
+   "location": "Caulfield East, AU",
+   "continent": "Oceania",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-10-17",
-   "url": "https://econjobmarket.org/positions/12858",
+   "deadline": "2026-11-08",
+   "posted": "2026-10-18",
+   "url": "https://econjobmarket.org/positions/12795",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-18"
   },
   {
-   "id": "ejm:12863",
+   "id": "ejm:12682",
    "source": "ejm",
-   "institution": "Economics and Finance, University of Guelph",
-   "title": "Assistant Professor, Applied microeconomics",
-   "location": "Guelph, CA",
-   "continent": "North America",
+   "institution": "Good Business Lab",
+   "title": "Research Fellow",
+   "location": "Delhi, IN",
+   "continent": "Asia",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-17",
-   "url": "https://econjobmarket.org/positions/12863",
+   "deadline": "2026-10-12",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12682",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-09-23"
   },
   {
-   "id": "ejm:12864",
+   "id": "ejm:12684",
    "source": "ejm",
-   "institution": "Economics and Finance, University of Guelph",
-   "title": "Assistant Professor, International Finance/Macro/Macroeconomics; Monetary",
-   "location": "Guelph, CA",
-   "continent": "North America",
+   "institution": "Community Development, Federal Reserve Bank of St. Louis",
+   "title": "Community Development Research Fellow",
+   "location": "",
+   "continent": null,
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-17",
-   "url": "https://econjobmarket.org/positions/12864",
+   "deadline": "2026-10-09",
+   "posted": "2026-09-19",
+   "url": "https://econjobmarket.org/positions/12684",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-17"
-  },
-  {
-   "id": "ejm:12859",
-   "source": "ejm",
-   "institution": "University of St Andrews Business School, University of St Andrews",
-   "title": "Postdoctoral Scholar, Econometrics/Macroeconomics; Monetary",
-   "location": "St Andrews, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-15",
-   "posted": "2026-10-17",
-   "url": "https://econjobmarket.org/positions/12859",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-17"
-  },
-  {
-   "id": "ejm:12856",
-   "source": "ejm",
-   "institution": "School of Economics, University of Bristol",
-   "title": "Assistant Professor/Lecturer, Economics",
-   "location": "Bristol, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-11",
-   "posted": "2026-10-17",
-   "url": "https://econjobmarket.org/positions/12856",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-17"
-  },
-  {
-   "id": "ejm:12857",
-   "source": "ejm",
-   "institution": "Economics, Erasmus University Rotterdam",
-   "title": "Assistant Professor, Development; Growth/International Finance/Macro/Macroeconomics; Monetary",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-17",
-   "url": "https://econjobmarket.org/positions/12857",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-09-19"
   }
  ]
 }
