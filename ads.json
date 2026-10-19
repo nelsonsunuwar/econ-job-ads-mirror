@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-19T00:28:22Z",
+ "generated_at": "2026-10-19T10:16:14Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 268,
    "site_listing": 253,
-   "site_extra": 6,
+   "site_extra": 5,
    "not_live": 8,
    "dead": 0
   },
@@ -4964,6 +4964,30 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12795",
+   "source": "ejm",
+   "institution": "Monash University",
+   "title": "Assistant Professor",
+   "location": "Caulfield East, AU",
+   "continent": "Oceania",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Lecturer",
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-11-08",
+   "posted": "2026-10-18",
+   "url": "https://econjobmarket.org/positions/12795",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-18"
   },
   {
    "id": "ejm:12796",
@@ -18374,24 +18398,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-30"
-  },
-  {
-   "id": "ejm:12795",
-   "source": "ejm",
-   "institution": "Department of Economics, Monash University",
-   "title": "Assistant Professor/Lecturer/Senior Lecturer, Economics",
-   "location": "Caulfield East, AU",
-   "continent": "Oceania",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-08",
-   "posted": "2026-10-18",
-   "url": "https://econjobmarket.org/positions/12795",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-18"
   },
   {
    "id": "ejm:12835",
