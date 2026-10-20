@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-20T15:22:01Z",
+ "generated_at": "2026-10-20T20:07:53Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 277,
-   "site_listing": 262,
-   "site_extra": 8,
+   "count": 278,
+   "site_listing": 263,
+   "site_extra": 9,
    "not_live": 8,
    "dead": 0
   },
@@ -19099,6 +19099,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12855",
+   "source": "ejm",
+   "institution": "Economics, Institut Polytechnique de Paris",
+   "title": "Assistant Professor, Econometrics",
+   "location": "Palaiseau, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-19",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12855",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
   },
   {
    "id": "ejm:12877",
