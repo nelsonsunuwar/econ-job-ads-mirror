@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-20T09:37:23Z",
+ "generated_at": "2026-10-20T15:22:01Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 276,
-   "site_listing": 261,
-   "site_extra": 7,
+   "count": 277,
+   "site_listing": 262,
+   "site_extra": 8,
    "not_live": 8,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 572
+   "count": 583
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -6817,6 +6817,26 @@
    "first_seen": "2026-09-14"
   },
   {
+   "id": "joe:111478319",
+   "source": "joe",
+   "institution": "Bank of Italy",
+   "title": "Fellowship To Tenure-Track Positions for Research Economists",
+   "location": "Rome, Italy",
+   "continent": "Europe",
+   "fields": [
+    "E0 General"
+   ],
+   "position_types": [],
+   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
+   "deadline": "2026-11-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478319",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
+  },
+  {
    "id": "joe:111477873",
    "source": "joe",
    "institution": "Bank of Japan",
@@ -8693,6 +8713,26 @@
    "first_seen": "2026-09-09"
   },
   {
+   "id": "joe:111478252",
+   "source": "joe",
+   "institution": "Dongbei Univeristy of Finance and Economics",
+   "title": "Assistant Professor/Associate Professor/Full Professor",
+   "location": "Dalian, China",
+   "continent": "Asia",
+   "fields": [
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478252",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
+  },
+  {
    "id": "joe:111478214",
    "source": "joe",
    "institution": "Donghua University",
@@ -9533,6 +9573,26 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "joe:111478263",
+   "source": "joe",
+   "institution": "Florida State University",
+   "title": "Research Faculty – 12 Mo Sal (Open Rank, Multiple Vacancies)",
+   "location": "Tallahassee, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478263",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
+  },
+  {
    "id": "joe:111478141",
    "source": "joe",
    "institution": "Fordham University",
@@ -9718,6 +9778,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-16"
+  },
+  {
+   "id": "joe:111478360",
+   "source": "joe",
+   "institution": "Halle Institute for Economic Research (IWH)",
+   "title": "Assistant Professor (W1) in Empirical Labour Economics",
+   "location": "Halle (Saale), Germany",
+   "continent": "Europe",
+   "fields": [
+    "C1 Econometric and Statistical Methods and Methodology:  General",
+    "J2 Demand and Supply of Labor",
+    "J3 Wages, Compensation, and Labor Costs"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478360",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
   },
   {
    "id": "joe:111477930",
@@ -10174,6 +10256,26 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "joe:111478241",
+   "source": "joe",
+   "institution": "Indian Institute of Management Bangalore , India",
+   "title": "Assistant Professor/Associate Professor /Professor",
+   "location": "Bangalore, India",
+   "continent": "Asia",
+   "fields": [
+    "E0 General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478241",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
+  },
+  {
    "id": "joe:111478300",
    "source": "joe",
    "institution": "Indiana University",
@@ -10381,6 +10483,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-21"
+  },
+  {
+   "id": "joe:111478342",
+   "source": "joe",
+   "institution": "J.P. Morgan",
+   "title": "U.S. Economist",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "E0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478342",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
   },
   {
    "id": "joe:111477941",
@@ -13368,6 +13490,29 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "joe:111478266",
+   "source": "joe",
+   "institution": "Randolph-Macon College",
+   "title": "Assistant Professor of Economics",
+   "location": "Ashland, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching",
+    "C7 Game Theory and Bargaining Theory",
+    "D Microeconomics",
+    "Z2 Sports Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478266",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
+  },
+  {
    "id": "joe:111478189",
    "source": "joe",
    "institution": "Reichman University (IDC Herzliya)",
@@ -13409,6 +13554,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-29"
+  },
+  {
+   "id": "joe:111478250",
+   "source": "joe",
+   "institution": "Renmin University of China",
+   "title": "Assistant Professor/Associate Professor/Full Professor",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478250",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
   },
   {
    "id": "joe:111477926",
@@ -13684,6 +13850,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-29"
+  },
+  {
+   "id": "joe:111478269",
+   "source": "joe",
+   "institution": "Shanghai University of Finance and Economics",
+   "title": "Assistant, Associate, and Full Professor",
+   "location": "Shanghai, China",
+   "continent": "Asia",
+   "fields": [
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478269",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
   },
   {
    "id": "joe:111477689",
@@ -15571,6 +15760,26 @@
    "first_seen": "2026-10-19"
   },
   {
+   "id": "joe:111478267",
+   "source": "joe",
+   "institution": "Tufts University",
+   "title": "Business Economics",
+   "location": "Medford, United States",
+   "continent": "North America",
+   "fields": [
+    "M2 Business Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478267",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
+  },
+  {
    "id": "joe:111478203",
    "source": "joe",
    "institution": "Tulane University",
@@ -17311,6 +17520,27 @@
    "first_seen": "2026-09-08"
   },
   {
+   "id": "joe:111478268",
+   "source": "joe",
+   "institution": "University of North Alabama",
+   "title": "Open Rank Faculty; Data Analytics",
+   "location": "Florence, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "C0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-11",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478268",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-20"
+  },
+  {
    "id": "joe:111478042",
    "source": "joe",
    "institution": "University of North Carolina Asheville",
@@ -18973,6 +19203,24 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-20",
    "url": "https://econjobmarket.org/positions/12873",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12874",
+   "source": "ejm",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Research Economist",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12874",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
