@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-20T01:15:43Z",
+ "generated_at": "2026-10-20T09:37:23Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 276,
    "site_listing": 261,
-   "site_extra": 13,
+   "site_extra": 7,
    "not_live": 8,
    "dead": 0
   },
@@ -5383,6 +5383,29 @@
    "first_seen": "2026-10-13"
   },
   {
+   "id": "ejm:12813",
+   "source": "ejm",
+   "institution": "University of Liverpool",
+   "title": "Professor in Macroeconomics",
+   "location": "Liverpool, GB",
+   "continent": "Europe",
+   "fields": [
+    "International Finance/Macro",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-19",
+   "url": "https://econjobmarket.org/positions/12813",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-20"
+  },
+  {
    "id": "ejm:12814",
    "source": "ejm",
    "institution": "Corvinus University of Budapest",
@@ -5796,6 +5819,30 @@
    "first_seen": "2026-10-15"
   },
   {
+   "id": "ejm:12835",
+   "source": "ejm",
+   "institution": "Université de Sherbrooke",
+   "title": "Assistant, associate or full professor",
+   "location": "Sherbrooke, CA",
+   "continent": "North America",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-10-19",
+   "url": "https://econjobmarket.org/positions/12835",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-19"
+  },
+  {
    "id": "ejm:12836",
    "source": "ejm",
    "institution": "Analysis Group",
@@ -5909,6 +5956,28 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ejm:12841",
+   "source": "ejm",
+   "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
+   "title": "Faculty Position in Economics",
+   "location": "Seoul, KR",
+   "continent": "Asia",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-04",
+   "posted": "2026-10-19",
+   "url": "https://econjobmarket.org/positions/12841",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-19"
   },
   {
    "id": "ejm:12843",
@@ -6282,6 +6351,103 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12860",
+   "source": "ejm",
+   "institution": "University of Toronto",
+   "title": "Associate Professor / Professor, Applied Economics and Munk Chair in Economics",
+   "location": "Toronto, CA",
+   "continent": "North America",
+   "fields": [
+    "Development; Growth",
+    "Industrial Organization",
+    "International Finance/Macro",
+    "Labor; Demographic Economics",
+    "Law and Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Urban; Rural; Regional Economics",
+    "Health; Education; Welfare",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-10",
+   "posted": "2026-10-19",
+   "url": "https://econjobmarket.org/positions/12860",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-19"
+  },
+  {
+   "id": "ejm:12861",
+   "source": "ejm",
+   "institution": "University of Toronto",
+   "title": "Associate Professor / Professor, Global Economics",
+   "location": "Toronto, CA",
+   "continent": "North America",
+   "fields": [
+    "Development; Growth",
+    "Environmental; Energy; Ag. Econ",
+    "Industrial Organization",
+    "International Finance/Macro",
+    "Labor; Demographic Economics",
+    "Law and Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Urban; Rural; Regional Economics",
+    "Health; Education; Welfare",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-19",
+   "url": "https://econjobmarket.org/positions/12861",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-19"
+  },
+  {
+   "id": "ejm:12862",
+   "source": "ejm",
+   "institution": "University of Toronto",
+   "title": "Assistant Professor – Global Economics",
+   "location": "Toronto, CA",
+   "continent": "North America",
+   "fields": [
+    "Development; Growth",
+    "Environmental; Energy; Ag. Econ",
+    "Industrial Organization",
+    "International Finance/Macro",
+    "Labor; Demographic Economics",
+    "Law and Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Urban; Rural; Regional Economics",
+    "Health; Education; Welfare",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-19",
+   "url": "https://econjobmarket.org/positions/12862",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-19"
   },
   {
    "id": "ejm:12863",
@@ -18759,60 +18925,6 @@
    "first_seen": "2026-10-20"
   },
   {
-   "id": "ejm:12835",
-   "source": "ejm",
-   "institution": "Département d'économique, Université de Sherbrooke",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Sherbrooke, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-10-19",
-   "url": "https://econjobmarket.org/positions/12835",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-19"
-  },
-  {
-   "id": "ejm:12860",
-   "source": "ejm",
-   "institution": "Munk School of Global Affairs and Public Policy, University of Toronto",
-   "title": "Associate Professor/Full Professor, Development; Growth/Health; Education; Welfare/Industrial Organization/International Finance/Macro/Labor; Demographic Economics/Law and Economics/Macroecon",
-   "location": "Toronto, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-10",
-   "posted": "2026-10-19",
-   "url": "https://econjobmarket.org/positions/12860",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-19"
-  },
-  {
-   "id": "ejm:12841",
-   "source": "ejm",
-   "institution": "College of Business, Korea Advanced Institute of Science and Technology (KAIST)",
-   "title": "Full Professor, Applied microeconomics",
-   "location": "Seoul, KR",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-04",
-   "posted": "2026-10-19",
-   "url": "https://econjobmarket.org/positions/12841",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-19"
-  },
-  {
    "id": "ejm:12879",
    "source": "ejm",
    "institution": "Rausser College of Natural Resources, University of California, Berkeley",
@@ -18828,60 +18940,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-20"
-  },
-  {
-   "id": "ejm:12861",
-   "source": "ejm",
-   "institution": "Munk School of Global Affairs and Public Policy, University of Toronto",
-   "title": "Associate Professor/Full Professor, Development; Growth/Environmental; Energy; Ag. Econ/Health; Education; Welfare/Industrial Organization/International Finance/Macro/Labor; Demographic Econo",
-   "location": "Toronto, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-19",
-   "url": "https://econjobmarket.org/positions/12861",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-19"
-  },
-  {
-   "id": "ejm:12862",
-   "source": "ejm",
-   "institution": "Munk School of Global Affairs and Public Policy, University of Toronto",
-   "title": "Assistant Professor, Development; Growth/Environmental; Energy; Ag. Econ/Health; Education; Welfare/Industrial Organization/International Finance/Macro/Labor; Demographic Economics/Law and Ec",
-   "location": "Toronto, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-19",
-   "url": "https://econjobmarket.org/positions/12862",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-19"
-  },
-  {
-   "id": "ejm:12813",
-   "source": "ejm",
-   "institution": "Economics, Management School, University of Liverpool",
-   "title": "Full Professor, International Finance/Macro/Macroeconomics; Monetary",
-   "location": "Liverpool, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-19",
-   "url": "https://econjobmarket.org/positions/12813",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
    "first_seen": "2026-10-20"
   },
   {
