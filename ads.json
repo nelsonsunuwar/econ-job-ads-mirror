@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-20T20:07:53Z",
+ "generated_at": "2026-10-21T00:54:16Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 278,
-   "site_listing": 263,
-   "site_extra": 9,
+   "count": 281,
+   "site_listing": 266,
+   "site_extra": 12,
    "not_live": 8,
    "dead": 0
   },
@@ -19083,6 +19083,24 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:12883",
+   "source": "ejm",
+   "institution": "Finance, ESCP Business School",
+   "title": "Assistant Professor/Associate Professor, Finance",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12883",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "ejm:12870",
    "source": "ejm",
    "institution": "European Central Bank",
@@ -19137,6 +19155,24 @@
    "first_seen": "2026-10-20"
   },
   {
+   "id": "ejm:12881",
+   "source": "ejm",
+   "institution": "Halle Institute for Economic Research (IWH)",
+   "title": "Assistant Professor, Labor; Demographic Economics",
+   "location": "Halle An Der Saale, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12881",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "ejm:12872",
    "source": "ejm",
    "institution": "Analysis Group",
@@ -19189,6 +19225,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12880",
+   "source": "ejm",
+   "institution": "Economics and Finance, Hanken School of Economics",
+   "title": "Assistant Professor, Economics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12880",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
   },
   {
    "id": "ejm:12871",
