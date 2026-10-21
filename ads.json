@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-21T09:37:04Z",
+ "generated_at": "2026-10-21T15:35:57Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 284,
-   "site_listing": 266,
-   "site_extra": 3,
-   "not_live": 11,
+   "count": 285,
+   "site_listing": 268,
+   "site_extra": 5,
+   "not_live": 10,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 583
+   "count": 593
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -6740,37 +6740,6 @@
    "first_seen": "2026-10-20"
   },
   {
-   "id": "ejm:12876",
-   "source": "ejm",
-   "institution": "Universitat de Barcelona",
-   "title": "Postdoctoral position in Environmental and Energy Economics",
-   "location": "Barcelona, ES",
-   "continent": "Europe",
-   "fields": [
-    "Environmental; Energy; Ag. Econ"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-12-03",
-   "posted": "2026-10-20",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12876",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12876",
-   "text": "The University of Barcelona School of Economics and the Chair of Energy Sustainability (IEB - Barcelona Institute of Economics, University of Barcelona, UB) invite applications in the fields of Environmental and Energy Economics for a three-year postdoctoral position starting in September 2027. An earlier start date is possible and can be agreed with the successful candidate.\n\nThe successful candidate will join the research project “Boosting the Energy transition by correcting Cognitive misperceptions, providing co-Benefits, and fostering Delegation” (ATR2025-164656, Spanish Ministry of Science, Innovation and Universities), led by Prof. Andreas Loeschel.\n\nThe aim of this project is to advance interdisciplinary scientific knowledge in behavioural, climate, and energy economics. A central pillar of decarbonisation is the local expansion of renewable electricity generation and the broad electrification of energy consumption across sectors. Although substantial progress has been made in deploying renewable energy technologies, the pace remains insufficient. The research project addresses underexplored, behavioural, economic and institutional barriers constraining further electrification.\n\nThe Chair of Energy Sustainability at the UB promotes research on the production, supply and use of the energy needed to maintain social welfare and development, placing special emphasis on aspects related to its economic, environmental, and social impacts. The Chair belongs to the Barcelona Institute of Economics (IEB) that is a research centre whose goals are to promote and disseminate work in applied economics, and to contribute to the debate and decision-making process in economic policy (ieb.ub.edu/en).\n\nThe University of Barcelona is a leading centre in southern Europe, 1st university in Spain, deeply committed to excellence in research. Within this framework, the UB School of Economics serves as a pivotal platform for research and graduate education in Economics. According to IDEAS, the UB School of Economics is ranked 92nd in the world.\n\nSubmissions instructions\n\nInterested candidates should submit their expression of interest via EconJobMarket. The submission should include a cover letter, CV, three letters of recommendation, a copy of the Job Market Paper, and any other relevant research output. Interviews will be conducted virtually in mid-December 2026.\n\nDeadline for submissions: December 3, 2026\n\nEmail enquiries should be directed to: school.economics@ub.edu",
-   "links": [
-    "https://www.ub.edu/school-economics/",
-    "https://ieb.ub.edu/en/research/chair-of-energy-sustainability/",
-    "https://www.loeschel.org/",
-    "https://web.ub.edu/en/web/ub/",
-    "https://ideas.repec.org/top/top.econdept.html"
-   ],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "ejm:12877",
    "source": "ejm",
    "institution": "University of British Columbia",
@@ -7694,6 +7663,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-12"
+  },
+  {
+   "id": "joe:111478290",
+   "source": "joe",
+   "institution": "California Institute of Technology",
+   "title": "Caltech Postdoctoral Scholar Research Associate in Social Science",
+   "location": "Pasadena, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-29",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478290",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
   },
   {
    "id": "joe:111478168",
@@ -9421,6 +9410,27 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478368",
+   "source": "joe",
+   "institution": "European Central Bank",
+   "title": "Senior Economist  - Research",
+   "location": "Frankfurt am Main, Germany",
+   "continent": "Europe",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478368",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "joe:111477775",
    "source": "joe",
    "institution": "European University Institute",
@@ -9725,6 +9735,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-04"
+  },
+  {
+   "id": "joe:111478374",
+   "source": "joe",
+   "institution": "Federal Reserve Board of Governors",
+   "title": "Economists, Senior Economists, and Principal Economists",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478374",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
   },
   {
    "id": "joe:111478117",
@@ -10538,6 +10568,33 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "joe:111478275",
+   "source": "joe",
+   "institution": "Hunan University",
+   "title": "Assistant/Associate/Full Professor",
+   "location": "Changsha, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "H Public Economics",
+    "L Industrial Organization",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478275",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "joe:111477691",
    "source": "joe",
    "institution": "Imperial College Business School",
@@ -11123,6 +11180,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478274",
+   "source": "joe",
+   "institution": "Korea Development Institute",
+   "title": "Research Fellow",
+   "location": "Sejong-si, Korea, Republic Of",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-02",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478274",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
   },
   {
    "id": "joe:111478171",
@@ -14048,6 +14125,29 @@
    "first_seen": "2026-10-01"
   },
   {
+   "id": "joe:111478289",
+   "source": "joe",
+   "institution": "RTI International",
+   "title": "Research Economist - U.S. Health Policy",
+   "location": "Research Triangle Park, United States",
+   "continent": "North America",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "D Microeconomics",
+    "H Public Economics",
+    "I Health, Education, and Welfare"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478289",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "joe:111477604",
    "source": "joe",
    "institution": "Salisbury University",
@@ -14174,6 +14274,26 @@
    "first_seen": "2026-09-29"
   },
   {
+   "id": "joe:111478293",
+   "source": "joe",
+   "institution": "Shanghai University of Finance and Economics",
+   "title": "Assistant, Associate or Full Professor",
+   "location": "Shanghai, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478293",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "joe:111478269",
    "source": "joe",
    "institution": "Shanghai University of Finance and Economics",
@@ -14195,6 +14315,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-20"
+  },
+  {
+   "id": "joe:111478273",
+   "source": "joe",
+   "institution": "Shanghai University of Finance and Economics (SUFE)",
+   "title": "Tenure-track Faculty Positions in Finance",
+   "location": "Shanghai, China",
+   "continent": "Asia",
+   "fields": [
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-29",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478273",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
   },
   {
    "id": "joe:111477689",
@@ -14992,6 +15134,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-31"
+  },
+  {
+   "id": "joe:111478280",
+   "source": "joe",
+   "institution": "Texas A&amp;M University",
+   "title": "Research Economist",
+   "location": "College Station, United States",
+   "continent": "North America",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "G Financial Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478280",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
   },
   {
    "id": "joe:111477727",
@@ -19325,6 +19489,27 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "joe:111478336",
+   "source": "joe",
+   "institution": "ZEW – Leibniz Centre for European Economic Research",
+   "title": "Postdoc with Tenure Option, Social Insurance",
+   "location": "Mannheim, Germany",
+   "continent": "Europe",
+   "fields": [
+    "I0 General",
+    "J0 General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478336",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "joe:111477844",
    "source": "joe",
    "institution": "Zhejiang University",
@@ -19435,6 +19620,42 @@
    "deadline": "2026-11-27",
    "posted": "2026-10-21",
    "url": "https://econjobmarket.org/positions/12881",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12876",
+   "source": "ejm",
+   "institution": "Facultat d'Economia i Empresa, Universitat de Barcelona",
+   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ",
+   "location": "Barcelona, ES",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-03",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12876",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12888",
+   "source": "ejm",
+   "institution": "School of Business, University of Leicester",
+   "title": "Assistant Professor, Economics",
+   "location": "Leicester, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12888",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
