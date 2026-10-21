@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-21T00:54:16Z",
+ "generated_at": "2026-10-21T09:37:04Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 281,
+   "count": 284,
    "site_listing": 266,
-   "site_extra": 12,
-   "not_live": 8,
+   "site_extra": 3,
+   "not_live": 11,
    "dead": 0
   },
   "joe": {
@@ -764,30 +764,6 @@
    "url": "https://econjobmarket.org/positions/12570",
    "link_status": "ok",
    "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12571",
-   "source": "ejm",
-   "institution": "Université Catholique de Louvain",
-   "title": "PhD position in Economics: renewable energy auctions",
-   "location": "Louvain-la -Neuve, BE",
-   "continent": "Europe",
-   "fields": [
-    "Environmental; Energy; Ag. Econ",
-    "Industrial Organization",
-    "Microeconomic theory"
-   ],
-   "position_types": [
-    "Doctoral student"
-   ],
-   "section": null,
-   "deadline": "2026-09-21",
-   "posted": "2026-08-08",
-   "url": "https://econjobmarket.org/positions/12571",
-   "link_status": "ok",
-   "predoc": true,
    "senior": false,
    "first_seen": "2026-08-30"
   },
@@ -5980,6 +5956,40 @@
    "first_seen": "2026-10-19"
   },
   {
+   "id": "ejm:12842",
+   "source": "ejm",
+   "institution": "De Nederlandsche Bank",
+   "title": "PhD internship",
+   "location": "Amsterdam, NL",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Environmental; Energy; Ag. Econ",
+    "Finance",
+    "Industrial Organization",
+    "International Finance/Macro",
+    "International Trade",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Behavioral Economics",
+    "Computational Economics",
+    "Real Estate",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Research Assistant",
+    "Doctoral student"
+   ],
+   "section": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12842",
+   "link_status": "ok",
+   "predoc": true,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "ejm:12843",
    "source": "ejm",
    "institution": "Erasmus University Rotterdam",
@@ -6260,6 +6270,28 @@
    "first_seen": "2026-10-16"
   },
   {
+   "id": "ejm:12855",
+   "source": "ejm",
+   "institution": "Institut Polytechnique de Paris",
+   "title": "Assistant/Associate Professor in Econometrics",
+   "location": "Palaiseau, FR",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-19",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12855",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
    "id": "ejm:12856",
    "source": "ejm",
    "institution": "University of Bristol",
@@ -6493,6 +6525,296 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12866",
+   "source": "ejm",
+   "institution": "Hong Kong University of Science and Technology (Guangzhou)",
+   "title": "Open-rank faculty position in Fintech/Financial Engineering/Mathematical Finance",
+   "location": "Guangzhou, CN",
+   "continent": "Asia",
+   "fields": [
+    "Econometrics",
+    "Finance",
+    "International Finance/Macro",
+    "Business Economics",
+    "Computational Economics",
+    "Decision Sciences",
+    "Operations Research",
+    "Statistics",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-10-19",
+   "posted": "2026-10-20",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12866",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12866",
+   "text": "Open Rank Faculty Positions in Financial Technology Thrust, The Hong Kong University of Science and Technology (Guangzhou)\n\nDepartment: Financial Technology Thrust, The Hong Kong University of Science and Technology (Guangzhou)\n\nIn the rapidly changing environment of the 21st century, there is an increasing need to forge bridges across disciplines to address emerging challenges and problems. Through its commitment to academic excellence, The Hong Kong University of Science and Technology (HKUST) has developed world-class strengths in many subjects over its short 30-year history. With a strong track record of cultivating high-end talents and nurturing future leaders for academia and industry, HKUST is well positioned to craft an innovative approach to cross-disciplinary education and research in its Guangzhou campus, The Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), and meet the needs of an ever-evolving world.\n\nAbout HKUST Guangzhou Campus [https://hkust-gz.edu.cn/]\n\nHKUST(GZ) offers a unique educational environment with four trans-disciplinary hubs and sixteen thrust areas. HKUST(GZ) offers superb research facilities, attracting top international faculty and students to conduct curiosity-driven and goal-oriented research to address the world’s pressing scientific and technological challenges. English is the medium of instruction and administration at HKUST(GZ).\n\nHKUST(GZ) is situated in Nansha District, Guangzhou, which is right in the center of the Greater Bay Area, one of the most vibrant and dynamic regions in the world, neighboring Shenzhen, Hong Kong, and Macao.\n\nJob Posting Details\n\nThe Financial Technology Thrust of Society Hub of The Hong Kong University of Science and Technology (Guangzhou) invites applications for tenure-track/tenured positions at all ranks (Assistant Professor / Associate Professor / Professor) in all fields of FinTech. For more information about the Fintech Thrust, please visit https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology.\n\nWe seek talents in the cutting-edge research in FinTech. Applicants must have PhD degrees in FinTech or related fields, e.g., Computational Mathematics, Computer Science, Economics, Finance, Financial Engineering, Information Systems, Machine Learning, Mathematical Finance, Operations Research, Optimization, Probability, and Statistics.\n\nAreas of interest include but are not limited to:\n\nBlockchain technologies, smart contracts, and digital currencies\n\nRobo-advising, quantitative investing, and risk management\n\nMachine learning, artificial intelligence, and big data analytics in finance\n\nTechnological innovations for financial services\n\nRegulatory issues and challenges in FinTech\n\nDigital economy and financial inclusion\n\nRemuneration and Conditions of Service\n\nSalary is highly competitive. Fringe benefits include annual leave, medical and dental benefits. Housing benefits will also be provided where applicable. Appointment at Professor rank will be on substantive basis. Appointment at Associate Professor may be with or without substantiation. Initial appointment for Assistant Professor or Associate Professor (without substantiation) will normally be on a three-year contract, renewable subject to mutual agreement.\n\nApplication Procedure\n\nPlease submit the application via the HKUST/HKUST(GZ) Recruitment System (https://facrecruit.hkust.edu.hk/). You should first sign up to create your personal account.\n\nFor more information, please visit the recruitment website (https://gz-faculty-recruitment.hkust.edu.hk/).\n\nReview of applications will continue until all positions are filled.\n\nFor questions regarding the recruitment system or general inquiries, please reach us at facultyhire@hkust-gz.edu.cn. For Hub/Thrust specific questions, please address to Society Hub: gzrecruitsoc@hkust-gz.edu.cn or Fintech Thrust: ftect@hkust-gz.edu.cn with subject title of “Faculty Application to FTEC”.",
+   "links": [
+    "https://hkust-gz.edu.cn/",
+    "https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology",
+    "https://facrecruit.hkust.edu.hk/",
+    "https://gz-faculty-recruitment.hkust.edu.hk/"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12867",
+   "source": "ejm",
+   "institution": "University of Haifa",
+   "title": "Assistant/Associate/Full Professor",
+   "location": "Haifa, IL",
+   "continent": "Asia",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor",
+    "Lecturer",
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-20",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12867",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12867",
+   "text": "The Department of Economics at the University of Haifa invites applications for tenure-track faculty positions at both junior and senior levels. Strong candidates in all fields are encouraged to apply. \n\nOur department is young, dynamic, and growing, with faculty publishing in leading international journals and engaged in collaborations across Israel and abroad. Our university, located on Mount Carmel and bordering the Mount Carmel Nature Reserve and National Park, is widely regarded as a model of coexistence and inclusion, bringing together students and faculty from diverse religious, cultural, and international backgrounds. This setting provides both an inspiring backdrop and a collegial academic community for research and teaching.",
+   "links": [],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12870",
+   "source": "ejm",
+   "institution": "European Central Bank",
+   "title": "Senior Economist – Research",
+   "location": "Frankfurt am Main, DE",
+   "continent": "Europe",
+   "fields": [
+    "Finance",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12870",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12871",
+   "source": "ejm",
+   "institution": "Ludwig-Maximilians-Universitat München (LMU) (University of Munich)",
+   "title": "ISI Junior Research Group Leader in Wealth Inequality Research",
+   "location": "Munich, DE",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12871",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12872",
+   "source": "ejm",
+   "institution": "Analysis Group",
+   "title": "Analyst Intern - Generalist - Brussels (2027 Start Date)",
+   "location": "Brussels, BE",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics"
+   ],
+   "position_types": [
+    "Consultant"
+   ],
+   "section": null,
+   "deadline": "2027-03-12",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12872",
+   "link_status": "ok",
+   "predoc": true,
+   "senior": false,
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12873",
+   "source": "ejm",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Postdoctoral Fellow: Crime and Justice",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Labor; Demographic Economics",
+    "Law and Economics",
+    "Public Economics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar",
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12873",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12874",
+   "source": "ejm",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Research Economist: Crime and Justice",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Labor; Demographic Economics",
+    "Law and Economics",
+    "Public Economics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar",
+    "Other academic",
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12874",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12875",
+   "source": "ejm",
+   "institution": "Dartmouth College",
+   "title": "Dartmouth Globalization Post-Doctoral Fellow",
+   "location": "Hanover, US",
+   "continent": "North America",
+   "fields": [
+    "International Trade"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-18",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12875",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12876",
+   "source": "ejm",
+   "institution": "Universitat de Barcelona",
+   "title": "Postdoctoral position in Environmental and Energy Economics",
+   "location": "Barcelona, ES",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-03",
+   "posted": "2026-10-20",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12876",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12876",
+   "text": "The University of Barcelona School of Economics and the Chair of Energy Sustainability (IEB - Barcelona Institute of Economics, University of Barcelona, UB) invite applications in the fields of Environmental and Energy Economics for a three-year postdoctoral position starting in September 2027. An earlier start date is possible and can be agreed with the successful candidate.\n\nThe successful candidate will join the research project “Boosting the Energy transition by correcting Cognitive misperceptions, providing co-Benefits, and fostering Delegation” (ATR2025-164656, Spanish Ministry of Science, Innovation and Universities), led by Prof. Andreas Loeschel.\n\nThe aim of this project is to advance interdisciplinary scientific knowledge in behavioural, climate, and energy economics. A central pillar of decarbonisation is the local expansion of renewable electricity generation and the broad electrification of energy consumption across sectors. Although substantial progress has been made in deploying renewable energy technologies, the pace remains insufficient. The research project addresses underexplored, behavioural, economic and institutional barriers constraining further electrification.\n\nThe Chair of Energy Sustainability at the UB promotes research on the production, supply and use of the energy needed to maintain social welfare and development, placing special emphasis on aspects related to its economic, environmental, and social impacts. The Chair belongs to the Barcelona Institute of Economics (IEB) that is a research centre whose goals are to promote and disseminate work in applied economics, and to contribute to the debate and decision-making process in economic policy (ieb.ub.edu/en).\n\nThe University of Barcelona is a leading centre in southern Europe, 1st university in Spain, deeply committed to excellence in research. Within this framework, the UB School of Economics serves as a pivotal platform for research and graduate education in Economics. According to IDEAS, the UB School of Economics is ranked 92nd in the world.\n\nSubmissions instructions\n\nInterested candidates should submit their expression of interest via EconJobMarket. The submission should include a cover letter, CV, three letters of recommendation, a copy of the Job Market Paper, and any other relevant research output. Interviews will be conducted virtually in mid-December 2026.\n\nDeadline for submissions: December 3, 2026\n\nEmail enquiries should be directed to: school.economics@ub.edu",
+   "links": [
+    "https://www.ub.edu/school-economics/",
+    "https://ieb.ub.edu/en/research/chair-of-energy-sustainability/",
+    "https://www.loeschel.org/",
+    "https://web.ub.edu/en/web/ub/",
+    "https://ideas.repec.org/top/top.econdept.html"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12877",
+   "source": "ejm",
+   "institution": "University of British Columbia",
+   "title": "UBC Sauder School of Business - Tenure Track Position - Finance",
+   "location": "Vancouver, CA",
+   "continent": "North America",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12877",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12879",
+   "source": "ejm",
+   "institution": "University of California, Berkeley",
+   "title": "Postdoctoral Fellowship S.V. Ciriacy‐Wantrup",
+   "location": "Berkeley, US",
+   "continent": "North America",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-04",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12879",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-20"
   },
   {
    "id": "joe:111477855",
@@ -19101,60 +19423,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "ejm:12870",
-   "source": "ejm",
-   "institution": "European Central Bank",
-   "title": "Senior Economist",
-   "location": "Frankfurt Am Main, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12870",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-20"
-  },
-  {
-   "id": "ejm:12855",
-   "source": "ejm",
-   "institution": "Economics, Institut Polytechnique de Paris",
-   "title": "Assistant Professor, Econometrics",
-   "location": "Palaiseau, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-19",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12855",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-17"
-  },
-  {
-   "id": "ejm:12877",
-   "source": "ejm",
-   "institution": "Sauder School of Business, University of British Columbia",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
-   "location": "Vancouver, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12877",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-20"
-  },
-  {
    "id": "ejm:12881",
    "source": "ejm",
    "institution": "Halle Institute for Economic Research (IWH)",
@@ -19173,60 +19441,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "ejm:12872",
-   "source": "ejm",
-   "institution": "Analysis Group",
-   "title": "Consultant, Econometrics",
-   "location": "Brussels, BE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-03-12",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12872",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-20"
-  },
-  {
-   "id": "ejm:12875",
-   "source": "ejm",
-   "institution": "Economics Department, Dartmouth College",
-   "title": "Postdoctoral Scholar, International Trade",
-   "location": "Hanover, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-18",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12875",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-20"
-  },
-  {
-   "id": "ejm:12879",
-   "source": "ejm",
-   "institution": "Rausser College of Natural Resources, University of California, Berkeley",
-   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ",
-   "location": "Berkeley, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-04",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12879",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-20"
-  },
-  {
    "id": "ejm:12880",
    "source": "ejm",
    "institution": "Economics and Finance, Hanken School of Economics",
@@ -19243,60 +19457,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "ejm:12871",
-   "source": "ejm",
-   "institution": "Munich International Stone Center for Inequality Research, Ludwig-Maximilians-Universitat München (LMU) (University of Munich)",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Munich, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12871",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-20"
-  },
-  {
-   "id": "ejm:12873",
-   "source": "ejm",
-   "institution": "Institute for Fiscal Studies",
-   "title": "Postdoctoral Fellow",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12873",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-20"
-  },
-  {
-   "id": "ejm:12874",
-   "source": "ejm",
-   "institution": "Institute for Fiscal Studies",
-   "title": "Research Economist",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-20",
-   "url": "https://econjobmarket.org/positions/12874",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-20"
   }
  ]
 }
