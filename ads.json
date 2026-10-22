@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-22T15:38:14Z",
+ "generated_at": "2026-10-22T20:17:42Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 293,
-   "site_listing": 276,
+   "count": 295,
+   "site_listing": 278,
    "site_extra": 6,
    "not_live": 10,
    "dead": 0
@@ -4705,6 +4705,28 @@
    "first_seen": "2026-10-09"
   },
   {
+   "id": "ejm:12782",
+   "source": "ejm",
+   "institution": "Universidad de Alicante",
+   "title": "Assistant Professor in Applied Microeconomics",
+   "location": "San Vicente del Raspeig, ES",
+   "continent": "Europe",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12782",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "id": "ejm:12783",
    "source": "ejm",
    "institution": "King's College London",
@@ -6803,6 +6825,28 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12878",
+   "source": "ejm",
+   "institution": "Cornell University",
+   "title": "Professor of Practice, Applied Economics and Policy Area",
+   "location": "Ithaca, US",
+   "continent": "North America",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Untenured Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-20",
+   "url": "https://econjobmarket.org/positions/12878",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-22"
   },
   {
    "id": "ejm:12879",
@@ -17002,7 +17046,7 @@
    ],
    "position_types": [],
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-10-22",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477492",
    "predoc": false,
@@ -20222,7 +20266,7 @@
    "id": "ejm:12897",
    "source": "ejm",
    "institution": "Economics, University of Oxford",
-   "title": "Assistant Professor, Economics",
+   "title": "Associate Professor, Economics",
    "location": "Oxford, GB",
    "continent": "Europe",
    "fields": [],
@@ -20233,7 +20277,7 @@
    "url": "https://econjobmarket.org/positions/12897",
    "link_status": "ok",
    "predoc": false,
-   "senior": false,
+   "senior": true,
    "first_seen": "2026-10-22"
   }
  ]
