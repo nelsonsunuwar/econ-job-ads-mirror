@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-22T00:53:19Z",
+ "generated_at": "2026-10-22T09:37:07Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 292,
+   "count": 293,
    "site_listing": 276,
-   "site_extra": 13,
-   "not_live": 9,
+   "site_extra": 6,
+   "not_live": 10,
    "dead": 0
   },
   "joe": {
@@ -6527,6 +6527,28 @@
    "first_seen": "2026-10-17"
   },
   {
+   "id": "ejm:12865",
+   "source": "ejm",
+   "institution": "University of Saskatchewan",
+   "title": "Hadley Van Vliet Professorship in Agricultural Economics",
+   "location": "Saskatoon, CA",
+   "continent": "North America",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Visiting Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-01",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12865",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "id": "ejm:12866",
    "source": "ejm",
    "institution": "Hong Kong University of Science and Technology (Guangzhou)",
@@ -6563,6 +6585,31 @@
     "https://facrecruit.hkust.edu.hk/",
     "https://gz-faculty-recruitment.hkust.edu.hk/"
    ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12867",
+   "source": "ejm",
+   "institution": "University of Haifa",
+   "title": "Assistant/Associate/Full Professor",
+   "location": "Haifa, IL",
+   "continent": "Asia",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor",
+    "Lecturer",
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12867",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-21"
@@ -6712,6 +6759,28 @@
    "first_seen": "2026-10-20"
   },
   {
+   "id": "ejm:12876",
+   "source": "ejm",
+   "institution": "Universitat de Barcelona",
+   "title": "Postdoctoral position in Environmental and Energy Economics",
+   "location": "Barcelona, ES",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-03",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12876",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "ejm:12877",
    "source": "ejm",
    "institution": "University of British Columbia",
@@ -6756,6 +6825,123 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-20"
+  },
+  {
+   "id": "ejm:12880",
+   "source": "ejm",
+   "institution": "Hanken School of Economics",
+   "title": "Assistant Professor (tenure-track) in Finance",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12880",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12881",
+   "source": "ejm",
+   "institution": "Halle Institute for Economic Research (IWH)",
+   "title": "Assistant Professor (W1) in Empirical Labour Economics",
+   "location": "Halle an der Saale, DE",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12881",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12883",
+   "source": "ejm",
+   "institution": "ESCP Business School",
+   "title": "Assistant/Associate Professor of Finance – Paris Campus (France)",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12883",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12888",
+   "source": "ejm",
+   "institution": "University of Leicester",
+   "title": "Lecturer (Assistant Professor) in Economics",
+   "location": "Leicester, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12888",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12899",
+   "source": "ejm",
+   "institution": "ESMT Berlin",
+   "title": "Predoctoral Researcher (gn)",
+   "location": "Berlin, DE",
+   "continent": "Europe",
+   "fields": [
+    "Business Economics"
+   ],
+   "position_types": [
+    "Research Assistant (Pre-Doc)"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-10-21",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12899",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12899",
+   "text": "ESMT Berlin is a leading global business school with its campus in the heart of Berlin. Founded by 25 global companies, ESMT offers master, MBA, and PhD programs, as well as executive education on its campus in Berlin, in locations around the world, online, and in online blended format. We strongly believe in cross-team collaboration to achieve our mission to develop entrepreneurial leaders who think globally and act responsibly.\n\nJoin our team at the newly established European Expectations Center, under the leadership of Professor Michael Weber, PhD and sponsored by the Humboldt Professorship as a\n\nPredoctoral Researcher (gn)\n\n(full-time, 40 hrs. per week, starting in July 2027, for 1 year, renewable once for up to 2 years)\n\nand help shape the future by bringing your expertise and passion to ESMT.\n\nHow you will make a difference\n\n• Support ongoing research projects by gathering, compiling, processing, and organizing large datasets\n\n• Help conduct statistical analysis\n\n• Proofread and edit research reports, working papers, and publications\n\n• Maintain effective communication with all members of the faculty and external collaborators\n\n• Support organization of the annual conferences and associated PhD workshops\n\nWhat makes you a great fit\n\n• Bachelor’s or Master’s degree in Economics, Finance, Behavioral Sciences, or related fields\n\n• Strong quantitative background and analytical skills\n\n• Proficiency in conducting statistical analyses\n\n• Familiarity with at least one mathematical/statistical software\n\n• Previous research experience is an advantage\n\n• Fluency in English is required; German language skills are an advantage\n\n• Intention to pursue a doctoral degree\n\nWhy you will love working with us\n\nDiscover the perks and culture that make our workplace special.\n\nResearch Experience\n\n• Work with international network of collaborators\n\n• Possibility to attend doctoral courses during predoc\n\n• Exposure to state of the art research in empirical macroeconomics and finance\n\n• Previous predocs went on to pursue doctoral degrees at Chicago Booth, Columbia, Wharton, USC, Ohio State, Kellogg, Berkeley, among others\n\nFinancial Benefits\n\n• Subsidized public transportation ticket and leasing options of bicycles/e-bikes\n\n• Company pension scheme with Allianz\n\nHealth and Well-Being\n\n• Flexible remote work, including up to 15 days abroad per year\n\n• Ergonomic office equipment and access to university sports across Berlin\n\n• Subsidized meals at the campus restaurant\n\nPersonal Development\n\n• Access to LinkedIn Learning\n\n• German and English courses\n\n• Participation in ESMT’s Executive Education and degree programs\n\nWhat makes this more than just a job\n\nESMT offers a collegial and international work environment, with employees representing more than 55 nationalities. We encourage a self-driven mind-set and contributions that create meaningful and lasting impact. We are proud to be an equal opportunity employer, committed to fostering a fair and inclusive workplace where individuals of all identities and backgrounds are welcomed and valued. Fostering diversity, equity, and inclusion enriches our employees, students, and broader community.\n\nYou will work on our campus in Berlin-Mitte. Get here by public transport or bike and enjoy your lunches in our private restaurant and café or next to the beautiful Spree. Make use of our big garden and enjoy coffee and tea on the house with your team. Our vibrant community comes together through activities and events like Lucky Lunch, Wednesday Cookies, Orientation Days for new employees, Summer Party and Year End Event, our talented ESMT choir, and much more.\n\nWe look forward to receiving your application and learning more about you!\n\nPlease submit your application via our online application form, including the following documents:\n\n• Statement of purpose\n\n• CV and 2 letters of recommendation (can be sent separately to jobs@esmt.org)\n\nFor further questions, please contact:\n\nESMT Berlin | Antje Mader | Human Resources Manager | Schlossplatz 1, 10178 Berlin | Tel: 030 21231 0 | Jobs at ESMT Berlin",
+   "links": [
+    "https://jobs.esmt.berlin/apply?id=63a5b3",
+    "https://esmt.berlin/jobs"
+   ],
+   "predoc": true,
+   "senior": false,
+   "first_seen": "2026-10-22"
   },
   {
    "id": "joe:111477855",
@@ -19562,42 +19748,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12883",
-   "source": "ejm",
-   "institution": "Finance, ESCP Business School",
-   "title": "Assistant Professor/Associate Professor, Finance",
-   "location": "Paris, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12883",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "ejm:12881",
-   "source": "ejm",
-   "institution": "Halle Institute for Economic Research (IWH)",
-   "title": "Assistant Professor, Labor; Demographic Economics",
-   "location": "Halle An Der Saale, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12881",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "ejm:12902",
    "source": "ejm",
    "institution": "Department of Economics, Dalhousie University",
@@ -19614,60 +19764,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12865",
-   "source": "ejm",
-   "institution": "Department of Agricultural and Resource Economics, University of Saskatchewan",
-   "title": "Visiting Professor, Environmental; Energy; Ag. Econ",
-   "location": "Saskatoon, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-01",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12865",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12867",
-   "source": "ejm",
-   "institution": "Economics, University of Haifa",
-   "title": "Associate Professor/Full Professor/Lecturer/Senior Lecturer, Economics",
-   "location": "Haifa, IL",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12867",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "ejm:12876",
-   "source": "ejm",
-   "institution": "Facultat d'Economia i Empresa, Universitat de Barcelona",
-   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ",
-   "location": "Barcelona, ES",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-03",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12876",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
   },
   {
    "id": "ejm:12903",
@@ -19688,24 +19784,6 @@
    "first_seen": "2026-10-22"
   },
   {
-   "id": "ejm:12888",
-   "source": "ejm",
-   "institution": "School of Business, University of Leicester",
-   "title": "Assistant Professor, Economics",
-   "location": "Leicester, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12888",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "ejm:12891",
    "source": "ejm",
    "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
@@ -19722,24 +19800,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12880",
-   "source": "ejm",
-   "institution": "Economics and Finance, Hanken School of Economics",
-   "title": "Assistant Professor, Economics",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12880",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
   },
   {
    "id": "ejm:12889",
