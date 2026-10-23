@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-23T00:55:50Z",
+ "generated_at": "2026-10-23T09:33:29Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 304,
+   "count": 305,
    "site_listing": 287,
-   "site_extra": 15,
-   "not_live": 10,
+   "site_extra": 9,
+   "not_live": 11,
    "dead": 0
   },
   "joe": {
@@ -6960,6 +6960,95 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ejm:12889",
+   "source": "ejm",
+   "institution": "ZEW - Leibniz Centre for European Economic Research",
+   "title": "Postdoctoral Researcher with Option for a Permanent Contract (f/m/d, 100%)",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [
+    "Health; Education; Welfare",
+    "Management, Health Care"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12889",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ejm:12891",
+   "source": "ejm",
+   "institution": "ZEW - Leibniz Centre for European Economic Research",
+   "title": "Up to a 6-Year Postdoc with Tenure Option (f/m/d, 100%) Social Insurance",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12891",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ejm:12892",
+   "source": "ejm",
+   "institution": "University of Southern Denmark",
+   "title": "Assistant Professor of Finance",
+   "location": "Odense M, DK",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-19",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12892",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ejm:12897",
+   "source": "ejm",
+   "institution": "University of Oxford",
+   "title": "Associate Professorships in Economics (Two Posts)",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12897",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-22"
+  },
+  {
    "id": "ejm:12899",
    "source": "ejm",
    "institution": "ESMT Berlin",
@@ -6984,6 +7073,78 @@
     "https://esmt.berlin/jobs"
    ],
    "predoc": true,
+   "senior": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ejm:12900",
+   "source": "ejm",
+   "institution": "Bocconi University",
+   "title": "1 Post-Doc Researcher - Department of Economics - Università Bocconi",
+   "location": "Milano, IT",
+   "continent": "Europe",
+   "fields": [
+    "Other",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-22",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12900",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12900",
+   "text": "The Department of Economics at Bocconi University invites applications for 1 Post-doc position at the intersection of applied AI, political economy, and entrepreneurial learning. The anticipated start date is 1 January 2027.\n\nThe researcher will develop and validate an AI system that transforms decision narratives into explicit, testable causal models, identifying proposed actions, underlying mechanisms, expected outcomes, supporting evidence, and assumptions. The work will involve building a language-model-based extraction pipeline, validating its outputs against an expert-coded benchmark, and developing a prototype interface or API.\n\nResearch applications will examine how politicians and experts construct causal narratives and how successful narratives originate and spread, with further applications to entrepreneurial decision-making. The researcher will lead quantitative and qualitative analyses, conduct a user pilot, and contribute to academic publications and technology transfer.\n\nThe successful candidate will work closely with the PI and project team, benefiting from the expertise of Prof. Alfonso Gambardella on entrepreneurship and technology transfer and Abhinav Pandey on AI-based narrative extraction and validation. Part of the work will take place at Bocconi’s Artificial Intelligence for the Social Sciences (AISS).",
+   "links": [
+    "https://economics.unibocconi.eu/"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12902",
+   "source": "ejm",
+   "institution": "Dalhousie University",
+   "title": "Instructor of Economics (2 positions)",
+   "location": "Jinan, CN",
+   "continent": "Asia",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2027-01-15",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12902",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ejm:12903",
+   "source": "ejm",
+   "institution": "Stony Brook University (SUNY)",
+   "title": "Assistant Professor (Tenure Track) in Environmental and Resource Economics",
+   "location": "Stony Brook, US",
+   "continent": "North America",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12903",
+   "link_status": "ok",
+   "predoc": false,
    "senior": false,
    "first_seen": "2026-10-22"
   },
@@ -20173,24 +20334,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12902",
-   "source": "ejm",
-   "institution": "Department of Economics, Dalhousie University",
-   "title": "Instructor",
-   "location": "Jinan, CN",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-15",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12902",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
    "id": "ejm:12912",
    "source": "ejm",
    "institution": "PGIM",
@@ -20317,42 +20460,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "ejm:12903",
-   "source": "ejm",
-   "institution": "School of Marine and Atmospheric Sciences, Stony Brook University (SUNY)",
-   "title": "Assistant Professor, Environmental; Energy; Ag. Econ",
-   "location": "Stony Brook, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12903",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12891",
-   "source": "ejm",
-   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
-   "title": "Postdoctoral Scholar, Labor; Demographic Economics",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12891",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
    "id": "ejm:12909",
    "source": "ejm",
    "institution": "Department of Economics, Uppsala University",
@@ -20387,60 +20494,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12889",
-   "source": "ejm",
-   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
-   "title": "Postdoctoral Scholar, Health; Education; Welfare/Management, Health Care",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12889",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12892",
-   "source": "ejm",
-   "institution": "SDU Business School, University of Southern Denmark",
-   "title": "Assistant Professor, Finance",
-   "location": "Odense M, DK",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-19",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12892",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12897",
-   "source": "ejm",
-   "institution": "Economics, University of Oxford",
-   "title": "Associate Professor, Economics",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12897",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-22"
   }
  ]
 }
