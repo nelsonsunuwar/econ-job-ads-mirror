@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-24T01:03:18Z",
+ "generated_at": "2026-10-24T09:06:36Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 314,
+   "count": 316,
    "site_listing": 296,
-   "site_extra": 18,
-   "not_live": 11,
+   "site_extra": 8,
+   "not_live": 13,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 628
+   "count": 625
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -3132,28 +3132,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-26"
-  },
-  {
-   "id": "ejm:12708",
-   "source": "ejm",
-   "institution": "University of Pennsylvania",
-   "title": "Postdoctoral Fellowship in Philosophy, Politics and Economics",
-   "location": "Philadelphia, US",
-   "continent": "North America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-10-24",
-   "posted": "2026-09-25",
-   "url": "https://econjobmarket.org/positions/12708",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-25"
   },
   {
    "id": "ejm:12709",
@@ -6983,6 +6961,32 @@
    "first_seen": "2026-10-22"
   },
   {
+   "id": "ejm:12890",
+   "source": "ejm",
+   "institution": "Norwegian School of Economics (NHH)",
+   "title": "Assistant/Associate Professor (tenure-track) in Microeconomics",
+   "location": "Bergen, NO",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Industrial Organization",
+    "Public Economics",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12890",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "ejm:12891",
    "source": "ejm",
    "institution": "ZEW - Leibniz Centre for European Economic Research",
@@ -7027,6 +7031,76 @@
    "first_seen": "2026-10-22"
   },
   {
+   "id": "ejm:12893",
+   "source": "ejm",
+   "institution": "Norwegian School of Economics (NHH)",
+   "title": "Assistant/Associate Professor (tenure-track) in Behavioral Economics",
+   "location": "Bergen, NO",
+   "continent": "Europe",
+   "fields": [
+    "Experimental Economics",
+    "Behavioral Economics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12893",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12894",
+   "source": "ejm",
+   "institution": "Norwegian School of Economics (NHH)",
+   "title": "Postdoctoral positions in Labour Economics",
+   "location": "Bergen, NO",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12894",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12895",
+   "source": "ejm",
+   "institution": "Norwegian School of Economics (NHH)",
+   "title": "Postdoctoral position in Behavioral and Experimental Economics",
+   "location": "Bergen, NO",
+   "continent": "Europe",
+   "fields": [
+    "Experimental Economics",
+    "Behavioral Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12895",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "ejm:12897",
    "source": "ejm",
    "institution": "University of Oxford",
@@ -7047,6 +7121,28 @@
    "predoc": false,
    "senior": true,
    "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ejm:12898",
+   "source": "ejm",
+   "institution": "Norwegian School of Economics (NHH)",
+   "title": "Researcher in Empirical Industrial Organization",
+   "location": "Bergen, NO",
+   "continent": "Europe",
+   "fields": [
+    "Industrial Organization"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12898",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
   },
   {
    "id": "ejm:12899",
@@ -7147,6 +7243,204 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ejm:12904",
+   "source": "ejm",
+   "institution": "Tampere University",
+   "title": "Assistant Professor (Tenure-track) in Economics",
+   "location": "Tampere, FI",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-23",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12904",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12904",
+   "text": "Tampere University is inviting applications for the position of tenure-track Assistant Professor in Economics. Economics at Tampere University is part of the degree program in business studies at the Faculty of Management and Business. We provide an internationally standardized Economics program at Bachelor, Master and PhD levels.\n\nWe are the leading partner in the Finnish Centre of Excellence in Tax Systems Research (FIT), FIT conducts research on the effects and design of multiple aspects of public policy. Our research program is very broad, covering topics in public, labor, health, and environmental economics, and industrial organization. Our research utilizes empirical, experimental, and theoretical methods, together with world-class administrative data on individuals and firms.\n\nJob description\n\nWe seek an accomplished early-career academic with the potential to organize and conduct innovative, top-quality research in their field. The candidate's research can focus on any field of economics. We expect the Assistant Professor to conduct research of very high international quality aiming at top academic journals. The tasks of the Assistant Professor will also involve research-based teaching and supervision, as well as contributing to curriculum development and the overall development of the discipline.\n\nWe require\n\n• PhD degree in Economics. The PhD degree should be completed by 30.6.2027\n\n• Ability to undertake independent scholarly activity and potential to produce research output at a high international level of excellence\n\n• Teaching skills required to successfully perform the duties and functions of the position\n\nWe are looking for candidates who have recently completed or are close to completing their PhD degree in Economics. Applicants will be reviewed based on their potential for excellence in research, teaching, and activity in the international scientific community. We emphasize innovativeness and ambition demonstrated by current and planned research, as well as international experience and research collaboration and potential to acquire external research funding. We appreciate both high-level empirical and theoretical expertise, and the person to be appointed is expected to contribute to teaching core courses in economics also at the advanced level. We are interested in candidates in all fields of economics. Linkages with our current research areas are considered a benefit, and your research may include applied research topics, methodological and/or theoretical themes that complement or bring in new perspectives to our research program. The position requires fluency in English.\n\nWe offer\n\nThe anticipated start date will be 1 September 2027, unless another date is mutually agreed. Initial appointment as an Assistant Professor is for five years (1.9.2027-31.8.2032) and, subject to successful performance, the tenure-track Assistant Professor will become a tenured member of faculty at the end of the first five-year period. The principles of the tenure evaluation at Tampere University are laid out here. Support will be provided throughout the five-year appointment to ease transition to a permanent faculty position. A trial period of six months applies to all our new employees.\n\nThe salary will be based on both the job requirements and the employee's personal performance in accordance with the Finnish University Salary System. The minimum starting salary of an Assistant Professor is between 4500-5250 EUR/month. Higher salaries may be agreed upon depending on qualifications and experience of the candidate.\n\nWe offer the successful candidate the opportunity to join a dynamic, innovative, and international research community of the Finnish Centre of Excellence in Tax Systems Research, and the discipline of Economics at Tampere University. Job amenities include occupational health care and flexible working hours. Please read more about working at Tampere University here.\n\nFor more information on Tampere and Finland, please visit:\n\n• https://visittampere.fi/en\n\n• https://www.visitfinland.com/\n\n• https://www.infofinland.fi/en/frontpage\n\nHow to apply\n\nPlease submit your application through our online recruitment system in English. The closing date for applications is 27 November 2026 (at 23.59 EET / UTC+2).\n\nPlease attach the following documents to your application in PDF format:\n\n• Cover letter\n\n• Curriculum vitae\n\n• Job market paper\n\n• Other papers, if available\n\n• Research statement outlining your planned research for the next three years (max. 3 pages)\n\n• Names, positions, and contact details of two referees\n\nInitial interviews will be conducted remotely on Zoom starting in December 2026.\n\nFor more information, please contact:\n\nProfessor and Director of FIT, Kaisa Kotakorpi, kaisa.kotakorpi@tuni.fi\n\nFor more information about the application process, please contact HR Specialist Anni Zilliacus, anni.zilliacus@tuni.fi",
+   "links": [
+    "https://www.tuni.fi/en/about-us/economics",
+    "https://www.tuni.fi/en/about-us/faculty-management-and-business",
+    "http://www.taxresearch.fi/",
+    "https://www.tuni.fi/en/tau/work-with-us/tenure-track-career-path",
+    "https://www.tuni.fi/en/about-us/working-at-tampere-universities/tampere-university-as-an-employer",
+    "https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvisittampere.fi%2Fen&amp;data=05%7C02%7Canni.zilliacus%40tuni.fi%7Cb3ca76c2800b4dc18b5108df2e83172b%7Cfa6944afcc7c4cd89154c01132798910%7C0%7C0%7C639280812719708098%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=6onJi%2FGNyeMbFXg0x7LEY8eDJPLC7iPOwEYmQEqWfjE%3D&amp;reserved=0"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12905",
+   "source": "ejm",
+   "institution": "ESMT Berlin",
+   "title": "Postdoctoral Researcher (gn)",
+   "location": "Berlin, DE",
+   "continent": "Europe",
+   "fields": [
+    "Business Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-04-15",
+   "posted": "2026-10-23",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12905",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12905",
+   "text": "ESMT Berlin is a leading global business school with its campus in the heart of Berlin. Founded by 25 global companies, ESMT offers master, MBA, and PhD programs, as well as executive education on its campus in Berlin, in locations around the world, online, and in online blended format. We strongly believe in cross-team collaboration to achieve our mission to develop entrepreneurial leaders who think globally and act responsibly.\n\nJoin our team at the newly established European Expectations Center, under the leadership of Professor Michael Weber, PhD and sponsored by the Humboldt Professorship as a\n\nPostdoctoral Researcher (gn)\n\n(full-time, 40 hrs. per week, starting in July 2027, for 3 years, renewable once for up to 6 years)\n\nand help shape the future by bringing your expertise and passion to ESMT.\n\nHow you will make a difference\n\n• Contribute to the Center’s internationally visible research agenda\n\n• Conduct independent research in the areas of belief formation in macroeconomics and finance\n\n• Supervise, mentor, and coordinate pre-doctoral research assistants\n\n• Actively participate in the strategic development of the research program\n\n• Present research findings at national and international conferences\n\n• Contribute to the preparation of grant applications\n\n• No teaching obligations\n\nWhat makes you a great fit\n\n• Ph.D. in economics, finance, or a related field by the start date\n\n• Demonstrated ability to conduct independent empirical and/or theoretical research on the formation and role of subjective beliefs in economic decision-making\n\n• Experience with methods for working with unstructured data\n\n• Strong proficiency in statistical analysis\n\n• Prior experience running information-provision experiments embedded in surveys is a plus\n\n• Fluency in English; knowledge of German is advantageous but not required\n\nWhy you will love working with us\n\nDiscover the perks and culture that make our workplace special.\n\nResearch Experience\n\n• Work with international network of collaborators\n\n• Exposure to state of the art research in empirical macroeconomics and finance\n\nFinancial Benefits\n\n• Subsidized public transportation ticket and leasing options of bicycles/e-bikes\n\n• Company pension scheme with Allianz\n\nHealth and Well-Being\n\n• Flexible remote work, including up to 15 days abroad per year\n\n• Ergonomic office equipment and access to university sports across Berlin\n\n• Subsidized meals at the campus restaurant\n\nPersonal Development\n\n• Access to LinkedIn Learning\n\n• German and English courses\n\n• Participation in ESMT’s Executive Education and degree programs\n\nWhat makes this more than just a job\n\nESMT offers a collegial and international work environment, with employees representing more than 55 nationalities. We encourage a self-driven mind-set and contributions that create meaningful and lasting impact. We are proud to be an equal opportunity employer, committed to fostering a fair and inclusive workplace where individuals of all identities and backgrounds are welcomed and valued. Fostering diversity, equity, and inclusion enriches our employees, students, and broader community.\n\nYou will work on our campus in Berlin-Mitte. Get here by public transport or bike and enjoy your lunches in our private restaurant and café or next to the beautiful Spree. Make use of our big garden and enjoy coffee and tea on the house with your team. Our vibrant community comes together through activities and events like Lucky Lunch, Wednesday Cookies, Orientation Days for new employees, Summer Party and Year End Event, our talented ESMT choir, and much more.\n\nWe look forward to receiving your application and learning more about you!\n\nPlease submit your application via our online application form, including the following documents:\n\n• Cover letter\n\n• CV and 3 letters of recommendation (can be sent separately to jobs@esmt.org)\n\n• Job market paper\n\nFor further questions, please contact:\n\nESMT Berlin | Antje Mader | Human Resources Manager | Schlossplatz 1, 10178 Berlin | Tel: 030 21231 0 | Jobs at ESMT Berlin",
+   "links": [
+    "https://jobs.esmt.berlin/apply?id=f47b7c",
+    "https://esmt.berlin/jobs"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12908",
+   "source": "ejm",
+   "institution": "Johannes Kepler University Linz",
+   "title": "Tenure-Track Assistant Professor in Empirical Microeconomics (preferably Health)",
+   "location": "Linz, AT",
+   "continent": "Europe",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-11",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12908",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12909",
+   "source": "ejm",
+   "institution": "Uppsala University",
+   "title": "Postdoctoral position in health economics, Uppsala University",
+   "location": "Uppsala, SE",
+   "continent": "Europe",
+   "fields": [
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12909",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12911",
+   "source": "ejm",
+   "institution": "University of Tübingen",
+   "title": "Postdoctoral Researcher (f/m/d) in Applied Microeconomics",
+   "location": "Tübingen, DE",
+   "continent": "Europe",
+   "fields": [
+    "Development; Growth",
+    "Experimental Economics",
+    "Labor; Demographic Economics",
+    "Political Economy",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12911",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12912",
+   "source": "ejm",
+   "institution": "PGIM",
+   "title": "Associate, Portfolio Analytics | PGIM Strategic Capital Group (Hybrid/Newark,NJ)",
+   "location": "Newark, US",
+   "continent": "North America",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12912",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12913",
+   "source": "ejm",
+   "institution": "BI Norwegian Business School",
+   "title": "Faculty positions in finance",
+   "location": "Oslo, NO",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12913",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12914",
+   "source": "ejm",
+   "institution": "New York University",
+   "title": "Faculty Fellow",
+   "location": "New York, US",
+   "continent": "North America",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12914",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
   },
   {
    "id": "joe:111477855",
@@ -8219,34 +8513,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
-  },
-  {
-   "id": "joe:111477854",
-   "source": "joe",
-   "institution": "Central Bank of the Republic of Türkiye",
-   "title": "Economist",
-   "location": "Istanbul, Turkey",
-   "continent": "Europe",
-   "fields": [
-    "C5 Econometric Modeling",
-    "E Macroeconomics and Monetary Economics",
-    "F International Economics",
-    "G Financial Economics",
-    "J Labor and Demographic Economics",
-    "L Industrial Organization",
-    "O Economic Development, Innovation, Technological Change, and Growth",
-    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
-    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-10-23",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477854",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-18"
   },
   {
    "id": "joe:111478102",
@@ -10273,52 +10539,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-23"
-  },
-  {
-   "id": "joe:111477936",
-   "source": "joe",
-   "institution": "Financial Institutions &amp; Services",
-   "title": "2027 Summer Intern - Masters Quant Research Analyst",
-   "location": "Newport Beach, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field",
-    "A1 General Economics",
-    "G1 General Financial Markets",
-    "G2 Financial Institutions and Services"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-11-14",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477936",
-   "predoc": true,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-24"
-  },
-  {
-   "id": "joe:111477935",
-   "source": "joe",
-   "institution": "Financial Institutions &amp; Services",
-   "title": "2027 Summer Intern – PhD Quant Research Analyst",
-   "location": "Newport Beach, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field",
-    "A1 General Economics",
-    "G1 General Financial Markets",
-    "G2 Financial Institutions and Services"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-10-23",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477935",
-   "predoc": true,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-24"
   },
   {
    "id": "joe:111477938",
@@ -20741,42 +20961,6 @@
    "first_seen": "2026-10-24"
   },
   {
-   "id": "ejm:12912",
-   "source": "ejm",
-   "institution": "PGIM",
-   "title": "Associate, Portfolio Analytics | PGIM Strategic Capital Group (Hybrid/Newark,NJ)",
-   "location": "Newark, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12912",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12914",
-   "source": "ejm",
-   "institution": "Center for Data Science, New York University",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "New York, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12914",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "ejm:12922",
    "source": "ejm",
    "institution": "Business School, Pontificia Universidad Católica de Chile",
@@ -20813,132 +20997,6 @@
    "first_seen": "2026-10-24"
   },
   {
-   "id": "ejm:12913",
-   "source": "ejm",
-   "institution": "Department of Finance, BI Norwegian Business School",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
-   "location": "Oslo, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12913",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12890",
-   "source": "ejm",
-   "institution": "Department of Economics, Norwegian School of Economics (NHH)",
-   "title": "Assistant Professor/Associate Professor, Environmental; Energy; Ag. Econ/Industrial Organization/Microeconomic theory/Public Economics",
-   "location": "Bergen, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12890",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12893",
-   "source": "ejm",
-   "institution": "Department of Economics, Norwegian School of Economics (NHH)",
-   "title": "Assistant Professor/Associate Professor, Behavioral Economics/Experimental Economics",
-   "location": "Bergen, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12893",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12894",
-   "source": "ejm",
-   "institution": "Department of Economics, Norwegian School of Economics (NHH)",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics",
-   "location": "Bergen, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12894",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12895",
-   "source": "ejm",
-   "institution": "Department of Economics, Norwegian School of Economics (NHH)",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Experimental Economics",
-   "location": "Bergen, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12895",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12898",
-   "source": "ejm",
-   "institution": "Department of Economics, Norwegian School of Economics (NHH)",
-   "title": "Researcher",
-   "location": "Bergen, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12898",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12909",
-   "source": "ejm",
-   "institution": "Department of Economics, Uppsala University",
-   "title": "Postdoctoral Scholar, Health; Education; Welfare",
-   "location": "Uppsala, SE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12909",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "ejm:12918",
    "source": "ejm",
    "institution": "Economics, University of Oxford",
@@ -20954,42 +21012,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": true,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12908",
-   "source": "ejm",
-   "institution": "Department of Economics, Johannes Kepler University Linz",
-   "title": "Assistant Professor, Applied microeconomics",
-   "location": "Linz, AT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-11",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12908",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12911",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Tübingen",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Development; Growth/Experimental Economics/Labor; Demographic Economics/Political Economy",
-   "location": "Tübingen, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12911",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
    "first_seen": "2026-10-24"
   },
   {
@@ -21009,6 +21031,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12708",
+   "source": "ejm",
+   "institution": "Philosophy, Politics and Economics Program, University of Pennsylvania",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Philadelphia, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-24",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12708",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-25"
   }
  ]
 }
