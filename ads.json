@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-25T00:31:15Z",
+ "generated_at": "2026-10-25T09:24:03Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 315,
+   "count": 316,
    "site_listing": 295,
-   "site_extra": 7,
-   "not_live": 13,
+   "site_extra": 1,
+   "not_live": 14,
    "dead": 0
   },
   "joe": {
@@ -522,30 +522,6 @@
    "deadline": "2026-11-15",
    "posted": "2026-07-27",
    "url": "https://econjobmarket.org/positions/12552",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12553",
-   "source": "ejm",
-   "institution": "Stanford University",
-   "title": "Assistant, Associate, or Full Professor of Health Policy (Health Economist)",
-   "location": "Stanford, US",
-   "continent": "North America",
-   "fields": [
-    "Health; Education; Welfare"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-25",
-   "posted": "2026-07-29",
-   "url": "https://econjobmarket.org/positions/12553",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -7441,6 +7417,216 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12915",
+   "source": "ejm",
+   "institution": "Cornell University",
+   "title": "Assistant or untenured Associate Professor in Real Estate",
+   "location": "Ithaca, US",
+   "continent": "North America",
+   "fields": [
+    "Real Estate"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-24",
+   "url": "https://econjobmarket.org/positions/12915",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12918",
+   "source": "ejm",
+   "institution": "University of Oxford",
+   "title": "Associate Professorship in Economics",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-24",
+   "url": "https://econjobmarket.org/positions/12918",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12919",
+   "source": "ejm",
+   "institution": "Indian Institute of Management Bangalore",
+   "title": "IIMB Dorabji Tata School of Undergraduate Studies",
+   "location": "Bangalore, IN",
+   "continent": "Asia",
+   "fields": [
+    "Macroeconomics; Monetary",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-24",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12919",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12919",
+   "text": "The School offers undergraduate programmes with a strong emphasis on high-quality teaching. We seek scholars in Microeconomic Theory, Applied Microeconomics (e.g., labour, behavioural, development, health, education, political economy), and Macroeconomics/Monetary Economics who are committed to excellence in both teaching and research. Faculty members will join the School of Undergraduate Studies and teach in our four-year undergraduate programme(s) in Economics (and allied Data Science offerings).\n\nQualifications\n\n• Assistant Professor: PhD in Economics, experience in undergraduate teaching, and evidence of research potential (e.g., a job market paper with the potential for publication in leading field journals).\n\n• Associate Professor / Professor: An established record of publications in leading journals, a strong teaching record, and demonstrated academic leadership (e.g., programme development, area leadership).\n\nExpectations and Support\n\n• Commitment to excellence in undergraduate teaching and student mentoring\n\n• An active research agenda with strong publication potential\n\nApplication Materials\n\n1. Cover letter, stating your area of specialisation.\n\n2. CV\n\n3. Job market paper and up to two additional papers (published or work in progress).\n\n4. Research statement.\n\n5. Teaching statement (and a teaching portfolio, if available, including syllabi and course evaluations).\n\n6. Names and contact details of three referees. Letters of reference must be received by the deadline of 15 December 2026.\n\nHow to Apply and Deadlines\n\nPlease email your application to facultyapplication@iimb.ac.in with the subject line “Application: [Micro Theory / Applied Micro / Macro], IIMB UG Campus, Economics”.\n\n• Anticipated start date: Flexible\n\nCompensation and Benefits\n\nCompetitive salary as per IIMB scales; housing and relocation assistance as per Institute norms; comprehensive benefits; research and conference funding; access to data and computing resources; and administrative and teaching/research assistant support.\n\nDiversity and Inclusion\n\nIIM Bangalore is an equal opportunity and affirmative action employer. We strongly encourage applications from women and from candidates belonging to reserved categories. The Institute follows the Government of India’s reservation policy for the OBC, SC/ST, EWS, and PwD categories. Indian nationals and Overseas Citizen of India (OCI) cardholders should indicate their category in the cover letter and will be required to produce valid category certificates at the offer stage.\n\nOutstanding foreign nationals are also welcome to apply. Such appointments are subject to applicable Government of India norms.\n\nContact for queries: dean.faculty@iimb.ac.in",
+   "links": [],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-25"
+  },
+  {
+   "id": "ejm:12920",
+   "source": "ejm",
+   "institution": "Norges Bank",
+   "title": "Research Economist at Norges Bank (Central Bank of Norway)",
+   "location": "Oslo, NO",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Finance",
+    "International Finance/Macro",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Real Estate"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-24",
+   "url": "https://econjobmarket.org/positions/12920",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12921",
+   "source": "ejm",
+   "institution": "Aarhus University",
+   "title": "Assistant Professorship in Finance",
+   "location": "Aarhus, DK",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-14",
+   "posted": "2026-10-24",
+   "url": "https://econjobmarket.org/positions/12921",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12922",
+   "source": "ejm",
+   "institution": "Pontificia Universidad Católica de Chile",
+   "title": "Assistant/Associate Professor in IO/Strategy, OB/HR, Marketing, and Finance",
+   "location": "Santiago, CL",
+   "continent": "Latin America",
+   "fields": [
+    "Econometrics",
+    "Experimental Economics",
+    "Finance",
+    "Industrial Organization",
+    "International Finance/Macro",
+    "International Trade",
+    "Labor; Demographic Economics",
+    "Behavioral Economics",
+    "Any field",
+    "Business Economics",
+    "Accounting",
+    "Management, General",
+    "Management, Information Technology",
+    "Marketing",
+    "Operations Research",
+    "Organizational Behavior",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-29",
+   "posted": "2026-10-24",
+   "url": "https://econjobmarket.org/positions/12922",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12925",
+   "source": "ejm",
+   "institution": "Inter-American Development Bank",
+   "title": "Development Effectiveness and Impact Evaluation Consultant",
+   "location": "Washington, US",
+   "continent": "North America",
+   "fields": [
+    "Development; Growth"
+   ],
+   "position_types": [
+    "Consultant"
+   ],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-24",
+   "url": "https://econjobmarket.org/positions/12925",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12926",
+   "source": "ejm",
+   "institution": "Northeastern University",
+   "title": "Assistant Professor/ Associate Professor/ Full Professor",
+   "location": "Boston, US",
+   "continent": "North America",
+   "fields": [
+    "Public Economics",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-10-23",
+   "posted": "2026-10-24",
+   "url": "https://econjobmarket.org/positions/12926",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
   },
   {
    "id": "joe:111477855",
@@ -20907,130 +21093,22 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12926",
+   "id": "ejm:12553",
    "source": "ejm",
-   "institution": "College of Social Sciences and Humanities, Northeastern University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Political Economy/Public Economics",
-   "location": "Boston, US",
+   "institution": "Health Policy, Stanford University",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Health; Education; Welfare",
+   "location": "Stanford, US",
    "continent": "North America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-10-23",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12926",
+   "deadline": "2026-10-25",
+   "posted": "2026-07-29",
+   "url": "https://econjobmarket.org/positions/12553",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12915",
-   "source": "ejm",
-   "institution": "School of Hotel Administration, SC Johnson College of Business, Cornell University",
-   "title": "Assistant Professor, Real Estate",
-   "location": "Ithaca, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12915",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12920",
-   "source": "ejm",
-   "institution": "Norges Bank",
-   "title": "Research Economist",
-   "location": "Oslo, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12920",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12922",
-   "source": "ejm",
-   "institution": "Business School, Pontificia Universidad Católica de Chile",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Santiago, CL",
-   "continent": "Latin America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-29",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12922",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12921",
-   "source": "ejm",
-   "institution": "Department of Economics and Business Economics, School of Business and Social Sciences, Aarhus University",
-   "title": "Assistant Professor, Finance",
-   "location": "Aarhus, DK",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-14",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12921",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12918",
-   "source": "ejm",
-   "institution": "Economics, University of Oxford",
-   "title": "Associate Professor, Economics",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12918",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12925",
-   "source": "ejm",
-   "institution": "Inter-American Development Bank",
-   "title": "Consultant, Development; Growth",
-   "location": "Washington, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12925",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-08-30"
   }
  ]
 }
