@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-24T18:59:18Z",
+ "generated_at": "2026-10-25T00:31:15Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 316,
-   "site_listing": 296,
-   "site_extra": 8,
+   "count": 315,
+   "site_listing": 295,
+   "site_extra": 7,
    "not_live": 13,
    "dead": 0
   },
@@ -21031,24 +21031,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12708",
-   "source": "ejm",
-   "institution": "Philosophy, Politics and Economics Program, University of Pennsylvania",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Philadelphia, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-24",
-   "posted": "2026-09-25",
-   "url": "https://econjobmarket.org/positions/12708",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-25"
   }
  ]
 }
