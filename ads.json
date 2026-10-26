@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T00:43:06Z",
+ "generated_at": "2026-10-26T10:29:55Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -11,7 +11,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 625
+   "count": 624
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -15824,26 +15824,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-07"
-  },
-  {
-   "id": "joe:111477585",
-   "source": "joe",
-   "institution": "Stanford University",
-   "title": "Assistant, Associate, or Full Professor (Health Economist)",
-   "location": "Stanford, United States",
-   "continent": "North America",
-   "fields": [
-    "I1 Health"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-10-25",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477585",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
   },
   {
    "id": "joe:111478306",
