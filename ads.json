@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T19:14:52Z",
+ "generated_at": "2026-10-26T00:43:06Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -21093,22 +21093,22 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12553",
+   "id": "ejm:12882",
    "source": "ejm",
-   "institution": "Health Policy, Stanford University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Health; Education; Welfare",
-   "location": "Stanford, US",
-   "continent": "North America",
+   "institution": "Department of Economics, London School of Economics and Political Science",
+   "title": "Assistant Professor, Economics",
+   "location": "London, GB",
+   "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-10-25",
-   "posted": "2026-07-29",
-   "url": "https://econjobmarket.org/positions/12553",
+   "deadline": "2026-11-23",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12882",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-08-30"
+   "first_seen": "2026-10-26"
   }
  ]
 }
