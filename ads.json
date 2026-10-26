@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T10:29:55Z",
+ "generated_at": "2026-10-26T16:58:49Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -11,7 +11,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 624
+   "count": 648
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -7995,6 +7995,27 @@
    "first_seen": "2026-09-21"
   },
   {
+   "id": "joe:111478348",
+   "source": "joe",
+   "institution": "Barnard College",
+   "title": "Lecturer",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "O1 Economic Development",
+    "O2 Development Planning and Policy"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478348",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111478143",
    "source": "joe",
    "institution": "Baruch College",
@@ -8178,6 +8199,26 @@
    "first_seen": "2026-09-21"
   },
   {
+   "id": "joe:111478332",
+   "source": "joe",
+   "institution": "Berlin School of Economics",
+   "title": "Research Associates Program - Research Associate Positions (2)",
+   "location": "Potsdam, Germany; Berlin, Germany",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478332",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111477877",
    "source": "joe",
    "institution": "Binghamton University",
@@ -8348,6 +8389,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-14"
+  },
+  {
+   "id": "joe:111478339",
+   "source": "joe",
+   "institution": "Bridgewater State University",
+   "title": "Assistant Professor - Macroeconomics",
+   "location": "Bridgewater, United States",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478339",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111477553",
@@ -8656,6 +8717,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-02"
+  },
+  {
+   "id": "joe:111478355",
+   "source": "joe",
+   "institution": "Capital University of Economics and Business",
+   "title": "Assistant Professor, Associate Professors, Full Professor",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478355",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111478188",
@@ -9608,6 +9689,26 @@
    "first_seen": "2026-09-10"
   },
   {
+   "id": "joe:111478340",
+   "source": "joe",
+   "institution": "Cornell University",
+   "title": "Professor of Practice, Applied Economics and Policy Area",
+   "location": "Ithaca, United States",
+   "continent": "North America",
+   "fields": [
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478340",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111477880",
    "source": "joe",
    "institution": "Cornell University",
@@ -9698,6 +9799,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478341",
+   "source": "joe",
+   "institution": "Cornerstone Research",
+   "title": "Senior Economist",
+   "location": "New York, United States; Boston, United States; Washington, DC, United States; Chicago, United States; Los Angeles, United States; San Francisco, United States; Menlo Park, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478341",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111477681",
@@ -10727,53 +10848,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "joe:111477938",
-   "source": "joe",
-   "institution": "Financial Institutions &amp; Services",
-   "title": "2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst",
-   "location": "Newport Beach, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field",
-    "A1 General Economics",
-    "E0 General",
-    "G1 General Financial Markets",
-    "G2 Financial Institutions and Services"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-11-14",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477938",
-   "predoc": true,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-24"
-  },
-  {
-   "id": "joe:111477939",
-   "source": "joe",
-   "institution": "Financial Institutions &amp; Services",
-   "title": "MFE/2027 PhD Summer Intern – Quantitative Portfolio Management",
-   "location": "Newport Beach, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field",
-    "A1 General Economics",
-    "G1 General Financial Markets",
-    "G2 Financial Institutions and Services"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-11-14",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477939",
-   "predoc": true,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-24"
-  },
-  {
    "id": "joe:111477966",
    "source": "joe",
    "institution": "Florida Gulf Coast University",
@@ -10918,6 +10992,26 @@
    "first_seen": "2026-09-11"
   },
   {
+   "id": "joe:111478334",
+   "source": "joe",
+   "institution": "Fudan University",
+   "title": "Full Professor/ Associate Professor/ Assistant Professor",
+   "location": "Shanghai, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478334",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111477852",
    "source": "joe",
    "institution": "Fudan University",
@@ -10981,6 +11075,29 @@
    "first_seen": "2026-09-24"
   },
   {
+   "id": "joe:111478302",
+   "source": "joe",
+   "institution": "Georgetown University",
+   "title": "Assistant/Associate Professor of Global Health Economics",
+   "location": "United States",
+   "continent": "North America",
+   "fields": [
+    "A2 Economic Education and Teaching of Economics",
+    "F International Economics",
+    "H5 National Government Expenditures and Related Policies",
+    "I1 Health"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478302",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111478209",
    "source": "joe",
    "institution": "Georgetown University in Qatar",
@@ -11039,6 +11156,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-16"
+  },
+  {
+   "id": "joe:111477778",
+   "source": "joe",
+   "institution": "Goldman Sachs",
+   "title": "Global Investment Research, US Economics Research Associate",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477778",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111478360",
@@ -11794,6 +11931,26 @@
    "first_seen": "2026-10-15"
   },
   {
+   "id": "joe:111478414",
+   "source": "joe",
+   "institution": "Inter-American Development Bank",
+   "title": "Development Effectiveness and Impact Evaluation Consultant",
+   "location": "Washington DC, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478414",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111477878",
    "source": "joe",
    "institution": "Iowa State University",
@@ -11813,6 +11970,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-21"
+  },
+  {
+   "id": "joe:111478344",
+   "source": "joe",
+   "institution": "Ithaca College",
+   "title": "Pre-doctoral Julian Euell Future Faculty Fellowship",
+   "location": "Ithaca, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478344",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111478342",
@@ -13964,6 +14141,28 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "joe:111478329",
+   "source": "joe",
+   "institution": "New York University Arts and Science",
+   "title": "Clinical Assistant Professor",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching",
+    "B History of Economic Thought, Methodology, and Heterodox Approaches",
+    "P Political Economy and Comparative Economic Systems"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-22",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478329",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111477958",
    "source": "joe",
    "institution": "New York University Arts and Science",
@@ -14335,6 +14534,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478346",
+   "source": "joe",
+   "institution": "Ohio State University",
+   "title": "Andersons Endowed Chair in Agricultural Marketing, Trade, and Policy",
+   "location": "Columbus, United States",
+   "continent": "North America",
+   "fields": [
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478346",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111477907",
    "source": "joe",
    "institution": "Ohio State University",
@@ -14479,6 +14698,26 @@
    "first_seen": "2026-09-21"
   },
   {
+   "id": "joe:111478333",
+   "source": "joe",
+   "institution": "Peking University",
+   "title": "Assistant / Associate Professor of Economics",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478333",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111478110",
    "source": "joe",
    "institution": "Peking University",
@@ -14558,6 +14797,76 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-01"
+  },
+  {
+   "id": "joe:111477935",
+   "source": "joe",
+   "institution": "PIMCO",
+   "title": "PIMCO 2027 PhD Summer Intern – Quant Research Analyst",
+   "location": "Newport Beach, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-10-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477935",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111477938",
+   "source": "joe",
+   "institution": "PIMCO",
+   "title": "PIMCO 2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst",
+   "location": "Newport Beach, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "E0 General",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-14",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477938",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111477939",
+   "source": "joe",
+   "institution": "PIMCO",
+   "title": "PIMCO 2027 PhD/MFE Summer Intern – Quantitative Portfolio Management",
+   "location": "Newport Beach, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-14",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477939",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-09-24"
   },
   {
    "id": "joe:111477951",
@@ -14932,7 +15241,7 @@
    ],
    "position_types": [],
    "section": "International: Other Academic (Visiting or Temporary)",
-   "deadline": "2027-05-31",
+   "deadline": "2027-11-02",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478218",
    "predoc": false,
@@ -14985,6 +15294,28 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-10-06"
+  },
+  {
+   "id": "joe:111478328",
+   "source": "joe",
+   "institution": "RAND",
+   "title": "Economist",
+   "location": "Santa Monica, United States; Arlington, United States; Pittsburgh, United States; Boston, United States",
+   "continent": "North America",
+   "fields": [
+    "F5 International Relations, National Security, and International Political Economy",
+    "I1 Health",
+    "I2 Education and Research Institutions"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-16",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478328",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111478254",
@@ -15453,6 +15784,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-20"
+  },
+  {
+   "id": "joe:111478330",
+   "source": "joe",
+   "institution": "Shanghai University of Finance and Economics (SUFE)",
+   "title": "Tenure-track Positions in the School of Accountancy",
+   "location": "Shanghai, China",
+   "continent": "Asia",
+   "fields": [
+    "M4 Accounting and Auditing"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478330",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111478273",
@@ -16098,6 +16449,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "joe:111478411",
+   "source": "joe",
+   "institution": "Stony Brook University",
+   "title": "Assistant Professor in Applied Economics",
+   "location": "Stony Brook, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-22",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478411",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111477994",
@@ -17713,6 +18084,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478337",
+   "source": "joe",
+   "institution": "UCLA",
+   "title": "Assistant Adjunct Professor",
+   "location": "Los Angeles, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Part-time or Adjunct)",
+   "deadline": "2027-06-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478337",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "joe:111478048",
    "source": "joe",
    "institution": "UCLA",
@@ -17731,6 +18122,35 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-02"
+  },
+  {
+   "id": "joe:111478228",
+   "source": "joe",
+   "institution": "Universidad Católica del Uruguay",
+   "title": "Full-Time Assistant Professor",
+   "location": "Montevideo, Uruguay",
+   "continent": "Latin America",
+   "fields": [
+    "A1 General Economics",
+    "C7 Game Theory and Bargaining Theory",
+    "C9 Design of Experiments",
+    "D8 Information, Knowledge, and Uncertainty",
+    "D9 Micro-Based Behavioral Economics",
+    "G0 General",
+    "G4 Behavioral Finance",
+    "L2 Firm Objectives, Organization, and Behavior",
+    "M0 General",
+    "M5 Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478228",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111478180",
@@ -18208,6 +18628,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478351",
+   "source": "joe",
+   "institution": "University of California Berkeley",
+   "title": "Postdoctoral Fellowship S.V. Ciriacy‐Wantrup",
+   "location": "Berkeley, United States",
+   "continent": "North America",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478351",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111477850",
@@ -18868,6 +19308,47 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-17"
+  },
+  {
+   "id": "joe:111478347",
+   "source": "joe",
+   "institution": "University of Guelph",
+   "title": "Assistant Professor in Empirical Applied Microeconomics",
+   "location": "Guelph, Canada",
+   "continent": "North America",
+   "fields": [
+    "D Microeconomics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478347",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "joe:111478350",
+   "source": "joe",
+   "institution": "University of Guelph",
+   "title": "Assistant Professor in Macroeconomics",
+   "location": "Guelph, Canada",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478350",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111478370",
@@ -20299,6 +20780,30 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-28"
+  },
+  {
+   "id": "joe:111478380",
+   "source": "joe",
+   "institution": "Utah State University",
+   "title": "Assistant Professor",
+   "location": "Logan, United States",
+   "continent": "North America",
+   "fields": [
+    "Q0 General",
+    "Q1 Agriculture",
+    "Q2 Renewable Resources and Conservation",
+    "Q3 Nonrenewable Resources and Conservation",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478380",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "joe:111477714",
