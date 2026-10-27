@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-26T16:58:49Z",
+ "generated_at": "2026-10-27T01:37:17Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 316,
-   "site_listing": 295,
-   "site_extra": 1,
-   "not_live": 14,
+   "count": 325,
+   "site_listing": 305,
+   "site_extra": 10,
+   "not_live": 13,
    "dead": 0
   },
   "joe": {
@@ -5499,6 +5499,31 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "ejm:12823",
+   "source": "ejm",
+   "institution": "Shanghai University of Finance and Economics",
+   "title": "Tenure-track Faculty Positions in Finance",
+   "location": "Shanghai, CN",
+   "continent": "Asia",
+   "fields": [
+    "Finance",
+    "Insurance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-13",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12823",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "ejm:12824",
    "source": "ejm",
    "institution": "Korea Development Institute (KDI)",
@@ -7219,38 +7244,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12904",
-   "source": "ejm",
-   "institution": "Tampere University",
-   "title": "Assistant Professor (Tenure-track) in Economics",
-   "location": "Tampere, FI",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-23",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12904",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12904",
-   "text": "Tampere University is inviting applications for the position of tenure-track Assistant Professor in Economics. Economics at Tampere University is part of the degree program in business studies at the Faculty of Management and Business. We provide an internationally standardized Economics program at Bachelor, Master and PhD levels.\n\nWe are the leading partner in the Finnish Centre of Excellence in Tax Systems Research (FIT), FIT conducts research on the effects and design of multiple aspects of public policy. Our research program is very broad, covering topics in public, labor, health, and environmental economics, and industrial organization. Our research utilizes empirical, experimental, and theoretical methods, together with world-class administrative data on individuals and firms.\n\nJob description\n\nWe seek an accomplished early-career academic with the potential to organize and conduct innovative, top-quality research in their field. The candidate's research can focus on any field of economics. We expect the Assistant Professor to conduct research of very high international quality aiming at top academic journals. The tasks of the Assistant Professor will also involve research-based teaching and supervision, as well as contributing to curriculum development and the overall development of the discipline.\n\nWe require\n\n• PhD degree in Economics. The PhD degree should be completed by 30.6.2027\n\n• Ability to undertake independent scholarly activity and potential to produce research output at a high international level of excellence\n\n• Teaching skills required to successfully perform the duties and functions of the position\n\nWe are looking for candidates who have recently completed or are close to completing their PhD degree in Economics. Applicants will be reviewed based on their potential for excellence in research, teaching, and activity in the international scientific community. We emphasize innovativeness and ambition demonstrated by current and planned research, as well as international experience and research collaboration and potential to acquire external research funding. We appreciate both high-level empirical and theoretical expertise, and the person to be appointed is expected to contribute to teaching core courses in economics also at the advanced level. We are interested in candidates in all fields of economics. Linkages with our current research areas are considered a benefit, and your research may include applied research topics, methodological and/or theoretical themes that complement or bring in new perspectives to our research program. The position requires fluency in English.\n\nWe offer\n\nThe anticipated start date will be 1 September 2027, unless another date is mutually agreed. Initial appointment as an Assistant Professor is for five years (1.9.2027-31.8.2032) and, subject to successful performance, the tenure-track Assistant Professor will become a tenured member of faculty at the end of the first five-year period. The principles of the tenure evaluation at Tampere University are laid out here. Support will be provided throughout the five-year appointment to ease transition to a permanent faculty position. A trial period of six months applies to all our new employees.\n\nThe salary will be based on both the job requirements and the employee's personal performance in accordance with the Finnish University Salary System. The minimum starting salary of an Assistant Professor is between 4500-5250 EUR/month. Higher salaries may be agreed upon depending on qualifications and experience of the candidate.\n\nWe offer the successful candidate the opportunity to join a dynamic, innovative, and international research community of the Finnish Centre of Excellence in Tax Systems Research, and the discipline of Economics at Tampere University. Job amenities include occupational health care and flexible working hours. Please read more about working at Tampere University here.\n\nFor more information on Tampere and Finland, please visit:\n\n• https://visittampere.fi/en\n\n• https://www.visitfinland.com/\n\n• https://www.infofinland.fi/en/frontpage\n\nHow to apply\n\nPlease submit your application through our online recruitment system in English. The closing date for applications is 27 November 2026 (at 23.59 EET / UTC+2).\n\nPlease attach the following documents to your application in PDF format:\n\n• Cover letter\n\n• Curriculum vitae\n\n• Job market paper\n\n• Other papers, if available\n\n• Research statement outlining your planned research for the next three years (max. 3 pages)\n\n• Names, positions, and contact details of two referees\n\nInitial interviews will be conducted remotely on Zoom starting in December 2026.\n\nFor more information, please contact:\n\nProfessor and Director of FIT, Kaisa Kotakorpi, kaisa.kotakorpi@tuni.fi\n\nFor more information about the application process, please contact HR Specialist Anni Zilliacus, anni.zilliacus@tuni.fi",
-   "links": [
-    "https://www.tuni.fi/en/about-us/economics",
-    "https://www.tuni.fi/en/about-us/faculty-management-and-business",
-    "http://www.taxresearch.fi/",
-    "https://www.tuni.fi/en/tau/work-with-us/tenure-track-career-path",
-    "https://www.tuni.fi/en/about-us/working-at-tampere-universities/tampere-university-as-an-employer",
-    "https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvisittampere.fi%2Fen&amp;data=05%7C02%7Canni.zilliacus%40tuni.fi%7Cb3ca76c2800b4dc18b5108df2e83172b%7Cfa6944afcc7c4cd89154c01132798910%7C0%7C0%7C639280812719708098%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=6onJi%2FGNyeMbFXg0x7LEY8eDJPLC7iPOwEYmQEqWfjE%3D&amp;reserved=0"
-   ],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
   },
   {
    "id": "ejm:12905",
@@ -14849,7 +14842,7 @@
    "id": "joe:111477939",
    "source": "joe",
    "institution": "PIMCO",
-   "title": "PIMCO 2027 PhD/MFE Summer Intern – Quantitative Portfolio Management",
+   "title": "PIMCO 2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager",
    "location": "Newport Beach, United States",
    "continent": "North America",
    "fields": [
@@ -15901,7 +15894,7 @@
    "location": "Carbondale, United States",
    "continent": "North America",
    "fields": [
-    "Z0 General"
+    "C0 General"
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
@@ -15921,7 +15914,7 @@
    "location": "Carbondale, United States",
    "continent": "North America",
    "fields": [
-    "A2 Economic Education and Teaching of Economics"
+    "D0 General"
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
@@ -21578,6 +21571,132 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:12896",
+   "source": "ejm",
+   "institution": "Business School, University of Mannheim",
+   "title": "Postdoctoral Scholar, Finance",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12896",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12901",
+   "source": "ejm",
+   "institution": "Economics, University of Maryland",
+   "title": "Assistant Professor, Economics",
+   "location": "College Park, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12901",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12906",
+   "source": "ejm",
+   "institution": "Korea Institute for International Economic Policy (KIEP)",
+   "title": "Associate Research Fellow",
+   "location": "Sejong, KR",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12906",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12935",
+   "source": "ejm",
+   "institution": "Economics and Finance, University of Guelph",
+   "title": "Assistant Professor, Economics",
+   "location": "Guelph, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12935",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12904",
+   "source": "ejm",
+   "institution": "Faculty of Management and Business, Tampere University",
+   "title": "Assistant Professor, Economics",
+   "location": "Tampere, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12904",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12931",
+   "source": "ejm",
+   "institution": "Centro de Planeamento e de Avaliação de Políticas Públicas (PLANAPP)",
+   "title": "Consultant, Economics",
+   "location": "Lisboa, PT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12931",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12928",
+   "source": "ejm",
+   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Business Economics/Econometrics/Environmental; Energy; Ag. Econ/Finance/International Finance/Macro/Labor; Demographic Econom",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12928",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "ejm:12882",
    "source": "ejm",
    "institution": "Department of Economics, London School of Economics and Political Science",
@@ -21594,6 +21713,42 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "ejm:12934",
+   "source": "ejm",
+   "institution": "Economics, Erasmus University Rotterdam",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Development; Growth/Labor; Demographic Economics/Organizational Behavior/Political Economy",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12934",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12930",
+   "source": "ejm",
+   "institution": "Economics and Finance, Hanken School of Economics",
+   "title": "Assistant Professor/Associate Professor, Economics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-17",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12930",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
   }
  ]
 }
