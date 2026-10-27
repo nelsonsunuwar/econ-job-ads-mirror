@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-27T01:37:17Z",
+ "generated_at": "2026-10-27T10:02:11Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 325,
    "site_listing": 305,
-   "site_extra": 10,
+   "site_extra": 6,
    "not_live": 13,
    "dead": 0
   },
@@ -6894,6 +6894,28 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ejm:12882",
+   "source": "ejm",
+   "institution": "London School of Economics and Political Science",
+   "title": "Assistant Professor, Department of Economics",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12882",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "ejm:12883",
    "source": "ejm",
    "institution": "ESCP Business School",
@@ -7102,6 +7124,28 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ejm:12896",
+   "source": "ejm",
+   "institution": "University of Mannheim",
+   "title": "Two Postdoctoral Researcher (m/f/d) Positions  at the Finance Department",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12896",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "ejm:12897",
    "source": "ejm",
    "institution": "University of Oxford",
@@ -7202,6 +7246,28 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ejm:12901",
+   "source": "ejm",
+   "institution": "University of Maryland",
+   "title": "Assistant Professor",
+   "location": "College Park, US",
+   "continent": "North America",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12901",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "ejm:12902",
    "source": "ejm",
    "institution": "Dalhousie University",
@@ -7244,6 +7310,28 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ejm:12904",
+   "source": "ejm",
+   "institution": "Tampere University",
+   "title": "Assistant Professor (Tenure-track) in Economics",
+   "location": "Tampere, FI",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12904",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
   },
   {
    "id": "ejm:12905",
@@ -10996,7 +11084,7 @@
    ],
    "position_types": [],
    "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2027-01-31",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478334",
    "predoc": false,
@@ -21571,42 +21659,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12896",
-   "source": "ejm",
-   "institution": "Business School, University of Mannheim",
-   "title": "Postdoctoral Scholar, Finance",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-26",
-   "url": "https://econjobmarket.org/positions/12896",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12901",
-   "source": "ejm",
-   "institution": "Economics, University of Maryland",
-   "title": "Assistant Professor, Economics",
-   "location": "College Park, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-03-31",
-   "posted": "2026-10-26",
-   "url": "https://econjobmarket.org/positions/12901",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
    "id": "ejm:12906",
    "source": "ejm",
    "institution": "Korea Institute for International Economic Policy (KIEP)",
@@ -21643,24 +21695,6 @@
    "first_seen": "2026-10-27"
   },
   {
-   "id": "ejm:12904",
-   "source": "ejm",
-   "institution": "Faculty of Management and Business, Tampere University",
-   "title": "Assistant Professor, Economics",
-   "location": "Tampere, FI",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-26",
-   "url": "https://econjobmarket.org/positions/12904",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
-  },
-  {
    "id": "ejm:12931",
    "source": "ejm",
    "institution": "Centro de Planeamento e de Avaliação de Políticas Públicas (PLANAPP)",
@@ -21695,24 +21729,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12882",
-   "source": "ejm",
-   "institution": "Department of Economics, London School of Economics and Political Science",
-   "title": "Assistant Professor, Economics",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-26",
-   "url": "https://econjobmarket.org/positions/12882",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-26"
   },
   {
    "id": "ejm:12934",
