@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T10:02:11Z",
+ "generated_at": "2026-10-27T16:00:33Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -11,7 +11,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 648
+   "count": 654
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -11565,6 +11565,30 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478369",
+   "source": "joe",
+   "institution": "HEC Montreal",
+   "title": "Assistant/Associate/Full Professor of Finance",
+   "location": "Montréal, Canada",
+   "continent": "North America",
+   "fields": [
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services",
+    "G3 Corporate Finance and Governance",
+    "G4 Behavioral Finance",
+    "G5 Household Finance"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478369",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "joe:111478007",
    "source": "joe",
    "institution": "HEC Montreal",
@@ -11883,6 +11907,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-16"
+  },
+  {
+   "id": "joe:111478354",
+   "source": "joe",
+   "institution": "Indiana University",
+   "title": "Research Scientist",
+   "location": "Bloomington, United States",
+   "continent": "North America",
+   "fields": [
+    "I1 Health"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478354",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "joe:111478081",
@@ -16015,6 +16059,26 @@
    "first_seen": "2026-10-22"
   },
   {
+   "id": "joe:111478363",
+   "source": "joe",
+   "institution": "Southern Illinois University at Carbondale",
+   "title": "Vandeveer Chair in Economics",
+   "location": "Carbondale, United States",
+   "continent": "North America",
+   "fields": [
+    "A2 Economic Education and Teaching of Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478363",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "joe:111477830",
    "source": "joe",
    "institution": "Southern Methodist University",
@@ -16387,6 +16451,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-01"
+  },
+  {
+   "id": "joe:111478367",
+   "source": "joe",
+   "institution": "Stanford University",
+   "title": "Postdoctoral Fellowship",
+   "location": "Stanford, United States",
+   "continent": "North America",
+   "fields": [
+    "O0 General"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478367",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "joe:111478148",
@@ -19005,6 +19089,26 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "joe:111478362",
+   "source": "joe",
+   "institution": "University of Chicago",
+   "title": "Research Administrator",
+   "location": "Chicago, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478362",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "joe:111478366",
    "source": "joe",
    "institution": "University of Chicago",
@@ -20951,6 +21055,27 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "joe:111478365",
+   "source": "joe",
+   "institution": "Vanguard",
+   "title": "Investment Strategy Analyst",
+   "location": "Malvern, United States; Charlotte, United States; Scottsdale, United States",
+   "continent": "North America",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-05-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478365",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "joe:111478321",
