@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-27T20:57:57Z",
+ "generated_at": "2026-10-28T01:40:57Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 325,
-   "site_listing": 305,
-   "site_extra": 6,
+   "count": 327,
+   "site_listing": 307,
+   "site_extra": 8,
    "not_live": 13,
    "dead": 0
   },
@@ -21820,6 +21820,42 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12939",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Manchester",
+   "title": "Assistant Professor, Economics",
+   "location": "Manchester, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12939",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12942",
+   "source": "ejm",
+   "institution": "Hushcrasher",
+   "title": "Applied Research Economist, Machine Learning & Causal Inference",
+   "location": "",
+   "continent": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12942",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
   },
   {
    "id": "ejm:12931",
