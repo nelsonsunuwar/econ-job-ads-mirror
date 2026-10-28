@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-28T01:40:57Z",
+ "generated_at": "2026-10-28T10:48:28Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 327,
-   "site_listing": 307,
-   "site_extra": 8,
-   "not_live": 13,
+   "count": 330,
+   "site_listing": 309,
+   "site_extra": 4,
+   "not_live": 14,
    "dead": 0
   },
   "joe": {
@@ -7364,6 +7364,28 @@
    "first_seen": "2026-10-24"
   },
   {
+   "id": "ejm:12906",
+   "source": "ejm",
+   "institution": "Korea Institute for International Economic Policy (KIEP)",
+   "title": "Associate Research Fellow Positions (KIEP)",
+   "location": "Sejong, KR",
+   "continent": "Asia",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12906",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "ejm:12908",
    "source": "ejm",
    "institution": "Johannes Kepler University Linz",
@@ -7406,6 +7428,33 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12910",
+   "source": "ejm",
+   "institution": "University of Liverpool",
+   "title": "Lecturer (Assistant Professor) in Economics",
+   "location": "Liverpool, GB",
+   "continent": "Europe",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-27",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12910",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12910",
+   "text": "EQUIS, AACSB and AMBA accredited, the University of Liverpool Management School (ULMS) is an international management school based in an enterprising and vibrant, world city of culture. Formed in 2002 through the bringing together of a number of well-established departments and research groups in the University of Liverpool, the School provides a world-leading environment for research, management and leadership education. The pursuit of research which is internationally recognised for excellence in its originality, significance and rigour is central to the culture of the School, as is delivery of a strong student experience.\n\nFollowing the appointment of the School’s Dean, Professor Julia Balogun, in 2015 and supported by strong ongoing investment from the University and its ambitious strategy for 2031, ‘Liverpool 2031’, ULMS is fulfilling its vision to be a globally connected Management School whose transformative research and teaching places it at the forefront of influential knowledge leadership to better business and society.\n\nOver the last few years, ULMS has engaged in extensive recruitment of academic and professional services staff, with investment to support expansion into a state-of-the-art extension, including a trading room. The School now has 230 faculty, supported by 80 professional services colleagues. Echoing the City of Liverpool’s reputation for friendliness and an outward looking orientation, ULMS provides a strongly collegial, international and intellectually vibrant interdisciplinary environment, including a thriving doctoral research community of over 100 PhD students.\n\nIn its wider setting, the School benefits from the University of Liverpool's standing as a member of the UK's leading Russell Group research-intensive universities and from its location in a world-famous maritime city of culture and sport, which combines strong cultural activity, excellent transport links, and regional beauty with a world heritage skyline and is highly ranked on quality of life in the UK, while remaining one of Britain's most affordable cities.\n\nThe Economics Group is now seeking a Lecturer in Applied Microeconomics to help continue to build our growing strength and reputation, both in terms of research and teaching.\n\nWe are especially interested in research in empirical industrial organisation or innovation and technological change. You will possess a relevant PhD (or near completion), have research with clear potential to be published world-leading output, and be able to evidence future research plans consistent with a sustained high level of academic publications. You should have excellent teaching credentials and be able to teach on both undergraduate and postgraduate economics programmes.\n\nThe position is permanent subject to satisfactory completion of a three-year probationary period.\n\nTo apply, visit the University website at:https://tinyurl.com/59jw45rt\n\nFor informal enquiries, contact Professor Ian Burn, email: ian.burn@liverpool.ac.uk\n\nOur commitment to Equality, Diversity and Inclusion\n\nWe are committed to enhancing a workforce as diverse as our community and particularly encourage applicants who are of minoritised genders and ethnic backgrounds, living with a disability, and/or are members of the LGBTQIA+ community.",
+   "links": [
+    "https://tinyurl.com/59jw45rt"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
   },
   {
    "id": "ejm:12911",
@@ -7710,6 +7759,131 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12928",
+   "source": "ejm",
+   "institution": "ZEW - Leibniz Centre for European Economic Research",
+   "title": "Postdoctoral Researcher (f/m/d, 100%)",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Environmental; Energy; Ag. Econ",
+    "Finance",
+    "International Finance/Macro",
+    "Labor; Demographic Economics",
+    "Public Economics",
+    "Behavioral Economics",
+    "Business Economics",
+    "Organizational Behavior",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12928",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12930",
+   "source": "ejm",
+   "institution": "Hanken School of Economics",
+   "title": "Assistant or Associate Professor (Tenure Track) in Economics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [
+    "Any field",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-17",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12930",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12931",
+   "source": "ejm",
+   "institution": "Centro de Planeamento e de Avaliação de Políticas Públicas (PLANAPP)",
+   "title": "Associate Consultant",
+   "location": "Lisboa, PT",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Consultant"
+   ],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12931",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12934",
+   "source": "ejm",
+   "institution": "Erasmus University Rotterdam",
+   "title": "Postdoctoral Researcher Political, Organisational and/or Development Economics",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [
+    "Development; Growth",
+    "Labor; Demographic Economics",
+    "Political Economy",
+    "Organizational Behavior",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12934",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12935",
+   "source": "ejm",
+   "institution": "University of Guelph",
+   "title": "Assistant Professor in Economics",
+   "location": "Guelph, CA",
+   "continent": "North America",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12935",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
   },
   {
    "id": "joe:111477855",
@@ -21786,40 +21960,22 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12906",
+   "id": "ejm:12941",
    "source": "ejm",
-   "institution": "Korea Institute for International Economic Policy (KIEP)",
-   "title": "Associate Research Fellow",
-   "location": "Sejong, KR",
-   "continent": "Asia",
+   "institution": "Environmental Social Sciences, Eawag: Swiss Federal Institute of Aquatic Science and Technology",
+   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ",
+   "location": "Dübendorf, CH",
+   "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12906",
+   "deadline": "2026-11-30",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12941",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12935",
-   "source": "ejm",
-   "institution": "Economics and Finance, University of Guelph",
-   "title": "Assistant Professor, Economics",
-   "location": "Guelph, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12935",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
+   "first_seen": "2026-10-28"
   },
   {
    "id": "ejm:12939",
@@ -21858,76 +22014,22 @@
    "first_seen": "2026-10-28"
   },
   {
-   "id": "ejm:12931",
+   "id": "ejm:12929",
    "source": "ejm",
-   "institution": "Centro de Planeamento e de Avaliação de Políticas Públicas (PLANAPP)",
-   "title": "Consultant, Economics",
-   "location": "Lisboa, PT",
+   "institution": "DIW, German Institute for Economic Research (DIW)",
+   "title": "Postdoctoral Scholar, Public Economics",
+   "location": "Berlin, DE",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12931",
+   "deadline": "2026-11-23",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12929",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12928",
-   "source": "ejm",
-   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Business Economics/Econometrics/Environmental; Energy; Ag. Econ/Finance/International Finance/Macro/Labor; Demographic Econom",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12928",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12934",
-   "source": "ejm",
-   "institution": "Economics, Erasmus University Rotterdam",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Development; Growth/Labor; Demographic Economics/Organizational Behavior/Political Economy",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12934",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12930",
-   "source": "ejm",
-   "institution": "Economics and Finance, Hanken School of Economics",
-   "title": "Assistant Professor/Associate Professor, Economics",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-17",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12930",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
+   "first_seen": "2026-10-28"
   }
  ]
 }
