@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-28T10:48:28Z",
+ "generated_at": "2026-10-28T21:18:49Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 330,
-   "site_listing": 309,
-   "site_extra": 4,
-   "not_live": 14,
+   "count": 331,
+   "site_listing": 311,
+   "site_extra": 5,
+   "not_live": 13,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 654
+   "count": 663
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -5398,11 +5398,8 @@
    "section": null,
    "deadline": "2026-11-15",
    "posted": "2026-10-14",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12815",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12815",
-   "text": "The Department of Finance at Bocconi University invites applications for three full-time faculty positions at the Assistant Professor level in the Department of Finance, starting September 1, 2027. The positions are open to candidates working in all fields of Finance. Junior candidates are hired to an eight-year tenure-track position, with a mid-term review and the possibility of promotion to tenured Associate Professor before the end of the eight-year period.\n\nJob Qualifications: Candidates should show considerable promise for excellent research and teaching. Applicants should be nearing the completion of their Ph.D. in Finance, Economics, or related fields, or should have already completed it.\n\nSalary for Assistant professors in Finance starts from €120,000. The final salary offer may be adjusted according to the actual seniority of the successful candidate, in accordance with the objective and non-discriminatory criteria adopted by the university.\n\nAll applications should include a cover letter, a complete CV which includes a list of publications, a job market paper, a research statement, and the names and contact details of three referees of high academic standing. Referees will automatically receive an email with instructions to upload their letters directly. For clarifications or questions with the application, please contact faculty@unibocconi.it.\n\nInterviews will be held virtually, and selected candidates will be invited for in-person flyouts.\n\nBocconi University is committed to increasing the diversity of its faculty. Applications are particularly welcome from women and members of groups who are under-represented in academic posts.\n\nAbout the Organization: Bocconi University is a leading European university. It is located in central Milan, Italy, offering undergraduate, graduate, PhD, MBA and Executive programs in finance, economics, management and law. Bocconi is a private university and fully independent from the public university system. It is the leading school for finance and economics education in Italy, with strong ties to the financial and industrial community, in Italy and abroad.",
-   "links": [],
+   "url": "https://econjobmarket.org/positions/12815",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-15"
@@ -8994,6 +8991,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "joe:111478375",
+   "source": "joe",
+   "institution": "Catawba College",
+   "title": "Assistant Professor of Economics",
+   "location": "Salisbury, United States",
+   "continent": "North America",
+   "fields": [
+    "P Political Economy and Comparative Economic Systems",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478375",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "joe:111478188",
@@ -14576,6 +14595,27 @@
    "first_seen": "2026-09-18"
   },
   {
+   "id": "joe:111478431",
+   "source": "joe",
+   "institution": "North Carolina State University",
+   "title": "Assistant Professor in Agricultural Economics - Research &amp; Teaching",
+   "location": "Raleigh, United States",
+   "continent": "North America",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478431",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
+  },
+  {
    "id": "joe:111477603",
    "source": "joe",
    "institution": "Northeastern University",
@@ -15017,6 +15057,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "joe:111478358",
+   "source": "joe",
+   "institution": "Peking University",
+   "title": "China International Conference in Economics &amp; China Job Market in Economics 2026",
+   "location": "China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478358",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "joe:111478110",
@@ -16004,6 +16064,26 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "joe:111478373",
+   "source": "joe",
+   "institution": "Shanghai Jiao Tong University",
+   "title": "Professor, Associate Professor, Assistant Professor",
+   "location": "Shanghai, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478373",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
+  },
+  {
    "id": "joe:111477869",
    "source": "joe",
    "institution": "Shanghai Jiao Tong University",
@@ -16172,6 +16252,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-10"
+  },
+  {
+   "id": "joe:111478424",
+   "source": "joe",
+   "institution": "Skidmore College",
+   "title": "Assistant Professor, Economics and Asian Studies",
+   "location": "Saratoga Springs, United States",
+   "continent": "North America",
+   "fields": [
+    "E0 General",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "P5 Comparative Economic Systems",
+    "Z1 Cultural Economics; Economic Sociology; Economic Anthropology"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478424",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "joe:111477826",
@@ -16606,6 +16709,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478382",
+   "source": "joe",
+   "institution": "Stanford University",
+   "title": "CDDRL Pre- and Postdoctoral Fellow AY27-28",
+   "location": "Stanford, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478382",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
+  },
+  {
    "id": "joe:111478106",
    "source": "joe",
    "institution": "Stanford University",
@@ -16810,6 +16933,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "joe:111478376",
+   "source": "joe",
+   "institution": "Stony Brook University",
+   "title": "Assistant Professor (Tenure Track)",
+   "location": "Stony Brook, United States",
+   "continent": "North America",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478376",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "joe:111477994",
@@ -18140,6 +18283,26 @@
    "first_seen": "2026-10-22"
   },
   {
+   "id": "joe:111478372",
+   "source": "joe",
+   "institution": "Tongji University",
+   "title": "Assistant, Associate and Full Professor",
+   "location": "Shanghai, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478372",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
+  },
+  {
    "id": "joe:111477632",
    "source": "joe",
    "institution": "Trinity College",
@@ -18775,6 +18938,31 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-13"
+  },
+  {
+   "id": "joe:111478432",
+   "source": "joe",
+   "institution": "University of Alaska Anchorage",
+   "title": "Assistant Professor of Economics",
+   "location": "Anchorage, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "F International Economics",
+    "G Financial Economics",
+    "J Labor and Demographic Economics",
+    "N Economic History",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478432",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "joe:111478082",
@@ -19671,47 +19859,6 @@
    "first_seen": "2026-09-17"
   },
   {
-   "id": "joe:111478347",
-   "source": "joe",
-   "institution": "University of Guelph",
-   "title": "Assistant Professor in Empirical Applied Microeconomics",
-   "location": "Guelph, Canada",
-   "continent": "North America",
-   "fields": [
-    "D Microeconomics"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-12-01",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478347",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "joe:111478350",
-   "source": "joe",
-   "institution": "University of Guelph",
-   "title": "Assistant Professor in Macroeconomics",
-   "location": "Guelph, Canada",
-   "continent": "North America",
-   "fields": [
-    "E Macroeconomics and Monetary Economics",
-    "F International Economics"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-12-01",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478350",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-26"
-  },
-  {
    "id": "joe:111478370",
    "source": "joe",
    "institution": "University of Hawaii at Mānoa",
@@ -19957,6 +20104,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-06"
+  },
+  {
+   "id": "joe:111478427",
+   "source": "joe",
+   "institution": "University of Maryland, College Park",
+   "title": "Assistant Professor",
+   "location": "College Park, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478427",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "joe:111478198",
@@ -20409,6 +20576,28 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": "joe:111478378",
+   "source": "joe",
+   "institution": "University of Notre Dame",
+   "title": "Postdoctoral Research Associate",
+   "location": "Notre Dame, United States",
+   "continent": "North America",
+   "fields": [
+    "D1 Household Behavior and Family Economics",
+    "H8 Miscellaneous Issues",
+    "J1 Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-07-09",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478378",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "joe:111477580",
@@ -21972,6 +22161,24 @@
    "deadline": "2026-11-30",
    "posted": "2026-10-28",
    "url": "https://econjobmarket.org/positions/12941",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12940",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Mannheim",
+   "title": "Postdoctoral Scholar, Industrial Organization/Microeconomic theory",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12940",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
