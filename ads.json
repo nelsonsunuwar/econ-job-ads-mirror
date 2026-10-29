@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-29T01:57:00Z",
+ "generated_at": "2026-10-29T11:05:23Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 337,
-   "site_listing": 317,
-   "site_extra": 11,
-   "not_live": 13,
+   "site_listing": 318,
+   "site_extra": 7,
+   "not_live": 12,
    "dead": 0
   },
   "joe": {
@@ -7592,35 +7592,6 @@
    "first_seen": "2026-10-24"
   },
   {
-   "id": "ejm:12919",
-   "source": "ejm",
-   "institution": "Indian Institute of Management Bangalore",
-   "title": "IIMB Dorabji Tata School of Undergraduate Studies",
-   "location": "Bangalore, IN",
-   "continent": "Asia",
-   "fields": [
-    "Macroeconomics; Monetary",
-    "Microeconomic theory",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-12-15",
-   "posted": "2026-10-24",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12919",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12919",
-   "text": "The School offers undergraduate programmes with a strong emphasis on high-quality teaching. We seek scholars in Microeconomic Theory, Applied Microeconomics (e.g., labour, behavioural, development, health, education, political economy), and Macroeconomics/Monetary Economics who are committed to excellence in both teaching and research. Faculty members will join the School of Undergraduate Studies and teach in our four-year undergraduate programme(s) in Economics (and allied Data Science offerings).\n\nQualifications\n\n• Assistant Professor: PhD in Economics, experience in undergraduate teaching, and evidence of research potential (e.g., a job market paper with the potential for publication in leading field journals).\n\n• Associate Professor / Professor: An established record of publications in leading journals, a strong teaching record, and demonstrated academic leadership (e.g., programme development, area leadership).\n\nExpectations and Support\n\n• Commitment to excellence in undergraduate teaching and student mentoring\n\n• An active research agenda with strong publication potential\n\nApplication Materials\n\n1. Cover letter, stating your area of specialisation.\n\n2. CV\n\n3. Job market paper and up to two additional papers (published or work in progress).\n\n4. Research statement.\n\n5. Teaching statement (and a teaching portfolio, if available, including syllabi and course evaluations).\n\n6. Names and contact details of three referees. Letters of reference must be received by the deadline of 15 December 2026.\n\nHow to Apply and Deadlines\n\nPlease email your application to facultyapplication@iimb.ac.in with the subject line “Application: [Micro Theory / Applied Micro / Macro], IIMB UG Campus, Economics”.\n\n• Anticipated start date: Flexible\n\nCompensation and Benefits\n\nCompetitive salary as per IIMB scales; housing and relocation assistance as per Institute norms; comprehensive benefits; research and conference funding; access to data and computing resources; and administrative and teaching/research assistant support.\n\nDiversity and Inclusion\n\nIIM Bangalore is an equal opportunity and affirmative action employer. We strongly encourage applications from women and from candidates belonging to reserved categories. The Institute follows the Government of India’s reservation policy for the OBC, SC/ST, EWS, and PwD categories. Indian nationals and Overseas Citizen of India (OCI) cardholders should indicate their category in the cover letter and will be required to produce valid category certificates at the offer stage.\n\nOutstanding foreign nationals are also welcome to apply. Such appointments are subject to applicable Government of India norms.\n\nContact for queries: dean.faculty@iimb.ac.in",
-   "links": [],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-25"
-  },
-  {
    "id": "ejm:12920",
    "source": "ejm",
    "institution": "Norges Bank",
@@ -7789,6 +7760,28 @@
    "first_seen": "2026-10-27"
   },
   {
+   "id": "ejm:12929",
+   "source": "ejm",
+   "institution": "German Institute for Economic Research (DIW)",
+   "title": "Postdoc (f/m/x)",
+   "location": "Berlin, DE",
+   "continent": "Europe",
+   "fields": [
+    "Public Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12929",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
+  },
+  {
    "id": "ejm:12930",
    "source": "ejm",
    "institution": "Hanken School of Economics",
@@ -7881,6 +7874,99 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12939",
+   "source": "ejm",
+   "institution": "University of Manchester",
+   "title": "Junior Faculty Positions in Economics",
+   "location": "Manchester, GB",
+   "continent": "Europe",
+   "fields": [
+    "Economic History",
+    "Any field",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12939",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12940",
+   "source": "ejm",
+   "institution": "University of Mannheim",
+   "title": "Two Postdoctoral Positions in Industrial Organization",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [
+    "Industrial Organization",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12940",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12941",
+   "source": "ejm",
+   "institution": "Eawag: Swiss Federal Institute of Aquatic Science and Technology",
+   "title": "Postdoctoral Fellow in Environmental Economics",
+   "location": "Dübendorf, CH",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12941",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12942",
+   "source": "ejm",
+   "institution": "Hushcrasher",
+   "title": "Applied Research Economist",
+   "location": "",
+   "continent": null,
+   "fields": [
+    "Econometrics",
+    "Industrial Organization",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12942",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
   },
   {
    "id": "joe:111477855",
@@ -22185,24 +22271,6 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "ejm:12941",
-   "source": "ejm",
-   "institution": "Environmental Social Sciences, Eawag: Swiss Federal Institute of Aquatic Science and Technology",
-   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ",
-   "location": "Dübendorf, CH",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-28",
-   "url": "https://econjobmarket.org/positions/12941",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
-  },
-  {
    "id": "ejm:12949",
    "source": "ejm",
    "institution": "Nova School of Business and Economics, Universidade Nova de Lisboa",
@@ -22221,22 +22289,22 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "ejm:12940",
+   "id": "ejm:12919",
    "source": "ejm",
-   "institution": "Department of Economics, University of Mannheim",
-   "title": "Postdoctoral Scholar, Industrial Organization/Microeconomic theory",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
+   "institution": "Economics, Indian Institute of Management Bangalore",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Applied microeconomics/Macroeconomics; Monetary/Microeconomic theory",
+   "location": "Bangalore, IN",
+   "continent": "Asia",
    "fields": [],
    "position_types": [],
    "section": null,
    "deadline": "2026-12-15",
-   "posted": "2026-10-28",
-   "url": "https://econjobmarket.org/positions/12940",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12919",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-28"
+   "first_seen": "2026-10-25"
   },
   {
    "id": "ejm:12953",
@@ -22257,24 +22325,6 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "ejm:12939",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Manchester",
-   "title": "Assistant Professor, Economics",
-   "location": "Manchester, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-28",
-   "url": "https://econjobmarket.org/positions/12939",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
-  },
-  {
    "id": "ejm:12951",
    "source": "ejm",
    "institution": "Economics and Political Science, INSEAD",
@@ -22291,42 +22341,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-29"
-  },
-  {
-   "id": "ejm:12942",
-   "source": "ejm",
-   "institution": "Hushcrasher",
-   "title": "Applied Research Economist, Machine Learning & Causal Inference",
-   "location": "",
-   "continent": null,
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-28",
-   "url": "https://econjobmarket.org/positions/12942",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
-  },
-  {
-   "id": "ejm:12929",
-   "source": "ejm",
-   "institution": "DIW, German Institute for Economic Research (DIW)",
-   "title": "Postdoctoral Scholar, Public Economics",
-   "location": "Berlin, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-28",
-   "url": "https://econjobmarket.org/positions/12929",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
   },
   {
    "id": "ejm:12946",
