@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-28T21:18:49Z",
+ "generated_at": "2026-10-29T01:57:00Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 331,
-   "site_listing": 311,
-   "site_extra": 5,
+   "count": 337,
+   "site_listing": 317,
+   "site_extra": 11,
    "not_live": 13,
    "dead": 0
   },
@@ -22149,6 +22149,42 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:12947",
+   "source": "ejm",
+   "institution": "Rotterdam School of Management, Erasmus University Rotterdam",
+   "title": "Assistant Professor, Finance",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12947",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "ejm:12884",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Dallas",
+   "title": "PhD Dissertation Fellow",
+   "location": "Dallas, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12884",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "ejm:12941",
    "source": "ejm",
    "institution": "Environmental Social Sciences, Eawag: Swiss Federal Institute of Aquatic Science and Technology",
@@ -22165,6 +22201,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12949",
+   "source": "ejm",
+   "institution": "Nova School of Business and Economics, Universidade Nova de Lisboa",
+   "title": "Postdoctoral Researcher",
+   "location": "Cascais, PT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12949",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
   },
   {
    "id": "ejm:12940",
@@ -22185,6 +22239,24 @@
    "first_seen": "2026-10-28"
   },
   {
+   "id": "ejm:12953",
+   "source": "ejm",
+   "institution": "Economics, Deakin University",
+   "title": "Lecturer/Senior Lecturer, International Trade/Macroeconomics; Monetary/Microeconomic theory",
+   "location": "Burwood, AU",
+   "continent": "Oceania",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-07",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12953",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "ejm:12939",
    "source": "ejm",
    "institution": "Department of Economics, University of Manchester",
@@ -22201,6 +22273,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12951",
+   "source": "ejm",
+   "institution": "Economics and Political Science, INSEAD",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics/Microeconomic theory",
+   "location": "Fontainebleau, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12951",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
   },
   {
    "id": "ejm:12942",
@@ -22237,6 +22327,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12946",
+   "source": "ejm",
+   "institution": "National Bank of Slovakia",
+   "title": "Senior Economist",
+   "location": "Bratislava, SK",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12946",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
   }
  ]
 }
