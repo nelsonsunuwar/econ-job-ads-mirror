@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-29T11:05:23Z",
+ "generated_at": "2026-10-29T21:25:16Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 337,
-   "site_listing": 318,
-   "site_extra": 7,
+   "count": 335,
+   "site_listing": 316,
+   "site_extra": 6,
    "not_live": 12,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 663
+   "count": 672
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -1934,28 +1934,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-09-15"
-  },
-  {
-   "id": "ejm:12643",
-   "source": "ejm",
-   "institution": "Utrecht University",
-   "title": "Full Professor Banking & Finance",
-   "location": "Utrecht, NL",
-   "continent": "Europe",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-09-14",
-   "url": "https://econjobmarket.org/positions/12643",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
    "first_seen": "2026-09-15"
   },
   {
@@ -10273,6 +10251,26 @@
    "first_seen": "2026-09-16"
   },
   {
+   "id": "joe:111478389",
+   "source": "joe",
+   "institution": "Dalhousie University",
+   "title": "Instructor of Economics (2 positions)",
+   "location": "Jinan, China",
+   "continent": "Asia",
+   "fields": [
+    "F0 General"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Part-time or Adjunct)",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478389",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "joe:111477670",
    "source": "joe",
    "institution": "Delaware State University",
@@ -11460,6 +11458,27 @@
    "first_seen": "2026-10-26"
   },
   {
+   "id": "joe:111478393",
+   "source": "joe",
+   "institution": "Georgetown University",
+   "title": "Postdoctoral Fellowship in Health Economics",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "H Public Economics",
+    "I Health, Education, and Welfare"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-07-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478393",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "joe:111478209",
    "source": "joe",
    "institution": "Georgetown University in Qatar",
@@ -12069,6 +12088,26 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "joe:111478361",
+   "source": "joe",
+   "institution": "Icahn School of Medicine at Mount Sinai in New York",
+   "title": "Postdoctoral Fellow - Research Scientist",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "Z0 General"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-04-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478361",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "joe:111477691",
    "source": "joe",
    "institution": "Imperial College Business School",
@@ -12355,6 +12394,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "joe:111478394",
+   "source": "joe",
+   "institution": "Iowa State University",
+   "title": "Professor And Chair",
+   "location": "Ames, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-05",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478394",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "joe:111477878",
@@ -12886,6 +12946,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-08"
+  },
+  {
+   "id": "joe:111478352",
+   "source": "joe",
+   "institution": "Korea Labor Institute (KLI)",
+   "title": "Research Fellow",
+   "location": "Korea, Republic Of",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478352",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "joe:111477595",
@@ -15356,6 +15436,26 @@
    "first_seen": "2026-09-29"
   },
   {
+   "id": "joe:111478396",
+   "source": "joe",
+   "institution": "POSCO Research Institute",
+   "title": "Economist",
+   "location": "Seoul, Korea, Republic Of",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478396",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "joe:111478122",
    "source": "joe",
    "institution": "PricewaterhouseCoopers LLP (PwC)",
@@ -15548,6 +15648,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-08"
+  },
+  {
+   "id": "joe:111478390",
+   "source": "joe",
+   "institution": "Princeton University",
+   "title": "Postdoctoral Research Associate",
+   "location": "Princeton, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478390",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "joe:111477706",
@@ -17672,6 +17792,28 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478446",
+   "source": "joe",
+   "institution": "The City College of New York",
+   "title": "Assistant Professor in Economics",
+   "location": "New York, United States",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478446",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "joe:111477698",
    "source": "joe",
    "institution": "The City University of New York",
@@ -18167,6 +18309,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478386",
+   "source": "joe",
+   "institution": "The University of Hong Kong",
+   "title": "Post-doctoral Fellow",
+   "location": "Hong Kong",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478386",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "joe:111477808",
@@ -22319,24 +22481,6 @@
    "deadline": "2026-12-07",
    "posted": "2026-10-29",
    "url": "https://econjobmarket.org/positions/12953",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "ejm:12951",
-   "source": "ejm",
-   "institution": "Economics and Political Science, INSEAD",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics/Microeconomic theory",
-   "location": "Fontainebleau, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12951",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
