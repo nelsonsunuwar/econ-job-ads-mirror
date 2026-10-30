@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-29T21:25:16Z",
+ "generated_at": "2026-10-30T02:08:18Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 335,
-   "site_listing": 316,
-   "site_extra": 6,
+   "count": 340,
+   "site_listing": 321,
+   "site_extra": 11,
    "not_live": 12,
    "dead": 0
   },
@@ -22415,6 +22415,24 @@
    "first_seen": "2026-10-29"
   },
   {
+   "id": "ejm:12936",
+   "source": "ejm",
+   "institution": "Jacobs Center for Productive Youth Development, University of Zurich",
+   "title": "Postdoctoral Scholar, Health; Education; Welfare/Labor; Demographic Economics",
+   "location": "Zurich, CH",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12936",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "ejm:12884",
    "source": "ejm",
    "institution": "Federal Reserve Bank of Dallas",
@@ -22431,6 +22449,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "ejm:12956",
+   "source": "ejm",
+   "institution": "UniDistance",
+   "title": "Postdoctoral Scholar, Behavioral Economics/Environmental; Energy; Ag. Econ/Experimental Economics/Industrial Organization/Law and Economics/Management, General/Organizational Behavior/Politic",
+   "location": "Brig, CH",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12956",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
   },
   {
    "id": "ejm:12949",
@@ -22469,6 +22505,24 @@
    "first_seen": "2026-10-25"
   },
   {
+   "id": "ejm:12955",
+   "source": "ejm",
+   "institution": "Faculty of Economics and Business, University of Groningen",
+   "title": "Postdoctoral Scholar, Econometrics/Statistics",
+   "location": "Groningen, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12955",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "ejm:12953",
    "source": "ejm",
    "institution": "Economics, Deakin University",
@@ -22481,6 +22535,24 @@
    "deadline": "2026-12-07",
    "posted": "2026-10-29",
    "url": "https://econjobmarket.org/positions/12953",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "ejm:12951",
+   "source": "ejm",
+   "institution": "Economics and Political Science, INSEAD",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics/Microeconomic theory",
+   "location": "Fontainebleau, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12951",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -22503,6 +22575,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "ejm:12907",
+   "source": "ejm",
+   "institution": "Economics, University of Warwick",
+   "title": "Lecturer, Economics",
+   "location": "Coventry, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12907",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
   }
  ]
 }
