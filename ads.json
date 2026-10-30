@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-30T02:08:18Z",
+ "generated_at": "2026-10-30T11:00:52Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 340,
-   "site_listing": 321,
-   "site_extra": 11,
-   "not_live": 12,
+   "count": 344,
+   "site_listing": 322,
+   "site_extra": 10,
+   "not_live": 15,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 672
+   "count": 673
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -320,31 +320,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": true,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12477",
-   "source": "ejm",
-   "institution": "Université Libre de Bruxelles",
-   "title": "Postdoctoral Fellowship in Economics (WORK4ALL-MH Project)",
-   "location": "Brussels, BE",
-   "continent": "Europe",
-   "fields": [
-    "Labor; Demographic Economics",
-    "Public Economics",
-    "Health; Education; Welfare",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-06-30",
-   "posted": "2026-04-30",
-   "url": "https://econjobmarket.org/positions/12477",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
    "first_seen": "2026-08-30"
   },
   {
@@ -906,29 +881,6 @@
    "first_seen": "2026-08-30"
   },
   {
-   "id": "ejm:12583",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of St. Louis",
-   "title": "Research Associate - Federal Reserve Bank of St. Louis",
-   "location": "St. Louis, US",
-   "continent": "North America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Research Assistant",
-    "Research Assistant (Pre-Doc)"
-   ],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-08-24",
-   "url": "https://econjobmarket.org/positions/12583",
-   "link_status": "ok",
-   "predoc": true,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
    "id": "ejm:12584",
    "source": "ejm",
    "institution": "University of Southern California",
@@ -968,74 +920,6 @@
    "deadline": "2026-11-29",
    "posted": "2026-08-21",
    "url": "https://econjobmarket.org/positions/12586",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12587",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Atlanta",
-   "title": "Research Economist",
-   "location": "Atlanta, US",
-   "continent": "North America",
-   "fields": [
-    "Macroeconomics; Monetary",
-    "Business Economics"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12587",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12588",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Atlanta",
-   "title": "Research Economist",
-   "location": "Atlanta, US",
-   "continent": "North America",
-   "fields": [
-    "Labor; Demographic Economics"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12588",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12589",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Atlanta",
-   "title": "Research Economist",
-   "location": "Atlanta, US",
-   "continent": "North America",
-   "fields": [
-    "Finance",
-    "Macroeconomics; Monetary"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-08-21",
-   "url": "https://econjobmarket.org/positions/12589",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -2866,33 +2750,6 @@
    "predoc": true,
    "senior": false,
    "first_seen": "2026-09-24"
-  },
-  {
-   "id": "ejm:12698",
-   "source": "ejm",
-   "institution": "Université Laval",
-   "title": "Faculty position in Arctic defence and security",
-   "location": "Quebec City, CA",
-   "continent": "North America",
-   "fields": [
-    "International Finance/Macro",
-    "International Trade",
-    "Law and Economics",
-    "Political Economy"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-09-23",
-   "url": "https://econjobmarket.org/positions/12698",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-23"
   },
   {
    "id": "ejm:12699",
@@ -5089,30 +4946,6 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "ejm:12804",
-   "source": "ejm",
-   "institution": "Università degli Studi di Milano",
-   "title": "Post-Doctoral Position in Macroeconomics, Public Economics, Household Finance",
-   "location": "Milan, IT",
-   "continent": "Europe",
-   "fields": [
-    "Labor; Demographic Economics",
-    "Macroeconomics; Monetary",
-    "Public Economics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-10-13",
-   "url": "https://econjobmarket.org/positions/12804",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-13"
-  },
-  {
    "id": "ejm:12805",
    "source": "ejm",
    "institution": "Heidelberg University",
@@ -6916,6 +6749,28 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ejm:12884",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Dallas",
+   "title": "Federal Reserve Bank of Dallas",
+   "location": "Dallas, US",
+   "continent": "North America",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12884",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "ejm:12888",
    "source": "ejm",
    "institution": "University of Leicester",
@@ -7361,6 +7216,28 @@
    "first_seen": "2026-10-27"
   },
   {
+   "id": "ejm:12907",
+   "source": "ejm",
+   "institution": "University of Warwick",
+   "title": "Assistant Professor in Economics",
+   "location": "Coventry, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12907",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "ejm:12908",
    "source": "ejm",
    "institution": "Johannes Kepler University Linz",
@@ -7403,33 +7280,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ejm:12910",
-   "source": "ejm",
-   "institution": "University of Liverpool",
-   "title": "Lecturer (Assistant Professor) in Economics",
-   "location": "Liverpool, GB",
-   "continent": "Europe",
-   "fields": [
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-27",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12910",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12910",
-   "text": "EQUIS, AACSB and AMBA accredited, the University of Liverpool Management School (ULMS) is an international management school based in an enterprising and vibrant, world city of culture. Formed in 2002 through the bringing together of a number of well-established departments and research groups in the University of Liverpool, the School provides a world-leading environment for research, management and leadership education. The pursuit of research which is internationally recognised for excellence in its originality, significance and rigour is central to the culture of the School, as is delivery of a strong student experience.\n\nFollowing the appointment of the School’s Dean, Professor Julia Balogun, in 2015 and supported by strong ongoing investment from the University and its ambitious strategy for 2031, ‘Liverpool 2031’, ULMS is fulfilling its vision to be a globally connected Management School whose transformative research and teaching places it at the forefront of influential knowledge leadership to better business and society.\n\nOver the last few years, ULMS has engaged in extensive recruitment of academic and professional services staff, with investment to support expansion into a state-of-the-art extension, including a trading room. The School now has 230 faculty, supported by 80 professional services colleagues. Echoing the City of Liverpool’s reputation for friendliness and an outward looking orientation, ULMS provides a strongly collegial, international and intellectually vibrant interdisciplinary environment, including a thriving doctoral research community of over 100 PhD students.\n\nIn its wider setting, the School benefits from the University of Liverpool's standing as a member of the UK's leading Russell Group research-intensive universities and from its location in a world-famous maritime city of culture and sport, which combines strong cultural activity, excellent transport links, and regional beauty with a world heritage skyline and is highly ranked on quality of life in the UK, while remaining one of Britain's most affordable cities.\n\nThe Economics Group is now seeking a Lecturer in Applied Microeconomics to help continue to build our growing strength and reputation, both in terms of research and teaching.\n\nWe are especially interested in research in empirical industrial organisation or innovation and technological change. You will possess a relevant PhD (or near completion), have research with clear potential to be published world-leading output, and be able to evidence future research plans consistent with a sustained high level of academic publications. You should have excellent teaching credentials and be able to teach on both undergraduate and postgraduate economics programmes.\n\nThe position is permanent subject to satisfactory completion of a three-year probationary period.\n\nTo apply, visit the University website at:https://tinyurl.com/59jw45rt\n\nFor informal enquiries, contact Professor Ian Burn, email: ian.burn@liverpool.ac.uk\n\nOur commitment to Equality, Diversity and Inclusion\n\nWe are committed to enhancing a workforce as diverse as our community and particularly encourage applicants who are of minoritised genders and ethnic backgrounds, living with a disability, and/or are members of the LGBTQIA+ community.",
-   "links": [
-    "https://tinyurl.com/59jw45rt"
-   ],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
   },
   {
    "id": "ejm:12911",
@@ -7568,6 +7418,32 @@
    "predoc": false,
    "senior": true,
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12919",
+   "source": "ejm",
+   "institution": "Indian Institute of Management Bangalore",
+   "title": "IIMB Dorabji Tata School of Undergraduate Studies",
+   "location": "Bangalore, IN",
+   "continent": "Asia",
+   "fields": [
+    "Macroeconomics; Monetary",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12919",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-25"
   },
   {
    "id": "ejm:12920",
@@ -7854,6 +7730,29 @@
    "first_seen": "2026-10-27"
   },
   {
+   "id": "ejm:12936",
+   "source": "ejm",
+   "institution": "University of Zurich",
+   "title": "Postdoctoral Researcher in the Economics of Children and Families",
+   "location": "Zurich, CH",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12936",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "ejm:12939",
    "source": "ejm",
    "institution": "University of Manchester",
@@ -7945,6 +7844,246 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12943",
+   "source": "ejm",
+   "institution": "Central Bank of the Republic of China (Taiwan)",
+   "title": "Economist position",
+   "location": "Taipei, TW",
+   "continent": "Asia",
+   "fields": [
+    "Finance",
+    "Macroeconomics; Monetary",
+    "Any field"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2027-01-22",
+   "posted": "2026-10-29",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12943",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12943",
+   "text": "Central Bank of the Republic of China (Taiwan) invites applications for one Staff Economist position.\n\nQualifications\n\n1. A Ph.D. degree in fields of economics or finance (obtained by July 31, 2027), particularly in macroeconomics, monetary finance, international economics, or other areas related to economic and financial analysis.\n\n2. Strong capabilities to conduct research independently and apply econometric methods.\n\n3. Advanced level of English proficiency.\n\nNotes:\n\n1. Applicants should have the R.O.C. citizenship.\n\n2. Applicants shall not be in any of the circumstances stipulated in Article 9 of the Regulations Governing Personnel Management of the Central Bank of the Republic of China (Taiwan).\n\nHow to apply\n\nFor detailed information about the application requirements and online file submission, please see the Chinese version of the job notice at https://www.cbc.gov.tw.\n\nApplication deadline is January 22, 2027.",
+   "links": [
+    "https://www.cbc.gov.tw/"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "ejm:12944",
+   "source": "ejm",
+   "institution": "University of Bonn",
+   "title": "Postdoctoral researchers in microeconomic theory",
+   "location": "Bonn, DE",
+   "continent": "Europe",
+   "fields": [
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-10-29",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12944",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12944",
+   "text": "The Institute for Microeconomics at the Department of Economics at the University of Bonn is recruiting postdoctoral researchers in microeconomic theory. The appointments will be for three years, starting in fall 2027 or earlier.\n\nThe successful candidates will join an international team of researchers at the Department of Economics at the University of Bonn. The microeconomic theory group consists of 12 faculty members and a dynamic group of postdocs. It runs a weekly seminar series with international visitors and a weekly lunch seminar with internal speakers, and regularly organizes international workshops. Further information about the institute is available at https://www.econ.uni-bonn.de/micro/en.\n\nGerman language skills are not required. The positions come with teaching obligations, which can be fulfilled in English. Salaries are regulated by the German Higher Education Law and set according to the E13 TV-L scheme. A generous research budget is available, with funds for research visits, conference travel, and research assistance.\n\nApplicants should hold a Ph.D. in economics or a related field and have a publication record or demonstrate the potential to publish in leading journals. Applications from candidates working at the intersection of economics and theoretical computer science are also welcome.\n\nPlease apply via EconJobMarket. Applications should include a cover letter, a CV, a job market paper, and at least two reference letters. Applications without formal reference letters can be considered if explained in detail in the cover letter.\n\nApplications will be reviewed starting December 1, 2026, until the positions are filled. Interview invitations will be sent out in early to mid-January, and interviews will take place in mid-January. For inquiries, please contact Prof. Florian Brandl (florian.brandl@uni-bonn.de).\n\nThe University of Bonn promotes an open, respectful, and non-discriminatory academic culture and is actively committed to equal opportunity and family friendliness. We aim to eliminate structural disadvantages and to strengthen diversity in research, teaching, and administration. Therefore, we welcome all applications, regardless of ethnic or social background, gender, sexual orientation, religion or belief, disability, or age.\n\nApplications from women and people with a documented severe disability (or equivalent status) will be given preferential consideration in accordance with the State Equality Act (LGG) NRW and Social Code (SGB) IX.",
+   "links": [
+    "https://www.econ.uni-bonn.de/micro/en"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "ejm:12946",
+   "source": "ejm",
+   "institution": "National Bank of Slovakia",
+   "title": "Senior Economist",
+   "location": "Bratislava, SK",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Environmental; Energy; Ag. Econ",
+    "Finance",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12946",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "ejm:12947",
+   "source": "ejm",
+   "institution": "Erasmus University Rotterdam",
+   "title": "Assistant Professor in Finance (tenure track)",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12947",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "ejm:12948",
+   "source": "ejm",
+   "institution": "Bocconi University",
+   "title": "1 Post-Doc Researcher - Department of Economics - Università Bocconi",
+   "location": "Milano, IT",
+   "continent": "Europe",
+   "fields": [
+    "Political Economy"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-01",
+   "posted": "2026-10-29",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12948",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12948",
+   "text": "The Economics Department of Bocconi University invites applications for a postdoctoral research position.\n\nThe successful candidate will work closely with the supervisor (Professor Morelli), providing technical assistance and contributing to at least one of the following research areas:\n\n• AI and labor market discrimination: understanding how artificial intelligence affects discrimination in labor markets and designing algorithms to address it.\n\n• The political economy of welfare reforms beyond the national level: exploring institutional arrangements, particularly at the European level, that support sustainable welfare policies and defense.\n\n• Progressive inclusion versus exclusion: developing theoretical frameworks to understand this emerging political divide and its economic and political implications.\n\nThese projects combine economic theory and algorithm design. We welcome applications from candidates who can contribute through quantitative analysis and programming, theoretical modeling, or a combination of these approaches. Candidates with either theoretical or empirical research interests are encouraged to apply.",
+   "links": [
+    "https://economics.unibocconi.eu/"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "ejm:12949",
+   "source": "ejm",
+   "institution": "Universidade Nova de Lisboa",
+   "title": "Postdoctoral Researcher — ERC Starting Grant CRACKDOWNS",
+   "location": "Cascais, PT",
+   "continent": "Europe",
+   "fields": [
+    "Development; Growth",
+    "Labor; Demographic Economics",
+    "Political Economy",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12949",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "ejm:12950",
+   "source": "ejm",
+   "institution": "Vienna University of Economics and Business",
+   "title": "PhD Students - Doctoral Program in International Business Taxation (WU Vienna)",
+   "location": "Vienna, AT",
+   "continent": "Europe",
+   "fields": [
+    "Finance",
+    "International Finance/Macro",
+    "Law and Economics",
+    "Public Economics",
+    "Other",
+    "Business Economics",
+    "Accounting"
+   ],
+   "position_types": [
+    "Doctoral student"
+   ],
+   "section": null,
+   "deadline": "2027-02-01",
+   "posted": "2026-10-29",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12950",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12950",
+   "text": "The Doctoral Program in International Business Taxation (DIBT) at WU Vienna (Vienna University of Economics and Business) invites applications from outstanding students in economics and related fields for its four-year, fully English-taught PhD program.\n\nABOUT DIBT\n\nDIBT offers a four-year PhD program in economics with a strong interdisciplinary component. It includes rigorous training in theoretical and empirical research on taxation and public finance, complemented by insights from law and business with a focus on international taxation.\n\nThe first year provides intensive coursework in public finance, international taxation, and applied econometrics, followed by research seminars, workshops, and an international research stay. All courses are taught in English.\n\nStudents are free to choose their own dissertation topics within the broad field of international business taxation. As guidance, current research at DIBT includes projects on the environmental, social, and governance (ESG) dimensions of taxation - such as the design of carbon and biodiversity taxes, the incidence and distributional effects of corporate taxation, and the real and financial effects of anti-tax-avoidance measures and global minimum taxation. Much of the research at DIBT is empirical and based on high-quality microdata, but theoretical work is equally welcome.\n\nAPPLICATION\n\nThe program is open to applicants worldwide, holding a master’s or equivalent degree in economics, law, or business. Candidates from other disciplines who have sufficient background in taxation are also welcome to apply.\n\nApplications are accepted from November 1, 2026, to February 1, 2027 via the online application tool at https://bach.wu.ac.at/z/wu/mab. Only applications submitted before the deadline can be processed. For detailed information on application requirements, visit our step-by-step guide at https://short.wu.ac.at/9fza.\n\nFINANCIAL SUPPORT\n\nAdmission is highly selective, with limited spots available. Accepted students will benefit from tuition fee waivers and excellent research conditions. Additionally, a limited number of employment contracts will be available, offering a gross annual salary of approximately €39,650 (14 x €2,832 per month before tax and social/medical deductions). WU Vienna always goes the extra mile to provide an ideal research environment.\n\nCONTACT\n\nIf you have further questions or inquiries, contact us at dibt@wu.ac.at. More details are available on our program’s website http://www.wu.ac.at/dibt/about/ and the FAQs page http://www.wu.ac.at/dibt/faq.\n\n• Apply online here: https://bach.wu.ac.at/z/wu/mab\n\n• Application deadline: February 1, 2027.",
+   "links": [
+    "https://bach.wu.ac.at/z/wu/mab",
+    "https://short.wu.ac.at/9fza",
+    "http://www.wu.ac.at/dibt/about/",
+    "http://www.wu.ac.at/dibt/faq"
+   ],
+   "predoc": true,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "ejm:12952",
+   "source": "ejm",
+   "institution": "foundry10",
+   "title": "Economics Research Assistant",
+   "location": "",
+   "continent": null,
+   "fields": [
+    "Labor; Demographic Economics",
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Research Assistant",
+    "Research Assistant (Pre-Doc)"
+   ],
+   "section": null,
+   "deadline": "2026-11-11",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12952",
+   "link_status": "ok",
+   "predoc": true,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "ejm:12953",
+   "source": "ejm",
+   "institution": "Deakin University",
+   "title": "Lecturer / Senior Lecturer in Economics",
+   "location": "Burwood, AU",
+   "continent": "Oceania",
+   "fields": [
+    "International Trade",
+    "Macroeconomics; Monetary",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Lecturer",
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-12-07",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12953",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
   },
   {
    "id": "joe:111477855",
@@ -21385,6 +21524,26 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "joe:111478438",
+   "source": "joe",
+   "institution": "University of Warwick",
+   "title": "Assistant Professor",
+   "location": "Coventry, United Kingdom",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478438",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "joe:111477839",
    "source": "joe",
    "institution": "University of Wisconsin - Madison",
@@ -22397,60 +22556,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12947",
-   "source": "ejm",
-   "institution": "Rotterdam School of Management, Erasmus University Rotterdam",
-   "title": "Assistant Professor, Finance",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12947",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "ejm:12936",
-   "source": "ejm",
-   "institution": "Jacobs Center for Productive Youth Development, University of Zurich",
-   "title": "Postdoctoral Scholar, Health; Education; Welfare/Labor; Demographic Economics",
-   "location": "Zurich, CH",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-15",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12936",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-30"
-  },
-  {
-   "id": "ejm:12884",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Dallas",
-   "title": "PhD Dissertation Fellow",
-   "location": "Dallas, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-02-28",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12884",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-29"
-  },
-  {
    "id": "ejm:12956",
    "source": "ejm",
    "institution": "UniDistance",
@@ -22467,42 +22572,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-30"
-  },
-  {
-   "id": "ejm:12949",
-   "source": "ejm",
-   "institution": "Nova School of Business and Economics, Universidade Nova de Lisboa",
-   "title": "Postdoctoral Researcher",
-   "location": "Cascais, PT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-15",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12949",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "ejm:12919",
-   "source": "ejm",
-   "institution": "Economics, Indian Institute of Management Bangalore",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Applied microeconomics/Macroeconomics; Monetary/Microeconomic theory",
-   "location": "Bangalore, IN",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-15",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12919",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-25"
   },
   {
    "id": "ejm:12955",
@@ -22523,24 +22592,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "ejm:12953",
-   "source": "ejm",
-   "institution": "Economics, Deakin University",
-   "title": "Lecturer/Senior Lecturer, International Trade/Macroeconomics; Monetary/Microeconomic theory",
-   "location": "Burwood, AU",
-   "continent": "Oceania",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-07",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12953",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-29"
-  },
-  {
    "id": "ejm:12951",
    "source": "ejm",
    "institution": "Economics and Political Science, INSEAD",
@@ -22559,40 +22610,130 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "ejm:12946",
+   "id": "ejm:12910",
    "source": "ejm",
-   "institution": "National Bank of Slovakia",
-   "title": "Senior Economist",
-   "location": "Bratislava, SK",
+   "institution": "Economics, Management School, University of Liverpool",
+   "title": "Assistant Professor, Applied microeconomics",
+   "location": "Liverpool, GB",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12946",
+   "deadline": "2026-11-30",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12910",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-28"
   },
   {
-   "id": "ejm:12907",
+   "id": "ejm:12804",
    "source": "ejm",
-   "institution": "Economics, University of Warwick",
-   "title": "Lecturer, Economics",
-   "location": "Coventry, GB",
+   "institution": "Department of Economics, Management and Quantitative Methods (DEMM), Università degli Studi di Milano",
+   "title": "Postdoctoral Scholar, Labor; Demographic Economics/Macroeconomics; Monetary/Public Economics",
+   "location": "Milan, IT",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12907",
+   "deadline": "2026-10-30",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12804",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-30"
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12587",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Atlanta",
+   "title": "Research Economist",
+   "location": "Atlanta, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-08-21",
+   "url": "https://econjobmarket.org/positions/12587",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "ejm:12588",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Atlanta",
+   "title": "Research Economist",
+   "location": "Atlanta, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-08-21",
+   "url": "https://econjobmarket.org/positions/12588",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "ejm:12589",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Atlanta",
+   "title": "Research Economist",
+   "location": "Atlanta, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-08-21",
+   "url": "https://econjobmarket.org/positions/12589",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "ejm:12698",
+   "source": "ejm",
+   "institution": "École Supérieure d’Etudes Internationales, Université Laval",
+   "title": "Assistant Professor/Associate Professor/Full Professor, International Finance/Macro/International Trade/Law and Economics/Political Economy",
+   "location": "Quebec City, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12698",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-23"
+  },
+  {
+   "id": "ejm:12477",
+   "source": "ejm",
+   "institution": "Département d’économie appliquée, Université Libre de Bruxelles",
+   "title": "Postdoctoral Fellowship in Economics (WORK4ALL-MH Project)",
+   "location": "Brussels, BE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-06-30",
+   "posted": "2026-04-30",
+   "url": "https://econjobmarket.org/positions/12477",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-08-30"
   }
  ]
 }
