@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-31T01:48:04Z",
+ "generated_at": "2026-10-31T10:35:33Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 345,
-   "site_listing": 323,
-   "site_extra": 11,
-   "not_live": 15,
+   "count": 344,
+   "site_listing": 324,
+   "site_extra": 10,
+   "not_live": 14,
    "dead": 0
   },
   "joe": {
@@ -298,28 +298,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12472",
-   "source": "ejm",
-   "institution": "Monash University",
-   "title": "Monash Economics, Associate Professor",
-   "location": "Caulfield East, AU",
-   "continent": "Oceania",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-04-25",
-   "url": "https://econjobmarket.org/positions/12472",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
    "first_seen": "2026-08-30"
   },
   {
@@ -1678,28 +1656,6 @@
    "first_seen": "2026-09-28"
   },
   {
-   "id": "ejm:12635",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of Cleveland",
-   "title": "Research Analyst",
-   "location": "Cleveland, US",
-   "continent": "North America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Research Assistant"
-   ],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-10",
-   "url": "https://econjobmarket.org/positions/12635",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-11"
-  },
-  {
    "id": "ejm:12636",
    "source": "ejm",
    "institution": "Rice University",
@@ -1972,28 +1928,6 @@
    "deadline": "2026-11-30",
    "posted": "2026-09-16",
    "url": "https://econjobmarket.org/positions/12652",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-17"
-  },
-  {
-   "id": "ejm:12653",
-   "source": "ejm",
-   "institution": "University of St. Gallen",
-   "title": "Assistant Professor (Tenure Track) in Macroeconomics",
-   "location": "St. Gallen, CH",
-   "continent": "Europe",
-   "fields": [
-    "Macroeconomics; Monetary"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-16",
-   "url": "https://econjobmarket.org/positions/12653",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -2337,28 +2271,6 @@
    "deadline": "2027-01-08",
    "posted": "2026-09-17",
    "url": "https://econjobmarket.org/positions/12672",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-17"
-  },
-  {
-   "id": "ejm:12673",
-   "source": "ejm",
-   "institution": "CNA",
-   "title": "Research Analyst (Economist)",
-   "location": "Arlington, US",
-   "continent": "North America",
-   "fields": [
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12673",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -2899,28 +2811,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "ejm:12706",
-   "source": "ejm",
-   "institution": "Université Laval",
-   "title": "Faculty Position in Global inequalities and trade",
-   "location": "Quebec City, CA",
-   "continent": "North America",
-   "fields": [
-    "International Trade"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12706",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "ejm:12707",
    "source": "ejm",
    "institution": "University of Fribourg",
@@ -3012,53 +2902,6 @@
    "deadline": "2026-11-09",
    "posted": "2026-09-26",
    "url": "https://econjobmarket.org/positions/12711",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "ejm:12712",
-   "source": "ejm",
-   "institution": "E.CA Economics",
-   "title": "Senior Associate (m/f/d) - Competition Economics Consultancy",
-   "location": "Berlin, DE",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics",
-    "Industrial Organization",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Consultant"
-   ],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12712",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-27"
-  },
-  {
-   "id": "ejm:12713",
-   "source": "ejm",
-   "institution": "Technical University of Denmark",
-   "title": "Associate Professor or DTU Tenure Track Assistant Professor",
-   "location": "Kgs. Lyngby, DK",
-   "continent": "Europe",
-   "fields": [
-    "Management, General"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12713",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -6386,16 +6229,8 @@
    "section": null,
    "deadline": "2027-10-19",
    "posted": "2026-10-20",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12866",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12866",
-   "text": "Open Rank Faculty Positions in Financial Technology Thrust, The Hong Kong University of Science and Technology (Guangzhou)\n\nDepartment: Financial Technology Thrust, The Hong Kong University of Science and Technology (Guangzhou)\n\nIn the rapidly changing environment of the 21st century, there is an increasing need to forge bridges across disciplines to address emerging challenges and problems. Through its commitment to academic excellence, The Hong Kong University of Science and Technology (HKUST) has developed world-class strengths in many subjects over its short 30-year history. With a strong track record of cultivating high-end talents and nurturing future leaders for academia and industry, HKUST is well positioned to craft an innovative approach to cross-disciplinary education and research in its Guangzhou campus, The Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), and meet the needs of an ever-evolving world.\n\nAbout HKUST Guangzhou Campus [https://hkust-gz.edu.cn/]\n\nHKUST(GZ) offers a unique educational environment with four trans-disciplinary hubs and sixteen thrust areas. HKUST(GZ) offers superb research facilities, attracting top international faculty and students to conduct curiosity-driven and goal-oriented research to address the world’s pressing scientific and technological challenges. English is the medium of instruction and administration at HKUST(GZ).\n\nHKUST(GZ) is situated in Nansha District, Guangzhou, which is right in the center of the Greater Bay Area, one of the most vibrant and dynamic regions in the world, neighboring Shenzhen, Hong Kong, and Macao.\n\nJob Posting Details\n\nThe Financial Technology Thrust of Society Hub of The Hong Kong University of Science and Technology (Guangzhou) invites applications for tenure-track/tenured positions at all ranks (Assistant Professor / Associate Professor / Professor) in all fields of FinTech. For more information about the Fintech Thrust, please visit https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology.\n\nWe seek talents in the cutting-edge research in FinTech. Applicants must have PhD degrees in FinTech or related fields, e.g., Computational Mathematics, Computer Science, Economics, Finance, Financial Engineering, Information Systems, Machine Learning, Mathematical Finance, Operations Research, Optimization, Probability, and Statistics.\n\nAreas of interest include but are not limited to:\n\nBlockchain technologies, smart contracts, and digital currencies\n\nRobo-advising, quantitative investing, and risk management\n\nMachine learning, artificial intelligence, and big data analytics in finance\n\nTechnological innovations for financial services\n\nRegulatory issues and challenges in FinTech\n\nDigital economy and financial inclusion\n\nRemuneration and Conditions of Service\n\nSalary is highly competitive. Fringe benefits include annual leave, medical and dental benefits. Housing benefits will also be provided where applicable. Appointment at Professor rank will be on substantive basis. Appointment at Associate Professor may be with or without substantiation. Initial appointment for Assistant Professor or Associate Professor (without substantiation) will normally be on a three-year contract, renewable subject to mutual agreement.\n\nApplication Procedure\n\nPlease submit the application via the HKUST/HKUST(GZ) Recruitment System (https://facrecruit.hkust.edu.hk/). You should first sign up to create your personal account.\n\nFor more information, please visit the recruitment website (https://gz-faculty-recruitment.hkust.edu.hk/).\n\nReview of applications will continue until all positions are filled.\n\nFor questions regarding the recruitment system or general inquiries, please reach us at facultyhire@hkust-gz.edu.cn. For Hub/Thrust specific questions, please address to Society Hub: gzrecruitsoc@hkust-gz.edu.cn or Fintech Thrust: ftect@hkust-gz.edu.cn with subject title of “Faculty Application to FTEC”.",
-   "links": [
-    "https://hkust-gz.edu.cn/",
-    "https://hkust-gz.edu.cn/academics/four-hubs/society-hub/financial-technology",
-    "https://facrecruit.hkust.edu.hk/",
-    "https://gz-faculty-recruitment.hkust.edu.hk/"
-   ],
+   "url": "https://econjobmarket.org/positions/12866",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-21"
@@ -7282,6 +7117,28 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ejm:12910",
+   "source": "ejm",
+   "institution": "University of Liverpool",
+   "title": "Lecturer (Assistant Professor) in Economics",
+   "location": "Liverpool, GB",
+   "continent": "Europe",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12910",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
+  },
+  {
    "id": "ejm:12911",
    "source": "ejm",
    "institution": "University of Tübingen",
@@ -8037,6 +7894,30 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "ejm:12951",
+   "source": "ejm",
+   "institution": "INSEAD",
+   "title": "Post-Doctoral Researcher",
+   "location": "Fontainebleau, FR",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12951",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "ejm:12952",
    "source": "ejm",
    "institution": "foundry10",
@@ -8084,6 +7965,133 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "ejm:12954",
+   "source": "ejm",
+   "institution": "Nazarbayev University",
+   "title": "Assistant Professor of Economics",
+   "location": "Astana, KZ",
+   "continent": "Asia",
+   "fields": [
+    "International Finance/Macro"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12954",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ejm:12955",
+   "source": "ejm",
+   "institution": "University of Groningen",
+   "title": "Postdoctoral Researcher in Econometrics and Causal Inference",
+   "location": "Groningen, NL",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Statistics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12955",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "ejm:12956",
+   "source": "ejm",
+   "institution": "UniDistance",
+   "title": "Postdoc in Experimental and Behavioural Economics",
+   "location": "Brig, CH",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Experimental Economics",
+    "Industrial Organization",
+    "Law and Economics",
+    "Behavioral Economics",
+    "Political Economy",
+    "Management, General",
+    "Organizational Behavior"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12956",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "ejm:12957",
+   "source": "ejm",
+   "institution": "University of Amsterdam",
+   "title": "Assistant (tenure track) and/or Associate Professor in Financial Econometrics",
+   "location": "AMSTERDAM, NL",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12957",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ejm:12958",
+   "source": "ejm",
+   "institution": "University of Amsterdam",
+   "title": "Assistant (tenure track) or Associate Professor in Macroeconomics",
+   "location": "AMSTERDAM, NL",
+   "continent": "Europe",
+   "fields": [
+    "Development; Growth",
+    "Environmental; Energy; Ag. Econ",
+    "International Finance/Macro",
+    "International Trade",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-30",
+   "url": "https://econjobmarket.org/positions/12958",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-31"
   },
   {
    "id": "joe:111477855",
@@ -22919,94 +22927,22 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12956",
+   "id": "ejm:12472",
    "source": "ejm",
-   "institution": "UniDistance",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Environmental; Energy; Ag. Econ/Experimental Economics/Industrial Organization/Law and Economics/Management, General/Organizational Behavior/Politic",
-   "location": "Brig, CH",
-   "continent": "Europe",
+   "institution": "Department of Economics, Monash University",
+   "title": "Monash Economics, Associate Professor",
+   "location": "Caulfield East, AU",
+   "continent": "Oceania",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-10-30",
-   "url": "https://econjobmarket.org/positions/12956",
+   "deadline": "2026-10-31",
+   "posted": "2026-04-25",
+   "url": "https://econjobmarket.org/positions/12472",
    "link_status": "ok",
    "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-30"
-  },
-  {
-   "id": "ejm:12957",
-   "source": "ejm",
-   "institution": "Amsterdam School of Economics, University of Amsterdam",
-   "title": "Assistant Professor/Associate Professor, Econometrics",
-   "location": "Amsterdam, NL",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-30",
-   "url": "https://econjobmarket.org/positions/12957",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-31"
-  },
-  {
-   "id": "ejm:12958",
-   "source": "ejm",
-   "institution": "Amsterdam School of Economics, University of Amsterdam",
-   "title": "Assistant Professor/Associate Professor, Development; Growth/Environmental; Energy; Ag. Econ/International Finance/Macro/International Trade/Labor; Demographic Economics/Macroeconomics; Monet",
-   "location": "Amsterdam, NL",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-30",
-   "url": "https://econjobmarket.org/positions/12958",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-31"
-  },
-  {
-   "id": "ejm:12955",
-   "source": "ejm",
-   "institution": "Faculty of Economics and Business, University of Groningen",
-   "title": "Postdoctoral Scholar, Econometrics/Statistics",
-   "location": "Groningen, NL",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-15",
-   "posted": "2026-10-30",
-   "url": "https://econjobmarket.org/positions/12955",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-30"
-  },
-  {
-   "id": "ejm:12951",
-   "source": "ejm",
-   "institution": "Economics and Political Science, INSEAD",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics/Microeconomic theory",
-   "location": "Fontainebleau, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-10-30",
-   "url": "https://econjobmarket.org/positions/12951",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-29"
+   "senior": true,
+   "first_seen": "2026-08-30"
   },
   {
    "id": "ejm:12959",
@@ -23021,42 +22957,6 @@
    "deadline": "2026-11-29",
    "posted": "2026-10-31",
    "url": "https://econjobmarket.org/positions/12959",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-31"
-  },
-  {
-   "id": "ejm:12910",
-   "source": "ejm",
-   "institution": "Economics, Management School, University of Liverpool",
-   "title": "Assistant Professor, Applied microeconomics",
-   "location": "Liverpool, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-30",
-   "url": "https://econjobmarket.org/positions/12910",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
-  },
-  {
-   "id": "ejm:12954",
-   "source": "ejm",
-   "institution": "Economics, Nazarbayev University",
-   "title": "Assistant Professor, International Finance/Macro",
-   "location": "Astana, KZ",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-30",
-   "url": "https://econjobmarket.org/positions/12954",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -23115,6 +23015,96 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ejm:12653",
+   "source": "ejm",
+   "institution": "School of Finance, University of St. Gallen",
+   "title": "Assistant Professor, Macroeconomics; Monetary",
+   "location": "St. Gallen, CH",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-16",
+   "url": "https://econjobmarket.org/positions/12653",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-17"
+  },
+  {
+   "id": "ejm:12673",
+   "source": "ejm",
+   "institution": "CNA",
+   "title": "Research Analyst (Economist)",
+   "location": "Arlington, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12673",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-17"
+  },
+  {
+   "id": "ejm:12706",
+   "source": "ejm",
+   "institution": "École Supérieure d’Etudes Internationales, Université Laval",
+   "title": "Assistant Professor, International Trade",
+   "location": "Quebec City, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12706",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "ejm:12712",
+   "source": "ejm",
+   "institution": "E.CA Economics",
+   "title": "Consultant, Applied microeconomics/Econometrics/Industrial Organization",
+   "location": "Berlin, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12712",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-27"
+  },
+  {
+   "id": "ejm:12713",
+   "source": "ejm",
+   "institution": "Management, Technical University of Denmark",
+   "title": "Assistant Professor/Associate Professor, Management, General",
+   "location": "Kgs. Lyngby, DK",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-31",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12713",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-26"
   }
  ]
 }
