@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-31T20:18:05Z",
+ "generated_at": "2026-11-01T01:27:19Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 344,
-   "site_listing": 324,
-   "site_extra": 10,
-   "not_live": 14,
+   "count": 338,
+   "site_listing": 320,
+   "site_extra": 4,
+   "not_live": 12,
    "dead": 0
   },
   "joe": {
@@ -6901,13 +6901,8 @@
    "section": null,
    "deadline": "2026-11-30",
    "posted": "2026-10-22",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12900",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12900",
-   "text": "The Department of Economics at Bocconi University invites applications for 1 Post-doc position at the intersection of applied AI, political economy, and entrepreneurial learning. The anticipated start date is 1 January 2027.\n\nThe researcher will develop and validate an AI system that transforms decision narratives into explicit, testable causal models, identifying proposed actions, underlying mechanisms, expected outcomes, supporting evidence, and assumptions. The work will involve building a language-model-based extraction pipeline, validating its outputs against an expert-coded benchmark, and developing a prototype interface or API.\n\nResearch applications will examine how politicians and experts construct causal narratives and how successful narratives originate and spread, with further applications to entrepreneurial decision-making. The researcher will lead quantitative and qualitative analyses, conduct a user pilot, and contribute to academic publications and technology transfer.\n\nThe successful candidate will work closely with the PI and project team, benefiting from the expertise of Prof. Alfonso Gambardella on entrepreneurship and technology transfer and Abhinav Pandey on AI-based narrative extraction and validation. Part of the work will take place at Bocconi’s Artificial Intelligence for the Social Sciences (AISS).",
-   "links": [
-    "https://economics.unibocconi.eu/"
-   ],
+   "url": "https://econjobmarket.org/positions/12900",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-23"
@@ -7821,13 +7816,8 @@
    "section": null,
    "deadline": "2027-01-01",
    "posted": "2026-10-29",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12948",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12948",
-   "text": "The Economics Department of Bocconi University invites applications for a postdoctoral research position.\n\nThe successful candidate will work closely with the supervisor (Professor Morelli), providing technical assistance and contributing to at least one of the following research areas:\n\n• AI and labor market discrimination: understanding how artificial intelligence affects discrimination in labor markets and designing algorithms to address it.\n\n• The political economy of welfare reforms beyond the national level: exploring institutional arrangements, particularly at the European level, that support sustainable welfare policies and defense.\n\n• Progressive inclusion versus exclusion: developing theoretical frameworks to understand this emerging political divide and its economic and political implications.\n\nThese projects combine economic theory and algorithm design. We welcome applications from candidates who can contribute through quantitative analysis and programming, theoretical modeling, or a combination of these approaches. Candidates with either theoretical or empirical research interests are encouraged to apply.",
-   "links": [
-    "https://economics.unibocconi.eu/"
-   ],
+   "url": "https://econjobmarket.org/positions/12948",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-30"
@@ -22927,24 +22917,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12472",
-   "source": "ejm",
-   "institution": "Department of Economics, Monash University",
-   "title": "Monash Economics, Associate Professor",
-   "location": "Caulfield East, AU",
-   "continent": "Oceania",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-04-25",
-   "url": "https://econjobmarket.org/positions/12472",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-08-30"
-  },
-  {
    "id": "ejm:12959",
    "source": "ejm",
    "institution": "Department of Economics, Macquarie University",
@@ -23015,96 +22987,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-31"
-  },
-  {
-   "id": "ejm:12653",
-   "source": "ejm",
-   "institution": "School of Finance, University of St. Gallen",
-   "title": "Assistant Professor, Macroeconomics; Monetary",
-   "location": "St. Gallen, CH",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-16",
-   "url": "https://econjobmarket.org/positions/12653",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-17"
-  },
-  {
-   "id": "ejm:12673",
-   "source": "ejm",
-   "institution": "CNA",
-   "title": "Research Analyst (Economist)",
-   "location": "Arlington, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12673",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-17"
-  },
-  {
-   "id": "ejm:12706",
-   "source": "ejm",
-   "institution": "École Supérieure d’Etudes Internationales, Université Laval",
-   "title": "Assistant Professor, International Trade",
-   "location": "Quebec City, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12706",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "ejm:12712",
-   "source": "ejm",
-   "institution": "E.CA Economics",
-   "title": "Consultant, Applied microeconomics/Econometrics/Industrial Organization",
-   "location": "Berlin, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12712",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-27"
-  },
-  {
-   "id": "ejm:12713",
-   "source": "ejm",
-   "institution": "Management, Technical University of Denmark",
-   "title": "Assistant Professor/Associate Professor, Management, General",
-   "location": "Kgs. Lyngby, DK",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-31",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12713",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
   }
  ]
 }
