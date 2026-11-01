@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-01T01:27:19Z",
+ "generated_at": "2026-11-01T11:29:36Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 338,
+   "count": 337,
    "site_listing": 320,
-   "site_extra": 4,
+   "site_extra": 5,
    "not_live": 12,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 689
+   "count": 686
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -1225,83 +1225,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-01"
-  },
-  {
-   "id": "ejm:12613",
-   "source": "ejm",
-   "institution": "Duke Kunshan University",
-   "title": "Faculty Position in Behavioral Economics",
-   "location": "Kunshan, CN",
-   "continent": "Asia",
-   "fields": [
-    "Behavioral Economics"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12613",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-03"
-  },
-  {
-   "id": "ejm:12614",
-   "source": "ejm",
-   "institution": "Duke Kunshan University",
-   "title": "Faculty Position in Applied Economics",
-   "location": "Kunshan, CN",
-   "continent": "Asia",
-   "fields": [
-    "Environmental; Energy; Ag. Econ",
-    "Labor; Demographic Economics",
-    "Health; Education; Welfare",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12614",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-03"
-  },
-  {
-   "id": "ejm:12615",
-   "source": "ejm",
-   "institution": "Duke Kunshan University",
-   "title": "Faculty Position (Teaching Stream) in Economics",
-   "location": "Kunshan, CN",
-   "continent": "Asia",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor",
-    "Lecturer",
-    "Senior Lecturer"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12615",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-03"
   },
   {
    "id": "ejm:12616",
@@ -2641,29 +2564,6 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "ejm:12697",
-   "source": "ejm",
-   "institution": "University of Southern Denmark",
-   "title": "PhD scholarships in Economics at the Department of Economics, University of Sout",
-   "location": "Odense M, DK",
-   "continent": "Europe",
-   "fields": [
-    "Health; Education; Welfare",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Research Assistant"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-09-23",
-   "url": "https://econjobmarket.org/positions/12697",
-   "link_status": "ok",
-   "predoc": true,
-   "senior": false,
-   "first_seen": "2026-09-24"
-  },
-  {
    "id": "ejm:12699",
    "source": "ejm",
    "institution": "Goethe-Universität Frankfurt am Main",
@@ -3027,30 +2927,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-30"
-  },
-  {
-   "id": "ejm:12721",
-   "source": "ejm",
-   "institution": "University of Queensland",
-   "title": "Lecturer / Senior Lecturer in Economics",
-   "location": "St Lucia, AU",
-   "continent": "Oceania",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Lecturer",
-    "Senior Lecturer"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-09-29",
-   "url": "https://econjobmarket.org/positions/12721",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-29"
   },
   {
    "id": "ejm:12722",
@@ -4143,30 +4019,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12772",
-   "source": "ejm",
-   "institution": "University of Helsinki",
-   "title": "Professor/Tenure Track Assistant/Associate Professor in Agricultural Economics",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [
-    "Other"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-10-08",
-   "url": "https://econjobmarket.org/positions/12772",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-15"
   },
   {
    "id": "ejm:12773",
@@ -8084,6 +7936,96 @@
    "first_seen": "2026-10-31"
   },
   {
+   "id": "ejm:12959",
+   "source": "ejm",
+   "institution": "Macquarie University",
+   "title": "Postdoctoral Research Fellow",
+   "location": "North Ryde, AU",
+   "continent": "Oceania",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-29",
+   "posted": "2026-10-31",
+   "url": "https://econjobmarket.org/positions/12959",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ejm:12960",
+   "source": "ejm",
+   "institution": "University of Oxford",
+   "title": "Associate Professorship in Economics",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-31",
+   "url": "https://econjobmarket.org/positions/12960",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ejm:12962",
+   "source": "ejm",
+   "institution": "London School of Economics and Political Science",
+   "title": "Assistant Professor in Management",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Management, General"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-31",
+   "url": "https://econjobmarket.org/positions/12962",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ejm:12963",
+   "source": "ejm",
+   "institution": "Université du Québec à Montréal (UQAM)",
+   "title": "Tenure-Track Professor Positions in Corporate finance and Investments",
+   "location": "Montréal, CA",
+   "continent": "North America",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-10-31",
+   "url": "https://econjobmarket.org/positions/12963",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-31"
+  },
+  {
    "id": "joe:111477855",
    "source": "joe",
    "institution": "Ahmedabad University",
@@ -11024,68 +10966,6 @@
    "first_seen": "2026-08-30"
   },
   {
-   "id": "joe:111477705",
-   "source": "joe",
-   "institution": "Federal Reserve Bank of Atlanta",
-   "title": "Research Economist",
-   "location": "Atlanta, United States",
-   "continent": "North America",
-   "fields": [
-    "E0 General",
-    "E5 Monetary Policy, Central Banking, and the Supply of Money and Credit",
-    "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-10-30",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477705",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "joe:111477708",
-   "source": "joe",
-   "institution": "Federal Reserve Bank of Atlanta",
-   "title": "Research Economist",
-   "location": "Atlanta, United States",
-   "continent": "North America",
-   "fields": [
-    "J0 General"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-10-30",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477708",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "joe:111477709",
-   "source": "joe",
-   "institution": "Federal Reserve Bank of Atlanta",
-   "title": "Research Economist",
-   "location": "Atlanta, United States",
-   "continent": "North America",
-   "fields": [
-    "G5 Household Finance"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-10-30",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477709",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
-  },
-  {
    "id": "joe:111478292",
    "source": "joe",
    "institution": "Federal Reserve Bank of Boston",
@@ -12493,26 +12373,6 @@
    "first_seen": "2026-09-17"
   },
   {
-   "id": "joe:111478049",
-   "source": "joe",
-   "institution": "Inter-American Development Bank",
-   "title": "Deputy Chief Economist",
-   "location": "Washington, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-10-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478049",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-28"
-  },
-  {
    "id": "joe:111478277",
    "source": "joe",
    "institution": "Inter-American Development Bank",
@@ -13059,6 +12919,37 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-06"
+  },
+  {
+   "id": "joe:111478383",
+   "source": "joe",
+   "institution": "Korea Information Society Development Institute(KISDI)",
+   "title": "Associate Fellow",
+   "location": "Jincheon-gun, Korea, Republic Of",
+   "continent": "Asia",
+   "fields": [
+    "A1 General Economics",
+    "C Mathematical and Quantitative Methods",
+    "C8 Data Collection and Data Estimation Methodology; Computer Programs",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics",
+    "H Public Economics",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics",
+    "O Economic Development, Innovation, Technological Change, and Growth"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478383",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-01"
   },
   {
    "id": "joe:111478385",
@@ -17615,26 +17506,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-08"
-  },
-  {
-   "id": "joe:111478039",
-   "source": "joe",
-   "institution": "Technical University of Denmark",
-   "title": "Associate Professor or DTU Tenure Track Assistant Professor",
-   "location": "Copenhagen, Denmark",
-   "continent": "Europe",
-   "fields": [
-    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-10-31",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478039",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-02"
   },
   {
    "id": "joe:111478215",
@@ -22749,6 +22620,26 @@
    "first_seen": "2026-10-15"
   },
   {
+   "id": "joe:111478410",
+   "source": "joe",
+   "institution": "Yale University",
+   "title": "Postdoctoral Associate, Economic History Program",
+   "location": "New Haven, United States",
+   "continent": "North America",
+   "fields": [
+    "N0 General"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478410",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-01"
+  },
+  {
    "id": "joe:111477963",
    "source": "joe",
    "institution": "Yale University",
@@ -22917,76 +22808,94 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12959",
+   "id": "ejm:12613",
    "source": "ejm",
-   "institution": "Department of Economics, Macquarie University",
-   "title": "Postdoctoral Scholar, Macroeconomics; Monetary",
-   "location": "North Ryde, AU",
+   "institution": "Duke Kunshan University",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Behavioral Economics",
+   "location": "Kunshan, CN",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-09-02",
+   "url": "https://econjobmarket.org/positions/12613",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-03"
+  },
+  {
+   "id": "ejm:12614",
+   "source": "ejm",
+   "institution": "Duke Kunshan University",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Applied microeconomics/Environmental; Ag. Econ./Health; Education; Welfare/Labor; Demographic Economics",
+   "location": "Kunshan, CN",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-09-02",
+   "url": "https://econjobmarket.org/positions/12614",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-03"
+  },
+  {
+   "id": "ejm:12615",
+   "source": "ejm",
+   "institution": "Duke Kunshan University",
+   "title": "Assistant Professor/Associate Professor/Full Professor/Lecturer/Senior Lecturer, Economics",
+   "location": "Kunshan, CN",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-09-02",
+   "url": "https://econjobmarket.org/positions/12615",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-03"
+  },
+  {
+   "id": "ejm:12721",
+   "source": "ejm",
+   "institution": "School of Economics, University of Queensland",
+   "title": "Assistant Professor/Lecturer/Senior Lecturer, Economics",
+   "location": "St Lucia, AU",
    "continent": "Oceania",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-29",
-   "posted": "2026-10-31",
-   "url": "https://econjobmarket.org/positions/12959",
+   "deadline": "2026-11-01",
+   "posted": "2026-09-29",
+   "url": "https://econjobmarket.org/positions/12721",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-09-29"
   },
   {
-   "id": "ejm:12960",
+   "id": "ejm:12772",
    "source": "ejm",
-   "institution": "Economics, University of Oxford",
-   "title": "Associate Professor, Economics",
-   "location": "Oxford, GB",
+   "institution": "Faculty of Agriculture and Forestry, University of Helsinki",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "Helsinki, FI",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-31",
-   "url": "https://econjobmarket.org/positions/12960",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-31"
-  },
-  {
-   "id": "ejm:12963",
-   "source": "ejm",
-   "institution": "École des sciences de la gestion, Université du Québec à Montréal (UQAM)",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
-   "location": "Montréal, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-10-31",
-   "url": "https://econjobmarket.org/positions/12963",
+   "deadline": "2026-11-01",
+   "posted": "2026-10-08",
+   "url": "https://econjobmarket.org/positions/12772",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-31"
-  },
-  {
-   "id": "ejm:12962",
-   "source": "ejm",
-   "institution": "Department of Management, London School of Economics and Political Science",
-   "title": "Assistant Professor, Management, General",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-31",
-   "url": "https://econjobmarket.org/positions/12962",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-31"
+   "first_seen": "2026-10-15"
   }
  ]
 }
