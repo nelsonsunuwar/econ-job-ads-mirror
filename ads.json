@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-02T01:47:50Z",
+ "generated_at": "2026-11-02T12:51:43Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 333,
-   "site_listing": 316,
-   "site_extra": 1,
+   "count": 334,
+   "site_listing": 317,
+   "site_extra": 6,
    "not_live": 12,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 686
+   "count": 685
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -644,37 +644,6 @@
    "first_seen": "2026-08-30"
   },
   {
-   "id": "ejm:12569",
-   "source": "ejm",
-   "institution": "OECD (Organisation for Economic Co-operation and Development)",
-   "title": "Junior Economists/ Economists",
-   "location": "Paris, FR",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics",
-    "International Finance/Macro",
-    "International Trade",
-    "Labor; Demographic Economics",
-    "Macroeconomics; Monetary",
-    "Public Economics",
-    "Business Economics",
-    "Political Economy",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Other academic",
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-08-07",
-   "url": "https://econjobmarket.org/positions/12569",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
    "id": "ejm:12570",
    "source": "ejm",
    "institution": "Northwestern University",
@@ -785,53 +754,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": true,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12579",
-   "source": "ejm",
-   "institution": "City University of New York Graduate Center",
-   "title": "Research Associate (Postdoctoral Scholar) in Wealth Inequality",
-   "location": "New York, US",
-   "continent": "North America",
-   "fields": [
-    "Business Economics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar",
-    "Research Assistant"
-   ],
-   "section": null,
-   "deadline": "2026-11-02",
-   "posted": "2026-08-15",
-   "url": "https://econjobmarket.org/positions/12579",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12580",
-   "source": "ejm",
-   "institution": "City University of New York Graduate Center",
-   "title": "Research Associate (Postdoctoral Scholar) in Economic Inequality",
-   "location": "New York, US",
-   "continent": "North America",
-   "fields": [
-    "Economic History",
-    "Business Economics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar",
-    "Research Assistant"
-   ],
-   "section": null,
-   "deadline": "2026-11-02",
-   "posted": "2026-08-15",
-   "url": "https://econjobmarket.org/positions/12580",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
    "first_seen": "2026-08-30"
   },
   {
@@ -2634,33 +2556,6 @@
    "first_seen": "2026-09-28"
   },
   {
-   "id": "ejm:12703",
-   "source": "ejm",
-   "institution": "University of Lisbon",
-   "title": "Two Assistant Professor Positions in Economics (any field) at ISEG - Lisbon",
-   "location": "Lisbon, PT",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-07",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12703",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12703",
-   "text": "The Department of Economics at the Lisbon School of Economics and Management (ISEG) invites applications for two assistant professor positions in economics in any field. The positions have a fixed term of 2 years and can be renewed for another 2 up to a maximum of 4 years. Due to legal requirements of civil servant status, tenure-track and tenured positions have to be conducted in a public administration concours. The university is in the process of opening several positions in the coming years to which the candidates will be invited to apply. Candidates who wish to have more information about this procedure should contact the chair of the recruitment committee (contact below).\n\nCandidates should have a keen interest in economics, show outstanding research potential, and are expected to teach in our bachelor, master, and/or PhD program in Economics. Applicants should hold a PhD degree upon appointment. Junior assistant professors and postdocs are also invited to apply. We especially encourage women to apply.\n\nThe Department of Economics at ISEG covers different areas such as Microeconomics, Macroeconomics, Applied Economics, Public Economics, International Economics and Development. It has recently hired several young faculty members and offers a collegial work environment to promote research excellence and fruitful collaborations with faculty members.\n\nKnowledge of Portuguese is not required. Teaching can be conducted in English or Portuguese.\n\nWe offer competitive European salaries. Researchers of any nationality that have lived outside Portugal for the last 5 years can apply for a special tax regime with a flat 20% income tax rate.\n\nApplication instructions:\n\nTo apply, please create an applicant account at econjobmarket.org, and upload a cover letter, CV, a job market paper, and three recommendation letters (required). You may also upload research and teaching statements and additional papers (optional).\n\nInitial interviews will take place online during the 2025 European Job Market for Economists, from December 13-17, 2025.\n\nFor further information, please contact the chair of the recruitment committee, Carlos Daniel Santos (carlos.santos@iseg.ulisboa.pt).\n\nApplication procedure\n\nTo apply for this position, log in and choose your Applicant role (or, if you have no account, create one).",
-   "links": [
-    "https://www.iseg.ulisboa.pt/aquila/departamentos/EC?locale=en"
-   ],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "ejm:12704",
    "source": "ejm",
    "institution": "University of Virginia",
@@ -3665,28 +3560,6 @@
    "url": "https://econjobmarket.org/positions/12755",
    "link_status": "ok",
    "predoc": true,
-   "senior": false,
-   "first_seen": "2026-10-03"
-  },
-  {
-   "id": "ejm:12756",
-   "source": "ejm",
-   "institution": "Syracuse University",
-   "title": "Assistant Professor of Economics",
-   "location": "Syracuse, US",
-   "continent": "North America",
-   "fields": [
-    "Econometrics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-10-03",
-   "url": "https://econjobmarket.org/positions/12756",
-   "link_status": "ok",
-   "predoc": false,
    "senior": false,
    "first_seen": "2026-10-03"
   },
@@ -7285,6 +7158,31 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12927",
+   "source": "ejm",
+   "institution": "Università di Bologna",
+   "title": "Tenure-Track Assistant Professor in Finance",
+   "location": "Bologna, IT",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-01",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12927",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12927",
+   "text": "The Department of Management at the University of Bologna invites expressions of interest for a tenure-track Assistant Professor position in Finance, with an expected starting date in 2027.\n\nWe welcome candidates working in all areas of Finance.\n\nCandidates must have been awarded their PhD by the deadline for the formal application and should provide clear evidence of a well-developed research trajectory, including publications, accepted papers, revise-and-resubmit, or other research outputs demonstrating the ability to publish in high-quality international journals.\n\nCandidates are expected to have a strong commitment to research and to contribute actively to the Department’s international research environment. They should also be able to teach Finance courses at undergraduate, graduate, and/or postgraduate level in English. Knowledge of Italian is not required, and applications from candidates of all nationalities are welcome.\n\nPosition and research environment\n\nThe position will be offered under the Italian RTT (Ricercatore a Tempo Determinato in Tenure Track) framework.\n\nThe RTT is a six-year tenure-track appointment. Starting from the end of the third year, the holder may be evaluated for promotion to Associate Professor, subject to the applicable national qualification and University of Bologna requirements.\n\nThe position offers favorable conditions for research. Under University of Bologna regulations, full-time RTT faculty have an institutional teaching commitment of 60 contact hours per academic year. Research funding is provided with the position, and additional compensation opportunities may be available through teaching activities at Bologna Business School.\n\nThe Finance group within the Department of Management provides an active and internationally oriented research environment. Faculty research covers areas including corporate finance, household finance, financial markets, corporate governance, and related fields. Members of the group have published in leading international journals including the Journal of Financial Economics, Journal of Financial and Quantitative Analysis, and Journal of Corporate Finance.\n\nSalary is determined according to the national framework for Italian university faculty. Eligible researchers relocating to Italy may also benefit from a highly favorable tax regime for academics moving from abroad, subject to individual eligibility requirements. Further information on compensation and applicable tax benefits is available through the University of Bologna.\n\nThe University of Bologna, founded in 1088, is widely recognized as the oldest university in the Western world and offers a large and internationally oriented academic environment in one of Italy’s major university cities.\n\nRecruitment process\n\nThis announcement is an expression of interest associated with the international academic job market. Its purpose is to identify potential candidates and facilitate preliminary discussions ahead of the University's formal public selection procedure.\n\nPreliminary online interviews are expected to take place during the European Job Market for Economists, 14–17 December 2026.\n\nThe University of Bologna is expected to publish the official call for the RTT position in late November 2026, with an application deadline falling after the European Job Market interviews. Candidates wishing to be considered for the appointment must submit a separate application through the University's official application system, in accordance with the requirements and deadlines specified in the public call.\n\nParticipation in the international job market interviews is not a requirement for, and does not determine the outcome of, the formal selection procedure, which will be open to all eligible applicants. The successful candidate will be selected exclusively through the University's official public competition.\n\nThe formal selection will be conducted by a duly appointed selection committee in accordance with Italian law and University of Bologna regulations. It will include an evaluation of candidates' qualifications, curriculum vitae, and research output, followed, for candidates admitted to the final stage, by a public discussion of their research and qualifications, which may take the form of a research seminar.\n\nThe formal selection procedure is expected to be completed by the end of February 2027, subject to the applicable procedural requirements.\n\nExpression of interest\n\nCandidates should submit through EconJobMarket:\n\n• \na cover letter;\n\n• \na curriculum vitae;\n\n• \na job market paper or main research paper;\n\n• \nadditional research papers, where appropriate;\n\n• \ntwo confidential letters of recommendation.\n\nExpressions of interest may be submitted until 30 November 2026.\n\nFor further information about the position, candidates may contact Mascia Bedendo (mascia.bedendo@unibo.it).",
+   "links": [],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-02"
   },
   {
    "id": "ejm:12928",
@@ -13887,40 +13785,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-12"
-  },
-  {
-   "id": "joe:111477887",
-   "source": "joe",
-   "institution": "National Association of Insurance Commissioners (NAIC)",
-   "title": "Postdoctoral Research Positions",
-   "location": "Kansas City, United States",
-   "continent": "North America",
-   "fields": [
-    "C5 Econometric Modeling",
-    "C8 Data Collection and Data Estimation Methodology; Computer Programs",
-    "C9 Design of Experiments",
-    "D8 Information, Knowledge, and Uncertainty",
-    "D9 Micro-Based Behavioral Economics",
-    "E4 Money and Interest Rates",
-    "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",
-    "G0 General",
-    "G2 Financial Institutions and Services",
-    "G4 Behavioral Finance",
-    "G5 Household Finance",
-    "I1 Health",
-    "J1 Demographic Economics",
-    "N4 Government, War, Law, International Relations, and Regulation",
-    "Q4 Energy"
-   ],
-   "position_types": [],
-   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
-   "deadline": "2026-10-01",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477887",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-21"
   },
   {
    "id": "joe:111478323",
@@ -22808,6 +22672,24 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:12703",
+   "source": "ejm",
+   "institution": "Lisbon School of Economics and Management (ISEG), University of Lisbon",
+   "title": "Assistant Professor, Economics",
+   "location": "Lisbon, PT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-11-02",
+   "url": "https://econjobmarket.org/positions/12703",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-08"
+  },
+  {
    "id": "ejm:12966",
    "source": "ejm",
    "institution": "Department of Accounting and Corporate Finance, LUISS Guido Carli",
@@ -22824,6 +22706,78 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-02"
+  },
+  {
+   "id": "ejm:12569",
+   "source": "ejm",
+   "institution": "Economics Department, OECD (Organisation for Economic Co-operation and Development)",
+   "title": "Junior Economists/ Economists",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-01",
+   "posted": "2026-08-07",
+   "url": "https://econjobmarket.org/positions/12569",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "ejm:12579",
+   "source": "ejm",
+   "institution": "Stone Center on Socio-Economic Inequality, City University of New York Graduate Center",
+   "title": "Postdoctoral Scholar/Research Assistant, Business Economics",
+   "location": "New York, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-02",
+   "posted": "2026-08-15",
+   "url": "https://econjobmarket.org/positions/12579",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "ejm:12580",
+   "source": "ejm",
+   "institution": "Stone Center on Socio-Economic Inequality, City University of New York Graduate Center",
+   "title": "Postdoctoral Scholar/Research Assistant, Business Economics/Economic History",
+   "location": "New York, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-02",
+   "posted": "2026-08-15",
+   "url": "https://econjobmarket.org/positions/12580",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "ejm:12756",
+   "source": "ejm",
+   "institution": "Economics, Syracuse University",
+   "title": "Assistant Professor, Econometrics",
+   "location": "Syracuse, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-10-30",
+   "posted": "2026-10-03",
+   "url": "https://econjobmarket.org/positions/12756",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-03"
   }
  ]
 }
