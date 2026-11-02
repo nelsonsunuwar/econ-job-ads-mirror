@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-02T12:51:43Z",
+ "generated_at": "2026-11-02T23:41:03Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 334,
-   "site_listing": 317,
-   "site_extra": 6,
-   "not_live": 12,
+   "count": 335,
+   "site_listing": 319,
+   "site_extra": 8,
+   "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 685
+   "count": 696
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -7477,33 +7477,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "ejm:12944",
-   "source": "ejm",
-   "institution": "University of Bonn",
-   "title": "Postdoctoral researchers in microeconomic theory",
-   "location": "Bonn, DE",
-   "continent": "Europe",
-   "fields": [
-    "Microeconomic theory"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2027-02-28",
-   "posted": "2026-10-29",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12944",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12944",
-   "text": "The Institute for Microeconomics at the Department of Economics at the University of Bonn is recruiting postdoctoral researchers in microeconomic theory. The appointments will be for three years, starting in fall 2027 or earlier.\n\nThe successful candidates will join an international team of researchers at the Department of Economics at the University of Bonn. The microeconomic theory group consists of 12 faculty members and a dynamic group of postdocs. It runs a weekly seminar series with international visitors and a weekly lunch seminar with internal speakers, and regularly organizes international workshops. Further information about the institute is available at https://www.econ.uni-bonn.de/micro/en.\n\nGerman language skills are not required. The positions come with teaching obligations, which can be fulfilled in English. Salaries are regulated by the German Higher Education Law and set according to the E13 TV-L scheme. A generous research budget is available, with funds for research visits, conference travel, and research assistance.\n\nApplicants should hold a Ph.D. in economics or a related field and have a publication record or demonstrate the potential to publish in leading journals. Applications from candidates working at the intersection of economics and theoretical computer science are also welcome.\n\nPlease apply via EconJobMarket. Applications should include a cover letter, a CV, a job market paper, and at least two reference letters. Applications without formal reference letters can be considered if explained in detail in the cover letter.\n\nApplications will be reviewed starting December 1, 2026, until the positions are filled. Interview invitations will be sent out in early to mid-January, and interviews will take place in mid-January. For inquiries, please contact Prof. Florian Brandl (florian.brandl@uni-bonn.de).\n\nThe University of Bonn promotes an open, respectful, and non-discriminatory academic culture and is actively committed to equal opportunity and family friendliness. We aim to eliminate structural disadvantages and to strengthen diversity in research, teaching, and administration. Therefore, we welcome all applications, regardless of ethnic or social background, gender, sexual orientation, religion or belief, disability, or age.\n\nApplications from women and people with a documented severe disability (or equivalent status) will be given preferential consideration in accordance with the State Equality Act (LGG) NRW and Social Code (SGB) IX.",
-   "links": [
-    "https://www.econ.uni-bonn.de/micro/en"
-   ],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-30"
-  },
-  {
    "id": "ejm:12946",
    "source": "ejm",
    "institution": "National Bank of Slovakia",
@@ -11046,6 +11019,29 @@
    "first_seen": "2026-10-06"
   },
   {
+   "id": "joe:111478422",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Minneapolis",
+   "title": "Economist, Analyst",
+   "location": "Minneapolis, United States; Helena, United States",
+   "continent": "North America",
+   "fields": [
+    "D Microeconomics",
+    "G Financial Economics",
+    "H Public Economics",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478422",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "joe:111477730",
    "source": "joe",
    "institution": "Federal Reserve Bank of New York",
@@ -11064,6 +11060,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-31"
+  },
+  {
+   "id": "joe:111478417",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Richmond",
+   "title": "Economist",
+   "location": "Richmond, United States",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics",
+    "J Labor and Demographic Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478417",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "joe:111477758",
@@ -13084,6 +13103,26 @@
    "first_seen": "2026-09-18"
   },
   {
+   "id": "joe:111478466",
+   "source": "joe",
+   "institution": "Liaoning University",
+   "title": "Assistant Professor/Associate Professor/Full Professor",
+   "location": "Shenyang, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478466",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "joe:111478439",
    "source": "joe",
    "institution": "London Business School",
@@ -13107,6 +13146,26 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "joe:111478459",
+   "source": "joe",
+   "institution": "London School of Economics",
+   "title": "Assistant Professor in Management",
+   "location": "London, United Kingdom",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478459",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "joe:111477821",
    "source": "joe",
    "institution": "London School of Economics",
@@ -13125,6 +13184,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-15"
+  },
+  {
+   "id": "joe:111478416",
+   "source": "joe",
+   "institution": "London School of Economics and Political Science",
+   "title": "Assistant Professor",
+   "location": "London, United Kingdom",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478416",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "joe:111477885",
@@ -16344,6 +16423,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478415",
+   "source": "joe",
+   "institution": "School of International Trade and Economics, UIBE",
+   "title": "Assistant/Associate and Full Professor in Economics",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-11",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478415",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "joe:111477956",
    "source": "joe",
    "institution": "Secretariat Advisors LLC",
@@ -17330,6 +17429,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "joe:111478423",
+   "source": "joe",
+   "institution": "Sun Yat-sen University",
+   "title": "Full-Time Faculty Positions of All Ranks",
+   "location": "Guangzhou/Shenzhen, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478423",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "joe:111477994",
@@ -19414,6 +19533,26 @@
    "first_seen": "2026-10-19"
   },
   {
+   "id": "joe:111478421",
+   "source": "joe",
+   "institution": "University of Alberta",
+   "title": "Academic Teaching Staff Position in Business Analytics",
+   "location": "Edmonton, Canada",
+   "continent": "North America",
+   "fields": [
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-05-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478421",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "joe:111477748",
    "source": "joe",
    "institution": "University of Arizona",
@@ -20380,6 +20519,26 @@
    "first_seen": "2026-09-29"
   },
   {
+   "id": "joe:111478403",
+   "source": "joe",
+   "institution": "University of Illinois at Chicago",
+   "title": "Tenure Track Assistant Professor of Economics",
+   "location": "Chicago, United States",
+   "continent": "North America",
+   "fields": [
+    "H0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478403",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "joe:111477949",
    "source": "joe",
    "institution": "University of Illinois at Urbana-Champaign",
@@ -21200,6 +21359,27 @@
    "first_seen": "2026-09-29"
   },
   {
+   "id": "joe:111478418",
+   "source": "joe",
+   "institution": "University of Pennsylvania",
+   "title": "Postdoctoral Researcher",
+   "location": "Philadelphia, United States",
+   "continent": "North America",
+   "fields": [
+    "D Microeconomics",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-02-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478418",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "joe:111478182",
    "source": "joe",
    "institution": "University of Puget Sound",
@@ -21757,6 +21937,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-14"
+  },
+  {
+   "id": "joe:111478419",
+   "source": "joe",
+   "institution": "Unversity of Tennessee",
+   "title": "Assistant Teaching Professor",
+   "location": "Knoxville, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478419",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "joe:111477703",
@@ -22688,6 +22889,42 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-08"
+  },
+  {
+   "id": "ejm:12961",
+   "source": "ejm",
+   "institution": "Economics, Stockholm University",
+   "title": "Postdoctoral Scholar, Finance/Macroeconomics; Monetary",
+   "location": "Stockholm, SE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-11-02",
+   "url": "https://econjobmarket.org/positions/12961",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "ejm:12944",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Bonn",
+   "title": "Postdoctoral Scholar, Microeconomic theory",
+   "location": "Bonn, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-11-02",
+   "url": "https://econjobmarket.org/positions/12944",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
   },
   {
    "id": "ejm:12966",
