@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-02T23:41:03Z",
+ "generated_at": "2026-11-03T12:19:47Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 335,
    "site_listing": 319,
-   "site_extra": 8,
+   "site_extra": 5,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 696
+   "count": 693
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -2556,6 +2556,28 @@
    "first_seen": "2026-09-28"
   },
   {
+   "id": "ejm:12703",
+   "source": "ejm",
+   "institution": "University of Lisbon",
+   "title": "Two Assistant Professor Positions in Economics (any field) at ISEG - Lisbon",
+   "location": "Lisbon, PT",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-11-02",
+   "url": "https://econjobmarket.org/positions/12703",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-08"
+  },
+  {
    "id": "ejm:12704",
    "source": "ejm",
    "institution": "University of Virginia",
@@ -3892,30 +3914,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12773",
-   "source": "ejm",
-   "institution": "Imperial College London",
-   "title": "Assistant / Associate / Full Professors in Economics",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-03",
-   "posted": "2026-10-08",
-   "url": "https://econjobmarket.org/positions/12773",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-08"
   },
   {
    "id": "ejm:12775",
@@ -7477,6 +7475,28 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "ejm:12944",
+   "source": "ejm",
+   "institution": "University of Bonn",
+   "title": "Postdoctoral researchers in microeconomic theory",
+   "location": "Bonn, DE",
+   "continent": "Europe",
+   "fields": [
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-11-02",
+   "url": "https://econjobmarket.org/positions/12944",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "ejm:12946",
    "source": "ejm",
    "institution": "National Bank of Slovakia",
@@ -7851,6 +7871,29 @@
    "first_seen": "2026-10-31"
   },
   {
+   "id": "ejm:12961",
+   "source": "ejm",
+   "institution": "Stockholm University",
+   "title": "Postdoctoral Scholar",
+   "location": "Stockholm, SE",
+   "continent": "Europe",
+   "fields": [
+    "Finance",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-11-02",
+   "url": "https://econjobmarket.org/positions/12961",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "ejm:12962",
    "source": "ejm",
    "institution": "London School of Economics and Political Science",
@@ -7895,6 +7938,28 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ejm:12966",
+   "source": "ejm",
+   "institution": "LUISS Guido Carli",
+   "title": "Assistant Professor in Finance",
+   "location": "Roma, IT",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-02",
+   "url": "https://econjobmarket.org/positions/12966",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-02"
   },
   {
    "id": "joe:111477855",
@@ -8330,26 +8395,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-02"
-  },
-  {
-   "id": "joe:111478030",
-   "source": "joe",
-   "institution": "Baylor University",
-   "title": "Assistant Professor of Sociology or Economics",
-   "location": "Waco, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-01",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478030",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-06"
   },
   {
    "id": "joe:111478308",
@@ -14603,26 +14648,6 @@
    "first_seen": "2026-09-17"
   },
   {
-   "id": "joe:111478066",
-   "source": "joe",
-   "institution": "New York University",
-   "title": "Tenure-Track Assistant/Associate Professor",
-   "location": "New York, United States",
-   "continent": "North America",
-   "fields": [
-    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-01",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478066",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-05"
-  },
-  {
    "id": "joe:111478192",
    "source": "joe",
    "institution": "New York University",
@@ -20561,26 +20586,6 @@
    "first_seen": "2026-09-24"
   },
   {
-   "id": "joe:111478104",
-   "source": "joe",
-   "institution": "University of Illinois, Urbana-Champaign",
-   "title": "Assistant Professor in HR and Technology",
-   "location": "Champaign, United States",
-   "continent": "North America",
-   "fields": [
-    "L Industrial Organization"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-01",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478104",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-07"
-  },
-  {
    "id": "joe:111477747",
    "source": "joe",
    "institution": "University of Kansas",
@@ -22873,148 +22878,94 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12703",
+   "id": "ejm:12971",
    "source": "ejm",
-   "institution": "Lisbon School of Economics and Management (ISEG), University of Lisbon",
-   "title": "Assistant Professor, Economics",
-   "location": "Lisbon, PT",
+   "institution": "Lake Lucerne Institute",
+   "title": "Postdoctoral Scholar, Finance",
+   "location": "Vitznau, CH",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-11-02",
-   "url": "https://econjobmarket.org/positions/12703",
+   "deadline": "2027-06-30",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12971",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "ejm:12773",
+   "source": "ejm",
+   "institution": "Business School, Imperial College London",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-03",
+   "posted": "2026-10-08",
+   "url": "https://econjobmarket.org/positions/12773",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-08"
   },
   {
-   "id": "ejm:12961",
+   "id": "ejm:12967",
    "source": "ejm",
-   "institution": "Economics, Stockholm University",
-   "title": "Postdoctoral Scholar, Finance/Macroeconomics; Monetary",
-   "location": "Stockholm, SE",
+   "institution": "Facultat d'Economia i Empresa, Universitat de Barcelona",
+   "title": "Assistant Professor/Postdoctoral Scholar, Economics",
+   "location": "Barcelona, ES",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-06",
-   "posted": "2026-11-02",
-   "url": "https://econjobmarket.org/positions/12961",
+   "deadline": "2026-12-03",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12967",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-02"
+   "first_seen": "2026-11-03"
   },
   {
-   "id": "ejm:12944",
+   "id": "ejm:12969",
    "source": "ejm",
-   "institution": "Department of Economics, University of Bonn",
-   "title": "Postdoctoral Scholar, Microeconomic theory",
-   "location": "Bonn, DE",
+   "institution": "International Inequalities Institute, London School of Economics and Political Science",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "London, GB",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-02-28",
-   "posted": "2026-11-02",
-   "url": "https://econjobmarket.org/positions/12944",
+   "deadline": "2026-11-20",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12969",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-30"
+   "first_seen": "2026-11-03"
   },
   {
-   "id": "ejm:12966",
+   "id": "ejm:12968",
    "source": "ejm",
-   "institution": "Department of Accounting and Corporate Finance, LUISS Guido Carli",
-   "title": "Assistant Professor, Finance",
+   "institution": "Banca d'Italia",
+   "title": "Research fellowship",
    "location": "Roma, IT",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-02",
-   "url": "https://econjobmarket.org/positions/12966",
+   "deadline": "2026-11-13",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12968",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-02"
-  },
-  {
-   "id": "ejm:12569",
-   "source": "ejm",
-   "institution": "Economics Department, OECD (Organisation for Economic Co-operation and Development)",
-   "title": "Junior Economists/ Economists",
-   "location": "Paris, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-01",
-   "posted": "2026-08-07",
-   "url": "https://econjobmarket.org/positions/12569",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12579",
-   "source": "ejm",
-   "institution": "Stone Center on Socio-Economic Inequality, City University of New York Graduate Center",
-   "title": "Postdoctoral Scholar/Research Assistant, Business Economics",
-   "location": "New York, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-02",
-   "posted": "2026-08-15",
-   "url": "https://econjobmarket.org/positions/12579",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12580",
-   "source": "ejm",
-   "institution": "Stone Center on Socio-Economic Inequality, City University of New York Graduate Center",
-   "title": "Postdoctoral Scholar/Research Assistant, Business Economics/Economic History",
-   "location": "New York, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-02",
-   "posted": "2026-08-15",
-   "url": "https://econjobmarket.org/positions/12580",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12756",
-   "source": "ejm",
-   "institution": "Economics, Syracuse University",
-   "title": "Assistant Professor, Econometrics",
-   "location": "Syracuse, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-30",
-   "posted": "2026-10-03",
-   "url": "https://econjobmarket.org/positions/12756",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-03"
+   "first_seen": "2026-11-03"
   }
  ]
 }
