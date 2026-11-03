@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-03T12:19:47Z",
+ "generated_at": "2026-11-03T21:58:32Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 335,
-   "site_listing": 319,
-   "site_extra": 5,
+   "count": 336,
+   "site_listing": 320,
+   "site_extra": 6,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 693
+   "count": 702
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -10566,6 +10566,26 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "joe:111478472",
+   "source": "joe",
+   "institution": "Duke University",
+   "title": "Assistant/Associate Professor Tenure Track",
+   "location": "Durham, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478472",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "joe:111477596",
    "source": "joe",
    "institution": "Duke University",
@@ -11488,7 +11508,7 @@
     "I Health, Education, and Welfare"
    ],
    "position_types": [],
-   "section": "Full-Time Nonacademic",
+   "section": "US: Other Academic (Visiting or Temporary)",
    "deadline": "2027-07-31",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478393",
@@ -15476,6 +15496,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-01"
+  },
+  {
+   "id": "joe:111478461",
+   "source": "joe",
+   "institution": "Perimeter College - Georgia State University",
+   "title": "Instructor or Assistant Professor of Economics",
+   "location": "Atlanta, United States; ATLANTA, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478461",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "joe:111477935",
@@ -21385,6 +21426,47 @@
    "first_seen": "2026-11-02"
   },
   {
+   "id": "joe:111478425",
+   "source": "joe",
+   "institution": "University of Pittsburgh",
+   "title": "Assistant Professor",
+   "location": "Pittsburgh, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "D0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-25",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478425",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "joe:111478426",
+   "source": "joe",
+   "institution": "University of Pittsburgh",
+   "title": "Assistant Professor",
+   "location": "Pittsburgh, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478426",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "joe:111478182",
    "source": "joe",
    "institution": "University of Puget Sound",
@@ -21569,6 +21651,26 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "joe:111478384",
+   "source": "joe",
+   "institution": "University of Tokyo",
+   "title": "Research Associate",
+   "location": "Tokyo, Japan",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478384",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "joe:111478224",
@@ -21820,6 +21922,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-16"
+  },
+  {
+   "id": "joe:111478428",
+   "source": "joe",
+   "institution": "University of Wisconsin-Madison",
+   "title": "Full or Associate Professor of Real Estate and Urban Land Economics",
+   "location": "Madison, United States",
+   "continent": "North America",
+   "fields": [
+    "R0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478428",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "joe:111478233",
@@ -22296,6 +22418,27 @@
    "first_seen": "2026-09-08"
   },
   {
+   "id": "joe:111478469",
+   "source": "joe",
+   "institution": "Washington State University",
+   "title": "Assistant/Associate Professor, Macroeconomics",
+   "location": "Pullman, United States",
+   "continent": "North America",
+   "fields": [
+    "A2 Economic Education and Teaching of Economics",
+    "E0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-02",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478469",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "joe:111478196",
    "source": "joe",
    "institution": "Washington State University",
@@ -22338,6 +22481,27 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "joe:111478473",
+   "source": "joe",
+   "institution": "Washington University in St. Louis",
+   "title": "Tenure-Track Faculty Position in Finance",
+   "location": "St Louis, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478473",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "joe:111477847",
    "source": "joe",
    "institution": "Wayne State University",
@@ -22376,6 +22540,32 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "joe:111478216",
+   "source": "joe",
+   "institution": "Wenzhou-Kean University",
+   "title": "Tenure-track Assistant/Associate Professor 2027 Economics",
+   "location": "Wenzhou, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A General Economics and Teaching",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-05-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478216",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "joe:111478388",
@@ -22944,6 +23134,24 @@
    "deadline": "2026-11-20",
    "posted": "2026-11-03",
    "url": "https://econjobmarket.org/positions/12969",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "ejm:12964",
+   "source": "ejm",
+   "institution": "Department of Finance, Norwegian School of Economics (NHH)",
+   "title": "Assistant Professor/Associate Professor, Finance",
+   "location": "Bergen, NO",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12964",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
