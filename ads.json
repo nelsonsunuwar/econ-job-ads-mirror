@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-04T02:41:19Z",
+ "generated_at": "2026-11-04T12:30:21Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 338,
-   "site_listing": 322,
-   "site_extra": 8,
-   "not_live": 11,
+   "count": 342,
+   "site_listing": 324,
+   "site_extra": 6,
+   "not_live": 12,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 702
+   "count": 700
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -5412,30 +5412,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": "ejm:12845",
-   "source": "ejm",
-   "institution": "Heidelberg University",
-   "title": "Full professorship (W3) in “American Studies”",
-   "location": "Heidelberg, DE",
-   "continent": "Europe",
-   "fields": [
-    "Economic History",
-    "Other",
-    "Political Economy"
-   ],
-   "position_types": [
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-04",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12845",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-15"
-  },
-  {
    "id": "ejm:12846",
    "source": "ejm",
    "institution": "University of Oxford",
@@ -7940,6 +7916,29 @@
    "first_seen": "2026-10-31"
   },
   {
+   "id": "ejm:12964",
+   "source": "ejm",
+   "institution": "Norwegian School of Economics (NHH)",
+   "title": "Faculty Position in Finance",
+   "location": "Bergen, NO",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12964",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "ejm:12966",
    "source": "ejm",
    "institution": "LUISS Guido Carli",
@@ -7960,6 +7959,156 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-02"
+  },
+  {
+   "id": "ejm:12967",
+   "source": "ejm",
+   "institution": "Universitat de Barcelona",
+   "title": "Postdoctoral/Assistant Professor positions in Economics and Business",
+   "location": "Barcelona, ES",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-03",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12967",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "ejm:12968",
+   "source": "ejm",
+   "institution": "Banca d'Italia",
+   "title": "Four fellowship to tenure-track positions for research economists",
+   "location": "ROMA, IT",
+   "continent": "Europe",
+   "fields": [
+    "Development; Growth",
+    "Econometrics",
+    "International Trade",
+    "Law and Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Health; Education; Welfare",
+    "Political Economy",
+    "Statistics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12968",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "ejm:12969",
+   "source": "ejm",
+   "institution": "London School of Economics and Political Science",
+   "title": "Research Officer in Dynamics and/or Perceptions of Inequality",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12969",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "ejm:12970",
+   "source": "ejm",
+   "institution": "American University of Armenia",
+   "title": "Full-Time Faculty Position in Economics",
+   "location": "Yerevan, AM",
+   "continent": "Asia",
+   "fields": [
+    "Econometrics",
+    "Urban; Rural; Regional Economics",
+    "Business Economics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-26",
+   "posted": "2026-11-03",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12970",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12970",
+   "text": "Department: Manoogian Simone College of Business and Economics (MSCBE)\n\nContract type: Full-time\n\nJob location: Yerevan, the capital of the Republic of Armenia\n\nAssistant or Associate Professor\n\nAbout AUA: The American University of Armenia (AUA) is a private, independent university in Yerevan, Armenia, accredited by the Western Association of Schools and Colleges and with affiliation with the University of California System. Founded in 1991, AUA is a leading institution dedicated to excellence in education and research. We foster a collaborative environment that emphasizes innovation, academic integrity, critical thinking, and community engagement. The Manoogian Simone College of Business and Economics is at the forefront of research and education in the region in the fields of Management and Economics, preparing students to tackle real-world challenges.\n\nPosition Overview: The Manoogian Simone College of Business and Economics invites applications for a full-time faculty position in Economics. We seek a dedicated individual who will contribute to our vibrant academic community through teaching, mentoring, and innovative research. This position provides an opportunity to engage with students and collaborate with scholars locally and globally to advance knowledge in the field of Economics. The College now offers both Master of Science and Bachelor of Science degrees in Economics, providing opportunities for faculty to engage in both graduate and undergraduate level instruction.\n\nKey Responsibilities:\n\n• Prepare and deliver lectures\n\n• Conduct cutting-edge research and publish findings in reputable journals\n\n• Develop teaching plans and prepare content for courses\n\n• Develop new courses for the curriculum\n\n• Collaborate with faculty and students on innovative projects, leveraging local and international networks\n\n• Participate actively in Program, College, and University committees and contribute to program development and strategic planning\n\n• Participate in professional development activities\n\n• Serve on academic committees\n\n• Mentor students in their academic and research pursuits, including capstone projects and independent studies\n\n• Perform other duties assigned by the Program Chair(s) and/or Dean\n\nTeaching Overview: Foster an inclusive, student-centered classroom environment that encourages student participation and critical thinking. Develop and deliver engaging curriculum for undergraduate and graduate courses in Economics, as well as in a wider range of adjacent fields in Business/Management.\n\nQualifications:\n\n• Ph.D. in Economics\n\n• Demonstrated research agenda\n\n• Prior teaching experience at the university level is highly preferred\n\n• Strong pedagogical skills with a commitment to innovative, student-centered, effective teaching methods\n\n• Proficiency in integrating technology into the classroom and curriculum design\n\nApplication Process:\n\nInterested candidates should submit the following materials:\n\n• A current curriculum vitae\n\n• A cover letter detailing candidate’s teaching philosophy, research interests, and alignment with the AUA mission\n\n• Copies of relevant publications\n\n• Contact information for at least three professional references\n\nJoin us at the American University of Armenia and be a part of a community that values excellence, collaboration, and innovation. We are excited to welcome passionate educators who are eager to inspire the next generation of leaders in Economics and Management.\n\nApply Now: Submit your application materials via AUA career portal here or contact us at hr@aua.am for further inquiries. Priority will be given to applications received by December 26, 2026.",
+   "links": [
+    "https://ats.hirebee.ai/en/jobs/full-time-faculty-position-in-economics-3"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12971",
+   "source": "ejm",
+   "institution": "Lake Lucerne Institute",
+   "title": "Postdoctoral Fellows in Finance",
+   "location": "Vitznau, CH",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-06-30",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12971",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "ejm:12973",
+   "source": "ejm",
+   "institution": "Austrian Institute of Economic Research (WIFO)",
+   "title": "PhD Candidate, Prae-Doc in the field of ‘Energy Economics’",
+   "location": "Vienna, AT",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Doctoral student"
+   ],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-11-03",
+   "url": "https://econjobmarket.org/positions/12973",
+   "link_status": "ok",
+   "predoc": true,
+   "senior": false,
+   "first_seen": "2026-11-04"
   },
   {
    "id": "joe:111477855",
@@ -11192,41 +11341,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "joe:111478117",
-   "source": "joe",
-   "institution": "Federal Trade Commission",
-   "title": "Economist",
-   "location": "Washington, United States",
-   "continent": "North America",
-   "fields": [
-    "C Mathematical and Quantitative Methods",
-    "C1 Econometric and Statistical Methods and Methodology:  General",
-    "D Microeconomics",
-    "D1 Household Behavior and Family Economics",
-    "D8 Information, Knowledge, and Uncertainty",
-    "D9 Micro-Based Behavioral Economics",
-    "F International Economics",
-    "F1 Trade",
-    "H Public Economics",
-    "I Health, Education, and Welfare",
-    "I1 Health",
-    "J Labor and Demographic Economics",
-    "K Law and Economics",
-    "L Industrial Organization",
-    "O Economic Development, Innovation, Technological Change, and Growth",
-    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-03",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478117",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "joe:111478291",
    "source": "joe",
    "institution": "Fedesarrollo",
@@ -12165,26 +12279,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
-  },
-  {
-   "id": "joe:111478195",
-   "source": "joe",
-   "institution": "Imperial College London",
-   "title": "Assistant / Associate / Full Professors in Economics",
-   "location": "London, United Kingdom",
-   "continent": "Europe",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-03",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478195",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-08"
   },
   {
    "id": "joe:111478241",
@@ -23068,22 +23162,22 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12971",
+   "id": "ejm:12923",
    "source": "ejm",
-   "institution": "Lake Lucerne Institute",
-   "title": "Postdoctoral Scholar, Finance",
-   "location": "Vitznau, CH",
+   "institution": "Economics, University of Nottingham",
+   "title": "Assistant Professor, Economics",
+   "location": "Nottingham, GB",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-06-30",
-   "posted": "2026-11-03",
-   "url": "https://econjobmarket.org/positions/12971",
+   "deadline": "2026-11-26",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12923",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
    "id": "ejm:12977",
@@ -23098,6 +23192,24 @@
    "deadline": "2027-05-05",
    "posted": "2026-11-04",
    "url": "https://econjobmarket.org/positions/12977",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12975",
+   "source": "ejm",
+   "institution": "Social Science Division, New York University Abu Dhabi",
+   "title": "Assistant Professor, Applied microeconomics/Behavioral Economics/Econometrics/Economic History/Experimental Economics/Labor; Demographic Economics/Macroeconomics; Monetary/Microeconomic theor",
+   "location": "Abu Dhabi, AE",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12975",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -23122,24 +23234,6 @@
    "first_seen": "2026-11-04"
   },
   {
-   "id": "ejm:12967",
-   "source": "ejm",
-   "institution": "Facultat d'Economia i Empresa, Universitat de Barcelona",
-   "title": "Assistant Professor/Postdoctoral Scholar, Economics",
-   "location": "Barcelona, ES",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-03",
-   "posted": "2026-11-03",
-   "url": "https://econjobmarket.org/positions/12967",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-03"
-  },
-  {
    "id": "ejm:12978",
    "source": "ejm",
    "institution": "Applied Economics, Erasmus University Rotterdam",
@@ -23158,58 +23252,22 @@
    "first_seen": "2026-11-04"
   },
   {
-   "id": "ejm:12969",
+   "id": "ejm:12845",
    "source": "ejm",
-   "institution": "International Inequalities Institute, London School of Economics and Political Science",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "London, GB",
+   "institution": "Heidelberg Center for American Studies, Heidelberg University",
+   "title": "Full Professor, Economic History/Political Economy",
+   "location": "Heidelberg, DE",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-11-03",
-   "url": "https://econjobmarket.org/positions/12969",
+   "deadline": "2026-11-04",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12845",
    "link_status": "ok",
    "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-03"
-  },
-  {
-   "id": "ejm:12964",
-   "source": "ejm",
-   "institution": "Department of Finance, Norwegian School of Economics (NHH)",
-   "title": "Assistant Professor/Associate Professor, Finance",
-   "location": "Bergen, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-11-03",
-   "url": "https://econjobmarket.org/positions/12964",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-03"
-  },
-  {
-   "id": "ejm:12968",
-   "source": "ejm",
-   "institution": "Banca d'Italia",
-   "title": "Research fellowship",
-   "location": "Roma, IT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-11-03",
-   "url": "https://econjobmarket.org/positions/12968",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-03"
+   "senior": true,
+   "first_seen": "2026-10-15"
   }
  ]
 }
