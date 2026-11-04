@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-03T21:58:32Z",
+ "generated_at": "2026-11-04T02:41:19Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 336,
-   "site_listing": 320,
-   "site_extra": 6,
+   "count": 338,
+   "site_listing": 322,
+   "site_extra": 8,
    "not_live": 11,
    "dead": 0
   },
@@ -23086,22 +23086,40 @@
    "first_seen": "2026-11-03"
   },
   {
-   "id": "ejm:12773",
+   "id": "ejm:12977",
    "source": "ejm",
-   "institution": "Business School, Imperial College London",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "London, GB",
+   "institution": "Faculty of Economics and Management, Universidad de Navarra",
+   "title": "Assistant Professor, Economics",
+   "location": "Pamplona, ES",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-03",
-   "posted": "2026-10-08",
-   "url": "https://econjobmarket.org/positions/12773",
+   "deadline": "2027-05-05",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12977",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-08"
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12976",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Southern Denmark",
+   "title": "Assistant Professor, Econometrics/Economic History/Environmental; Energy; Ag. Econ/Macroeconomics; Monetary/Microeconomic theory",
+   "location": "Odense M, DK",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12976",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-04"
   },
   {
    "id": "ejm:12967",
@@ -23120,6 +23138,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-03"
+  },
+  {
+   "id": "ejm:12978",
+   "source": "ejm",
+   "institution": "Applied Economics, Erasmus University Rotterdam",
+   "title": "Assistant Professor, Behavioral Economics/Health; Education; Welfare",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12978",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-04"
   },
   {
    "id": "ejm:12969",
