@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T12:30:21Z",
+ "generated_at": "2026-11-04T22:10:53Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -11,7 +11,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 700
+   "count": 709
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -7558,7 +7558,7 @@
     "Other academic"
    ],
    "section": null,
-   "deadline": "2026-12-15",
+   "deadline": "2027-01-15",
    "posted": "2026-10-29",
    "url": "https://econjobmarket.org/positions/12949",
    "link_status": "ok",
@@ -10415,6 +10415,26 @@
    "first_seen": "2026-09-16"
   },
   {
+   "id": "joe:111478441",
+   "source": "joe",
+   "institution": "Creighton University",
+   "title": "Resident/Visiting Professor of Economics",
+   "location": "Omaha, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-04-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478441",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
+  },
+  {
    "id": "joe:111478389",
    "source": "joe",
    "institution": "Dalhousie University",
@@ -10433,6 +10453,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "joe:111478445",
+   "source": "joe",
+   "institution": "Deakin University",
+   "title": "Lecturer / Senior Lecturer in Economics",
+   "location": "Burwood, Australia",
+   "continent": "Oceania",
+   "fields": [
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478445",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
   },
   {
    "id": "joe:111477670",
@@ -13772,6 +13812,26 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "joe:111478484",
+   "source": "joe",
+   "institution": "Middlebury College",
+   "title": "Assistant Professor of Economics",
+   "location": "Middlebury, United States",
+   "continent": "North America",
+   "fields": [
+    "O1 Economic Development"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478484",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
+  },
+  {
    "id": "joe:111477858",
    "source": "joe",
    "institution": "Milligan University",
@@ -14999,6 +15059,27 @@
    "first_seen": "2026-09-18"
   },
   {
+   "id": "joe:111478486",
+   "source": "joe",
+   "institution": "North Carolina State University",
+   "title": "Assistant Professor (Research &amp; Extension)",
+   "location": "Raleigh, United States",
+   "continent": "North America",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-03-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478486",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
+  },
+  {
    "id": "joe:111478431",
    "source": "joe",
    "institution": "North Carolina State University",
@@ -15634,6 +15715,30 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478447",
+   "source": "joe",
+   "institution": "PIMCO",
+   "title": "PIMCO Quantitative Research Analyst - Client Solutions &amp; Analytics",
+   "location": "Newport Beach, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics",
+    "E0 General",
+    "G1 General Financial Markets",
+    "G2 Financial Institutions and Services"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478447",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
   },
   {
    "id": "joe:111477938",
@@ -19187,6 +19292,33 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478429",
+   "source": "joe",
+   "institution": "U.S. Food and Drug Administration",
+   "title": "Economist",
+   "location": "Silver Spring, United States",
+   "continent": "North America",
+   "fields": [
+    "D Microeconomics",
+    "F International Economics",
+    "H Public Economics",
+    "I1 Health",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478429",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
+  },
+  {
    "id": "joe:111478132",
    "source": "joe",
    "institution": "Uber India",
@@ -19324,6 +19456,30 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-02"
+  },
+  {
+   "id": "joe:111478470",
+   "source": "joe",
+   "institution": "United States Military Academy, West Point",
+   "title": "Bernard W. Rogers Assistant Professor of Economics",
+   "location": "West Point, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching",
+    "D Microeconomics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478470",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
   },
   {
    "id": "joe:111478228",
@@ -20781,6 +20937,28 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478433",
+   "source": "joe",
+   "institution": "University of Manchester",
+   "title": "Assistant Professor",
+   "location": "Manchester, United Kingdom",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "D Microeconomics",
+    "N Economic History"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478433",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
+  },
+  {
    "id": "joe:111478221",
    "source": "joe",
    "institution": "University of Mannheim",
@@ -21580,6 +21758,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-13"
+  },
+  {
+   "id": "joe:111478443",
+   "source": "joe",
+   "institution": "University of Rhode Island",
+   "title": "Assistant Teaching Professor of Economics",
+   "location": "Kingston, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478443",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-04"
   },
   {
    "id": "joe:111478405",
