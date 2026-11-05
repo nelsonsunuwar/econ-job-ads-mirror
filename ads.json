@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-05T02:45:41Z",
+ "generated_at": "2026-11-05T12:43:33Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 347,
-   "site_listing": 329,
-   "site_extra": 11,
+   "count": 349,
+   "site_listing": 331,
+   "site_extra": 5,
    "not_live": 12,
    "dead": 0
   },
@@ -6949,6 +6949,52 @@
    "first_seen": "2026-10-24"
   },
   {
+   "id": "ejm:12916",
+   "source": "ejm",
+   "institution": "Vienna University of Economics and Business",
+   "title": "Assistant Professor (tenure track) in International Economics",
+   "location": "Vienna, AT",
+   "continent": "Europe",
+   "fields": [
+    "International Finance/Macro",
+    "International Trade"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12916",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12917",
+   "source": "ejm",
+   "institution": "Vienna University of Economics and Business",
+   "title": "Assistant Professor (non-tenure) in Industrial Economics",
+   "location": "Vienna, AT",
+   "continent": "Europe",
+   "fields": [
+    "Industrial Organization",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12917",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "ejm:12918",
    "source": "ejm",
    "institution": "University of Oxford",
@@ -7085,6 +7131,50 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12923",
+   "source": "ejm",
+   "institution": "University of Nottingham",
+   "title": "Assistant Professor in Economics",
+   "location": "Nottingham, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12923",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12924",
+   "source": "ejm",
+   "institution": "University of Nottingham",
+   "title": "Assistant Professor in Economics (Teaching and Curriculum Leadership)",
+   "location": "Nottingham, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12924",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
   },
   {
    "id": "ejm:12925",
@@ -8107,6 +8197,110 @@
    "url": "https://econjobmarket.org/positions/12973",
    "link_status": "ok",
    "predoc": true,
+   "senior": false,
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12975",
+   "source": "ejm",
+   "institution": "New York University Abu Dhabi",
+   "title": "Assistant Professor of Economics, Tenure-Track",
+   "location": "Abu Dhabi, AE",
+   "continent": "Asia",
+   "fields": [
+    "Econometrics",
+    "Economic History",
+    "Experimental Economics",
+    "Labor; Demographic Economics",
+    "Macroeconomics; Monetary",
+    "Public Economics",
+    "Behavioral Economics",
+    "Urban; Rural; Regional Economics",
+    "Political Economy",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12975",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12976",
+   "source": "ejm",
+   "institution": "University of Southern Denmark",
+   "title": "Tenure-Track Assistant Professor(s) Position in Economics",
+   "location": "Odense M, DK",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Economic History",
+    "Environmental; Energy; Ag. Econ",
+    "Macroeconomics; Monetary",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12976",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12977",
+   "source": "ejm",
+   "institution": "Universidad de Navarra",
+   "title": "Tenure-track Professor Position in Business, Finance and Economics",
+   "location": "Pamplona, ES",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-05-05",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12977",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12978",
+   "source": "ejm",
+   "institution": "Erasmus University Rotterdam",
+   "title": "Assistant Professor in Tenure Track  - Applied Economics",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [
+    "Behavioral Economics",
+    "Other",
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12978",
+   "link_status": "ok",
+   "predoc": false,
    "senior": false,
    "first_seen": "2026-11-04"
   },
@@ -23360,78 +23554,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12923",
-   "source": "ejm",
-   "institution": "Economics, University of Nottingham",
-   "title": "Assistant Professor, Economics",
-   "location": "Nottingham, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-26",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12923",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-04"
-  },
-  {
-   "id": "ejm:12924",
-   "source": "ejm",
-   "institution": "Economics, University of Nottingham",
-   "title": "Assistant Professor, Economics",
-   "location": "Nottingham, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-26",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12924",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12977",
-   "source": "ejm",
-   "institution": "Faculty of Economics and Management, Universidad de Navarra",
-   "title": "Assistant Professor, Economics",
-   "location": "Pamplona, ES",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-05-05",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12977",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-04"
-  },
-  {
-   "id": "ejm:12975",
-   "source": "ejm",
-   "institution": "Social Science Division, New York University Abu Dhabi",
-   "title": "Assistant Professor, Applied microeconomics/Behavioral Economics/Econometrics/Economic History/Experimental Economics/Labor; Demographic Economics/Macroeconomics; Monetary/Microeconomic theor",
-   "location": "Abu Dhabi, AE",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12975",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-04"
-  },
-  {
    "id": "ejm:12982",
    "source": "ejm",
    "institution": "Social Science Division, New York University Abu Dhabi",
@@ -23447,6 +23569,24 @@
    "link_status": "ok",
    "predoc": false,
    "senior": true,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12984",
+   "source": "ejm",
+   "institution": "Social Science Division, New York University Abu Dhabi",
+   "title": "Assistant Professor, Economics",
+   "location": "Abu Dhabi, AE",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12984",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
    "first_seen": "2026-11-05"
   },
   {
@@ -23468,22 +23608,22 @@
    "first_seen": "2026-11-05"
   },
   {
-   "id": "ejm:12976",
+   "id": "ejm:12974",
    "source": "ejm",
-   "institution": "Department of Economics, University of Southern Denmark",
-   "title": "Assistant Professor, Econometrics/Economic History/Environmental; Energy; Ag. Econ/Macroeconomics; Monetary/Microeconomic theory",
-   "location": "Odense M, DK",
+   "institution": "Economics Department, Università degli Studi di Verona",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Verona, IT",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-06",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12976",
+   "deadline": "2026-12-04",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12974",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-04"
+   "first_seen": "2026-11-05"
   },
   {
    "id": "ejm:12979",
@@ -23498,60 +23638,6 @@
    "deadline": "2026-12-04",
    "posted": "2026-11-05",
    "url": "https://econjobmarket.org/positions/12979",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12978",
-   "source": "ejm",
-   "institution": "Applied Economics, Erasmus University Rotterdam",
-   "title": "Assistant Professor, Behavioral Economics/Health; Education; Welfare",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12978",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-04"
-  },
-  {
-   "id": "ejm:12916",
-   "source": "ejm",
-   "institution": "Economics, Vienna University of Economics and Business",
-   "title": "Assistant Professor, International Finance/Macro/International Trade",
-   "location": "Vienna, AT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12916",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12917",
-   "source": "ejm",
-   "institution": "Economics, Vienna University of Economics and Business",
-   "title": "Assistant Professor, Applied microeconomics/Industrial Organization",
-   "location": "Vienna, AT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12917",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
