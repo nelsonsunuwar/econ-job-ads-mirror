@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-05T12:43:33Z",
+ "generated_at": "2026-11-05T22:17:22Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 349,
-   "site_listing": 331,
+   "count": 347,
+   "site_listing": 329,
    "site_extra": 5,
    "not_live": 12,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 709
+   "count": 723
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -775,28 +775,6 @@
    "deadline": "2026-11-30",
    "posted": "2026-08-18",
    "url": "https://econjobmarket.org/positions/12581",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12584",
-   "source": "ejm",
-   "institution": "University of Southern California",
-   "title": "Postdoctoral Research Fellowship in Economics",
-   "location": "Los Angeles, US",
-   "continent": "North America",
-   "fields": [
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-08-20",
-   "url": "https://econjobmarket.org/positions/12584",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -8105,28 +8083,6 @@
    "first_seen": "2026-11-03"
   },
   {
-   "id": "ejm:12969",
-   "source": "ejm",
-   "institution": "London School of Economics and Political Science",
-   "title": "Research Officer in Dynamics and/or Perceptions of Inequality",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-11-03",
-   "url": "https://econjobmarket.org/positions/12969",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-03"
-  },
-  {
    "id": "ejm:12970",
    "source": "ejm",
    "institution": "American University of Armenia",
@@ -9355,6 +9311,26 @@
    "first_seen": "2026-10-15"
   },
   {
+   "id": "joe:111478482",
+   "source": "joe",
+   "institution": "Capital Fund Management",
+   "title": "Quantitative Economics Researcher",
+   "location": "Paris, France",
+   "continent": "Europe",
+   "fields": [
+    "G0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478482",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "joe:111478026",
    "source": "joe",
    "institution": "Capital One",
@@ -9393,6 +9369,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "joe:111478497",
+   "source": "joe",
+   "institution": "Carnegie Mellon University",
+   "title": "Assistant Professor of Economics and Public Policy",
+   "location": "Pittsburgh, United States",
+   "continent": "North America",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-23",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478497",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "joe:111478375",
@@ -9458,6 +9454,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478435",
+   "source": "joe",
+   "institution": "Central Bank of the Republic of China (Taiwan)",
+   "title": "Economist Position",
+   "location": "Taipei, Taiwan",
+   "continent": "Asia",
+   "fields": [
+    "F3 International Finance"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-22",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478435",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "joe:111478102",
@@ -12495,6 +12511,47 @@
    "first_seen": "2026-10-29"
   },
   {
+   "id": "joe:111478492",
+   "source": "joe",
+   "institution": "IESE Business School",
+   "title": "Two Assistant Professors Positions in Economics",
+   "location": "Spain",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478492",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "joe:111478400",
+   "source": "joe",
+   "institution": "IIMB Dorabji Tata School of Undergraduate Studies",
+   "title": "Assistant Professor/Associate Professor /Professor",
+   "location": "Bangalore, India",
+   "continent": "Asia",
+   "fields": [
+    "D0 General",
+    "E0 General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478400",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "joe:111477691",
    "source": "joe",
    "institution": "Imperial College Business School",
@@ -13665,6 +13722,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-15"
+  },
+  {
+   "id": "joe:111478498",
+   "source": "joe",
+   "institution": "Loyola University Chicago",
+   "title": "Assistant Professor of Economics",
+   "location": "Chicago, United States",
+   "continent": "North America",
+   "fields": [
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-11",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478498",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "joe:111478303",
@@ -15078,6 +15155,46 @@
    "first_seen": "2026-10-12"
   },
   {
+   "id": "joe:111478448",
+   "source": "joe",
+   "institution": "New York University Abu Dhabi",
+   "title": "Assistant Professor of Economics, Tenure/Track",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "continent": "Asia",
+   "fields": [
+    "A2 Economic Education and Teaching of Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478448",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "joe:111478506",
+   "source": "joe",
+   "institution": "New York University Abu Dhabi",
+   "title": "Associate Professor or Professor of Economics, Tenured",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "continent": "Asia",
+   "fields": [
+    "H Public Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478506",
+   "predoc": false,
+   "senior": true,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "joe:111478222",
    "source": "joe",
    "institution": "New York University Arts and Science",
@@ -15886,6 +16003,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-03"
+  },
+  {
+   "id": "joe:111478462",
+   "source": "joe",
+   "institution": "Perimeter College - Georgia State University",
+   "title": "Lecturer of Economics",
+   "location": "Atlanta, United States; Atlanta, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478462",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "joe:111477935",
@@ -18341,6 +18478,31 @@
    "first_seen": "2026-10-09"
   },
   {
+   "id": "joe:111478501",
+   "source": "joe",
+   "institution": "The Aerospace Corporation",
+   "title": "Economist",
+   "location": "Chantilly, United States",
+   "continent": "North America",
+   "fields": [
+    "C5 Econometric Modeling",
+    "C6 Mathematical Methods; Programming Models; Mathematical and Simulation Modeling",
+    "D2 Production and Organizations",
+    "D4 Market Structure, Pricing, and Design",
+    "D8 Information, Knowledge, and Uncertainty",
+    "L1 Market Structure, Firm Strategy, and Market Performance"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-07-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478501",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "joe:111478025",
    "source": "joe",
    "institution": "The American University in Cairo",
@@ -19650,6 +19812,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-02"
+  },
+  {
+   "id": "joe:111478327",
+   "source": "joe",
+   "institution": "Union College",
+   "title": "Assistant Professor of Economics",
+   "location": "Schenectady, United States",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478327",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "joe:111478470",
@@ -21588,6 +21772,26 @@
    "first_seen": "2026-09-17"
   },
   {
+   "id": "joe:111478452",
+   "source": "joe",
+   "institution": "University of North Carolina at Charlotte",
+   "title": "Assistant Professor, Energy Economics",
+   "location": "Charlotte, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478452",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "joe:111478409",
    "source": "joe",
    "institution": "University of North Carolina at Charlotte",
@@ -21820,6 +22024,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478481",
+   "source": "joe",
+   "institution": "University of Nottingham",
+   "title": "Assistant Professor (Research &amp; Teaching) &amp; Assistant Professor (Teaching &amp; Curriculum Leadership)",
+   "location": "Nottingham, United Kingdom",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-11-26",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478481",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "joe:111477893",
@@ -22247,6 +22471,29 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": "joe:111478453",
+   "source": "joe",
+   "institution": "University of Toronto",
+   "title": "Postdoctoral Fellow",
+   "location": "Toronto, Canada",
+   "continent": "North America",
+   "fields": [
+    "I1 Health",
+    "L2 Firm Objectives, Organization, and Behavior",
+    "M3 Marketing and Advertising",
+    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478453",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "joe:111477614",
