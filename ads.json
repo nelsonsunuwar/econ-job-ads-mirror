@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-04T22:10:53Z",
+ "generated_at": "2026-11-05T02:45:41Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 342,
-   "site_listing": 324,
-   "site_extra": 6,
+   "count": 347,
+   "site_listing": 329,
+   "site_extra": 11,
    "not_live": 12,
    "dead": 0
   },
@@ -23378,6 +23378,24 @@
    "first_seen": "2026-11-04"
   },
   {
+   "id": "ejm:12924",
+   "source": "ejm",
+   "institution": "Economics, University of Nottingham",
+   "title": "Assistant Professor, Economics",
+   "location": "Nottingham, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12924",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "ejm:12977",
    "source": "ejm",
    "institution": "Faculty of Economics and Management, Universidad de Navarra",
@@ -23414,6 +23432,42 @@
    "first_seen": "2026-11-04"
   },
   {
+   "id": "ejm:12982",
+   "source": "ejm",
+   "institution": "Social Science Division, New York University Abu Dhabi",
+   "title": "Associate Professor/Full Professor, Economics",
+   "location": "Abu Dhabi, AE",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12982",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12981",
+   "source": "ejm",
+   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Experimental Economics/Organizational Behavior",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12981",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "ejm:12976",
    "source": "ejm",
    "institution": "Department of Economics, University of Southern Denmark",
@@ -23430,6 +23484,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12979",
+   "source": "ejm",
+   "institution": "Department of Economics, Macquarie University",
+   "title": "Postdoctoral Scholar, Econometrics",
+   "location": "North Ryde, AU",
+   "continent": "Oceania",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-04",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12979",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
   },
   {
    "id": "ejm:12978",
@@ -23450,22 +23522,40 @@
    "first_seen": "2026-11-04"
   },
   {
-   "id": "ejm:12845",
+   "id": "ejm:12916",
    "source": "ejm",
-   "institution": "Heidelberg Center for American Studies, Heidelberg University",
-   "title": "Full Professor, Economic History/Political Economy",
-   "location": "Heidelberg, DE",
+   "institution": "Economics, Vienna University of Economics and Business",
+   "title": "Assistant Professor, International Finance/Macro/International Trade",
+   "location": "Vienna, AT",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-04",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12845",
+   "deadline": "2026-11-25",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12916",
    "link_status": "ok",
    "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-15"
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12917",
+   "source": "ejm",
+   "institution": "Economics, Vienna University of Economics and Business",
+   "title": "Assistant Professor, Applied microeconomics/Industrial Organization",
+   "location": "Vienna, AT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12917",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
   }
  ]
 }
