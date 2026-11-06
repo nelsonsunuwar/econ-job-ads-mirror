@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-05T22:17:22Z",
+ "generated_at": "2026-11-06T02:48:13Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 347,
-   "site_listing": 329,
-   "site_extra": 5,
+   "count": 351,
+   "site_listing": 333,
+   "site_extra": 9,
    "not_live": 12,
    "dead": 0
   },
@@ -23801,6 +23801,24 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:12988",
+   "source": "ejm",
+   "institution": "THEMA (Theorie Economique, Modelisation et Applications), CY Cergy Paris Université",
+   "title": "Full Professor, Economics",
+   "location": "Cergy-Pontoise, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12988",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-11-06"
+  },
+  {
    "id": "ejm:12982",
    "source": "ejm",
    "institution": "Social Science Division, New York University Abu Dhabi",
@@ -23835,6 +23853,42 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12990",
+   "source": "ejm",
+   "institution": "School of Public Policy, University of Maryland",
+   "title": "Assistant Professor, Applied microeconomics/Environmental; Energy; Ag. Econ/Industrial Organization/Public Economics",
+   "location": "College Park, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12990",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12991",
+   "source": "ejm",
+   "institution": "School of Public Policy, University of Maryland",
+   "title": "Assistant Professor, Applied microeconomics/Computational Economics/Environmental; Energy; Ag. Econ/Health; Education; Welfare/Industrial Organization/Labor; Demographic Economics/Political E",
+   "location": "College Park, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12991",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
   },
   {
    "id": "ejm:12981",
@@ -23889,6 +23943,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12989",
+   "source": "ejm",
+   "institution": "International Inequalities Institute, London School of Economics and Political Science",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12989",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
   }
  ]
 }
