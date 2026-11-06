@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-06T02:48:13Z",
+ "generated_at": "2026-11-06T12:27:17Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 351,
-   "site_listing": 333,
-   "site_extra": 9,
+   "count": 353,
+   "site_listing": 335,
+   "site_extra": 8,
    "not_live": 12,
    "dead": 0
   },
@@ -1785,29 +1785,6 @@
    "first_seen": "2026-09-17"
   },
   {
-   "id": "ejm:12657",
-   "source": "ejm",
-   "institution": "Massachusetts Institute of Technology",
-   "title": "Assistant or Untenured Associate Professor – Tenure Track",
-   "location": "Cambridge, US",
-   "continent": "North America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-09-21",
-   "url": "https://econjobmarket.org/positions/12657",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-21"
-  },
-  {
    "id": "ejm:12658",
    "source": "ejm",
    "institution": "Cornell University",
@@ -1828,28 +1805,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": true,
-   "first_seen": "2026-09-17"
-  },
-  {
-   "id": "ejm:12662",
-   "source": "ejm",
-   "institution": "Stanford University",
-   "title": "Assistant Professor in Economics",
-   "location": "STANFORD, US",
-   "continent": "North America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12662",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
    "first_seen": "2026-09-17"
   },
   {
@@ -2272,29 +2227,6 @@
    "first_seen": "2026-09-19"
   },
   {
-   "id": "ejm:12683",
-   "source": "ejm",
-   "institution": "Kyoto University",
-   "title": "Tenure Track Assistant/Associate Professor, Institute of Economic Research",
-   "location": "Kyoto, JP",
-   "continent": "Asia",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-09-19",
-   "url": "https://econjobmarket.org/positions/12683",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-19"
-  },
-  {
    "id": "ejm:12685",
    "source": "ejm",
    "institution": "Federal Reserve Bank of St. Louis",
@@ -2604,30 +2536,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "ejm:12707",
-   "source": "ejm",
-   "institution": "University of Fribourg",
-   "title": "Assistant Professorship (tenure-track) in Economics of Sustainability",
-   "location": "Fribourg, CH",
-   "continent": "Europe",
-   "fields": [
-    "Environmental; Energy; Ag. Econ",
-    "Public Economics",
-    "Other"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-05",
-   "posted": "2026-09-25",
-   "url": "https://econjobmarket.org/positions/12707",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
   },
   {
    "id": "ejm:12709",
@@ -4509,13 +4417,8 @@
    "section": null,
    "deadline": "2027-01-31",
    "posted": "2026-10-12",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12805",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12805",
-   "text": "The Chair for Labor Economics / New Political Economy (Prof. Simon Görlach PhD) at the Alfred-Weber-Institute for Economics at the University of Heidelberg invites applications for two\n\nPost-doctoral Researcher\n\nPositions in economics and/or data science. The initial contract is for three years, with the possibility of renewal. Positions are full-time (13 TV-L) and based in Heidelberg.\n\nCandidate Profile\n\nThe successful candidate should demonstrate the potential to produce high-quality research suitable for publication in leading academic journals. We seek applicants with a strong background in quantitative economics and econometrics. Candidates should demonstrate the potential to produce high-quality research suitable for publication in leading academic journals. For one of the positions, a solid understanding of data science and machine learning methods is an asset. Applicants must have (or must be expected to obtain soon) a doctoral degree in economics or related fields. German language knowledge is not required.\n\nJob Description\n\nThe University of Heidelberg offers an exceptional research environment, and the expectation is that post-doctoral researchers pursue independent high-quality academic research. Research activities (such as presenting at international conferences) will be actively supported by the chair and generous funding is available. Other tasks include contributions to external grant applications, as well as contributions to the chair’s teaching portfolio and supervision of degree theses. The formal teaching requirement for the position is two weekly contact hours per semester (SWS).\n\nApplication Process\n\nAs an equal opportunity employer, Heidelberg University actively encourages applications by women. Preference will be given to disabled applicants with equal qualifications. For full consideration, please submit your application (cover letter explaining your interest in the position, CV including hyperlinks to research papers, a job market paper, and two or more reference letters) via econjobmarket.org by 15 November 2026 (12:00 a.m. UTC).\n\nVirtual interviews will be held in December 2025, primarily as part of the European Job Market.\n\nFor further information about the position, contact Prof. Simon Görlach PhD (simon.goerlach@awi.uni-heidelberg.de).",
-   "links": [
-    "https://www.awi.uni-heidelberg.de/en"
-   ],
+   "url": "https://econjobmarket.org/positions/12805",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-13"
@@ -7507,13 +7410,8 @@
    "section": null,
    "deadline": "2027-01-22",
    "posted": "2026-10-29",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12943",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12943",
-   "text": "Central Bank of the Republic of China (Taiwan) invites applications for one Staff Economist position.\n\nQualifications\n\n1. A Ph.D. degree in fields of economics or finance (obtained by July 31, 2027), particularly in macroeconomics, monetary finance, international economics, or other areas related to economic and financial analysis.\n\n2. Strong capabilities to conduct research independently and apply econometric methods.\n\n3. Advanced level of English proficiency.\n\nNotes:\n\n1. Applicants should have the R.O.C. citizenship.\n\n2. Applicants shall not be in any of the circumstances stipulated in Article 9 of the Regulations Governing Personnel Management of the Central Bank of the Republic of China (Taiwan).\n\nHow to apply\n\nFor detailed information about the application requirements and online file submission, please see the Chinese version of the job notice at https://www.cbc.gov.tw.\n\nApplication deadline is January 22, 2027.",
-   "links": [
-    "https://www.cbc.gov.tw/"
-   ],
+   "url": "https://econjobmarket.org/positions/12943",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-30"
@@ -8135,6 +8033,33 @@
    "first_seen": "2026-11-03"
   },
   {
+   "id": "ejm:12972",
+   "source": "ejm",
+   "institution": "Universitat Ramon Llull",
+   "title": "Assistant/Associate Professor of Management Practice — Economics",
+   "location": "Barcelona, ES",
+   "continent": "Europe",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-11-05",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12972",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12972",
+   "text": "ESADE Business School invites applications for two open-rank appointments (1 Economics & 1 Accounting) on the practice track (Junior or Senior Professor of Practice, equivalent to Assistant/Associate Professor of Management Practice) in the Department of Economics, Finance and Accounting. The position centers on teaching in our MBA, Executive MBA, and open-enrollment executive education programs. \n\nCandidate profile: We seek an economist with a strong record of teaching practitioners and senior executives, and/or significant industry, policy, or consulting experience. We value candidates who can translate applied research and professional experience into executive-level teaching, case development, and practice-oriented intellectual contribution, rather than a traditional research publication record. \n\nRank: Appointment as Junior or Senior Professor of Practice will be determined based on the candidate’s teaching record, depth of professional experience, and demonstrated contribution to case writing, curriculum design, or applied/practitioner-facing output. \n\nResponsibilities: Teach across the MBA and executive education portfolio; develop cases and course materials; engage with corporate partners and executive audiences; participate in school service. \n\nApplications should include a CV, a teaching statement/portfolio (including executive education experience and any case materials), any available teaching evaluation and three references. \n\nDeadlines: Applications are accepted on a rolling basis. Two review committees will assess applications in January and March 2027, respectively. Shortlisted candidates will be invited to online interviews, potentially followed by a campus visit.\n\nInterested parties should apply online through ESADE's Webpage",
+   "links": [
+    "https://esadefaculty.teamtailor.com/jobs"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
+  },
+  {
    "id": "ejm:12973",
    "source": "ejm",
    "institution": "Austrian Institute of Economic Research (WIFO)",
@@ -8155,6 +8080,28 @@
    "predoc": true,
    "senior": false,
    "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12974",
+   "source": "ejm",
+   "institution": "Università degli Studi di Verona",
+   "title": "Postdoctoral Researcher in Economics, Econometrics or Finance",
+   "location": "Verona, IT",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-04",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12974",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
   },
   {
    "id": "ejm:12975",
@@ -8259,6 +8206,130 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-04"
+  },
+  {
+   "id": "ejm:12979",
+   "source": "ejm",
+   "institution": "Macquarie University",
+   "title": "Postdoctoral Research Fellow in Econometrics",
+   "location": "North Ryde, AU",
+   "continent": "Oceania",
+   "fields": [
+    "Econometrics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-04",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12979",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12981",
+   "source": "ejm",
+   "institution": "ZEW - Leibniz Centre for European Economic Research",
+   "title": "Postdoctoral Researcher Organisational Design, RCTs with firms (f/m/d, 100%)",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [
+    "Experimental Economics",
+    "Organizational Behavior",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12981",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12982",
+   "source": "ejm",
+   "institution": "New York University Abu Dhabi",
+   "title": "Associate Professor or Professor of Economics, Tenured",
+   "location": "Abu Dhabi, AE",
+   "continent": "Asia",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12982",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12984",
+   "source": "ejm",
+   "institution": "New York University Abu Dhabi",
+   "title": "Assistant Professor of Economics and Computational Social Science, Tenure-Track",
+   "location": "Abu Dhabi, AE",
+   "continent": "Asia",
+   "fields": [
+    "Any field",
+    "Computational Economics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-05",
+   "url": "https://econjobmarket.org/positions/12984",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12986",
+   "source": "ejm",
+   "institution": "Tampere University",
+   "title": "Postdoctoral Research Fellow in Economics",
+   "location": "Tampere, FI",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-13",
+   "posted": "2026-11-05",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12986",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/12986",
+   "text": "Tampere University is inviting applications for the position of Postdoctoral Research Fellow in Economics. Economics at Tampere University is part of the degree program in business studies at the Faculty of Management and Business. We provide an internationally standardized Economics program at Bachelor, Master and PhD levels.\n\nThe person to be appointed will be part of the Finnish Centre of Excellence in Tax Systems Research (FIT). FIT studies the effects and design of multiple aspects of public policy. Our research program is very broad, covering a multitude of topics related to public finance, labor, health, and environmental economics, and industrial organization. Our research utilizes empirical, experimental, and theoretical methods, together with world-class register data on individuals and firms.\n\nJob description\n\nWe seek a highly accomplished early-career academic to conduct and organize high-quality scientific research. We encourage applications from highly promising candidates with an ambition to carry out innovative, top-quality research. We expect the postdoctoral researcher to conduct research of very high international quality aiming at top academic journals. We also expect the candidates to give research-based teaching and to actively contribute to international research collaboration.\n\nWe require\n\n• PhD degree in Economics. The PhD degree should be completed by 30.6.2027.\n\n• Potential to produce research at a high international level of excellence and ability to undertake independent scholarly activity.\n\nWe are looking for candidates who have recently completed or are close to completion of their PhD in Economics. Applicants will be reviewed based on their potential for excellence in research, teaching, and activity in the international scientific community. We emphasize innovativeness and ambition demonstrated by current and planned research, as well as international experience and research collaboration. We are interested in candidates in all fields of economics. Linkages with our current research areas are considered a benefit, and your research may include applied research topics, methodological and/or theoretical themes that complement or bring in new perspectives to our research program. The position requires fluency in English.\n\nWe offer\n\nThe postdoctoral research fellow will be hired for a fixed term of five years. The start date will be September 1, 2027, unless another date is mutually agreed. A trial period of six months applies to all our new employees.\n\nThe salary will be based on both the job requirements and the employee's personal performance in accordance with the Finnish University Salary System. The typical gross salary of a Postdoctoral Research Fellow ranges from 3,900 to 4,200 EUR/month. Higher salaries may be agreed upon depending on qualifications and experience of the candidate.\n\nWe offer you the opportunity to join a dynamic, innovative, and international research community of the Finnish Centre of Excellence in Tax Systems Research, and the discipline of Economics at Tampere University. Tampere University offers a wide range of staff benefits, such as occupational health care, flexible working hours, excellent sports facilities on campus and several restaurants and cafés on campus with staff discounts. Please read more about working at Tampere University.\n\nHow to apply\n\nPlease submit your application through our online recruitment system in English. The closing date for applications is 13 December 2026 (at 23.59 EET / UTC+2).\n\nThe following documents should be attached to your application in PDF format:\n\n• Cover letter\n\n• Curriculum vitae\n\n• Job market paper\n\n• Other papers, if available\n\n• Research statement outlining your proposed research (max. 3 pages)\n\n• Names, positions, and contact details of two referees\n\nInitial interviews will be conducted remotely via Zoom between December 2026 and January 2027.\n\nFor more information, please contact:\n\nProfessor and the head of discipline Kaisa Kotakorpi, kaisa.kotakorpi@tuni.fi.\n\nFor more information about the application process, please contact HR Specialist Ilona Pekuri, ilona.pekuri@tuni.fi.",
+   "links": [
+    "https://www.tuni.fi/en/about-us/economics",
+    "https://www.tuni.fi/en/about-us/faculty-management-and-business",
+    "http://www.taxresearch.fi/",
+    "https://sivista.fi/wp-content/uploads/2026/04/Salary-Scales-of-the-Universities_010725_010626_010627.pdf",
+    "https://www.tuni.fi/en/about-us/working-at-tampere-universities/tampere-university-as-an-employer",
+    "https://tuni.rekrytointi.com/paikat/index.php?jid=3215&amp;key=&amp;o=A_RJ&amp;rspvt=buqej297t5c8oww4o8o4w4cgo0w8ck8"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
   },
   {
    "id": "joe:111477855",
@@ -23819,40 +23890,22 @@
    "first_seen": "2026-11-06"
   },
   {
-   "id": "ejm:12982",
+   "id": "ejm:12662",
    "source": "ejm",
-   "institution": "Social Science Division, New York University Abu Dhabi",
-   "title": "Associate Professor/Full Professor, Economics",
-   "location": "Abu Dhabi, AE",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-05",
-   "url": "https://econjobmarket.org/positions/12982",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12984",
-   "source": "ejm",
-   "institution": "Social Science Division, New York University Abu Dhabi",
+   "institution": "Department of Economics, Stanford University",
    "title": "Assistant Professor, Economics",
-   "location": "Abu Dhabi, AE",
-   "continent": "Asia",
+   "location": "Stanford, US",
+   "continent": "North America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-05",
-   "url": "https://econjobmarket.org/positions/12984",
+   "deadline": "2026-11-06",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12662",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-05"
+   "first_seen": "2026-09-17"
   },
   {
    "id": "ejm:12990",
@@ -23891,60 +23944,6 @@
    "first_seen": "2026-11-06"
   },
   {
-   "id": "ejm:12981",
-   "source": "ejm",
-   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Experimental Economics/Organizational Behavior",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-06",
-   "posted": "2026-11-05",
-   "url": "https://econjobmarket.org/positions/12981",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12974",
-   "source": "ejm",
-   "institution": "Economics Department, Università degli Studi di Verona",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Verona, IT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-04",
-   "posted": "2026-11-05",
-   "url": "https://econjobmarket.org/positions/12974",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12979",
-   "source": "ejm",
-   "institution": "Department of Economics, Macquarie University",
-   "title": "Postdoctoral Scholar, Econometrics",
-   "location": "North Ryde, AU",
-   "continent": "Oceania",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-04",
-   "posted": "2026-11-05",
-   "url": "https://econjobmarket.org/positions/12979",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
    "id": "ejm:12989",
    "source": "ejm",
    "institution": "International Inequalities Institute, London School of Economics and Political Science",
@@ -23961,6 +23960,60 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12657",
+   "source": "ejm",
+   "institution": "Economics, Massachusetts Institute of Technology",
+   "title": "Assistant Professor/Associate Professor, Economics",
+   "location": "Cambridge, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-09-21",
+   "url": "https://econjobmarket.org/positions/12657",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-21"
+  },
+  {
+   "id": "ejm:12683",
+   "source": "ejm",
+   "institution": "Institute for Economic Research, Kyoto University",
+   "title": "Assistant Professor/Associate Professor, Economics",
+   "location": "Kyoto, JP",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-06",
+   "posted": "2026-09-19",
+   "url": "https://econjobmarket.org/positions/12683",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-19"
+  },
+  {
+   "id": "ejm:12707",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Fribourg",
+   "title": "Assistant Professor, Environmental; Energy; Ag. Econ/Public Economics",
+   "location": "Fribourg, CH",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-05",
+   "posted": "2026-09-25",
+   "url": "https://econjobmarket.org/positions/12707",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-26"
   }
  ]
 }
