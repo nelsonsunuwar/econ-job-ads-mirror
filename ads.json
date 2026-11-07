@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-07T11:18:43Z",
+ "generated_at": "2026-11-07T20:29:14Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 353,
-   "site_listing": 335,
-   "site_extra": 3,
+   "count": 354,
+   "site_listing": 336,
+   "site_extra": 4,
    "not_live": 12,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 728
+   "count": 731
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -11544,6 +11544,68 @@
    "deadline": "2026-10-01",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477540",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111477705",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Atlanta",
+   "title": "Research Economist",
+   "location": "Atlanta, United States",
+   "continent": "North America",
+   "fields": [
+    "E0 General",
+    "E5 Monetary Policy, Central Banking, and the Supply of Money and Credit",
+    "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-10-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477705",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111477708",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Atlanta",
+   "title": "Research Economist",
+   "location": "Atlanta, United States",
+   "continent": "North America",
+   "fields": [
+    "J0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-10-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477708",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111477709",
+   "source": "joe",
+   "institution": "Federal Reserve Bank of Atlanta",
+   "title": "Research Economist",
+   "location": "Atlanta, United States",
+   "continent": "North America",
+   "fields": [
+    "G5 Household Finance"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-10-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477709",
    "predoc": false,
    "senior": false,
    "link_status": "ok",
@@ -24123,6 +24185,24 @@
    "deadline": "2026-12-17",
    "posted": "2026-11-07",
    "url": "https://econjobmarket.org/positions/12993",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-07"
+  },
+  {
+   "id": "ejm:12997",
+   "source": "ejm",
+   "institution": "Cheung Kong Graduate School of Business",
+   "title": "Assistant Professor, Economics",
+   "location": "Beijing, CN",
+   "continent": "Asia",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-11-07",
+   "url": "https://econjobmarket.org/positions/12997",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
