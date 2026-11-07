@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-07T02:21:25Z",
+ "generated_at": "2026-11-07T11:18:43Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 353,
    "site_listing": 335,
-   "site_extra": 7,
+   "site_extra": 3,
    "not_live": 12,
    "dead": 0
   },
@@ -8351,6 +8351,108 @@
     "https://www.tuni.fi/en/about-us/working-at-tampere-universities/tampere-university-as-an-employer",
     "https://tuni.rekrytointi.com/paikat/index.php?jid=3215&amp;key=&amp;o=A_RJ&amp;rspvt=buqej297t5c8oww4o8o4w4cgo0w8ck8"
    ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12988",
+   "source": "ejm",
+   "institution": "CY Cergy Paris Université",
+   "title": "Full professor in finance",
+   "location": "Cergy-Pontoise, FR",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Finance",
+    "International Finance/Macro",
+    "Any field",
+    "Insurance"
+   ],
+   "position_types": [
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12988",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12989",
+   "source": "ejm",
+   "institution": "London School of Economics and Political Science",
+   "title": "Research Officer in Income and/or Wealth Inequalities",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12989",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12990",
+   "source": "ejm",
+   "institution": "University of Maryland",
+   "title": "Assistant Professor in Science and Technology Policy (Tenure-Track)",
+   "location": "College Park, US",
+   "continent": "North America",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Industrial Organization",
+    "Public Economics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12990",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12991",
+   "source": "ejm",
+   "institution": "University of Maryland",
+   "title": "Assistant Professor in Artificial Intelligence and Public Policy (Tenure-Track)",
+   "location": "College Park, US",
+   "continent": "North America",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Industrial Organization",
+    "Labor; Demographic Economics",
+    "Public Economics",
+    "Health; Education; Welfare",
+    "Computational Economics",
+    "Political Economy",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12991",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-06"
@@ -24009,24 +24111,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12988",
-   "source": "ejm",
-   "institution": "THEMA (Theorie Economique, Modelisation et Applications), CY Cergy Paris Université",
-   "title": "Full Professor, Economics",
-   "location": "Cergy-Pontoise, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-11-06",
-   "url": "https://econjobmarket.org/positions/12988",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-11-06"
-  },
-  {
    "id": "ejm:12993",
    "source": "ejm",
    "institution": "School of Economics, University of Turku",
@@ -24043,42 +24127,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-07"
-  },
-  {
-   "id": "ejm:12990",
-   "source": "ejm",
-   "institution": "School of Public Policy, University of Maryland",
-   "title": "Assistant Professor, Applied microeconomics/Environmental; Energy; Ag. Econ/Industrial Organization/Public Economics",
-   "location": "College Park, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-06",
-   "url": "https://econjobmarket.org/positions/12990",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-06"
-  },
-  {
-   "id": "ejm:12991",
-   "source": "ejm",
-   "institution": "School of Public Policy, University of Maryland",
-   "title": "Assistant Professor, Applied microeconomics/Computational Economics/Environmental; Energy; Ag. Econ/Health; Education; Welfare/Industrial Organization/Labor; Demographic Economics/Political E",
-   "location": "College Park, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-06",
-   "url": "https://econjobmarket.org/positions/12991",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-06"
   },
   {
    "id": "ejm:12994",
@@ -24115,24 +24163,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-07"
-  },
-  {
-   "id": "ejm:12989",
-   "source": "ejm",
-   "institution": "International Inequalities Institute, London School of Economics and Political Science",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-11-06",
-   "url": "https://econjobmarket.org/positions/12989",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-06"
   }
  ]
 }
