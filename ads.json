@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-07T20:29:14Z",
+ "generated_at": "2026-11-08T01:47:27Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 354,
-   "site_listing": 336,
-   "site_extra": 4,
+   "count": 355,
+   "site_listing": 337,
+   "site_extra": 5,
    "not_live": 12,
    "dead": 0
   },
@@ -24189,6 +24189,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-07"
+  },
+  {
+   "id": "ejm:12996",
+   "source": "ejm",
+   "institution": "Department of Economics, University College London",
+   "title": "Assistant Professor, Finance",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-07",
+   "url": "https://econjobmarket.org/positions/12996",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-08"
   },
   {
    "id": "ejm:12997",
