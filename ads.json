@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-08T01:47:27Z",
+ "generated_at": "2026-11-08T11:30:01Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 355,
    "site_listing": 337,
-   "site_extra": 5,
+   "site_extra": 2,
    "not_live": 12,
    "dead": 0
   },
@@ -1026,29 +1026,6 @@
    "deadline": "2026-11-15",
    "posted": "2026-08-28",
    "url": "https://econjobmarket.org/positions/12605",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12606",
-   "source": "ejm",
-   "institution": "University of Texas at Austin",
-   "title": "International Economic Policy (Assistant/Advanced Assistant Professor)",
-   "location": "Austin, US",
-   "continent": "North America",
-   "fields": [
-    "International Finance/Macro",
-    "Political Economy"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-08",
-   "posted": "2026-08-28",
-   "url": "https://econjobmarket.org/positions/12606",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -4103,31 +4080,6 @@
    "deadline": "2026-12-01",
    "posted": "2026-10-09",
    "url": "https://econjobmarket.org/positions/12789",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12791",
-   "source": "ejm",
-   "institution": "Georgetown University",
-   "title": "Faculty Position in International Economics, Open Rank",
-   "location": "Doha, QA",
-   "continent": "Asia",
-   "fields": [
-    "International Finance/Macro",
-    "International Trade"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-10-15",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12791",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -8456,6 +8408,124 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12993",
+   "source": "ejm",
+   "institution": "University of Turku",
+   "title": "Professor or Associate/Assistant Professor in Macroeconomics",
+   "location": "Turku, FI",
+   "continent": "Europe",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-17",
+   "posted": "2026-11-07",
+   "url": "https://econjobmarket.org/positions/12993",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-07"
+  },
+  {
+   "id": "ejm:12994",
+   "source": "ejm",
+   "institution": "Masaryk University",
+   "title": "Assistant Professor in Empirical Microeconomics (tenure track)",
+   "location": "Brno, CZ",
+   "continent": "Europe",
+   "fields": [
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-07",
+   "url": "https://econjobmarket.org/positions/12994",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-07"
+  },
+  {
+   "id": "ejm:12995",
+   "source": "ejm",
+   "institution": "American University of Beirut",
+   "title": "Tenure-track Assistant Professor in Economics",
+   "location": "Beirut, LB",
+   "continent": "Asia",
+   "fields": [
+    "Econometrics",
+    "Experimental Economics",
+    "Other",
+    "Computational Economics",
+    "Microeconomic theory",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-11-07",
+   "url": "https://econjobmarket.org/positions/12995",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-07"
+  },
+  {
+   "id": "ejm:12996",
+   "source": "ejm",
+   "institution": "University College London",
+   "title": "Research Fellow",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-07",
+   "url": "https://econjobmarket.org/positions/12996",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-08"
+  },
+  {
+   "id": "ejm:12997",
+   "source": "ejm",
+   "institution": "Cheung Kong Graduate School of Business",
+   "title": "Assistant Professor in Economics",
+   "location": "Beijing, CN",
+   "continent": "Asia",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-11-07",
+   "url": "https://econjobmarket.org/positions/12997",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-07"
   },
   {
    "id": "joe:111477855",
@@ -24173,94 +24243,40 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12993",
+   "id": "ejm:12606",
    "source": "ejm",
-   "institution": "School of Economics, University of Turku",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Macroeconomics; Monetary",
-   "location": "Turku, FI",
-   "continent": "Europe",
+   "institution": "Lyndon B. Johnson School of Public Affairs, University of Texas at Austin",
+   "title": "Assistant Professor, International Finance/Macro/Political Economy",
+   "location": "Austin, US",
+   "continent": "North America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-17",
-   "posted": "2026-11-07",
-   "url": "https://econjobmarket.org/positions/12993",
+   "deadline": "2026-11-08",
+   "posted": "2026-08-28",
+   "url": "https://econjobmarket.org/positions/12606",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-08-30"
   },
   {
-   "id": "ejm:12996",
+   "id": "ejm:12791",
    "source": "ejm",
-   "institution": "Department of Economics, University College London",
-   "title": "Assistant Professor, Finance",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-07",
-   "url": "https://econjobmarket.org/positions/12996",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-08"
-  },
-  {
-   "id": "ejm:12997",
-   "source": "ejm",
-   "institution": "Cheung Kong Graduate School of Business",
-   "title": "Assistant Professor, Economics",
-   "location": "Beijing, CN",
+   "institution": "School of Foreign Service, Georgetown University",
+   "title": "Assistant Professor/Associate Professor/Full Professor, International Finance/Macro/International Trade",
+   "location": "Doha, QA",
    "continent": "Asia",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-04-30",
-   "posted": "2026-11-07",
-   "url": "https://econjobmarket.org/positions/12997",
+   "deadline": "2026-10-15",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12791",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-07"
-  },
-  {
-   "id": "ejm:12994",
-   "source": "ejm",
-   "institution": "Faculty of Economics and Administration, Masaryk University",
-   "title": "Assistant Professor, Applied microeconomics/Microeconomic theory",
-   "location": "Brno, CZ",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-07",
-   "url": "https://econjobmarket.org/positions/12994",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-07"
-  },
-  {
-   "id": "ejm:12995",
-   "source": "ejm",
-   "institution": "Faculty of Arts and Sciences, American University of Beirut",
-   "title": "Assistant Professor, Applied microeconomics/Computational Economics/Econometrics/Experimental Economics/Microeconomic theory",
-   "location": "Beirut, LB",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-31",
-   "posted": "2026-11-07",
-   "url": "https://econjobmarket.org/positions/12995",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-10-09"
   }
  ]
 }
