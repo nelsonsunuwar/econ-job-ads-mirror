@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-08T20:45:12Z",
+ "generated_at": "2026-11-09T01:57:17Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 355,
-   "site_listing": 337,
-   "site_extra": 2,
+   "count": 354,
+   "site_listing": 336,
+   "site_extra": 1,
    "not_live": 12,
    "dead": 0
   },
@@ -24243,40 +24243,22 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12606",
+   "id": "ejm:12992",
    "source": "ejm",
-   "institution": "Lyndon B. Johnson School of Public Affairs, University of Texas at Austin",
-   "title": "Assistant Professor, International Finance/Macro/Political Economy",
-   "location": "Austin, US",
-   "continent": "North America",
+   "institution": "Business School, University of Sydney",
+   "title": "Lecturer/Senior Lecturer, Finance",
+   "location": "Darlington, AU",
+   "continent": "Oceania",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-08",
-   "posted": "2026-08-28",
-   "url": "https://econjobmarket.org/positions/12606",
+   "deadline": "2026-12-14",
+   "posted": "2026-11-09",
+   "url": "https://econjobmarket.org/positions/12992",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12791",
-   "source": "ejm",
-   "institution": "School of Foreign Service, Georgetown University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, International Finance/Macro/International Trade",
-   "location": "Doha, QA",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-10-15",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12791",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
+   "first_seen": "2026-11-09"
   }
  ]
 }
