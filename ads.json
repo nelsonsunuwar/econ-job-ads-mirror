@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T01:57:17Z",
+ "generated_at": "2026-11-09T13:20:48Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -11,7 +11,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 731
+   "count": 730
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -8894,6 +8894,34 @@
    "first_seen": "2026-09-21"
   },
   {
+   "id": "joe:111478479",
+   "source": "joe",
+   "institution": "Bank of Korea",
+   "title": "Economist",
+   "location": "Seoul, Korea, Republic Of",
+   "continent": "Asia",
+   "fields": [
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F1 Trade",
+    "F4 Macroeconomic Aspects of International Trade and Finance",
+    "F6 Economic Impacts of Globalization",
+    "H Public Economics",
+    "J Labor and Demographic Economics",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-27",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478479",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-09"
+  },
+  {
    "id": "joe:111478348",
    "source": "joe",
    "institution": "Barnard College",
@@ -12693,29 +12721,6 @@
    "first_seen": "2026-09-29"
   },
   {
-   "id": "joe:111478227",
-   "source": "joe",
-   "institution": "Heidelberg University",
-   "title": "Full professorship (W3) in “American Studies” (f/m/d)",
-   "location": "Heidelberg, Germany",
-   "continent": "Europe",
-   "fields": [
-    "A1 General Economics",
-    "N0 General",
-    "R0 General",
-    "Z1 Cultural Economics; Economic Sociology; Economic Anthropology"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-04",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478227",
-   "predoc": false,
-   "senior": true,
-   "link_status": "ok",
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": "joe:111478035",
    "source": "joe",
    "institution": "Hong Kong Monetary Authority",
@@ -15440,32 +15445,6 @@
    "deadline": "2026-11-08",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477761",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-08"
-  },
-  {
-   "id": "joe:111477783",
-   "source": "joe",
-   "institution": "NERA",
-   "title": "NERA Experienced Consultant",
-   "location": "New York, United States; Washington, United States; San Francisco, United States",
-   "continent": "North America",
-   "fields": [
-    "A1 General Economics",
-    "D Microeconomics",
-    "G Financial Economics",
-    "I1 Health",
-    "K Law and Economics",
-    "L Industrial Organization",
-    "O Economic Development, Innovation, Technological Change, and Growth"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-11-08",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477783",
    "predoc": false,
    "senior": false,
    "link_status": "ok",
