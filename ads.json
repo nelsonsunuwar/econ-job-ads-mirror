@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-10T00:25:13Z",
+ "generated_at": "2026-11-10T12:57:32Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 363,
    "site_listing": 347,
-   "site_extra": 12,
+   "site_extra": 11,
    "not_live": 10,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 735
+   "count": 734
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -2467,29 +2467,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "ejm:12704",
-   "source": "ejm",
-   "institution": "University of Virginia",
-   "title": "Assistant Professor of Economics (Microeconomic Theory and/or Industrial Organiz",
-   "location": "Charlottesville, US",
-   "continent": "North America",
-   "fields": [
-    "Industrial Organization",
-    "Microeconomic theory"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-09-24",
-   "url": "https://econjobmarket.org/positions/12704",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-24"
-  },
-  {
    "id": "ejm:12705",
    "source": "ejm",
    "institution": "Institute for Fiscal Studies",
@@ -2967,30 +2944,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12733",
-   "source": "ejm",
-   "institution": "Stanford University",
-   "title": "Stanford Graduate School of Business - Faculty Positions in Economics",
-   "location": "Stanford, US",
-   "continent": "North America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12733",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-02"
-  },
-  {
    "id": "ejm:12734",
    "source": "ejm",
    "institution": "Umeå University",
@@ -3011,28 +2964,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-03"
-  },
-  {
-   "id": "ejm:12736",
-   "source": "ejm",
-   "institution": "Université Toulouse Capitole",
-   "title": "Assistant Professor -Tenure Track",
-   "location": "Toulouse, FR",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-08",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12736",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-01"
   },
   {
    "id": "ejm:12737",
@@ -4449,31 +4380,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-14"
-  },
-  {
-   "id": "ejm:12809",
-   "source": "ejm",
-   "institution": "Institut Louis Bachelier",
-   "title": "Postdoc in AI agents and human-AI interactions in financial systems",
-   "location": "Paris, FR",
-   "continent": "Europe",
-   "fields": [
-    "Experimental Economics",
-    "Finance",
-    "Macroeconomics; Monetary",
-    "Computational Economics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-13",
-   "url": "https://econjobmarket.org/positions/12809",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-13"
   },
   {
    "id": "ejm:12810",
@@ -7987,6 +7893,28 @@
    "first_seen": "2026-11-03"
   },
   {
+   "id": "ejm:12972",
+   "source": "ejm",
+   "institution": "Universitat Ramon Llull",
+   "title": "Assistant/Associate Professor of Management Practice — Economics",
+   "location": "Barcelona, ES",
+   "continent": "Europe",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-11-09",
+   "url": "https://econjobmarket.org/positions/12972",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
+  },
+  {
    "id": "ejm:12973",
    "source": "ejm",
    "institution": "Austrian Institute of Economic Research (WIFO)",
@@ -8157,6 +8085,28 @@
    "first_seen": "2026-11-05"
   },
   {
+   "id": "ejm:12980",
+   "source": "ejm",
+   "institution": "University of Bergen",
+   "title": "Assistant professor in economics (tenure track)",
+   "location": "Bergen, NO",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-11-09",
+   "url": "https://econjobmarket.org/positions/12980",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
+  },
+  {
    "id": "ejm:12981",
    "source": "ejm",
    "institution": "ZEW - Leibniz Centre for European Economic Research",
@@ -8245,6 +8195,28 @@
    "deadline": "2026-11-30",
    "posted": "2026-11-05",
    "url": "https://econjobmarket.org/positions/12985",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12986",
+   "source": "ejm",
+   "institution": "Tampere University",
+   "title": "Postdoctoral Research Fellow in Economics",
+   "location": "Tampere, FI",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-13",
+   "posted": "2026-11-09",
+   "url": "https://econjobmarket.org/positions/12986",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -8351,6 +8323,29 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12992",
+   "source": "ejm",
+   "institution": "University of Sydney",
+   "title": "Lecturer/Senior Lecturer (Assistant Professor) Finance",
+   "location": "Darlington, AU",
+   "continent": "Oceania",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Lecturer",
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-12-14",
+   "posted": "2026-11-09",
+   "url": "https://econjobmarket.org/positions/12992",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-09"
   },
   {
    "id": "ejm:12993",
@@ -8469,6 +8464,30 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-07"
+  },
+  {
+   "id": "ejm:12998",
+   "source": "ejm",
+   "institution": "SRM University",
+   "title": "Faculty Positions in Economics",
+   "location": "Mangalagiri Mandal,Guntur Dist, IN",
+   "continent": "Asia",
+   "fields": [
+    "Finance",
+    "Computational Economics",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-06-30",
+   "posted": "2026-11-09",
+   "url": "https://econjobmarket.org/positions/12998",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
   },
   {
    "id": "joe:111477855",
@@ -13413,26 +13432,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-15"
-  },
-  {
-   "id": "joe:111477884",
-   "source": "joe",
-   "institution": "Johns Hopkins University",
-   "title": "SNF Agora Academy Postdoctoral Fellowship",
-   "location": "Baltimore, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-11-05",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477884",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-21"
   },
   {
    "id": "joe:111477928",
@@ -24277,22 +24276,22 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12998",
+   "id": "ejm:12736",
    "source": "ejm",
-   "institution": "Economics Department, SRM University",
-   "title": "Assistant Professor, Computational Economics/Finance/Microeconomic theory",
-   "location": "Mangalagiri Mandal,Guntur Dist, IN",
-   "continent": "Asia",
+   "institution": "Toulouse School of Economics, Université Toulouse Capitole",
+   "title": "Assistant Professor, Economics",
+   "location": "Toulouse, FR",
+   "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-06-30",
-   "posted": "2026-11-09",
-   "url": "https://econjobmarket.org/positions/12998",
+   "deadline": "2026-11-08",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12736",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-10-01"
   },
   {
    "id": "ejm:13005",
@@ -24311,24 +24310,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:12972",
-   "source": "ejm",
-   "institution": "Department of Economics, Finance and Accounting, ESADE, Universitat Ramon Llull",
-   "title": "Assistant/Associate Professor of Management Practice",
-   "location": "Barcelona, ES",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-03-31",
-   "posted": "2026-11-09",
-   "url": "https://econjobmarket.org/positions/12972",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-06"
   },
   {
    "id": "ejm:13007",
@@ -24365,42 +24346,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:12992",
-   "source": "ejm",
-   "institution": "Business School, University of Sydney",
-   "title": "Lecturer/Senior Lecturer, Finance",
-   "location": "Darlington, AU",
-   "continent": "Oceania",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-14",
-   "posted": "2026-11-09",
-   "url": "https://econjobmarket.org/positions/12992",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-09"
-  },
-  {
-   "id": "ejm:12986",
-   "source": "ejm",
-   "institution": "Faculty of Management and Business, Tampere University",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Tampere, FI",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-13",
-   "posted": "2026-11-09",
-   "url": "https://econjobmarket.org/positions/12986",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-06"
   },
   {
    "id": "ejm:13003",
@@ -24457,24 +24402,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "id": "ejm:12980",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Bergen",
-   "title": "Assistant Professor, Economics",
-   "location": "Bergen, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-01",
-   "posted": "2026-11-09",
-   "url": "https://econjobmarket.org/positions/12980",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-10"
-  },
-  {
    "id": "ejm:12999",
    "source": "ejm",
    "institution": "Economics, University of Exeter",
@@ -24491,6 +24418,60 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:12809",
+   "source": "ejm",
+   "institution": "Institut Louis Bachelier",
+   "title": "Postdoctoral Scholar, Computational Economics/Experimental Economics/Finance/Macroeconomics; Monetary",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-13",
+   "url": "https://econjobmarket.org/positions/12809",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-13"
+  },
+  {
+   "id": "ejm:12704",
+   "source": "ejm",
+   "institution": "Economics, University of Virginia",
+   "title": "Assistant Professor, Industrial Organization/Microeconomic theory",
+   "location": "Charlottesville, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-09-24",
+   "url": "https://econjobmarket.org/positions/12704",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-24"
+  },
+  {
+   "id": "ejm:12733",
+   "source": "ejm",
+   "institution": "Economics, Graduate School of Business, Stanford University",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "Stanford, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-10",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12733",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-02"
   }
  ]
 }
