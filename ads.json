@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-11T02:14:13Z",
+ "generated_at": "2026-11-11T12:08:23Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 359,
+   "count": 358,
    "site_listing": 343,
-   "site_extra": 7,
-   "not_live": 10,
+   "site_extra": 0,
+   "not_live": 9,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 734
+   "count": 733
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -7414,16 +7414,8 @@
    "section": null,
    "deadline": "2027-02-01",
    "posted": "2026-10-29",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12950",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12950",
-   "text": "The Doctoral Program in International Business Taxation (DIBT) at WU Vienna (Vienna University of Economics and Business) invites applications from outstanding students in economics and related fields for its four-year, fully English-taught PhD program.\n\nABOUT DIBT\n\nDIBT offers a four-year PhD program in economics with a strong interdisciplinary component. It includes rigorous training in theoretical and empirical research on taxation and public finance, complemented by insights from law and business with a focus on international taxation.\n\nThe first year provides intensive coursework in public finance, international taxation, and applied econometrics, followed by research seminars, workshops, and an international research stay. All courses are taught in English.\n\nStudents are free to choose their own dissertation topics within the broad field of international business taxation. As guidance, current research at DIBT includes projects on the environmental, social, and governance (ESG) dimensions of taxation - such as the design of carbon and biodiversity taxes, the incidence and distributional effects of corporate taxation, and the real and financial effects of anti-tax-avoidance measures and global minimum taxation. Much of the research at DIBT is empirical and based on high-quality microdata, but theoretical work is equally welcome.\n\nAPPLICATION\n\nThe program is open to applicants worldwide, holding a master’s or equivalent degree in economics, law, or business. Candidates from other disciplines who have sufficient background in taxation are also welcome to apply.\n\nApplications are accepted from November 1, 2026, to February 1, 2027 via the online application tool at https://bach.wu.ac.at/z/wu/mab. Only applications submitted before the deadline can be processed. For detailed information on application requirements, visit our step-by-step guide at https://short.wu.ac.at/9fza.\n\nFINANCIAL SUPPORT\n\nAdmission is highly selective, with limited spots available. Accepted students will benefit from tuition fee waivers and excellent research conditions. Additionally, a limited number of employment contracts will be available, offering a gross annual salary of approximately €39,650 (14 x €2,832 per month before tax and social/medical deductions). WU Vienna always goes the extra mile to provide an ideal research environment.\n\nCONTACT\n\nIf you have further questions or inquiries, contact us at dibt@wu.ac.at. More details are available on our program’s website http://www.wu.ac.at/dibt/about/ and the FAQs page http://www.wu.ac.at/dibt/faq.\n\n• Apply online here: https://bach.wu.ac.at/z/wu/mab\n\n• Application deadline: February 1, 2027.",
-   "links": [
-    "https://bach.wu.ac.at/z/wu/mab",
-    "https://short.wu.ac.at/9fza",
-    "http://www.wu.ac.at/dibt/about/",
-    "http://www.wu.ac.at/dibt/faq"
-   ],
+   "url": "https://econjobmarket.org/positions/12950",
+   "link_status": "ok",
    "predoc": true,
    "senior": false,
    "first_seen": "2026-10-30"
@@ -7451,30 +7443,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-29"
-  },
-  {
-   "id": "ejm:12952",
-   "source": "ejm",
-   "institution": "foundry10",
-   "title": "Economics Research Assistant",
-   "location": "",
-   "continent": null,
-   "fields": [
-    "Labor; Demographic Economics",
-    "Health; Education; Welfare"
-   ],
-   "position_types": [
-    "Research Assistant",
-    "Research Assistant (Pre-Doc)"
-   ],
-   "section": null,
-   "deadline": "2026-11-11",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12952",
-   "link_status": "ok",
-   "predoc": true,
-   "senior": false,
-   "first_seen": "2026-10-30"
   },
   {
    "id": "ejm:12953",
@@ -8484,6 +8452,170 @@
    "deadline": "2027-06-30",
    "posted": "2026-11-09",
    "url": "https://econjobmarket.org/positions/12998",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:12999",
+   "source": "ejm",
+   "institution": "University of Exeter",
+   "title": "Lecturer/Senior Lecturer (Assistant Professor) - Environmental Economics",
+   "location": "Exeter, GB",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-10",
+   "url": "https://econjobmarket.org/positions/12999",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:13000",
+   "source": "ejm",
+   "institution": "IÉSEG School of Management",
+   "title": "Postdoc in Behavioral & Climate Economics and Decision-Making under Uncertainty",
+   "location": "Lille, FR",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "Experimental Economics",
+    "Public Economics",
+    "Behavioral Economics",
+    "Decision Sciences"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-18",
+   "posted": "2026-11-10",
+   "url": "https://econjobmarket.org/positions/13000",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:13001",
+   "source": "ejm",
+   "institution": "Universitat Ramon Llull",
+   "title": "Faculty Position in Corporate Finance",
+   "location": "Barcelona, ES",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-10",
+   "url": "https://econjobmarket.org/positions/13001",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:13003",
+   "source": "ejm",
+   "institution": "Federal Reserve Bank of Minneapolis",
+   "title": "Economist/Sr. Economist/Principal Economist - Opportunity and Inclusive Growth",
+   "location": "Minneapolis, US",
+   "continent": "North America",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-10",
+   "posted": "2026-11-10",
+   "url": "https://econjobmarket.org/positions/13003",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:13004",
+   "source": "ejm",
+   "institution": "Opportunity Insights",
+   "title": "Data Scientist",
+   "location": "Cambridge, US",
+   "continent": "North America",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-09",
+   "posted": "2026-11-10",
+   "url": "https://econjobmarket.org/positions/13004",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:13005",
+   "source": "ejm",
+   "institution": "HEC Paris",
+   "title": "HEC Paris - Education Track Faculty - AI and Finance - Open Rank",
+   "location": "Jouy en Josas, FR",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-05-01",
+   "posted": "2026-11-10",
+   "url": "https://econjobmarket.org/positions/13005",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:13007",
+   "source": "ejm",
+   "institution": "Northeastern University",
+   "title": "Assistant/Associate/Full Teaching Professor - Department of Economics",
+   "location": "Boston, US",
+   "continent": "North America",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "International Trade",
+    "Any field",
+    "Other",
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Untenured Professor"
+   ],
+   "section": null,
+   "deadline": "2027-03-30",
+   "posted": "2026-11-10",
+   "url": "https://econjobmarket.org/positions/13007",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -17917,26 +18049,6 @@
    "first_seen": "2026-10-02"
   },
   {
-   "id": "joe:111478079",
-   "source": "joe",
-   "institution": "Stanford Graduate School of Business",
-   "title": "Faculty Positions in Economics",
-   "location": "Stanford, United States",
-   "continent": "North America",
-   "fields": [
-    "A1 General Economics"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-10",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478079",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-06"
-  },
-  {
    "id": "joe:111477795",
    "source": "joe",
    "institution": "Stanford Graduate School of Business",
@@ -24274,132 +24386,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-30"
-  },
-  {
-   "id": "ejm:13005",
-   "source": "ejm",
-   "institution": "Finance, HEC Paris",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Finance",
-   "location": "Jouy En Josas, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-05-01",
-   "posted": "2026-11-10",
-   "url": "https://econjobmarket.org/positions/13005",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:13007",
-   "source": "ejm",
-   "institution": "Economics, Northeastern University",
-   "title": "Untenured Professor, Economics",
-   "location": "Boston, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-03-30",
-   "posted": "2026-11-10",
-   "url": "https://econjobmarket.org/positions/13007",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:13000",
-   "source": "ejm",
-   "institution": "IÉSEG School of Management",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Decision Sciences/Environmental; Energy; Ag. Econ/Experimental Economics/Public Economics",
-   "location": "Lille, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-18",
-   "posted": "2026-11-10",
-   "url": "https://econjobmarket.org/positions/13000",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:13003",
-   "source": "ejm",
-   "institution": "Research Division, Federal Reserve Bank of Minneapolis",
-   "title": "Economist/Sr. Economist/Principal Economist - Opportunity and Inclusive Growth",
-   "location": "Minneapolis, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-10",
-   "posted": "2026-11-10",
-   "url": "https://econjobmarket.org/positions/13003",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:13001",
-   "source": "ejm",
-   "institution": "Department of Economics, Finance and Accounting, ESADE, Universitat Ramon Llull",
-   "title": "Assistant Professor, Finance",
-   "location": "Barcelona, ES",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-10",
-   "url": "https://econjobmarket.org/positions/13001",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:13004",
-   "source": "ejm",
-   "institution": "Opportunity Insights",
-   "title": "Data Scientist",
-   "location": "Cambridge, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-09",
-   "posted": "2026-11-10",
-   "url": "https://econjobmarket.org/positions/13004",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:12999",
-   "source": "ejm",
-   "institution": "Economics, University of Exeter",
-   "title": "Assistant Professor, Environmental; Energy; Ag. Econ",
-   "location": "Exeter, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-10",
-   "url": "https://econjobmarket.org/positions/12999",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-10"
   }
  ]
 }
