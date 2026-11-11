@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-10T21:56:58Z",
+ "generated_at": "2026-11-11T02:14:13Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 363,
-   "site_listing": 347,
-   "site_extra": 11,
+   "count": 359,
+   "site_listing": 343,
+   "site_extra": 7,
    "not_live": 10,
    "dead": 0
   },
@@ -24276,24 +24276,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12736",
-   "source": "ejm",
-   "institution": "Toulouse School of Economics, Université Toulouse Capitole",
-   "title": "Assistant Professor, Economics",
-   "location": "Toulouse, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-08",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12736",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-01"
-  },
-  {
    "id": "ejm:13005",
    "source": "ejm",
    "institution": "Finance, HEC Paris",
@@ -24418,60 +24400,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": "ejm:12809",
-   "source": "ejm",
-   "institution": "Institut Louis Bachelier",
-   "title": "Postdoctoral Scholar, Computational Economics/Experimental Economics/Finance/Macroeconomics; Monetary",
-   "location": "Paris, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-13",
-   "url": "https://econjobmarket.org/positions/12809",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-13"
-  },
-  {
-   "id": "ejm:12704",
-   "source": "ejm",
-   "institution": "Economics, University of Virginia",
-   "title": "Assistant Professor, Industrial Organization/Microeconomic theory",
-   "location": "Charlottesville, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-09-24",
-   "url": "https://econjobmarket.org/positions/12704",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-24"
-  },
-  {
-   "id": "ejm:12733",
-   "source": "ejm",
-   "institution": "Economics, Graduate School of Business, Stanford University",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Stanford, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12733",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-02"
   }
  ]
 }
