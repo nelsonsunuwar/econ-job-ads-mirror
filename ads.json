@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-11T12:08:23Z",
+ "generated_at": "2026-11-11T23:01:38Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 358,
-   "site_listing": 343,
-   "site_extra": 0,
+   "count": 362,
+   "site_listing": 347,
+   "site_extra": 4,
    "not_live": 9,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 733
+   "count": 750
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -19,7 +19,8 @@
   }
  },
  "continent_unmapped": [
-  "IRAN, ISLAMIC REPUBLIC OF"
+  "IRAN, ISLAMIC REPUBLIC OF",
+  "SENEGAL"
  ],
  "ads": [
   {
@@ -7934,17 +7935,7 @@
    "location": "Abu Dhabi, AE",
    "continent": "Asia",
    "fields": [
-    "Econometrics",
-    "Economic History",
-    "Experimental Economics",
-    "Labor; Demographic Economics",
-    "Macroeconomics; Monetary",
-    "Public Economics",
-    "Behavioral Economics",
-    "Urban; Rural; Regional Economics",
-    "Political Economy",
-    "Microeconomic theory",
-    "Applied microeconomics"
+    "Any field"
    ],
    "position_types": [
     "Assistant Professor"
@@ -8703,6 +8694,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478510",
+   "source": "joe",
+   "institution": "American Cement Association",
+   "title": "Senior Vice President and Chief Economist",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-11-05",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478510",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111477892",
@@ -9798,6 +9809,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-05"
+  },
+  {
+   "id": "joe:111478512",
+   "source": "joe",
+   "institution": "Case Western Reserve University",
+   "title": "Research Associate",
+   "location": "Cleveland, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching",
+    "C8 Data Collection and Data Estimation Methodology; Computer Programs",
+    "I1 Health",
+    "R3 Real Estate Markets, Spatial Production Analysis, and Firm Location"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-02-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478512",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111478375",
@@ -12465,6 +12499,26 @@
    "first_seen": "2026-10-26"
   },
   {
+   "id": "joe:111478449",
+   "source": "joe",
+   "institution": "Good Business Lab",
+   "title": "Research Fellow",
+   "location": "India",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-03-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478449",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "joe:111478525",
    "source": "joe",
    "institution": "Grand Rapids Community College",
@@ -13423,6 +13477,26 @@
    "first_seen": "2026-10-20"
   },
   {
+   "id": "joe:111478496",
+   "source": "joe",
+   "institution": "Jacksonville University",
+   "title": "Assistant or Associate Professor",
+   "location": "Jacksonville, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478496",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "joe:111477941",
    "source": "joe",
    "institution": "James Madison University",
@@ -13740,7 +13814,7 @@
    ],
    "position_types": [],
    "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
-   "deadline": "2026-10-31",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477812",
    "predoc": false,
@@ -14037,6 +14111,30 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-07"
+  },
+  {
+   "id": "joe:111478474",
+   "source": "joe",
+   "institution": "Lake Lucerne Institute",
+   "title": "Postdoctoral Fellows",
+   "location": "Vitznau, Switzerland",
+   "continent": "Europe",
+   "fields": [
+    "C5 Econometric Modeling",
+    "D8 Information, Knowledge, and Uncertainty",
+    "G1 General Financial Markets",
+    "G4 Behavioral Finance",
+    "G5 Household Finance"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-06-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478474",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111477889",
@@ -14520,6 +14618,28 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478507",
+   "source": "joe",
+   "institution": "Mathematica, Inc.",
+   "title": "Quantitative Researcher/Economist - Human Services",
+   "location": "United States",
+   "continent": "North America",
+   "fields": [
+    "H7 State and Local Government; Intergovernmental Relations",
+    "I0 General",
+    "I3 Welfare, Well-Being, and Poverty"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-05",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478507",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "joe:111477724",
    "source": "joe",
    "institution": "Maynooth University (Ireland)",
@@ -14558,6 +14678,36 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-22"
+  },
+  {
+   "id": "joe:111478515",
+   "source": "joe",
+   "institution": "Mercado Libre",
+   "title": "Economist",
+   "location": "Argentina; Chile; Colombia; Brazil; Mexico",
+   "continent": "Latin America",
+   "fields": [
+    "C1 Econometric and Statistical Methods and Methodology:  General",
+    "C4 Econometric and Statistical Methods:  Special Topics",
+    "C5 Econometric Modeling",
+    "C9 Design of Experiments",
+    "D1 Household Behavior and Family Economics",
+    "D4 Market Structure, Pricing, and Design",
+    "D8 Information, Knowledge, and Uncertainty",
+    "G2 Financial Institutions and Services",
+    "L1 Market Structure, Firm Strategy, and Market Performance",
+    "L8 Industry Studies: Services",
+    "M3 Marketing and Advertising"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-03-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478515",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111477934",
@@ -14944,6 +15094,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-29"
+  },
+  {
+   "id": "joe:111478503",
+   "source": "joe",
+   "institution": "National Bureau of Economic Research",
+   "title": "Dissertation Fellow, Identifying and Nurturing Mathematical Talent Among Youth",
+   "location": "United States; Canada",
+   "continent": "North America",
+   "fields": [
+    "I2 Education and Research Institutions",
+    "J2 Demand and Supply of Labor",
+    "O1 Economic Development"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478503",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111478046",
@@ -15685,7 +15857,7 @@
    "location": "Abu Dhabi, United Arab Emirates",
    "continent": "Asia",
    "fields": [
-    "A2 Economic Education and Teaching of Economics"
+    "00 00 - Default: Any Field"
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
@@ -15705,7 +15877,7 @@
    "location": "Abu Dhabi, United Arab Emirates",
    "continent": "Asia",
    "fields": [
-    "H Public Economics"
+    "00 00 - Default: Any Field"
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
@@ -16660,6 +16832,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478483",
+   "source": "joe",
+   "institution": "Pittsburg State University",
+   "title": "Assistant Professor of Finance",
+   "location": "Pittsburg, United States",
+   "continent": "North America",
+   "fields": [
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-11-03",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478483",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111477999",
@@ -17825,6 +18017,32 @@
    "first_seen": "2026-10-28"
   },
   {
+   "id": "joe:111478476",
+   "source": "joe",
+   "institution": "Small Business Administration Office of Advocacy",
+   "title": "Economist",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "D Microeconomics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics",
+    "O Economic Development, Innovation, Technological Change, and Growth"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478476",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "joe:111477826",
    "source": "joe",
    "institution": "Soka University of America (SUA)",
@@ -18027,6 +18245,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-13"
+  },
+  {
+   "id": "joe:111478509",
+   "source": "joe",
+   "institution": "St. Lawrence University",
+   "title": "Finance Assistant Professor",
+   "location": "13617, United States",
+   "continent": "North America",
+   "fields": [
+    "G0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478509",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111477991",
@@ -18898,6 +19136,30 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "joe:111478489",
+   "source": "joe",
+   "institution": "Texas A&amp;M University",
+   "title": "Postdoctoral Research Associate",
+   "location": "College Station, United States",
+   "continent": "North America",
+   "fields": [
+    "C2 Single Equation Models; Single Variables",
+    "G3 Corporate Finance and Governance",
+    "H5 National Government Expenditures and Related Policies",
+    "L2 Firm Objectives, Organization, and Behavior",
+    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Part-time or Adjunct)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478489",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "joe:111477732",
    "source": "joe",
    "institution": "Texas A&amp;M University",
@@ -19426,6 +19688,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-19"
+  },
+  {
+   "id": "joe:111478502",
+   "source": "joe",
+   "institution": "The International Food Policy Research Institute",
+   "title": "Research Fellow I/II",
+   "location": "Washington, DC, United States; Senegal; Kenya; Ethiopia",
+   "continent": "Africa / North America",
+   "fields": [
+    "F1 Trade"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-20",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478502",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111477650",
@@ -20361,6 +20643,32 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-05"
+  },
+  {
+   "id": "joe:111478471",
+   "source": "joe",
+   "institution": "United States Military Academy",
+   "title": "USAA Educational Foundation and Lieutenant General Richard G. Trefry Assistant Professor of Economics and Financial Readiness",
+   "location": "West Point, United States",
+   "continent": "North America",
+   "fields": [
+    "A General Economics and Teaching",
+    "D Microeconomics",
+    "D1 Household Behavior and Family Economics",
+    "G Financial Economics",
+    "G5 Household Finance",
+    "H Public Economics",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478471",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111478470",
@@ -21475,6 +21783,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478490",
+   "source": "joe",
+   "institution": "University of Colorado Boulder",
+   "title": "Assistant Teaching Professor",
+   "location": "Boulder, United States",
+   "continent": "North America",
+   "fields": [
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478490",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "joe:111477865",
    "source": "joe",
    "institution": "University of Cyprus",
@@ -21780,6 +22108,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478500",
+   "source": "joe",
+   "institution": "University of Illinois Urbana Champaign",
+   "title": "Postdoctoral Research Associate in Applied Economics (Health, Environment, Education)",
+   "location": "Champaign, United States",
+   "continent": "North America",
+   "fields": [
+    "H Public Economics",
+    "I1 Health",
+    "I2 Education and Research Institutions",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478500",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111477747",
@@ -24160,6 +24511,27 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478487",
+   "source": "joe",
+   "institution": "Yale University",
+   "title": "Hellenic Studies Post-Doctoral Associate",
+   "location": "New Haven, United States",
+   "continent": "North America",
+   "fields": [
+    "F International Economics",
+    "Z Other Special Topics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-02-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478487",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "joe:111478204",
    "source": "joe",
    "institution": "Yale University",
@@ -24232,7 +24604,7 @@
    ],
    "position_types": [],
    "section": "Full-Time Nonacademic",
-   "deadline": "2026-10-31",
+   "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477963",
    "predoc": false,
@@ -24386,6 +24758,78 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-30"
+  },
+  {
+   "id": "ejm:13002",
+   "source": "ejm",
+   "institution": "Kiel Institute for the World Economy",
+   "title": "Postdoctoral Scholar, Development; Growth/Environmental; Energy; Ag. Econ/International Finance/Macro/International Trade/Macroeconomics; Monetary",
+   "location": "Kiel, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13002",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "ejm:13008",
+   "source": "ejm",
+   "institution": "Kiel Institute for the World Economy",
+   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ/International Finance/Macro/International Trade/Public Economics",
+   "location": "Kiel, Berlin, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13008",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "ejm:13009",
+   "source": "ejm",
+   "institution": "Statistics Norway",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Health; Education; Welfare/Labor; Demographic Economics",
+   "location": "Oslo, NO",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-03",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13009",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "ejm:13013",
+   "source": "ejm",
+   "institution": "Economics and Management, Leibniz Universität Hannover",
+   "title": "Postdoctoral Scholar, Development; Growth/Experimental Economics/Health; Education; Welfare/Public Economics",
+   "location": "Hannover, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-19",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13013",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-11"
   }
  ]
 }
