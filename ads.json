@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-11T23:01:38Z",
+ "generated_at": "2026-11-12T13:13:59Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 362,
-   "site_listing": 347,
+   "count": 366,
+   "site_listing": 351,
    "site_extra": 4,
    "not_live": 9,
    "dead": 0
@@ -8519,6 +8519,32 @@
    "first_seen": "2026-11-10"
   },
   {
+   "id": "ejm:13002",
+   "source": "ejm",
+   "institution": "Kiel Institute for the World Economy",
+   "title": "Albert O. Hirschman Postdoc Program (Berlin / Kiel)",
+   "location": "Kiel, DE",
+   "continent": "Europe",
+   "fields": [
+    "Development; Growth",
+    "Environmental; Energy; Ag. Econ",
+    "International Finance/Macro",
+    "International Trade",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13002",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "ejm:13003",
    "source": "ejm",
    "institution": "Federal Reserve Bank of Minneapolis",
@@ -8611,6 +8637,80 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ejm:13008",
+   "source": "ejm",
+   "institution": "Kiel Institute for the World Economy",
+   "title": "PostDoc in Quantitative Economics (m/f/d) (Berlin)",
+   "location": "Kiel, Berlin, DE",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ",
+    "International Finance/Macro",
+    "International Trade",
+    "Public Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13008",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "ejm:13009",
+   "source": "ejm",
+   "institution": "Statistics Norway",
+   "title": "Postdoctoral Researcher in Economics of Education",
+   "location": "Oslo, NO",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Health; Education; Welfare",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-03",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13009",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "ejm:13013",
+   "source": "ejm",
+   "institution": "Leibniz Universität Hannover",
+   "title": "Senior Research Associate (Postdoc), Health Economics and Development Economics",
+   "location": "Hannover, DE",
+   "continent": "Europe",
+   "fields": [
+    "Development; Growth",
+    "Experimental Economics",
+    "Public Economics",
+    "Health; Education; Welfare"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-19",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13013",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-11"
   },
   {
    "id": "joe:111477855",
@@ -24760,76 +24860,76 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:13002",
+   "id": "ejm:13012",
    "source": "ejm",
-   "institution": "Kiel Institute for the World Economy",
-   "title": "Postdoctoral Scholar, Development; Growth/Environmental; Energy; Ag. Econ/International Finance/Macro/International Trade/Macroeconomics; Monetary",
-   "location": "Kiel, DE",
+   "institution": "College of Management of Technology, École Polytechnique Fédérale de Lausanne",
+   "title": "Postdoctoral Scholar, International Finance/Macro/Macroeconomics; Monetary",
+   "location": "Lausanne, CH",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-11",
-   "url": "https://econjobmarket.org/positions/13002",
+   "deadline": "2027-01-15",
+   "posted": "2026-11-12",
+   "url": "https://econjobmarket.org/positions/13012",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
-   "id": "ejm:13008",
+   "id": "ejm:13011",
    "source": "ejm",
-   "institution": "Kiel Institute for the World Economy",
-   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ/International Finance/Macro/International Trade/Public Economics",
-   "location": "Kiel, Berlin, DE",
+   "institution": "Department of Applied Economics, Universitat de les Illes Balears",
+   "title": "Assistant Professor, Econometrics/Economic History/Law and Economics/Macroeconomics; Monetary/Statistics",
+   "location": "Palma, ES",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-11",
-   "url": "https://econjobmarket.org/positions/13008",
+   "deadline": "2026-12-31",
+   "posted": "2026-11-12",
+   "url": "https://econjobmarket.org/positions/13011",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
-   "id": "ejm:13009",
+   "id": "ejm:13010",
    "source": "ejm",
-   "institution": "Statistics Norway",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Health; Education; Welfare/Labor; Demographic Economics",
-   "location": "Oslo, NO",
-   "continent": "Europe",
+   "institution": "Center for Economic Analysis and Applied Data Science, Shiv Nadar University Chennai",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Applied microeconomics/Behavioral Economics/Business Economics/Computational Economics/Decision Sciences/Econometrics/Economic History/",
+   "location": "Chennai, IN",
+   "continent": "Asia",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-03",
-   "posted": "2026-11-11",
-   "url": "https://econjobmarket.org/positions/13009",
+   "deadline": "2026-12-31",
+   "posted": "2026-11-12",
+   "url": "https://econjobmarket.org/positions/13010",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
-   "id": "ejm:13013",
+   "id": "ejm:13014",
    "source": "ejm",
-   "institution": "Economics and Management, Leibniz Universität Hannover",
-   "title": "Postdoctoral Scholar, Development; Growth/Experimental Economics/Health; Education; Welfare/Public Economics",
-   "location": "Hannover, DE",
+   "institution": "Economics, Bocconi University",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Environmental; Energy; Ag. Econ/Finance",
+   "location": "Milano, IT",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-19",
-   "posted": "2026-11-11",
-   "url": "https://econjobmarket.org/positions/13013",
+   "deadline": "2026-12-30",
+   "posted": "2026-11-12",
+   "url": "https://econjobmarket.org/positions/13014",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   }
  ]
 }
