@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-12T22:26:47Z",
+ "generated_at": "2026-11-13T02:53:11Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 366,
-   "site_listing": 351,
-   "site_extra": 4,
+   "count": 367,
+   "site_listing": 352,
+   "site_extra": 5,
    "not_live": 9,
    "dead": 0
   },
@@ -25270,6 +25270,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-12"
+  },
+  {
+   "id": "ejm:13019",
+   "source": "ejm",
+   "institution": "Nyenrode Business Universiteit",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "Breukelen, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-28",
+   "posted": "2026-11-13",
+   "url": "https://econjobmarket.org/positions/13019",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-13"
   }
  ]
 }
