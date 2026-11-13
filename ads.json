@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T12:35:55Z",
+ "generated_at": "2026-11-13T22:09:56Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -11,7 +11,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 766
+   "count": 770
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -8885,6 +8885,29 @@
    "first_seen": "2026-09-08"
   },
   {
+   "id": "joe:111478577",
+   "source": "joe",
+   "institution": "Ball State University",
+   "title": "Assistant Professor of Economics",
+   "location": "Muncie, United States",
+   "continent": "North America",
+   "fields": [
+    "H0 General",
+    "J0 General",
+    "Q0 General",
+    "R0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-18",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478577",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-13"
+  },
+  {
    "id": "joe:111478115",
    "source": "joe",
    "institution": "Bank for International Settlements (BIS)",
@@ -9709,6 +9732,48 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-24"
+  },
+  {
+   "id": "joe:111478514",
+   "source": "joe",
+   "institution": "California Workers' Compensation Institute",
+   "title": "Research Associate",
+   "location": "Oakland, United States",
+   "continent": "North America",
+   "fields": [
+    "I1 Health",
+    "J3 Wages, Compensation, and Labor Costs"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478514",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "joe:111478513",
+   "source": "joe",
+   "institution": "California Workers' Compensation Institute",
+   "title": "Senior Research Associate",
+   "location": "Oakland, United States",
+   "continent": "North America",
+   "fields": [
+    "I1 Health",
+    "J3 Wages, Compensation, and Labor Costs"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478513",
+   "predoc": true,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-13"
   },
   {
    "id": "joe:111478282",
@@ -24264,6 +24329,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-30"
+  },
+  {
+   "id": "joe:111478580",
+   "source": "joe",
+   "institution": "W.E. Upjohn Institute for Employment Research",
+   "title": "Researcher / Senior Researcher",
+   "location": "Kalamazoo, United States",
+   "continent": "North America",
+   "fields": [
+    "J0 General"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478580",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-13"
   },
   {
    "id": "joe:111478320",
