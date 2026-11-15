@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:54:50Z",
+ "generated_at": "2026-11-15T02:06:13Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -25100,6 +25100,42 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:13026",
+   "source": "ejm",
+   "institution": "Kyiv School of Economics",
+   "title": "Assistant Professor/Associate Professor/Full Professor/Postdoctoral Scholar, Economics",
+   "location": "Kyiv, UA",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-11-15",
+   "url": "https://econjobmarket.org/positions/13026",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "ejm:13027",
+   "source": "ejm",
+   "institution": "Kyiv School of Economics",
+   "title": "Postdoctoral Scholar/Visiting Assistant Professor/Visiting Associate Professor/Visiting Professor, Economics",
+   "location": "Kyiv, UA",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-11-15",
+   "url": "https://econjobmarket.org/positions/13027",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-15"
+  },
+  {
    "id": "ejm:13024",
    "source": "ejm",
    "institution": "Geneva School of Economics and Management (GSEM), Université de Genève",
@@ -25152,42 +25188,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-14"
-  },
-  {
-   "id": "ejm:12827",
-   "source": "ejm",
-   "institution": "Department of Economics, Ghent University",
-   "title": "Assistant Professor, Experimental Economics",
-   "location": "Gent, BE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-10",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12827",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-15"
-  },
-  {
-   "id": "ejm:12762",
-   "source": "ejm",
-   "institution": "Norges Bank",
-   "title": "PhD Intern",
-   "location": "Oslo, NO",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-06",
-   "posted": "2026-10-05",
-   "url": "https://econjobmarket.org/positions/12762",
-   "link_status": "ok",
-   "predoc": true,
-   "senior": false,
-   "first_seen": "2026-10-05"
   }
  ]
 }
