@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-16T02:22:52Z",
+ "generated_at": "2026-11-16T13:07:46Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 333,
-   "site_listing": 318,
-   "site_extra": 4,
-   "not_live": 11,
+   "site_listing": 317,
+   "site_extra": 11,
+   "not_live": 12,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 763
+   "count": 760
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -851,28 +851,6 @@
    "first_seen": "2026-09-05"
   },
   {
-   "id": "ejm:12604",
-   "source": "ejm",
-   "institution": "University of Toronto",
-   "title": "Assistant Professor, Teaching Stream - Economics",
-   "location": "Toronto, CA",
-   "continent": "North America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12604",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-17"
-  },
-  {
    "id": "ejm:12605",
    "source": "ejm",
    "institution": "Northwestern University",
@@ -1222,28 +1200,6 @@
    "deadline": "2026-10-04",
    "posted": "2026-09-09",
    "url": "https://econjobmarket.org/positions/12631",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-10"
-  },
-  {
-   "id": "ejm:12633",
-   "source": "ejm",
-   "institution": "Fundação Getulio Vargas (FGV)",
-   "title": "Assistant Professor of Economics (FGV EPGE - Rio)",
-   "location": "Rio de Janeiro, BR",
-   "continent": "Latin America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-09",
-   "url": "https://econjobmarket.org/positions/12633",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -1765,30 +1721,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12678",
-   "source": "ejm",
-   "institution": "Washington University in St. Louis",
-   "title": "Assistant, Associate or Full Professor of Economics",
-   "location": "St. Louis, US",
-   "continent": "North America",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12678",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-23"
-  },
-  {
    "id": "ejm:12679",
    "source": "ejm",
    "institution": "Keystone Strategy",
@@ -2154,54 +2086,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-28"
-  },
-  {
-   "id": "ejm:12711",
-   "source": "ejm",
-   "institution": "Sciences Po",
-   "title": "Two Assistant professor positions in Sciences Po",
-   "location": "PARIS, FR",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics",
-    "Behavioral Economics",
-    "Microeconomic theory"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-09",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12711",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "ejm:12714",
-   "source": "ejm",
-   "institution": "Stockholm School of Economics",
-   "title": "Two tenure track positions in Economics",
-   "location": "Stockholm, SE",
-   "continent": "Europe",
-   "fields": [
-    "Any field",
-    "Microeconomic theory",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12714",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
   },
   {
    "id": "ejm:12718",
@@ -2631,31 +2515,6 @@
    "deadline": "2026-11-10",
    "posted": "2026-10-01",
    "url": "https://econjobmarket.org/positions/12741",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-01"
-  },
-  {
-   "id": "ejm:12742",
-   "source": "ejm",
-   "institution": "IE University",
-   "title": "Tenure-Track Faculty Positions in Economics 2027-2028",
-   "location": "Madrid, ES",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics",
-    "Macroeconomics; Monetary",
-    "Other"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12742",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -3415,28 +3274,6 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "ejm:12788",
-   "source": "ejm",
-   "institution": "University of Toronto Scarborough",
-   "title": "Assistant Professor, Environmental Economics",
-   "location": "Scarborough, CA",
-   "continent": "North America",
-   "fields": [
-    "Urban; Rural; Regional Economics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12788",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "ejm:12789",
    "source": "ejm",
    "institution": "Federal Reserve Bank of Philadelphia",
@@ -3603,28 +3440,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": true,
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "ejm:12798",
-   "source": "ejm",
-   "institution": "Queen Mary University of London",
-   "title": "Postdoctoral Research Associate",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2027-05-31",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12798",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
    "first_seen": "2026-10-10"
   },
   {
@@ -4218,32 +4033,6 @@
    "first_seen": "2026-10-15"
   },
   {
-   "id": "ejm:12839",
-   "source": "ejm",
-   "institution": "University of British Columbia",
-   "title": "Assistant Professor",
-   "location": "Vancouver, CA",
-   "continent": "North America",
-   "fields": [
-    "International Finance/Macro",
-    "International Trade",
-    "Macroeconomics; Monetary",
-    "Any field",
-    "Urban; Rural; Regional Economics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12839",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-15"
-  },
-  {
    "id": "ejm:12841",
    "source": "ejm",
    "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
@@ -4575,30 +4364,6 @@
    "deadline": "2026-12-11",
    "posted": "2026-10-17",
    "url": "https://econjobmarket.org/positions/12856",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-17"
-  },
-  {
-   "id": "ejm:12857",
-   "source": "ejm",
-   "institution": "Erasmus University Rotterdam",
-   "title": "Assistant Professor in Macroeconomics / International Economics (Tenure Track)",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [
-    "Development; Growth",
-    "International Finance/Macro",
-    "Macroeconomics; Monetary"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-17",
-   "url": "https://econjobmarket.org/positions/12857",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -7943,6 +7708,85 @@
    "first_seen": "2026-11-14"
   },
   {
+   "id": "ejm:13025",
+   "source": "ejm",
+   "institution": "Group for Applied Research in Economics (GRAPE)",
+   "title": "Research Fellow (Macroeconomics)",
+   "location": "Warszawa, PL",
+   "continent": "Europe",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-02-01",
+   "posted": "2026-11-15",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:13025",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/13025",
+   "text": "We offer a full-time research position to study how measurable properties of financial intermediation shape aggregate economic outcomes. The position is financed through a research project\n\nA Sufficient Statistics Approach to Macro-Finance: SAM led by Piotr Żoch↗\n\nThis project offers several methodological contributions in the area of macro-finance: both in terms of theory and empirics. The overarching theme is that certain questions about the role of financial intermediation and financial frictions can be answered without relying on specific microfoundations. Instead, the relevant characteristics of financial intermediaries can be described in terms of observable sufficient statistics.\n\nA detailed description of the project is available here↗.\n\nTasks: This is a research-only position with no teaching obligations. The successful candidate is expected to contribute to this research agenda and collaborate with other team members, including through co-authored publications, team meetings, brainstorming sessions, seminars & workshops. The position encourages substantial intellectual autonomy, and candidates are welcome to pursue and shape their own agenda within the broad thematic scope of the project.\n\nRequirements: A completed PhD degree in economics (or a related field) is required, awarded before the start of the contract and no earlier than seven years prior to employment (special circumstances apply, in line with the funder eligibility rules). Candidates should have a strong background in macroeconomics or asset pricing. We place particular emphasis on research maturity and academic motivation, as demonstrated by completed or ongoing research projects.\n\nConditions: We offer a gross monthly salary of 10 000 PLN for a full-time position (the net salary depends on individual circumstances determining applicable social security contributions and taxes). The working hours are flexible and task-oriented. The project provides funding for international travel to workshops and conferences and support from a research assistant. The position is offered for one year, with the possibility of extension, conditional on a positive performance evaluation and depending on further third-party funding. The position is expected to start in the Fall of 2027.\n\nAbout GRAPE: GRAPE is an independent, non-governmental research center and currently ranks 6th among top economic institutes↗ in Poland. We maintain strong ties with leading European and American research institutions. Our fully equipped office is located in the center of Warsaw. We offer a friendly, supportive, and intellectually stimulating work environment.\n\nApplying & recruitment procedure: Applications received by February 1, 2027 will be given full consideration. Interviews will begin on February 17, 2027. Selected candidates will be invited for interviews, followed by presentations of their research. The recruitment process will be conducted fully remotely. An in-person visit may be arranged prior to signing a contract.",
+   "links": [
+    "https://grape.org.pl/project/sufficient-statistics-approach-macro-finance",
+    "https://pzoch.com/",
+    "https://ideas.repec.org/top/top.poland.html"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "ejm:13026",
+   "source": "ejm",
+   "institution": "Kyiv School of Economics",
+   "title": "Postdoctoral Fellowships and Professorships of All Ranks",
+   "location": "Kyiv, UA",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor",
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-11-15",
+   "url": "https://econjobmarket.org/positions/13026",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "ejm:13027",
+   "source": "ejm",
+   "institution": "Kyiv School of Economics",
+   "title": "Visiting Research Fellowships",
+   "location": "Kyiv, UA",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar",
+    "Visiting Assistant Professor",
+    "Visiting Associate Professor",
+    "Visiting Professor"
+   ],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-11-15",
+   "url": "https://econjobmarket.org/positions/13027",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-15"
+  },
+  {
    "id": "joe:111477855",
    "source": "joe",
    "institution": "Ahmedabad University",
@@ -10251,31 +10095,6 @@
    "first_seen": "2026-09-10"
   },
   {
-   "id": "joe:111478100",
-   "source": "joe",
-   "institution": "Cornell University",
-   "title": "Assistant Professor of Economics and Public Policy",
-   "location": "Ithaca, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field",
-    "C4 Econometric and Statistical Methods:  Special Topics",
-    "C8 Data Collection and Data Estimation Methodology; Computer Programs",
-    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights",
-    "Q4 Energy",
-    "Q5 Environmental Economics"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-09",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478100",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-07"
-  },
-  {
    "id": "joe:111477802",
    "source": "joe",
    "institution": "Cornell University",
@@ -11691,27 +11510,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-12"
-  },
-  {
-   "id": "joe:111477725",
-   "source": "joe",
-   "institution": "Franklin &amp; Marshall College",
-   "title": "Tenure Track position in the Department of Economics",
-   "location": "Lancaster, United States",
-   "continent": "North America",
-   "fields": [
-    "B History of Economic Thought, Methodology, and Heterodox Approaches",
-    "P Political Economy and Comparative Economic Systems"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477725",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-31"
   },
   {
    "id": "joe:111477815",
@@ -17789,26 +17587,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-09"
-  },
-  {
-   "id": "joe:111477575",
-   "source": "joe",
-   "institution": "Stanford Graduate School of Business",
-   "title": "Faculty Positions in Finance AY 2026-2027",
-   "location": "Stanford, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477575",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
   },
   {
    "id": "joe:111478076",
@@ -24366,42 +24144,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:13026",
-   "source": "ejm",
-   "institution": "Kyiv School of Economics",
-   "title": "Assistant Professor/Associate Professor/Full Professor/Postdoctoral Scholar, Economics",
-   "location": "Kyiv, UA",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-04-30",
-   "posted": "2026-11-15",
-   "url": "https://econjobmarket.org/positions/13026",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-15"
-  },
-  {
-   "id": "ejm:13027",
-   "source": "ejm",
-   "institution": "Kyiv School of Economics",
-   "title": "Postdoctoral Scholar/Visiting Assistant Professor/Visiting Associate Professor/Visiting Professor, Economics",
-   "location": "Kyiv, UA",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-04-30",
-   "posted": "2026-11-15",
-   "url": "https://econjobmarket.org/positions/13027",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-15"
-  },
-  {
    "id": "ejm:13018",
    "source": "ejm",
    "institution": "Economics, University of Hong Kong",
@@ -24436,6 +24178,168 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-16"
+  },
+  {
+   "id": "ejm:12839",
+   "source": "ejm",
+   "institution": "Economics, University of British Columbia",
+   "title": "Assistant Professor, Economics",
+   "location": "Vancouver, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12839",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ejm:12857",
+   "source": "ejm",
+   "institution": "Economics, Erasmus University Rotterdam",
+   "title": "Assistant Professor, Development; Growth/International Finance/Macro/Macroeconomics; Monetary",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-17",
+   "url": "https://econjobmarket.org/positions/12857",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12604",
+   "source": "ejm",
+   "institution": "Economics, University of Toronto",
+   "title": "Assistant Professor, Economics",
+   "location": "Toronto, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-17",
+   "url": "https://econjobmarket.org/positions/12604",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-17"
+  },
+  {
+   "id": "ejm:12633",
+   "source": "ejm",
+   "institution": "EPGE Escola Brasileira de Economia e Finanças, Fundação Getulio Vargas (FGV)",
+   "title": "Assistant Professor, Economics",
+   "location": "Rio De Janeiro, BR",
+   "continent": "Latin America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-09",
+   "url": "https://econjobmarket.org/positions/12633",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-10"
+  },
+  {
+   "id": "ejm:12678",
+   "source": "ejm",
+   "institution": "Department of Economics, Washington University in St. Louis",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "St. Louis, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-22",
+   "url": "https://econjobmarket.org/positions/12678",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-23"
+  },
+  {
+   "id": "ejm:12711",
+   "source": "ejm",
+   "institution": "Economics, Sciences Po",
+   "title": "Assistant Professor, Behavioral Economics/Econometrics/Microeconomic theory",
+   "location": "Paris, FR",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-09",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12711",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "ejm:12714",
+   "source": "ejm",
+   "institution": "Department of Economics, Stockholm School of Economics",
+   "title": "Assistant Professor, Economics",
+   "location": "Stockholm, SE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-09-26",
+   "url": "https://econjobmarket.org/positions/12714",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "ejm:12742",
+   "source": "ejm",
+   "institution": "School of Politics, Economics & Public Affairs, IE University",
+   "title": "Assistant Professor/Associate Professor, Econometrics/Macroeconomics; Monetary",
+   "location": "Madrid, ES",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-01",
+   "url": "https://econjobmarket.org/positions/12742",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-01"
+  },
+  {
+   "id": "ejm:12788",
+   "source": "ejm",
+   "institution": "Management, University of Toronto Scarborough",
+   "title": "Assistant Professor, Urban; Rural; Regional Economics",
+   "location": "Scarborough, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-16",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12788",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
   }
  ]
 }
