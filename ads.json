@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-17T00:28:24Z",
+ "generated_at": "2026-11-17T13:49:44Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 327,
-   "site_listing": 311,
-   "site_extra": 5,
-   "not_live": 12,
+   "site_listing": 312,
+   "site_extra": 6,
+   "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 774
+   "count": 769
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -5837,30 +5837,6 @@
    "first_seen": "2026-10-28"
   },
   {
-   "id": "ejm:12930",
-   "source": "ejm",
-   "institution": "Hanken School of Economics",
-   "title": "Assistant or Associate Professor (Tenure Track) in Economics",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [
-    "Any field",
-    "Political Economy"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-17",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12930",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
    "id": "ejm:12931",
    "source": "ejm",
    "institution": "Centro de Planeamento e de Avaliação de Políticas Públicas (PLANAPP)",
@@ -6112,28 +6088,6 @@
    "deadline": "2026-11-22",
    "posted": "2026-10-29",
    "url": "https://econjobmarket.org/positions/12946",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "ejm:12947",
-   "source": "ejm",
-   "institution": "Erasmus University Rotterdam",
-   "title": "Assistant Professor in Finance (tenure track)",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12947",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -7560,6 +7514,30 @@
    "first_seen": "2026-11-12"
   },
   {
+   "id": "ejm:13018",
+   "source": "ejm",
+   "institution": "University of Hong Kong",
+   "title": "Tenure-track Professor/Associate Professor/Assistant Professor (several posts)",
+   "location": "Pokfulam Road, HK",
+   "continent": "Asia",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-11-16",
+   "url": "https://econjobmarket.org/positions/13018",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-16"
+  },
+  {
    "id": "ejm:13019",
    "source": "ejm",
    "institution": "Nyenrode Business Universiteit",
@@ -7654,33 +7632,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-14"
-  },
-  {
-   "id": "ejm:13023",
-   "source": "ejm",
-   "institution": "Frankfurt School of Finance & Management",
-   "title": "Assistant Professor of Finance (Tenure-Track)",
-   "location": "Frankfurt am Main, DE",
-   "continent": "Europe",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-14",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:13023",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/13023",
-   "text": "Frankfurt School of Finance & Management is one of Europe’s leading business schools, accredited by AACSB, EQUIS and AMBA. We are seeking to fill a position as Assistant Professor of Finance (Tenure-Track).\n\nThe appointee will be an Assistant Professor in the Department of Finance and will also be affiliated with the Frankfurt School Real Estate Institute. We are looking for research excellence and potential to publish in top finance or related journals, with a focus on real estate finance and related fields. Prerequisite is a Ph.D. degree which has to be completed by September 2027. We explicitly encourage applications from international and female candidates. German language skills are not required within Frankfurt School. We offer a stimulating research environment including a weekly research seminar series, a PhD program, generous research funding, and all the opportunities of a dynamic private business school.\n\nFor further information on Frankfurt School, see our website: www.frankfurt-school.de. Frankfurt is ranked 7th worldwide both in the latest Global Liveability Index by the Economist Intelligence Unit, as well as latest Mercer “Quality of Living“-Ranking.\n\nThe deadline for applications is November 30, 2026. Please submit your application, including your CV and contact information for at least two references, online through (https://apply.interfolio.com/196920). For inquiries about the position, please contact Nisa Topcu Ödül (n.topcu@fs.de) or Cristian Badarinza (c.badarinza@fs.de).\n\nFrankfurt School offers a state-of-the-art campus and stimulating research and educational environment, with all the opportunities of a vibrant private business school. We value diversity and seek talented students, faculty, and staff from diverse backgrounds. Frankfurt School is an equal opportunities employer.",
-   "links": [
-    "https://apply.interfolio.com/196920"
-   ],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-15"
   },
   {
    "id": "ejm:13024",
@@ -7786,6 +7737,28 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-15"
+  },
+  {
+   "id": "ejm:13028",
+   "source": "ejm",
+   "institution": "University of Oxford",
+   "title": "Senior Research Fellow",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2026-12-17",
+   "posted": "2026-11-16",
+   "url": "https://econjobmarket.org/positions/13028",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-16"
   },
   {
    "id": "joe:111477855",
@@ -11020,27 +10993,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
-  },
-  {
-   "id": "joe:111478368",
-   "source": "joe",
-   "institution": "European Central Bank",
-   "title": "Senior Economist  - Research",
-   "location": "Frankfurt am Main, Germany",
-   "continent": "Europe",
-   "fields": [
-    "E Macroeconomics and Monetary Economics",
-    "G Financial Economics"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-11-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478368",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-21"
   },
   {
    "id": "joe:111477775",
@@ -16524,26 +16476,6 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "joe:111477706",
-   "source": "joe",
-   "institution": "Princeton University",
-   "title": "Visiting Research Scholar, Fung Global Fellows Program",
-   "location": "Princeton, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-11-16",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477706",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
-  },
-  {
    "id": "joe:111477657",
    "source": "joe",
    "institution": "Princeton University",
@@ -17943,26 +17875,6 @@
    "first_seen": "2026-10-22"
   },
   {
-   "id": "joe:111477574",
-   "source": "joe",
-   "institution": "Stanford University",
-   "title": "Assistant Professor",
-   "location": "Stanford, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477574",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
-  },
-  {
    "id": "joe:111477912",
    "source": "joe",
    "institution": "Stanford University",
@@ -18038,7 +17950,7 @@
    ],
    "position_types": [],
    "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-11-15",
+   "deadline": "2026-11-20",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478106",
    "predoc": false,
@@ -18192,26 +18104,6 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-10-12"
-  },
-  {
-   "id": "joe:111478318",
-   "source": "joe",
-   "institution": "Stockholm University",
-   "title": "Tenure Track Assistant Professor",
-   "location": "Stockholm, Sweden",
-   "continent": "Europe",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-13",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478318",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "joe:111478411",
@@ -23255,31 +23147,6 @@
    "first_seen": "2026-08-30"
   },
   {
-   "id": "joe:111477909",
-   "source": "joe",
-   "institution": "University of Zurich",
-   "title": "Assistant Professorship in Finance (with tenure-track)",
-   "location": "Zurich, Switzerland",
-   "continent": "Europe",
-   "fields": [
-    "G0 General",
-    "G1 General Financial Markets",
-    "G2 Financial Institutions and Services",
-    "G3 Corporate Finance and Governance",
-    "G4 Behavioral Finance",
-    "G5 Household Finance"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477909",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-24"
-  },
-  {
    "id": "joe:111478270",
    "source": "joe",
    "institution": "UNSW Sydney",
@@ -24446,6 +24313,24 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:12947",
+   "source": "ejm",
+   "institution": "Rotterdam School of Management, Erasmus University Rotterdam",
+   "title": "Assistant Professor, Finance",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12947",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "ejm:13032",
    "source": "ejm",
    "institution": "Department of Economics, Aalto University",
@@ -24462,24 +24347,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-17"
-  },
-  {
-   "id": "ejm:13018",
-   "source": "ejm",
-   "institution": "Economics, University of Hong Kong",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Pokfulam Road, HK",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-03-31",
-   "posted": "2026-11-16",
-   "url": "https://econjobmarket.org/positions/13018",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-16"
   },
   {
    "id": "ejm:13030",
@@ -24518,22 +24385,40 @@
    "first_seen": "2026-11-17"
   },
   {
-   "id": "ejm:13028",
+   "id": "ejm:13023",
    "source": "ejm",
-   "institution": "Economics, University of Oxford",
-   "title": "Senior Research Fellow",
-   "location": "Oxford, GB",
+   "institution": "Frankfurt School of Finance & Management",
+   "title": "Assistant Professor, Finance",
+   "location": "Frankfurt Am Main, DE",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-17",
-   "posted": "2026-11-16",
-   "url": "https://econjobmarket.org/positions/13028",
+   "deadline": "2026-11-30",
+   "posted": "2026-11-17",
+   "url": "https://econjobmarket.org/positions/13023",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-16"
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "ejm:12930",
+   "source": "ejm",
+   "institution": "Economics and Finance, Hanken School of Economics",
+   "title": "Assistant Professor/Associate Professor, Economics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-17",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12930",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
   }
  ]
 }
