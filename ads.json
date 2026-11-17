@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-16T13:07:46Z",
+ "generated_at": "2026-11-17T00:28:24Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 333,
-   "site_listing": 317,
-   "site_extra": 11,
+   "count": 327,
+   "site_listing": 311,
+   "site_extra": 5,
    "not_live": 12,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 760
+   "count": 774
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -20,7 +20,8 @@
  },
  "continent_unmapped": [
   "IRAN, ISLAMIC REPUBLIC OF",
-  "SENEGAL"
+  "SENEGAL",
+  "UNITED STATES MINOR OUTLYING ISLANDS"
  ],
  "ads": [
   {
@@ -8775,6 +8776,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478523",
+   "source": "joe",
+   "institution": "Bryant University",
+   "title": "Assistant Professor of Economics, Tenure Track",
+   "location": "Smithfield, United States Minor Outlying Islands",
+   "continent": null,
+   "fields": [
+    "A2 Economic Education and Teaching of Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-02-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478523",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111478125",
    "source": "joe",
    "institution": "Bucknell University",
@@ -9158,6 +9179,29 @@
    "first_seen": "2026-11-05"
   },
   {
+   "id": "joe:111478531",
+   "source": "joe",
+   "institution": "Central University of Finance and Economics",
+   "title": "Assistant Professor, Associate Professor, Full Professor (Tenure-tracked)",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478531",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111478102",
    "source": "joe",
    "institution": "Centre College",
@@ -9305,6 +9349,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-10"
+  },
+  {
+   "id": "joe:111478532",
+   "source": "joe",
+   "institution": "Cheung Kong Graduate School of Business",
+   "title": "Assistant Professor in Economics",
+   "location": "BEIJING, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-04-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478532",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111477872",
@@ -10357,6 +10421,30 @@
    "first_seen": "2026-11-04"
   },
   {
+   "id": "joe:111478517",
+   "source": "joe",
+   "institution": "CyberAgent, Inc.",
+   "title": "Research Economist",
+   "location": "Shibuya, Japan",
+   "continent": "Asia",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "D Microeconomics",
+    "D9 Micro-Based Behavioral Economics",
+    "L Industrial Organization",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478517",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111478389",
    "source": "joe",
    "institution": "Dalhousie University",
@@ -10870,6 +10958,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-21"
+  },
+  {
+   "id": "joe:111478520",
+   "source": "joe",
+   "institution": "ESSEC Business School",
+   "title": "Post-Doctoral Position",
+   "location": "Cergy, France",
+   "continent": "Europe",
+   "fields": [
+    "F1 Trade",
+    "J4 Particular Labor Markets",
+    "O1 Economic Development"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Part-time or Adjunct)",
+   "deadline": "2027-03-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478520",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111478031",
@@ -13008,6 +13118,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-22"
+  },
+  {
+   "id": "joe:111478533",
+   "source": "joe",
+   "institution": "KDI School of Public Policy and Management",
+   "title": "Tenure-Track Faculty",
+   "location": "Sejongsi, Korea, Republic Of",
+   "continent": "Asia",
+   "fields": [
+    "Z0 General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478533",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111477945",
@@ -15584,6 +15714,26 @@
    "first_seen": "2026-09-11"
   },
   {
+   "id": "joe:111478491",
+   "source": "joe",
+   "institution": "Nottingham University Business School China (NUBS China)",
+   "title": "Assistant Professors in Economics",
+   "location": "Ningbo, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-06",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478491",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111477630",
    "source": "joe",
    "institution": "OECD- Organisation for Economic Cooperation and Development",
@@ -15859,6 +16009,28 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "joe:111478529",
+   "source": "joe",
+   "institution": "Peking University",
+   "title": "Assistant, Associate and Full Professor",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "H0 General",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478529",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111478110",
@@ -16630,6 +16802,26 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "joe:111478528",
+   "source": "joe",
+   "institution": "Renmin University of China",
+   "title": "Assistant/Associate/ Full Professor",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478528",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111478398",
    "source": "joe",
    "institution": "Renmin University of China",
@@ -17203,6 +17395,34 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "joe:111478534",
+   "source": "joe",
+   "institution": "Sichuan University",
+   "title": "Associate Researcher or Researcher;Postdoc",
+   "location": "Chengdu, China",
+   "continent": "Asia",
+   "fields": [
+    "A General Economics and Teaching",
+    "C1 Econometric and Statistical Methods and Methodology:  General",
+    "D Microeconomics",
+    "F2 International Factor Movements and International Business",
+    "H Public Economics",
+    "L Industrial Organization",
+    "N Economic History",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478534",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111477689",
@@ -18672,6 +18892,47 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-28"
+  },
+  {
+   "id": "joe:111478518",
+   "source": "joe",
+   "institution": "The American University of Beirut",
+   "title": "Tenure-Track Assistant Professor in Economics",
+   "location": "Beirut, Lebanon",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478518",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
+   "id": "joe:111478575",
+   "source": "joe",
+   "institution": "The Chinese University of Hong Kong",
+   "title": "Professor(s)/ Associate Professor(s)/ Assistant Professor(s)",
+   "location": "Hong Kong",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478575",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111478219",
@@ -21972,6 +22233,26 @@
    "first_seen": "2026-09-17"
   },
   {
+   "id": "joe:111478539",
+   "source": "joe",
+   "institution": "University of North Carolina at Charlotte",
+   "title": "Assistant Professor, Economics",
+   "location": "Charlotte, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-02-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478539",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111478452",
    "source": "joe",
    "institution": "University of North Carolina at Charlotte",
@@ -23775,6 +24056,27 @@
    "first_seen": "2026-10-13"
   },
   {
+   "id": "joe:111478478",
+   "source": "joe",
+   "institution": "Xi'an Jiaotong University",
+   "title": "Assistant/Associate/Professor in Economics",
+   "location": "Xi'an, China",
+   "continent": "Asia",
+   "fields": [
+    "A General Economics and Teaching",
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-02-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478478",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111478097",
    "source": "joe",
    "institution": "Xiamen University",
@@ -24144,6 +24446,24 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:13032",
+   "source": "ejm",
+   "institution": "Department of Economics, Aalto University",
+   "title": "Postdoctoral Scholar, Behavioral Economics/Experimental Economics/Microeconomic theory",
+   "location": "Espoo, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-17",
+   "url": "https://econjobmarket.org/positions/13032",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "ejm:13018",
    "source": "ejm",
    "institution": "Economics, University of Hong Kong",
@@ -24162,6 +24482,42 @@
    "first_seen": "2026-11-16"
   },
   {
+   "id": "ejm:13030",
+   "source": "ejm",
+   "institution": "Economics and Finance, Hanken School of Economics",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Econometrics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-24",
+   "posted": "2026-11-17",
+   "url": "https://econjobmarket.org/positions/13030",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-17"
+  },
+  {
+   "id": "ejm:13029",
+   "source": "ejm",
+   "institution": "Research School of Economics, Australian National University",
+   "title": "Postdoctoral Scholar, Economic History",
+   "location": "The Australian National University, AU",
+   "continent": "Oceania",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-10",
+   "posted": "2026-11-17",
+   "url": "https://econjobmarket.org/positions/13029",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "ejm:13028",
    "source": "ejm",
    "institution": "Economics, University of Oxford",
@@ -24178,168 +24534,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-16"
-  },
-  {
-   "id": "ejm:12839",
-   "source": "ejm",
-   "institution": "Economics, University of British Columbia",
-   "title": "Assistant Professor, Economics",
-   "location": "Vancouver, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12839",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-15"
-  },
-  {
-   "id": "ejm:12857",
-   "source": "ejm",
-   "institution": "Economics, Erasmus University Rotterdam",
-   "title": "Assistant Professor, Development; Growth/International Finance/Macro/Macroeconomics; Monetary",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-17",
-   "url": "https://econjobmarket.org/positions/12857",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-17"
-  },
-  {
-   "id": "ejm:12604",
-   "source": "ejm",
-   "institution": "Economics, University of Toronto",
-   "title": "Assistant Professor, Economics",
-   "location": "Toronto, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-17",
-   "url": "https://econjobmarket.org/positions/12604",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-17"
-  },
-  {
-   "id": "ejm:12633",
-   "source": "ejm",
-   "institution": "EPGE Escola Brasileira de Economia e Finanças, Fundação Getulio Vargas (FGV)",
-   "title": "Assistant Professor, Economics",
-   "location": "Rio De Janeiro, BR",
-   "continent": "Latin America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-09",
-   "url": "https://econjobmarket.org/positions/12633",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-10"
-  },
-  {
-   "id": "ejm:12678",
-   "source": "ejm",
-   "institution": "Department of Economics, Washington University in St. Louis",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "St. Louis, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12678",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-23"
-  },
-  {
-   "id": "ejm:12711",
-   "source": "ejm",
-   "institution": "Economics, Sciences Po",
-   "title": "Assistant Professor, Behavioral Economics/Econometrics/Microeconomic theory",
-   "location": "Paris, FR",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-09",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12711",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "ejm:12714",
-   "source": "ejm",
-   "institution": "Department of Economics, Stockholm School of Economics",
-   "title": "Assistant Professor, Economics",
-   "location": "Stockholm, SE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-09-26",
-   "url": "https://econjobmarket.org/positions/12714",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "ejm:12742",
-   "source": "ejm",
-   "institution": "School of Politics, Economics & Public Affairs, IE University",
-   "title": "Assistant Professor/Associate Professor, Econometrics/Macroeconomics; Monetary",
-   "location": "Madrid, ES",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-01",
-   "url": "https://econjobmarket.org/positions/12742",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-01"
-  },
-  {
-   "id": "ejm:12788",
-   "source": "ejm",
-   "institution": "Management, University of Toronto Scarborough",
-   "title": "Assistant Professor, Urban; Rural; Regional Economics",
-   "location": "Scarborough, CA",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12788",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
   }
  ]
 }
