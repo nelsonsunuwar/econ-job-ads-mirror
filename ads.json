@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-17T13:49:44Z",
+ "generated_at": "2026-11-17T23:38:38Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 327,
-   "site_listing": 312,
+   "count": 326,
+   "site_listing": 311,
    "site_extra": 6,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 769
+   "count": 781
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -7739,28 +7739,6 @@
    "first_seen": "2026-11-15"
   },
   {
-   "id": "ejm:13028",
-   "source": "ejm",
-   "institution": "University of Oxford",
-   "title": "Senior Research Fellow",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Other academic"
-   ],
-   "section": null,
-   "deadline": "2026-12-17",
-   "posted": "2026-11-16",
-   "url": "https://econjobmarket.org/positions/13028",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-16"
-  },
-  {
    "id": "joe:111477855",
    "source": "joe",
    "institution": "Ahmedabad University",
@@ -7862,6 +7840,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "joe:111478555",
+   "source": "joe",
+   "institution": "American Univeristy in Bulgaria",
+   "title": "Tenure-track Position in Economics",
+   "location": "Blagoevgrad, Bulgaria",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478555",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111477892",
@@ -9132,6 +9130,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478508",
+   "source": "joe",
+   "institution": "Centers for Disease Control and Prevention (CDC)",
+   "title": "CDC Steven M. Teutsch Prevention Effectiveness Fellowship Fellow",
+   "location": "Atlanta, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-08",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478508",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111478435",
    "source": "joe",
    "institution": "Central Bank of the Republic of China (Taiwan)",
@@ -9193,6 +9211,31 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-07"
+  },
+  {
+   "id": "joe:111478526",
+   "source": "joe",
+   "institution": "Centro de Investigación y Docencia Económicas (CIDE)",
+   "title": "Assistant Professor in Economics",
+   "location": "Mexico City, Mexico",
+   "continent": "Latin America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F1 Trade",
+    "F4 Macroeconomic Aspects of International Trade and Finance",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-05",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478526",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111478098",
@@ -13287,6 +13330,26 @@
    "first_seen": "2026-11-01"
   },
   {
+   "id": "joe:111478586",
+   "source": "joe",
+   "institution": "Korea Institute for Industrial Economics &amp; Trade (KIET)",
+   "title": "Associate Research Fellow (Doctoral)",
+   "location": "Sejong, Korea, Republic Of",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-09",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478586",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111478385",
    "source": "joe",
    "institution": "Korea Institute for International Economic Policy (KIEP)",
@@ -14266,6 +14329,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478588",
+   "source": "joe",
+   "institution": "Nankai University",
+   "title": "Assistant Professor / Associate Professor / Full Professor",
+   "location": "China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478588",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111478158",
@@ -15579,6 +15662,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-12"
+  },
+  {
+   "id": "joe:111478565",
+   "source": "joe",
+   "institution": "Northwestern University",
+   "title": "Lead Economist",
+   "location": "Evanston, United States",
+   "continent": "North America",
+   "fields": [
+    "H7 State and Local Government; Intergovernmental Relations",
+    "J Labor and Demographic Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-03-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478565",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111477944",
@@ -17034,6 +17138,28 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "joe:111478485",
+   "source": "joe",
+   "institution": "Rutgers University",
+   "title": "J. Robert Beyster Fellow and Other Fellowships",
+   "location": "Piscataway, United States",
+   "continent": "North America",
+   "fields": [
+    "J Labor and Demographic Economics",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics",
+    "N Economic History"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-02-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478485",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111477604",
    "source": "joe",
    "institution": "Salisbury University",
@@ -17657,6 +17783,46 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-12"
+  },
+  {
+   "id": "joe:111478554",
+   "source": "joe",
+   "institution": "Southwestern University of Finance and Economics",
+   "title": "Assistant/Associate/Full Professor of Economics",
+   "location": "Chengdu, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-05",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478554",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
+   "id": "joe:111478537",
+   "source": "joe",
+   "institution": "Southwestern University of Finance and Economics (SWUFE)",
+   "title": "Full-Time Assistant Professor, Associate Professor, and Full Professor (Tenure Track, Tenured, or Permanent)",
+   "location": "CHENGDU, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-11-09",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478537",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111478175",
@@ -19271,6 +19437,26 @@
    "first_seen": "2026-09-15"
   },
   {
+   "id": "joe:111478541",
+   "source": "joe",
+   "institution": "The University of Alabama",
+   "title": "Teaching Assistant Professor of Economics",
+   "location": "Tuscaloosa, United States",
+   "continent": "North America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-04-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478541",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111477728",
    "source": "joe",
    "institution": "The University of Alabama",
@@ -19893,6 +20079,37 @@
    "first_seen": "2026-10-19"
   },
   {
+   "id": "joe:111478540",
+   "source": "joe",
+   "institution": "U.S. Department of Justice",
+   "title": "Economist",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "C0 General",
+    "D0 General",
+    "F1 Trade",
+    "G0 General",
+    "H0 General",
+    "I1 Health",
+    "J0 General",
+    "L0 General",
+    "M0 General",
+    "Q1 Agriculture",
+    "Q4 Energy"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478540",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "joe:111477699",
    "source": "joe",
    "institution": "U.S. Equal Employment Opportunity Commission",
@@ -20421,6 +20638,26 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-09-28"
+  },
+  {
+   "id": "joe:111478557",
+   "source": "joe",
+   "institution": "University College London",
+   "title": "Research Fellow",
+   "location": "London, United Kingdom",
+   "continent": "Europe",
+   "fields": [
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478557",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111478299",
@@ -22136,7 +22373,7 @@
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2027-02-01",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478539",
    "predoc": false,
@@ -22152,11 +22389,12 @@
    "location": "Charlotte, United States",
    "continent": "North America",
    "fields": [
-    "00 00 - Default: Any Field"
+    "Q4 Energy",
+    "Q5 Environmental Economics"
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2027-01-31",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478452",
    "predoc": false,
@@ -24352,7 +24590,7 @@
    "id": "ejm:13030",
    "source": "ejm",
    "institution": "Economics and Finance, Hanken School of Economics",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Econometrics",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics",
    "location": "Helsinki, FI",
    "continent": "Europe",
    "fields": [],
