@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-17T23:38:38Z",
+ "generated_at": "2026-11-18T13:25:14Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 326,
-   "site_listing": 311,
-   "site_extra": 6,
+   "count": 327,
+   "site_listing": 312,
+   "site_extra": 9,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 781
+   "count": 780
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -463,28 +463,6 @@
    "first_seen": "2026-08-30"
   },
   {
-   "id": "ejm:12556",
-   "source": "ejm",
-   "institution": "University of California, Berkeley",
-   "title": "Assistant Professor - Finance - Haas School of Business",
-   "location": "Berkeley, US",
-   "continent": "North America",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-07-31",
-   "url": "https://econjobmarket.org/positions/12556",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
    "id": "ejm:12558",
    "source": "ejm",
    "institution": "Heidelberg University",
@@ -875,32 +853,6 @@
    "first_seen": "2026-08-30"
   },
   {
-   "id": "ejm:12609",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of San Francisco",
-   "title": "Economists or Research Advisors",
-   "location": "San Francisco, US",
-   "continent": "North America",
-   "fields": [
-    "International Finance/Macro",
-    "Labor; Demographic Economics"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Full Professor",
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-08-29",
-   "url": "https://econjobmarket.org/positions/12609",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
    "id": "ejm:12610",
    "source": "ejm",
    "institution": "Australian National University",
@@ -945,33 +897,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-01"
-  },
-  {
-   "id": "ejm:12616",
-   "source": "ejm",
-   "institution": "University of California, Berkeley",
-   "title": "Assistant Professor - Economic Analysis & Policy - Haas School of Business",
-   "location": "Berkeley, US",
-   "continent": "North America",
-   "fields": [
-    "Environmental; Energy; Ag. Econ",
-    "Industrial Organization",
-    "Macroeconomics; Monetary",
-    "Public Economics",
-    "Behavioral Economics",
-    "Health; Education; Welfare"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12616",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-03"
   },
   {
    "id": "ejm:12618",
@@ -1946,28 +1871,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-22"
-  },
-  {
-   "id": "ejm:12699",
-   "source": "ejm",
-   "institution": "Goethe-Universität Frankfurt am Main",
-   "title": "Postdoctoral Researcher in Finance, Asset Pricing",
-   "location": "Frankfurt am Main, DE",
-   "continent": "Europe",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-09-23",
-   "url": "https://econjobmarket.org/positions/12699",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-23"
   },
   {
    "id": "ejm:12700",
@@ -3894,28 +3797,6 @@
    "first_seen": "2026-10-15"
   },
   {
-   "id": "ejm:12833",
-   "source": "ejm",
-   "institution": "Erasmus University Rotterdam",
-   "title": "Assistant Professor in Finance at Erasmus School of Economics (ESE), Rotterdam",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12833",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-15"
-  },
-  {
    "id": "ejm:12834",
    "source": "ejm",
    "institution": "Danmarks Nationalbank",
@@ -4109,28 +3990,6 @@
    "deadline": "2027-02-28",
    "posted": "2026-10-16",
    "url": "https://econjobmarket.org/positions/12843",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": "ejm:12844",
-   "source": "ejm",
-   "institution": "Ifo Institute",
-   "title": "Postdoctoral Researcher (f/m/d) for the ifo Center for International Economics",
-   "location": "Munich, DE",
-   "continent": "Europe",
-   "fields": [
-    "International Trade"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-10-16",
-   "url": "https://econjobmarket.org/positions/12844",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -7634,6 +7493,28 @@
    "first_seen": "2026-11-14"
   },
   {
+   "id": "ejm:13023",
+   "source": "ejm",
+   "institution": "Frankfurt School of Finance & Management",
+   "title": "Assistant Professor of Finance (Tenure-Track)",
+   "location": "Frankfurt am Main, DE",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-17",
+   "url": "https://econjobmarket.org/positions/13023",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-15"
+  },
+  {
    "id": "ejm:13024",
    "source": "ejm",
    "institution": "Université de Genève",
@@ -7737,6 +7618,75 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-15"
+  },
+  {
+   "id": "ejm:13029",
+   "source": "ejm",
+   "institution": "Australian National University",
+   "title": "Research Fellow in Economic History",
+   "location": "The Australian National University, AU",
+   "continent": "Oceania",
+   "fields": [
+    "Economic History"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-10",
+   "posted": "2026-11-17",
+   "url": "https://econjobmarket.org/positions/13029",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-17"
+  },
+  {
+   "id": "ejm:13030",
+   "source": "ejm",
+   "institution": "Hanken School of Economics",
+   "title": "Postdoctoral Researcher in Economics - Artificial Intelligence and Labour Market",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-24",
+   "posted": "2026-11-17",
+   "url": "https://econjobmarket.org/positions/13030",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-17"
+  },
+  {
+   "id": "ejm:13032",
+   "source": "ejm",
+   "institution": "Aalto University",
+   "title": "Postdoctoral position in the economics of information",
+   "location": "Espoo, FI",
+   "continent": "Europe",
+   "fields": [
+    "Experimental Economics",
+    "Behavioral Economics",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-17",
+   "url": "https://econjobmarket.org/positions/13032",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-17"
   },
   {
    "id": "joe:111477855",
@@ -12337,26 +12287,6 @@
    "deadline": "2026-11-17",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477685",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "joe:111477686",
-   "source": "joe",
-   "institution": "Hoover Institution",
-   "title": "W. Glenn Campbell and Rita Ricardo-Campbell National Fellow",
-   "location": "United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-11-17",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477686",
    "predoc": false,
    "senior": false,
    "link_status": "ok",
@@ -24551,112 +24481,166 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12947",
+   "id": "ejm:13033",
    "source": "ejm",
-   "institution": "Rotterdam School of Management, Erasmus University Rotterdam",
+   "institution": "Department of Management, Economics and Industrial Engineering, Politecnico di Milano",
+   "title": "Assistant Professor, Business Economics/Industrial Organization/Management, General/Management, Information Technology/Political Economy",
+   "location": "Milano, IT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-03-07",
+   "posted": "2026-11-18",
+   "url": "https://econjobmarket.org/positions/13033",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ejm:12844",
+   "source": "ejm",
+   "institution": "Ifo Institute",
+   "title": "Postdoctoral Scholar, International Trade",
+   "location": "Munich, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-18",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12844",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "ejm:13034",
+   "source": "ejm",
+   "institution": "Economics, University of Oxford",
+   "title": "Senior Research Fellow in Economics and Data Science",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-17",
+   "posted": "2026-11-18",
+   "url": "https://econjobmarket.org/positions/13034",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ejm:13035",
+   "source": "ejm",
+   "institution": "Economics, University of Helsinki",
+   "title": "Postdoctoral Scholar, Applied microeconomics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-11-18",
+   "url": "https://econjobmarket.org/positions/13035",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ejm:12556",
+   "source": "ejm",
+   "institution": "Haas School of Business, University of California, Berkeley",
+   "title": "Assistant Professor, Finance",
+   "location": "Berkeley, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-18",
+   "posted": "2026-07-31",
+   "url": "https://econjobmarket.org/positions/12556",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-08-30"
+  },
+  {
+   "id": "ejm:12833",
+   "source": "ejm",
+   "institution": "Business Economics, Erasmus University Rotterdam",
    "title": "Assistant Professor, Finance",
    "location": "Rotterdam, NL",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12947",
+   "deadline": "2026-11-18",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12833",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-15"
   },
   {
-   "id": "ejm:13032",
+   "id": "ejm:12609",
    "source": "ejm",
-   "institution": "Department of Economics, Aalto University",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Experimental Economics/Microeconomic theory",
-   "location": "Espoo, FI",
-   "continent": "Europe",
+   "institution": "Federal Reserve Bank of San Francisco",
+   "title": "Economist or Research Advisor",
+   "location": "San Francisco, US",
+   "continent": "North America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-17",
-   "url": "https://econjobmarket.org/positions/13032",
+   "deadline": "2026-11-18",
+   "posted": "2026-08-29",
+   "url": "https://econjobmarket.org/positions/12609",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-17"
+   "first_seen": "2026-08-30"
   },
   {
-   "id": "ejm:13030",
+   "id": "ejm:12616",
    "source": "ejm",
-   "institution": "Economics and Finance, Hanken School of Economics",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
+   "institution": "Haas School of Business, University of California, Berkeley",
+   "title": "Assistant Professor, Behavioral Economics/Environmental; Ag. Econ./Health; Education; Welfare/Industrial Organization/Macroeconomics; Monetary/Public Economics",
+   "location": "Berkeley, US",
+   "continent": "North America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-24",
-   "posted": "2026-11-17",
-   "url": "https://econjobmarket.org/positions/13030",
+   "deadline": "2026-11-18",
+   "posted": "2026-09-02",
+   "url": "https://econjobmarket.org/positions/12616",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-17"
+   "first_seen": "2026-09-03"
   },
   {
-   "id": "ejm:13029",
+   "id": "ejm:12699",
    "source": "ejm",
-   "institution": "Research School of Economics, Australian National University",
-   "title": "Postdoctoral Scholar, Economic History",
-   "location": "The Australian National University, AU",
-   "continent": "Oceania",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-10",
-   "posted": "2026-11-17",
-   "url": "https://econjobmarket.org/positions/13029",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-17"
-  },
-  {
-   "id": "ejm:13023",
-   "source": "ejm",
-   "institution": "Frankfurt School of Finance & Management",
-   "title": "Assistant Professor, Finance",
+   "institution": "Finance, Goethe-Universität Frankfurt am Main",
+   "title": "Postdoctoral Scholar, Finance",
    "location": "Frankfurt Am Main, DE",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-17",
-   "url": "https://econjobmarket.org/positions/13023",
+   "deadline": "2026-11-18",
+   "posted": "2026-09-23",
+   "url": "https://econjobmarket.org/positions/12699",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-15"
-  },
-  {
-   "id": "ejm:12930",
-   "source": "ejm",
-   "institution": "Economics and Finance, Hanken School of Economics",
-   "title": "Assistant Professor/Associate Professor, Economics",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-17",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12930",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
+   "first_seen": "2026-09-23"
   }
  ]
 }
