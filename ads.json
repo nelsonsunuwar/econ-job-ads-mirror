@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:25:14Z",
+ "generated_at": "2026-11-18T23:06:33Z",
  "sources": {
   "ejm": {
    "status": "ok",
@@ -11,7 +11,7 @@
   },
   "joe": {
    "status": "ok",
-   "count": 780
+   "count": 790
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -10600,6 +10600,26 @@
    "first_seen": "2026-10-20"
   },
   {
+   "id": "joe:111478572",
+   "source": "joe",
+   "institution": "Dongbei University of Finance and Economics (DUFE)",
+   "title": "Assistant Professor",
+   "location": "Dalian, China",
+   "continent": "Asia",
+   "fields": [
+    "G0 General"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478572",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "joe:111478214",
    "source": "joe",
    "institution": "Donghua University",
@@ -11705,7 +11725,7 @@
    ],
    "position_types": [],
    "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2027-07-31",
+   "deadline": null,
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478393",
    "predoc": false,
@@ -11977,6 +11997,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478550",
+   "source": "joe",
+   "institution": "Harvard Business School",
+   "title": "Assistant Professor",
+   "location": "Boston, United States",
+   "continent": "North America",
+   "fields": [
+    "D0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-12",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478550",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "joe:111477914",
@@ -15486,6 +15526,27 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478549",
+   "source": "joe",
+   "institution": "Northeastern University",
+   "title": "Assistant/Associate/Full Teaching Professor - Department of Economics",
+   "location": "Boston, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics",
+    "F International Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-04-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478549",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "joe:111478284",
    "source": "joe",
    "institution": "Northern Michigan University",
@@ -16226,6 +16287,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "joe:111478570",
+   "source": "joe",
+   "institution": "Pontificia Universidad Católica de Chile (PUC), Santiago, Chile",
+   "title": "Joint Faculty Position in Economics and Public Policy",
+   "location": "Santiago, Chile",
+   "continent": "Latin America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-08-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478570",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "joe:111477999",
@@ -20299,6 +20380,26 @@
    "first_seen": "2026-11-04"
   },
   {
+   "id": "joe:111478186",
+   "source": "joe",
+   "institution": "Universidad Anáhuac México",
+   "title": "Assistant Professor",
+   "location": "Mexico City, Mexico",
+   "continent": "Latin America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478186",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "joe:111478228",
    "source": "joe",
    "institution": "Universidad Católica del Uruguay",
@@ -20724,6 +20825,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-03"
+  },
+  {
+   "id": "joe:111478600",
+   "source": "joe",
+   "institution": "University of Austin",
+   "title": "Open-Rank Professor, Economics",
+   "location": "Austin, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478600",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "joe:111477781",
@@ -21755,6 +21876,26 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "joe:111478552",
+   "source": "joe",
+   "institution": "University of International Business and Economics",
+   "title": "Assistant Professor, Associate Professor, and Full Professor",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-24",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478552",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "joe:111477747",
    "source": "joe",
    "institution": "University of Kansas",
@@ -21960,6 +22101,24 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-06"
+  },
+  {
+   "id": "joe:111478562",
+   "source": "joe",
+   "institution": "University of Miami",
+   "title": "Postdoctoral Researcher in Climate Resilience Finance",
+   "location": "Miami, United States",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": "US: Other Academic (Part-time or Adjunct)",
+   "deadline": "2026-11-21",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478562",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "joe:111477906",
@@ -22922,6 +23081,27 @@
    "senior": true,
    "link_status": "ok",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "joe:111478605",
+   "source": "joe",
+   "institution": "University of Texas at Dallas",
+   "title": "Assistant or Associate Professor",
+   "location": "Richardson, United States",
+   "continent": "North America",
+   "fields": [
+    "C0 General",
+    "I0 General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-17",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478605",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "joe:111478384",
@@ -24069,6 +24249,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478598",
+   "source": "joe",
+   "institution": "World Bank",
+   "title": "Postdoctoral Research Economist (One-Year Extended Term Consultant)",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "O Economic Development, Innovation, Technological Change, and Growth"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-04",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478598",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "joe:111478087",
