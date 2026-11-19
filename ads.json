@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-18T23:06:33Z",
+ "generated_at": "2026-11-19T13:52:16Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 327,
-   "site_listing": 312,
-   "site_extra": 9,
+   "count": 324,
+   "site_listing": 309,
+   "site_extra": 5,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 790
+   "count": 788
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -967,28 +967,6 @@
    "deadline": "2026-11-06",
    "posted": "2026-09-03",
    "url": "https://econjobmarket.org/positions/12622",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-04"
-  },
-  {
-   "id": "ejm:12623",
-   "source": "ejm",
-   "institution": "University of Calgary",
-   "title": "Assistant/Associate Professor in Industrial Organization or Regulatory Economics",
-   "location": "Calgary, CA",
-   "continent": "North America",
-   "fields": [
-    "Industrial Organization"
-   ],
-   "position_types": [
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-19",
-   "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12623",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -7323,31 +7301,6 @@
    "first_seen": "2026-11-12"
   },
   {
-   "id": "ejm:13013",
-   "source": "ejm",
-   "institution": "Leibniz Universität Hannover",
-   "title": "Senior Research Associate (Postdoc), Health Economics and Development Economics",
-   "location": "Hannover, DE",
-   "continent": "Europe",
-   "fields": [
-    "Development; Growth",
-    "Experimental Economics",
-    "Public Economics",
-    "Health; Education; Welfare"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-19",
-   "posted": "2026-11-11",
-   "url": "https://econjobmarket.org/positions/13013",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "ejm:13014",
    "source": "ejm",
    "institution": "Bocconi University",
@@ -7687,6 +7640,76 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-17"
+  },
+  {
+   "id": "ejm:13033",
+   "source": "ejm",
+   "institution": "Politecnico di Milano",
+   "title": "Tenure-Track Researcher (RTT) in the Economics of Entrepreneurship and AI",
+   "location": "Milano, IT",
+   "continent": "Europe",
+   "fields": [
+    "Industrial Organization",
+    "Business Economics",
+    "Political Economy",
+    "Management, General",
+    "Management, Information Technology"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-03-07",
+   "posted": "2026-11-18",
+   "url": "https://econjobmarket.org/positions/13033",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ejm:13034",
+   "source": "ejm",
+   "institution": "University of Oxford",
+   "title": "Senior Research Fellow in Economics and Data Science",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2026-12-17",
+   "posted": "2026-11-18",
+   "url": "https://econjobmarket.org/positions/13034",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ejm:13035",
+   "source": "ejm",
+   "institution": "University of Helsinki",
+   "title": "Postdoctoral researcher in applied microeconometrics research",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-15",
+   "posted": "2026-11-18",
+   "url": "https://econjobmarket.org/positions/13035",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-18"
   },
   {
    "id": "joe:111477855",
@@ -11713,27 +11736,6 @@
    "first_seen": "2026-10-26"
   },
   {
-   "id": "joe:111478393",
-   "source": "joe",
-   "institution": "Georgetown University",
-   "title": "Postdoctoral Fellowship in Health Economics",
-   "location": "Washington, United States",
-   "continent": "North America",
-   "fields": [
-    "H Public Economics",
-    "I Health, Education, and Welfare"
-   ],
-   "position_types": [],
-   "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": null,
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478393",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-29"
-  },
-  {
    "id": "joe:111478209",
    "source": "joe",
    "institution": "Georgetown University in Qatar",
@@ -12648,26 +12650,6 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-17"
-  },
-  {
-   "id": "joe:111478277",
-   "source": "joe",
-   "institution": "Inter-American Development Bank",
-   "title": "Research Economists",
-   "location": "Washington, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-11-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478277",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-14"
   },
   {
    "id": "joe:111478301",
@@ -24682,166 +24664,94 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:13033",
+   "id": "ejm:13039",
    "source": "ejm",
-   "institution": "Department of Management, Economics and Industrial Engineering, Politecnico di Milano",
-   "title": "Assistant Professor, Business Economics/Industrial Organization/Management, General/Management, Information Technology/Political Economy",
-   "location": "Milano, IT",
+   "institution": "Toulouse School of Economics, Université Toulouse Capitole",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Health; Education; Welfare/Industrial Organization",
+   "location": "Toulouse, FR",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-03-07",
-   "posted": "2026-11-18",
-   "url": "https://econjobmarket.org/positions/13033",
+   "deadline": "2027-06-30",
+   "posted": "2026-11-19",
+   "url": "https://econjobmarket.org/positions/13039",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-18"
+   "first_seen": "2026-11-19"
   },
   {
-   "id": "ejm:12844",
+   "id": "ejm:13038",
    "source": "ejm",
-   "institution": "Ifo Institute",
-   "title": "Postdoctoral Scholar, International Trade",
-   "location": "Munich, DE",
+   "institution": "Department of Economics, Aalto University",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Urban; Rural; Regional Economics",
+   "location": "Espoo, FI",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-10-16",
-   "url": "https://econjobmarket.org/positions/12844",
+   "deadline": "2027-02-15",
+   "posted": "2026-11-19",
+   "url": "https://econjobmarket.org/positions/13038",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-16"
+   "first_seen": "2026-11-19"
   },
   {
-   "id": "ejm:13034",
+   "id": "ejm:13036",
    "source": "ejm",
-   "institution": "Economics, University of Oxford",
-   "title": "Senior Research Fellow in Economics and Data Science",
-   "location": "Oxford, GB",
-   "continent": "Europe",
+   "institution": "Korea Institute for Industrial Economics & Trade",
+   "title": "Associate Research Fellow",
+   "location": "Sejong, KR",
+   "continent": "Asia",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-17",
-   "posted": "2026-11-18",
-   "url": "https://econjobmarket.org/positions/13034",
+   "deadline": "2026-12-09",
+   "posted": "2026-11-19",
+   "url": "https://econjobmarket.org/positions/13036",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-18"
+   "first_seen": "2026-11-19"
   },
   {
-   "id": "ejm:13035",
+   "id": "ejm:12623",
    "source": "ejm",
-   "institution": "Economics, University of Helsinki",
-   "title": "Postdoctoral Scholar, Applied microeconomics",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-15",
-   "posted": "2026-11-18",
-   "url": "https://econjobmarket.org/positions/13035",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ejm:12556",
-   "source": "ejm",
-   "institution": "Haas School of Business, University of California, Berkeley",
-   "title": "Assistant Professor, Finance",
-   "location": "Berkeley, US",
+   "institution": "Economics, University of Calgary",
+   "title": "Associate Professor, Industrial Organization",
+   "location": "Calgary, CA",
    "continent": "North America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-07-31",
-   "url": "https://econjobmarket.org/positions/12556",
+   "deadline": "2026-11-19",
+   "posted": "2026-09-03",
+   "url": "https://econjobmarket.org/positions/12623",
    "link_status": "ok",
    "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
+   "senior": true,
+   "first_seen": "2026-09-04"
   },
   {
-   "id": "ejm:12833",
+   "id": "ejm:13013",
    "source": "ejm",
-   "institution": "Business Economics, Erasmus University Rotterdam",
-   "title": "Assistant Professor, Finance",
-   "location": "Rotterdam, NL",
+   "institution": "Economics and Management, Leibniz Universität Hannover",
+   "title": "Postdoctoral Scholar, Development; Growth/Experimental Economics/Health; Education; Welfare/Public Economics",
+   "location": "Hannover, DE",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12833",
+   "deadline": "2026-11-19",
+   "posted": "2026-11-11",
+   "url": "https://econjobmarket.org/positions/13013",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-15"
-  },
-  {
-   "id": "ejm:12609",
-   "source": "ejm",
-   "institution": "Federal Reserve Bank of San Francisco",
-   "title": "Economist or Research Advisor",
-   "location": "San Francisco, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-08-29",
-   "url": "https://econjobmarket.org/positions/12609",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-08-30"
-  },
-  {
-   "id": "ejm:12616",
-   "source": "ejm",
-   "institution": "Haas School of Business, University of California, Berkeley",
-   "title": "Assistant Professor, Behavioral Economics/Environmental; Ag. Econ./Health; Education; Welfare/Industrial Organization/Macroeconomics; Monetary/Public Economics",
-   "location": "Berkeley, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-09-02",
-   "url": "https://econjobmarket.org/positions/12616",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-03"
-  },
-  {
-   "id": "ejm:12699",
-   "source": "ejm",
-   "institution": "Finance, Goethe-Universität Frankfurt am Main",
-   "title": "Postdoctoral Scholar, Finance",
-   "location": "Frankfurt Am Main, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-18",
-   "posted": "2026-09-23",
-   "url": "https://econjobmarket.org/positions/12699",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-23"
+   "first_seen": "2026-11-11"
   }
  ]
 }
