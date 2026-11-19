@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-19T13:52:16Z",
+ "generated_at": "2026-11-19T23:13:23Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 324,
-   "site_listing": 309,
-   "site_extra": 5,
+   "count": 325,
+   "site_listing": 310,
+   "site_extra": 6,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 788
+   "count": 797
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -7944,6 +7944,46 @@
    "first_seen": "2026-10-02"
   },
   {
+   "id": "joe:111478536",
+   "source": "joe",
+   "institution": "Asian Development Bank",
+   "title": "Economist",
+   "location": "Mandaluyong City, Philippines",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478536",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "joe:111478535",
+   "source": "joe",
+   "institution": "Asian Development Bank",
+   "title": "Senior Economist",
+   "location": "Mandaluyong City, Philippines",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478535",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "joe:111477646",
    "source": "joe",
    "institution": "Augsburg University",
@@ -8025,6 +8065,55 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-13"
+  },
+  {
+   "id": "joe:111478579",
+   "source": "joe",
+   "institution": "Ball State University",
+   "title": "Assistant Professor of Economics",
+   "location": "Muncie, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-18",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478579",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "joe:111478571",
+   "source": "joe",
+   "institution": "Banco de México",
+   "title": "Economic Researcher",
+   "location": "Mexico City, Mexico",
+   "continent": "Latin America",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "F International Economics",
+    "G Financial Economics",
+    "J Labor and Demographic Economics",
+    "L Industrial Organization",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478571",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "joe:111478115",
@@ -12244,6 +12333,31 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-10"
+  },
+  {
+   "id": "joe:111478578",
+   "source": "joe",
+   "institution": "Hobart and William Smith Colleges",
+   "title": "Assistant Professor of Economics",
+   "location": "Geneva, United States",
+   "continent": "North America",
+   "fields": [
+    "A1 General Economics",
+    "C1 Econometric and Statistical Methods and Methodology:  General",
+    "E1 General Aggregative Models",
+    "G1 General Financial Markets",
+    "M2 Business Economics",
+    "M4 Accounting and Auditing"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478578",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "joe:111478035",
@@ -17088,6 +17202,30 @@
    "first_seen": "2026-10-01"
   },
   {
+   "id": "joe:111478607",
+   "source": "joe",
+   "institution": "Ronald Reagan Presidential Foundation and Institute",
+   "title": "Society of Fellows",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "B History of Economic Thought, Methodology, and Heterodox Approaches",
+    "K Law and Economics",
+    "N Economic History",
+    "O Economic Development, Innovation, Technological Change, and Growth",
+    "P Political Economy and Comparative Economic Systems"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-15",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478607",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "joe:111478289",
    "source": "joe",
    "institution": "RTI International",
@@ -18109,7 +18247,7 @@
    ],
    "position_types": [],
    "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-11-20",
+   "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478106",
    "predoc": false,
@@ -19626,6 +19764,26 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478576",
+   "source": "joe",
+   "institution": "The University of Hong Kong",
+   "title": "Tenure-track Professor/Associate Professor/Assistant Professor",
+   "location": "Hong Kong",
+   "continent": "Asia",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478576",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "joe:111478386",
    "source": "joe",
    "institution": "The University of Hong Kong",
@@ -20101,6 +20259,30 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-17"
+  },
+  {
+   "id": "joe:111478564",
+   "source": "joe",
+   "institution": "U.S. Environmental Protection Agency",
+   "title": "Research Economist",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "C1 Econometric and Statistical Methods and Methodology:  General",
+    "C6 Mathematical Methods; Programming Models; Mathematical and Simulation Modeling",
+    "D Microeconomics",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": null,
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478564",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "joe:111477699",
@@ -22091,7 +22273,12 @@
    "title": "Postdoctoral Researcher in Climate Resilience Finance",
    "location": "Miami, United States",
    "continent": "North America",
-   "fields": [],
+   "fields": [
+    "G2 Financial Institutions and Services",
+    "G3 Corporate Finance and Governance",
+    "Q0 General",
+    "Q5 Environmental Economics"
+   ],
    "position_types": [],
    "section": "US: Other Academic (Part-time or Adjunct)",
    "deadline": "2026-11-21",
@@ -22234,7 +22421,7 @@
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-11",
+   "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478230",
    "predoc": false,
@@ -22326,6 +22513,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-08"
+  },
+  {
+   "id": "joe:111478608",
+   "source": "joe",
+   "institution": "University of New Mexico",
+   "title": "Assistant Professor",
+   "location": "Albuquerque, United States",
+   "continent": "North America",
+   "fields": [
+    "I0 General",
+    "I1 Health"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-13",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478608",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "joe:111478268",
@@ -24694,6 +24902,24 @@
    "deadline": "2027-02-15",
    "posted": "2026-11-19",
    "url": "https://econjobmarket.org/positions/13038",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "ejm:13037",
+   "source": "ejm",
+   "institution": "Department of Economics, Management, and Statistics, University of Milan Bicocca",
+   "title": "Postdoctoral Scholar, Development; Growth/Environmental; Energy; Ag. Econ/International Trade/Labor; Demographic Economics/Macroeconomics; Monetary",
+   "location": "Milano, IT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-11-19",
+   "url": "https://econjobmarket.org/positions/13037",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
