@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-20T13:34:54Z",
+ "generated_at": "2026-11-20T22:48:50Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 330,
+   "count": 331,
    "site_listing": 314,
    "site_extra": 11,
-   "not_live": 12,
+   "not_live": 13,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 796
+   "count": 805
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -868,7 +868,7 @@
     "Senior Lecturer"
    ],
    "section": null,
-   "deadline": "2026-12-05",
+   "deadline": "2026-12-15",
    "posted": "2026-08-31",
    "url": "https://econjobmarket.org/positions/12610",
    "link_status": "ok",
@@ -7504,6 +7504,33 @@
    "first_seen": "2026-11-17"
   },
   {
+   "id": "ejm:13031",
+   "source": "ejm",
+   "institution": "Mohammed VI Polytechnic University",
+   "title": "Professor in Behavioral Economics and Experimental Methods",
+   "location": "Rabat, MA",
+   "continent": "Africa",
+   "fields": [
+    "Experimental Economics",
+    "Behavioral Economics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-11-17",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:13031",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/13031",
+   "text": "Position : Permanent Professor\n\nLocation : Rabat, Morocco\n\nStatus: Full-time\n\nApplication deadline: Open until filled\n\nExpected starting date: September 2027\n\nSalary and benefits : Competitive\n\nMohammed VI Polytechnic University (UM6P) is hiring a Professor in Behavioral Economics for the Behavioral and Social Science for Public Policy program at the Faculty of Governance, Economics and Social Sciences (FGSES).\n\nQualifications and Expertise: We are seeking a scholar with excellence in research and teaching in behavioral economics. The ideal candidate will bring extensive expertise in experimental methods applied to the study of economic behavior, and more broadly to the study of behavior related to sustainable development. Strong quantitative skills are essential. The candidate must also be able to analyze survey databases.\n\nIntegration and Collaboration: Teaching and research duties will be carried out within programs and teams dedicated to behavioral and social sciences for public policy. Candidates who demonstrate an interdisciplinary mindset and an openness to engaging with broader social science perspectives are strongly encouraged to apply.\n\nFounded in 2016, UM6P is a well-funded, non-profit university created to provide world-class educational experiences and produce cutting-edge research in the physical and social sciences. UM6P was established to serve countries of the Global South, with an emphasis on providing research relevant to Africa, and training students from the continent.\n\nThe Social Sciences, Economics and Humanities Cluster at UM6P is a teaching and research ecosystem that closely brings together three entities: the Faculty of Governance, Economics and Social Sciences (FGSES), which offers Bachelor’s, Master’s as well as Ph.D. programs; the Africa Institute for Research in Economics and Social Sciences (AIRESS), which is geared towards research; and the Public Policy School (PPS), which offers executive education programs for decision-makers in both the public and private sectors.\n\nAll three entities have a common goal: contributing to the development of the African continent. The strategy for achieving this is to endow public policy with actionable knowledge grounded in research as well as highly skilled professionals that can critically assess issues facing the continent and the globe.\n\nJob duties and responsibilities involve teaching and research, typically with 60/40 or 50/50 splits. Ideally, faculty research will contribute to the UM6P goal of producing quality research relevant to the African continent. Permanent professors are also expected to raise external funding to support their research activities.\n\nApplicants must have a Doctorate or Ph.D. in Economics or an equivalent discipline. Candidates must provide evidence of effective teaching.\n\n-Applicants must provide:\n\n• A detailed curriculum vita,\n\n• A separate, full list of publications,\n\n• One example of research output,\n\n• Proof of degree completion,\n\n• Evidence of effective post-secondary teaching experience,\n\n• Evidence of successful advising of Master's and Ph.D. level research consistent with international standards.\n\nUM6P does not discriminate on the basis of religion, race, gender, age, disability, or national or ethnic origin.",
+   "links": [],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "ejm:13032",
    "source": "ejm",
    "institution": "Aalto University",
@@ -11016,6 +11043,26 @@
    "first_seen": "2026-09-04"
   },
   {
+   "id": "joe:111478625",
+   "source": "joe",
+   "institution": "Ellison Institute Technology, Oxford",
+   "title": "Postdoctoral Researcher/Research Economist AI &amp; Robotics",
+   "location": "Oxford, United Kingdom",
+   "continent": "Europe",
+   "fields": [
+    "D Microeconomics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-11-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478625",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "joe:111477964",
    "source": "joe",
    "institution": "Emmis",
@@ -11146,6 +11193,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-08"
+  },
+  {
+   "id": "joe:111478582",
+   "source": "joe",
+   "institution": "Evidence Action",
+   "title": "Executive Vice President, Evidence",
+   "location": "United States; New Delhi, India; Abuja, Nigeria; Kenya",
+   "continent": "Africa / Asia / North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478582",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "joe:111478401",
@@ -11788,6 +11855,26 @@
    "first_seen": "2026-09-24"
   },
   {
+   "id": "joe:111478618",
+   "source": "joe",
+   "institution": "Georgetown University",
+   "title": "Assistant Professor of Department of Economics",
+   "location": "Washington, United States",
+   "continent": "North America",
+   "fields": [
+    "C1 Econometric and Statistical Methods and Methodology:  General"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-06",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478618",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "joe:111478302",
    "source": "joe",
    "institution": "Georgetown University",
@@ -12014,6 +12101,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "joe:111478617",
+   "source": "joe",
+   "institution": "Harvard Business School",
+   "title": "Postdoctoral Fellow, HBS AI Institute",
+   "location": "Allston, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478617",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "joe:111478310",
@@ -12433,6 +12540,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478623",
+   "source": "joe",
+   "institution": "Hoover Institution",
+   "title": "Postdoctoral Research Fellow in Tax and Fiscal Policy; State and Local Economic Policy",
+   "location": "Stanford, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "H0 General"
+   ],
+   "position_types": [],
+   "section": "Other Nonacademic (Temporary, Part-Time, Non-Salaried, Consulting, Etc.)",
+   "deadline": "2027-05-28",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478623",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "joe:111478111",
@@ -22788,6 +22916,29 @@
    "first_seen": "2026-10-16"
   },
   {
+   "id": "joe:111478594",
+   "source": "joe",
+   "institution": "University of North Texas",
+   "title": "Assistant Professor of Economics",
+   "location": "Denton, United States",
+   "continent": "North America",
+   "fields": [
+    "F1 Trade",
+    "Q2 Renewable Resources and Conservation",
+    "Q3 Nonrenewable Resources and Conservation",
+    "Q5 Environmental Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-11",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478594",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "joe:111478378",
    "source": "joe",
    "institution": "University of Notre Dame",
@@ -23153,6 +23304,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "joe:111478583",
+   "source": "joe",
+   "institution": "University of Southern California",
+   "title": "Professor of Real Estate Development",
+   "location": "Los Angeles, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478583",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "joe:111478194",
@@ -24299,6 +24470,36 @@
    "first_seen": "2026-08-30"
   },
   {
+   "id": "joe:111478381",
+   "source": "joe",
+   "institution": "White House Office of Management and Budget",
+   "title": "Economist",
+   "location": "Washington D.C., United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A General Economics and Teaching",
+    "C Mathematical and Quantitative Methods",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics",
+    "H Public Economics",
+    "I Health, Education, and Welfare",
+    "J Labor and Demographic Economics",
+    "K Law and Economics",
+    "L Industrial Organization"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-18",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478381",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "joe:111477720",
    "source": "joe",
    "institution": "Whitman College",
@@ -24668,6 +24869,29 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-01"
+  },
+  {
+   "id": "joe:111478581",
+   "source": "joe",
+   "institution": "Yale University",
+   "title": "Postdoctoral Associate, Macro-Development",
+   "location": "New Haven, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "F4 Macroeconomic Aspects of International Trade and Finance",
+    "L1 Market Structure, Firm Strategy, and Market Performance",
+    "O1 Economic Development"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478581",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "joe:111478457",
