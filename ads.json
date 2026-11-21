@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-21T12:59:28Z",
+ "generated_at": "2026-11-21T21:52:19Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 327,
-   "site_listing": 310,
+   "count": 329,
+   "site_listing": 312,
    "site_extra": 4,
    "not_live": 13,
    "dead": 0
@@ -7145,6 +7145,28 @@
    "first_seen": "2026-11-12"
   },
   {
+   "id": "ejm:13017",
+   "source": "ejm",
+   "institution": "Banco de Mexico",
+   "title": "Economic Researcher at Banco de México's Economics Research General Directorate",
+   "location": "Mexico City, MX",
+   "continent": "Latin America",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-11-20",
+   "url": "https://econjobmarket.org/positions/13017",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-21"
+  },
+  {
    "id": "ejm:13018",
    "source": "ejm",
    "institution": "University of Hong Kong",
@@ -7678,6 +7700,32 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "ejm:13041",
+   "source": "ejm",
+   "institution": "National Council of Applied Economic Research",
+   "title": "Senior Fellow / Associate Fellow",
+   "location": "New Delhi, IN",
+   "continent": "Asia",
+   "fields": [
+    "Development; Growth",
+    "Industrial Organization",
+    "Labor; Demographic Economics",
+    "Health; Education; Welfare",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2026-12-19",
+   "posted": "2026-11-20",
+   "url": "https://econjobmarket.org/positions/13041",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-21"
   },
   {
    "id": "ejm:13043",
