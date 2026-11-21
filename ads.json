@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-20T22:48:50Z",
+ "generated_at": "2026-11-21T12:59:28Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 331,
-   "site_listing": 314,
-   "site_extra": 11,
+   "count": 327,
+   "site_listing": 310,
+   "site_extra": 4,
    "not_live": 13,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 805
+   "count": 802
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -4629,29 +4629,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "ejm:12889",
-   "source": "ejm",
-   "institution": "ZEW - Leibniz Centre for European Economic Research",
-   "title": "Postdoctoral Researcher with Option for a Permanent Contract (f/m/d, 100%)",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [
-    "Health; Education; Welfare",
-    "Management, Health Care"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12889",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
    "id": "ejm:12890",
    "source": "ejm",
    "institution": "Norwegian School of Economics (NHH)",
@@ -4694,28 +4671,6 @@
    "deadline": "2026-11-30",
    "posted": "2026-10-22",
    "url": "https://econjobmarket.org/positions/12891",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12892",
-   "source": "ejm",
-   "institution": "University of Southern Denmark",
-   "title": "Assistant Professor of Finance",
-   "location": "Odense M, DK",
-   "continent": "Europe",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-19",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12892",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -4812,28 +4767,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12897",
-   "source": "ejm",
-   "institution": "University of Oxford",
-   "title": "Associate Professorships in Economics (Two Posts)",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12897",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-22"
   },
   {
    "id": "ejm:12898",
@@ -7742,6 +7675,138 @@
    "links": [
     "http://www.eit.org/"
    ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "ejm:13043",
+   "source": "ejm",
+   "institution": "ETH Zurich",
+   "title": "Postdoctoral Position in Environmental Economics",
+   "location": "Zurich, CH",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-19",
+   "posted": "2026-11-20",
+   "url": "https://econjobmarket.org/positions/13043",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "ejm:13044",
+   "source": "ejm",
+   "institution": "University of Exeter",
+   "title": "Postdoctoral Fellowships in Economics, History and Creativity (two positions)",
+   "location": "Exeter, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-15",
+   "posted": "2026-11-20",
+   "url": "https://econjobmarket.org/positions/13044",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "ejm:13045",
+   "source": "ejm",
+   "institution": "University of Warwick",
+   "title": "Research Fellow (Economics)",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Public Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-11-20",
+   "url": "https://econjobmarket.org/positions/13045",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "ejm:13046",
+   "source": "ejm",
+   "institution": "ESSEC Business School",
+   "title": "Postdoctoral Researcher in Trade, Land Use and Forest Economics (24 months)",
+   "location": "Cergy, FR",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-20",
+   "url": "https://econjobmarket.org/positions/13046",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "ejm:13048",
+   "source": "ejm",
+   "institution": "New York University Abu Dhabi",
+   "title": "Post-Doctoral Associate in the Division of Social Science (Economics)",
+   "location": "Abu Dhabi, AE",
+   "continent": "Asia",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-20",
+   "url": "https://econjobmarket.org/positions/13048",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "ejm:13049",
+   "source": "ejm",
+   "institution": "Georgetown University",
+   "title": "Assistant Professor of Department of Economics",
+   "location": "Washington, US",
+   "continent": "North America",
+   "fields": [
+    "Econometrics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-06",
+   "posted": "2026-11-20",
+   "url": "https://econjobmarket.org/positions/13049",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-20"
@@ -12880,26 +12945,6 @@
    "first_seen": "2026-09-17"
   },
   {
-   "id": "joe:111478301",
-   "source": "joe",
-   "institution": "Inter-American Development Bank",
-   "title": "Research Economists (Senior/Lead Research Economist)",
-   "location": "Washington, United States",
-   "continent": "North America",
-   "fields": [
-    "00 00 - Default: Any Field"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-11-15",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478301",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-15"
-  },
-  {
    "id": "joe:111478414",
    "source": "joe",
    "institution": "Inter-American Development Bank",
@@ -15284,27 +15329,6 @@
    "first_seen": "2026-09-17"
   },
   {
-   "id": "joe:111478107",
-   "source": "joe",
-   "institution": "National University of Singapore",
-   "title": "Assistant Professor / Associate Professor/ Professor",
-   "location": "Singapore, Singapore",
-   "continent": "Asia",
-   "fields": [
-    "G0 General",
-    "R0 General"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-20",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478107",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-07"
-  },
-  {
    "id": "joe:111478331",
    "source": "joe",
    "institution": "Nazarbayev University",
@@ -16607,33 +16631,6 @@
    "deadline": "2026-12-11",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478122",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-02"
-  },
-  {
-   "id": "joe:111478120",
-   "source": "joe",
-   "institution": "PricewaterhouseCoopers LLP (PwC)",
-   "title": "Transfer Pricing PhD - Senior Associate - January 2027",
-   "location": "Philadelphia, United States; Washington, United States",
-   "continent": "North America",
-   "fields": [
-    "D Microeconomics",
-    "E Macroeconomics and Monetary Economics",
-    "F International Economics",
-    "G Financial Economics",
-    "H Public Economics",
-    "K Law and Economics",
-    "L Industrial Organization",
-    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
-   ],
-   "position_types": [],
-   "section": "Full-Time Nonacademic",
-   "deadline": "2026-11-20",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478120",
    "predoc": false,
    "senior": false,
    "link_status": "ok",
@@ -25082,202 +25079,76 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:13049",
+   "id": "ejm:13050",
    "source": "ejm",
-   "institution": "Department of Economics, Georgetown University",
-   "title": "Assistant Professor, Econometrics",
-   "location": "Washington, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-06",
-   "posted": "2026-11-20",
-   "url": "https://econjobmarket.org/positions/13049",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
-  },
-  {
-   "id": "ejm:13044",
-   "source": "ejm",
-   "institution": "Economics, University of Exeter",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Exeter, GB",
+   "institution": "Department of Finance, Aalto University",
+   "title": "Assistant Professor, Finance",
+   "location": "Espoo, FI",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-15",
-   "posted": "2026-11-20",
-   "url": "https://econjobmarket.org/positions/13044",
+   "deadline": "2026-12-20",
+   "posted": "2026-11-21",
+   "url": "https://econjobmarket.org/positions/13050",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-20"
+   "first_seen": "2026-11-21"
   },
   {
-   "id": "ejm:13046",
+   "id": "ejm:12897",
    "source": "ejm",
-   "institution": "Economics Department, ESSEC Business School",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Cergy, FR",
+   "institution": "Economics, University of Oxford",
+   "title": "Associate Professor, Economics",
+   "location": "Oxford, GB",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-20",
-   "url": "https://econjobmarket.org/positions/13046",
+   "deadline": "2026-11-13",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12897",
    "link_status": "ok",
    "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
+   "senior": true,
+   "first_seen": "2026-10-22"
   },
   {
-   "id": "ejm:13048",
+   "id": "ejm:12889",
    "source": "ejm",
-   "institution": "Social Science Division, New York University Abu Dhabi",
-   "title": "Post-Doctoral Associate",
-   "location": "Abu Dhabi, AE",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-20",
-   "url": "https://econjobmarket.org/positions/13048",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
-  },
-  {
-   "id": "ejm:13043",
-   "source": "ejm",
-   "institution": "Department of Management, Technology, and Economics, ETH Zurich",
-   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ",
-   "location": "Zurich, CH",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-19",
-   "posted": "2026-11-20",
-   "url": "https://econjobmarket.org/positions/13043",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
-  },
-  {
-   "id": "ejm:13045",
-   "source": "ejm",
-   "institution": "Economics, University of Warwick",
-   "title": "Postdoctoral Scholar, Public Economics",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-06",
-   "posted": "2026-11-20",
-   "url": "https://econjobmarket.org/positions/13045",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
-  },
-  {
-   "id": "ejm:12829",
-   "source": "ejm",
-   "institution": "Nova School of Business and Economics, Universidade Nova de Lisboa",
-   "title": "Assistant, Associate, or Full Professor in Finance (Research Tenure Track)",
-   "location": "Cascais, PT",
+   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
+   "title": "Postdoctoral Scholar, Health; Education; Welfare/Management, Health Care",
+   "location": "Mannheim, DE",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
    "deadline": "2026-11-20",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12829",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12889",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-10-15"
+   "first_seen": "2026-10-22"
   },
   {
-   "id": "ejm:12628",
+   "id": "ejm:12892",
    "source": "ejm",
-   "institution": "Nova School of Business and Economics, Universidade Nova de Lisboa",
-   "title": "Postdoctoral Scholar, Development; Growth",
-   "location": "Cascais, PT",
+   "institution": "SDU Business School, University of Southern Denmark",
+   "title": "Assistant Professor, Finance",
+   "location": "Odense M, DK",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-09-05",
-   "url": "https://econjobmarket.org/positions/12628",
+   "deadline": "2026-11-19",
+   "posted": "2026-10-22",
+   "url": "https://econjobmarket.org/positions/12892",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-09-06"
-  },
-  {
-   "id": "ejm:12663",
-   "source": "ejm",
-   "institution": "Católica Lisbon School of Business and Economics, Catholic University of Portugal",
-   "title": "Assistant Professor, Accounting/Finance",
-   "location": "Lisbon, PT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-09-28",
-   "url": "https://econjobmarket.org/positions/12663",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "ejm:12692",
-   "source": "ejm",
-   "institution": "Institute for Employment Research",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Econometrics/Health; Education; Welfare/Labor; Demographic Economics",
-   "location": "90478 Nürnberg, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-09-22",
-   "url": "https://econjobmarket.org/positions/12692",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-22"
-  },
-  {
-   "id": "ejm:12694",
-   "source": "ejm",
-   "institution": "School of Economics, University College Dublin",
-   "title": "Assistant Professor, Economics",
-   "location": "Belfield, IE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-09-21",
-   "url": "https://econjobmarket.org/positions/12694",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-21"
+   "first_seen": "2026-10-22"
   }
  ]
 }
