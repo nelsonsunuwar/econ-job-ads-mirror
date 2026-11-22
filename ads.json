@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T21:52:19Z",
+ "generated_at": "2026-11-22T02:38:16Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 329,
-   "site_listing": 312,
-   "site_extra": 4,
+   "count": 326,
+   "site_listing": 310,
+   "site_extra": 1,
    "not_live": 13,
    "dead": 0
   },
@@ -25143,60 +25143,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-21"
-  },
-  {
-   "id": "ejm:12897",
-   "source": "ejm",
-   "institution": "Economics, University of Oxford",
-   "title": "Associate Professor, Economics",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12897",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12889",
-   "source": "ejm",
-   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
-   "title": "Postdoctoral Scholar, Health; Education; Welfare/Management, Health Care",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12889",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": "ejm:12892",
-   "source": "ejm",
-   "institution": "SDU Business School, University of Southern Denmark",
-   "title": "Assistant Professor, Finance",
-   "location": "Odense M, DK",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-19",
-   "posted": "2026-10-22",
-   "url": "https://econjobmarket.org/positions/12892",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-22"
   }
  ]
 }
