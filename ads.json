@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-22T02:38:16Z",
+ "generated_at": "2026-11-22T12:50:58Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 326,
    "site_listing": 310,
-   "site_extra": 1,
+   "site_extra": 13,
    "not_live": 13,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 802
+   "count": 800
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -897,50 +897,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-01"
-  },
-  {
-   "id": "ejm:12618",
-   "source": "ejm",
-   "institution": "University of Helsinki",
-   "title": "Assistant Professor of Economics — Any field, Swedish speaking",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12618",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-04"
-  },
-  {
-   "id": "ejm:12619",
-   "source": "ejm",
-   "institution": "University of Helsinki",
-   "title": "Assistant Professor of Economics — Microeconomics",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [
-    "Microeconomic theory"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-09-03",
-   "url": "https://econjobmarket.org/positions/12619",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-04"
   },
   {
    "id": "ejm:12622",
@@ -3257,32 +3213,6 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "ejm:12803",
-   "source": "ejm",
-   "institution": "Leibniz Universität Hannover",
-   "title": "Postdoctoral Researcher in Innovation Economics",
-   "location": "Hannover, DE",
-   "continent": "Europe",
-   "fields": [
-    "Experimental Economics",
-    "Industrial Organization",
-    "Public Economics",
-    "Behavioral Economics",
-    "Microeconomic theory"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-10",
-   "url": "https://econjobmarket.org/positions/12803",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-10"
-  },
-  {
    "id": "ejm:12805",
    "source": "ejm",
    "institution": "Heidelberg University",
@@ -3307,28 +3237,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-13"
-  },
-  {
-   "id": "ejm:12806",
-   "source": "ejm",
-   "institution": "Max Planck Institute for Innovation and Competition",
-   "title": "Senior Research Fellows/Postdocs (m/f/d) in Management / Economics of Innovation",
-   "location": "Munich, DE",
-   "continent": "Europe",
-   "fields": [
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-11",
-   "url": "https://econjobmarket.org/positions/12806",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-11"
   },
   {
    "id": "ejm:12808",
@@ -3452,31 +3360,6 @@
    "predoc": false,
    "senior": true,
    "first_seen": "2026-10-20"
-  },
-  {
-   "id": "ejm:12814",
-   "source": "ejm",
-   "institution": "Corvinus University of Budapest",
-   "title": "Assistant Professor in Economics",
-   "location": "Budapest, HU",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics",
-    "Macroeconomics; Monetary",
-    "Any field",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-14",
-   "url": "https://econjobmarket.org/positions/12814",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-14"
   },
   {
    "id": "ejm:12823",
@@ -3613,28 +3496,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-16"
-  },
-  {
-   "id": "ejm:12831",
-   "source": "ejm",
-   "institution": "University of Helsinki",
-   "title": "Assistant Professor of Economics (Macroeconomics)",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [
-    "Macroeconomics; Monetary"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-15",
-   "url": "https://econjobmarket.org/positions/12831",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-15"
   },
   {
    "id": "ejm:12832",
@@ -3931,34 +3792,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-16"
-  },
-  {
-   "id": "ejm:12849",
-   "source": "ejm",
-   "institution": "Berlin School of Economics",
-   "title": "Several Research Associate positions",
-   "location": "Berlin, DE",
-   "continent": "Europe",
-   "fields": [
-    "Environmental; Energy; Ag. Econ",
-    "Labor; Demographic Economics",
-    "Public Economics",
-    "Any field",
-    "Urban; Rural; Regional Economics",
-    "Political Economy",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-20",
-   "posted": "2026-10-16",
-   "url": "https://econjobmarket.org/positions/12849",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-17"
   },
   {
    "id": "ejm:12851",
@@ -4496,28 +4329,6 @@
    "first_seen": "2026-10-20"
   },
   {
-   "id": "ejm:12880",
-   "source": "ejm",
-   "institution": "Hanken School of Economics",
-   "title": "Assistant Professor (tenure-track) in Finance",
-   "location": "Helsinki, FI",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12880",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "ejm:12881",
    "source": "ejm",
    "institution": "Halle Institute for Economic Research (IWH)",
@@ -4560,29 +4371,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-26"
-  },
-  {
-   "id": "ejm:12883",
-   "source": "ejm",
-   "institution": "ESCP Business School",
-   "title": "Assistant/Associate Professor of Finance – Paris Campus (France)",
-   "location": "Paris, FR",
-   "continent": "Europe",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-21",
-   "url": "https://econjobmarket.org/positions/12883",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-21"
   },
   {
    "id": "ejm:12884",
@@ -4980,28 +4768,6 @@
    "first_seen": "2026-10-27"
   },
   {
-   "id": "ejm:12908",
-   "source": "ejm",
-   "institution": "Johannes Kepler University Linz",
-   "title": "Tenure-Track Assistant Professor in Empirical Microeconomics (preferably Health)",
-   "location": "Linz, AT",
-   "continent": "Europe",
-   "fields": [
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-11",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12908",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "ejm:12909",
    "source": "ejm",
    "institution": "Uppsala University",
@@ -5044,32 +4810,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-28"
-  },
-  {
-   "id": "ejm:12911",
-   "source": "ejm",
-   "institution": "University of Tübingen",
-   "title": "Postdoctoral Researcher (f/m/d) in Applied Microeconomics",
-   "location": "Tübingen, DE",
-   "continent": "Europe",
-   "fields": [
-    "Development; Growth",
-    "Experimental Economics",
-    "Labor; Demographic Economics",
-    "Political Economy",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-15",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12911",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
   },
   {
    "id": "ejm:12912",
@@ -5515,32 +5255,6 @@
    "first_seen": "2026-10-27"
   },
   {
-   "id": "ejm:12934",
-   "source": "ejm",
-   "institution": "Erasmus University Rotterdam",
-   "title": "Postdoctoral Researcher Political, Organisational and/or Development Economics",
-   "location": "Rotterdam, NL",
-   "continent": "Europe",
-   "fields": [
-    "Development; Growth",
-    "Labor; Demographic Economics",
-    "Political Economy",
-    "Organizational Behavior",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12934",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
    "id": "ejm:12935",
    "source": "ejm",
    "institution": "University of Guelph",
@@ -5723,31 +5437,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-30"
-  },
-  {
-   "id": "ejm:12946",
-   "source": "ejm",
-   "institution": "National Bank of Slovakia",
-   "title": "Senior Economist",
-   "location": "Bratislava, SK",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics",
-    "Environmental; Energy; Ag. Econ",
-    "Finance",
-    "Macroeconomics; Monetary"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-11-22",
-   "posted": "2026-10-29",
-   "url": "https://econjobmarket.org/positions/12946",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-29"
   },
   {
    "id": "ejm:12948",
@@ -7858,6 +7547,28 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "ejm:13050",
+   "source": "ejm",
+   "institution": "Aalto University",
+   "title": "Assistant Professor (tenure track) in Finance",
+   "location": "Espoo, FI",
+   "continent": "Europe",
+   "fields": [
+    "Finance"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-20",
+   "posted": "2026-11-21",
+   "url": "https://econjobmarket.org/positions/13050",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-21"
   },
   {
    "id": "joe:111477855",
@@ -18926,46 +18637,6 @@
    "first_seen": "2026-09-01"
   },
   {
-   "id": "joe:111477960",
-   "source": "joe",
-   "institution": "Texas A&amp;M University",
-   "title": "Tenure Track: Assistant Professor",
-   "location": "College Station, United States",
-   "continent": "North America",
-   "fields": [
-    "A General Economics and Teaching"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-20",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477960",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "joe:111477961",
-   "source": "joe",
-   "institution": "Texas A&amp;M University",
-   "title": "Tenured: Associate Professor or Professor",
-   "location": "College Station, United States",
-   "continent": "North America",
-   "fields": [
-    "A General Economics and Teaching"
-   ],
-   "position_types": [],
-   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-20",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477961",
-   "predoc": false,
-   "senior": true,
-   "link_status": "ok",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "joe:111478489",
    "source": "joe",
    "institution": "Texas A&amp;M University",
@@ -25127,22 +24798,238 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:13050",
+   "id": "ejm:12883",
    "source": "ejm",
-   "institution": "Department of Finance, Aalto University",
-   "title": "Assistant Professor, Finance",
-   "location": "Espoo, FI",
+   "institution": "Finance, ESCP Business School",
+   "title": "Assistant Professor/Associate Professor, Finance",
+   "location": "Paris, FR",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-20",
-   "posted": "2026-11-21",
-   "url": "https://econjobmarket.org/positions/13050",
+   "deadline": "2026-11-22",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12883",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-21"
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12803",
+   "source": "ejm",
+   "institution": "Economics and Management, Leibniz Universität Hannover",
+   "title": "Postdoctoral Scholar, Behavioral Economics/Experimental Economics/Industrial Organization/Microeconomic theory/Public Economics",
+   "location": "Hannover, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-10",
+   "url": "https://econjobmarket.org/positions/12803",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "ejm:12806",
+   "source": "ejm",
+   "institution": "Innovation and Entrepreneurship Research, Max Planck Institute for Innovation and Competition",
+   "title": "Postdoctoral Scholar, Applied microeconomics",
+   "location": "Munich, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-11",
+   "url": "https://econjobmarket.org/positions/12806",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-11"
+  },
+  {
+   "id": "ejm:12814",
+   "source": "ejm",
+   "institution": "Institute of Economics, Corvinus University of Budapest",
+   "title": "Assistant Professor, Economics",
+   "location": "Budapest, HU",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-14",
+   "url": "https://econjobmarket.org/positions/12814",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-14"
+  },
+  {
+   "id": "ejm:12831",
+   "source": "ejm",
+   "institution": "Economics, University of Helsinki",
+   "title": "Assistant Professor, Macroeconomics; Monetary",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-15",
+   "url": "https://econjobmarket.org/positions/12831",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ejm:12849",
+   "source": "ejm",
+   "institution": "Berlin School of Economics",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Berlin, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-20",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12849",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-17"
+  },
+  {
+   "id": "ejm:12618",
+   "source": "ejm",
+   "institution": "Economics, University of Helsinki",
+   "title": "Assistant Professor, Economics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-09-03",
+   "url": "https://econjobmarket.org/positions/12618",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-04"
+  },
+  {
+   "id": "ejm:12619",
+   "source": "ejm",
+   "institution": "Economics, University of Helsinki",
+   "title": "Assistant Professor, Microeconomic theory",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-09-03",
+   "url": "https://econjobmarket.org/positions/12619",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-04"
+  },
+  {
+   "id": "ejm:12880",
+   "source": "ejm",
+   "institution": "Economics and Finance, Hanken School of Economics",
+   "title": "Assistant Professor, Economics",
+   "location": "Helsinki, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-21",
+   "url": "https://econjobmarket.org/positions/12880",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ejm:12908",
+   "source": "ejm",
+   "institution": "Department of Economics, Johannes Kepler University Linz",
+   "title": "Assistant Professor, Applied microeconomics",
+   "location": "Linz, AT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-11",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12908",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12911",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Tübingen",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Development; Growth/Experimental Economics/Labor; Demographic Economics/Political Economy",
+   "location": "Tübingen, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-15",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12911",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12934",
+   "source": "ejm",
+   "institution": "Economics, Erasmus University Rotterdam",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Development; Growth/Labor; Demographic Economics/Organizational Behavior/Political Economy",
+   "location": "Rotterdam, NL",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12934",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12946",
+   "source": "ejm",
+   "institution": "National Bank of Slovakia",
+   "title": "Senior Economist",
+   "location": "Bratislava, SK",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-22",
+   "posted": "2026-10-29",
+   "url": "https://econjobmarket.org/positions/12946",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-29"
   }
  ]
 }
