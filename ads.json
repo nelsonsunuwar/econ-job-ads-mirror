@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-23T03:05:48Z",
+ "generated_at": "2026-11-23T15:19:56Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 314,
-   "site_listing": 298,
-   "site_extra": 1,
-   "not_live": 13,
+   "site_listing": 300,
+   "site_extra": 7,
+   "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 800
+   "count": 799
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -1131,29 +1131,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-12"
-  },
-  {
-   "id": "ejm:12642",
-   "source": "ejm",
-   "institution": "University of Cyprus",
-   "title": "Tenure-track Lecturer or Assistant Professor in Economics (two positions)",
-   "location": "Nicosia, CY",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Lecturer"
-   ],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-09-14",
-   "url": "https://econjobmarket.org/positions/12642",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-15"
   },
   {
    "id": "ejm:12647",
@@ -4351,28 +4328,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "ejm:12882",
-   "source": "ejm",
-   "institution": "London School of Economics and Political Science",
-   "title": "Assistant Professor, Department of Economics",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-26",
-   "url": "https://econjobmarket.org/positions/12882",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-26"
-  },
-  {
    "id": "ejm:12884",
    "source": "ejm",
    "institution": "Federal Reserve Bank of Dallas",
@@ -4948,28 +4903,6 @@
    "first_seen": "2026-11-05"
   },
   {
-   "id": "ejm:12918",
-   "source": "ejm",
-   "institution": "University of Oxford",
-   "title": "Associate Professorship in Economics",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12918",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-24"
-  },
-  {
    "id": "ejm:12919",
    "source": "ejm",
    "institution": "Indian Institute of Management Bangalore",
@@ -5209,28 +5142,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12929",
-   "source": "ejm",
-   "institution": "German Institute for Economic Research (DIW)",
-   "title": "Postdoc (f/m/x)",
-   "location": "Berlin, DE",
-   "continent": "Europe",
-   "fields": [
-    "Public Economics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-28",
-   "url": "https://econjobmarket.org/positions/12929",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
   },
   {
    "id": "ejm:12931",
@@ -6926,32 +6837,6 @@
    "first_seen": "2026-11-14"
   },
   {
-   "id": "ejm:13021",
-   "source": "ejm",
-   "institution": "Collegio Carlo Alberto",
-   "title": "Assistant Professor",
-   "location": "Torino, IT",
-   "continent": "Europe",
-   "fields": [
-    "Finance",
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-12-05",
-   "posted": "2026-11-14",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:13021",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/13021",
-   "text": "An Assistant Professorship is being offered to candidates nearing completion of their PhD programs in Economics or Finance, or to candidates who already hold a PhD in either field. Assistant Professors receive a competitive salary and generous research funds. English is the working language and the language of instruction at the Collegio.\n\nThe position is for four years, starting in September 2027, and is renewable for three additional years following a mid-term evaluation. It may be transformed into a permanent position following a successful peer review.\n\nApplications and letters of recommendation must be submitted through EconJobMarket.org by December 5, 2026.\n\nThe Collegio will conduct interviews at the European Job Market for Economists (EJME).\n\nFor questions regarding the application process, please email jobmkt-help@carloalberto.org.",
-   "links": [],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-15"
-  },
-  {
    "id": "ejm:13022",
    "source": "ejm",
    "institution": "Universidad de Navarra",
@@ -7146,33 +7031,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-17"
-  },
-  {
-   "id": "ejm:13031",
-   "source": "ejm",
-   "institution": "Mohammed VI Polytechnic University",
-   "title": "Professor in Behavioral Economics and Experimental Methods",
-   "location": "Rabat, MA",
-   "continent": "Africa",
-   "fields": [
-    "Experimental Economics",
-    "Behavioral Economics"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor"
-   ],
-   "section": null,
-   "deadline": "2027-02-28",
-   "posted": "2026-11-17",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:13031",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/13031",
-   "text": "Position : Permanent Professor\n\nLocation : Rabat, Morocco\n\nStatus: Full-time\n\nApplication deadline: Open until filled\n\nExpected starting date: September 2027\n\nSalary and benefits : Competitive\n\nMohammed VI Polytechnic University (UM6P) is hiring a Professor in Behavioral Economics for the Behavioral and Social Science for Public Policy program at the Faculty of Governance, Economics and Social Sciences (FGSES).\n\nQualifications and Expertise: We are seeking a scholar with excellence in research and teaching in behavioral economics. The ideal candidate will bring extensive expertise in experimental methods applied to the study of economic behavior, and more broadly to the study of behavior related to sustainable development. Strong quantitative skills are essential. The candidate must also be able to analyze survey databases.\n\nIntegration and Collaboration: Teaching and research duties will be carried out within programs and teams dedicated to behavioral and social sciences for public policy. Candidates who demonstrate an interdisciplinary mindset and an openness to engaging with broader social science perspectives are strongly encouraged to apply.\n\nFounded in 2016, UM6P is a well-funded, non-profit university created to provide world-class educational experiences and produce cutting-edge research in the physical and social sciences. UM6P was established to serve countries of the Global South, with an emphasis on providing research relevant to Africa, and training students from the continent.\n\nThe Social Sciences, Economics and Humanities Cluster at UM6P is a teaching and research ecosystem that closely brings together three entities: the Faculty of Governance, Economics and Social Sciences (FGSES), which offers Bachelor’s, Master’s as well as Ph.D. programs; the Africa Institute for Research in Economics and Social Sciences (AIRESS), which is geared towards research; and the Public Policy School (PPS), which offers executive education programs for decision-makers in both the public and private sectors.\n\nAll three entities have a common goal: contributing to the development of the African continent. The strategy for achieving this is to endow public policy with actionable knowledge grounded in research as well as highly skilled professionals that can critically assess issues facing the continent and the globe.\n\nJob duties and responsibilities involve teaching and research, typically with 60/40 or 50/50 splits. Ideally, faculty research will contribute to the UM6P goal of producing quality research relevant to the African continent. Permanent professors are also expected to raise external funding to support their research activities.\n\nApplicants must have a Doctorate or Ph.D. in Economics or an equivalent discipline. Candidates must provide evidence of effective teaching.\n\n-Applicants must provide:\n\n• A detailed curriculum vita,\n\n• A separate, full list of publications,\n\n• One example of research output,\n\n• Proof of degree completion,\n\n• Evidence of effective post-secondary teaching experience,\n\n• Evidence of successful advising of Master's and Ph.D. level research consistent with international standards.\n\nUM6P does not discriminate on the basis of religion, race, gender, age, disability, or national or ethnic origin.",
-   "links": [],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
   },
   {
    "id": "ejm:13032",
@@ -15386,27 +15244,6 @@
    "deadline": "2026-11-27",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478127",
-   "predoc": false,
-   "senior": false,
-   "link_status": "ok",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "joe:111478129",
-   "source": "joe",
-   "institution": "New York University Shanghai",
-   "title": "Tenured/Tenure-Track Positions in Finance",
-   "location": "Shanghai, China",
-   "continent": "Asia",
-   "fields": [
-    "00 00 - Default: Any Field",
-    "G Financial Economics"
-   ],
-   "position_types": [],
-   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-11-20",
-   "posted": null,
-   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478129",
    "predoc": false,
    "senior": false,
    "link_status": "ok",
@@ -24798,6 +24635,42 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ejm:12642",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Cyprus",
+   "title": "Assistant Professor/Lecturer, Economics",
+   "location": "Nicosia, CY",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-09-14",
+   "url": "https://econjobmarket.org/positions/12642",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-15"
+  },
+  {
+   "id": "ejm:13031",
+   "source": "ejm",
+   "institution": "Faculty of Governance, Economics and Social Sciences, Mohammed VI Polytechnic University",
+   "title": "Assistant Professor/Associate Professor, Behavioral Economics/Experimental Economics",
+   "location": "Rabat, MA",
+   "continent": "Africa",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-11-23",
+   "url": "https://econjobmarket.org/positions/13031",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "ejm:13052",
    "source": "ejm",
    "institution": "Federmann Center for the Study of Rationality, Hebrew University of Jerusalem",
@@ -24814,6 +24687,78 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "ejm:13021",
+   "source": "ejm",
+   "institution": "Economics, Finance & Statistics, Collegio Carlo Alberto",
+   "title": "Assistant Professor, Economics",
+   "location": "Torino, IT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-05",
+   "posted": "2026-11-23",
+   "url": "https://econjobmarket.org/positions/13021",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "ejm:12918",
+   "source": "ejm",
+   "institution": "Economics, University of Oxford",
+   "title": "Associate Professor, Economics",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-13",
+   "posted": "2026-10-24",
+   "url": "https://econjobmarket.org/positions/12918",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": true,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12882",
+   "source": "ejm",
+   "institution": "Department of Economics, London School of Economics and Political Science",
+   "title": "Assistant Professor, Economics",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12882",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "ejm:12929",
+   "source": "ejm",
+   "institution": "DIW, German Institute for Economic Research (DIW)",
+   "title": "Postdoctoral Scholar, Public Economics",
+   "location": "Berlin, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-23",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12929",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
   }
  ]
 }
