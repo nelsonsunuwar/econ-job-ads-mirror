@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-24T03:02:07Z",
+ "generated_at": "2026-11-24T15:15:23Z",
  "sources": {
   "ejm": {
    "status": "ok",
    "count": 316,
    "site_listing": 303,
-   "site_extra": 9,
+   "site_extra": 5,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 806
+   "count": 807
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -6837,6 +6837,29 @@
    "first_seen": "2026-11-14"
   },
   {
+   "id": "ejm:13021",
+   "source": "ejm",
+   "institution": "Collegio Carlo Alberto",
+   "title": "Assistant Professor",
+   "location": "Torino, IT",
+   "continent": "Europe",
+   "fields": [
+    "Finance",
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2026-12-05",
+   "posted": "2026-11-23",
+   "url": "https://econjobmarket.org/positions/13021",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-15"
+  },
+  {
    "id": "ejm:13022",
    "source": "ejm",
    "institution": "Universidad de Navarra",
@@ -7031,6 +7054,30 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-17"
+  },
+  {
+   "id": "ejm:13031",
+   "source": "ejm",
+   "institution": "Mohammed VI Polytechnic University",
+   "title": "Professor in Behavioral Economics and Experimental Methods",
+   "location": "Rabat, MA",
+   "continent": "Africa",
+   "fields": [
+    "Experimental Economics",
+    "Behavioral Economics"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor"
+   ],
+   "section": null,
+   "deadline": "2027-02-28",
+   "posted": "2026-11-23",
+   "url": "https://econjobmarket.org/positions/13031",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
   },
   {
    "id": "ejm:13032",
@@ -7427,6 +7474,51 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-21"
+  },
+  {
+   "id": "ejm:13052",
+   "source": "ejm",
+   "institution": "Hebrew University of Jerusalem",
+   "title": "Postdoctoral Scholar",
+   "location": "Jerusalem, IL",
+   "continent": "Asia",
+   "fields": [
+    "Behavioral Economics",
+    "Microeconomic theory"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-23",
+   "url": "https://econjobmarket.org/positions/13052",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "ejm:13053",
+   "source": "ejm",
+   "institution": "University of Turku",
+   "title": "Postdoctoral Researcher or Senior Researcher",
+   "location": "Turku, FI",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-17",
+   "posted": "2026-11-23",
+   "url": "https://econjobmarket.org/positions/13053",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
   },
   {
    "id": "joe:111477855",
@@ -16781,6 +16873,26 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "joe:111478595",
+   "source": "joe",
+   "institution": "Renmin University of China",
+   "title": "Assistant/Associate/Full Professor",
+   "location": "Beijing, China",
+   "continent": "Asia",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478595",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "joe:111478551",
    "source": "joe",
    "institution": "Renmin University of China",
@@ -24821,42 +24933,6 @@
    "first_seen": "2026-11-24"
   },
   {
-   "id": "ejm:13031",
-   "source": "ejm",
-   "institution": "Faculty of Governance, Economics and Social Sciences, Mohammed VI Polytechnic University",
-   "title": "Assistant Professor/Associate Professor, Behavioral Economics/Experimental Economics",
-   "location": "Rabat, MA",
-   "continent": "Africa",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-02-28",
-   "posted": "2026-11-23",
-   "url": "https://econjobmarket.org/positions/13031",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
-  },
-  {
-   "id": "ejm:13052",
-   "source": "ejm",
-   "institution": "Federmann Center for the Study of Rationality, Hebrew University of Jerusalem",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Microeconomic theory",
-   "location": "Jerusalem, IL",
-   "continent": "Asia",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-23",
-   "url": "https://econjobmarket.org/positions/13052",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-23"
-  },
-  {
    "id": "ejm:13060",
    "source": "ejm",
    "institution": "Agricultural and Resource Economics, University of California, Davis",
@@ -24909,42 +24985,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-24"
-  },
-  {
-   "id": "ejm:13053",
-   "source": "ejm",
-   "institution": "School of Economics, University of Turku",
-   "title": "Postdoctoral Scholar, Economics",
-   "location": "Turku, FI",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-17",
-   "posted": "2026-11-23",
-   "url": "https://econjobmarket.org/positions/13053",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-24"
-  },
-  {
-   "id": "ejm:13021",
-   "source": "ejm",
-   "institution": "Economics, Finance & Statistics, Collegio Carlo Alberto",
-   "title": "Assistant Professor, Economics",
-   "location": "Torino, IT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-05",
-   "posted": "2026-11-23",
-   "url": "https://econjobmarket.org/positions/13021",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-15"
   }
  ]
 }
