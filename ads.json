@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-23T15:19:56Z",
+ "generated_at": "2026-11-24T03:02:07Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 314,
-   "site_listing": 300,
-   "site_extra": 7,
+   "count": 316,
+   "site_listing": 303,
+   "site_extra": 9,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 799
+   "count": 806
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -8949,6 +8949,29 @@
    "first_seen": "2026-11-05"
   },
   {
+   "id": "joe:111478504",
+   "source": "joe",
+   "institution": "Central Reserve Bank of Peru",
+   "title": "Research Economist",
+   "location": "Lima, Peru",
+   "continent": "Latin America",
+   "fields": [
+    "E Macroeconomics and Monetary Economics",
+    "F2 International Factor Movements and International Business",
+    "F3 International Finance",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-03-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478504",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "joe:111478531",
    "source": "joe",
    "institution": "Central University of Finance and Economics",
@@ -11290,6 +11313,27 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "joe:111478590",
+   "source": "joe",
+   "institution": "Federal Reserve System",
+   "title": "Quantitative Fellow",
+   "location": "United States",
+   "continent": "North America",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "G Financial Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2026-12-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478590",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "joe:111478291",
    "source": "joe",
    "institution": "Fedesarrollo",
@@ -13316,6 +13360,27 @@
    "first_seen": "2026-10-29"
   },
   {
+   "id": "joe:111478584",
+   "source": "joe",
+   "institution": "Kyiv School of Economics",
+   "title": "Postdoc / Professorship of All Ranks",
+   "location": "Kyiv, Ukraine",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "A2 Economic Education and Teaching of Economics"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-04-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478584",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "joe:111477595",
    "source": "joe",
    "institution": "Lafayette College",
@@ -14728,6 +14793,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-05"
+  },
+  {
+   "id": "joe:111478631",
+   "source": "joe",
+   "institution": "National Foreign Affairs Training Center; U.S. Department of State",
+   "title": "International Economist",
+   "location": "Arlington, United States",
+   "continent": "North America",
+   "fields": [
+    "A2 Economic Education and Teaching of Economics"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2026-12-18",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478631",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-24"
   },
   {
    "id": "joe:111477532",
@@ -22921,6 +23006,48 @@
    "first_seen": "2026-10-12"
   },
   {
+   "id": "joe:111478589",
+   "source": "joe",
+   "institution": "University of Tennessee",
+   "title": "Post-Doctoral Research Associate",
+   "location": "Knoxville, United States",
+   "continent": "North America",
+   "fields": [
+    "F International Economics",
+    "L Industrial Organization",
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-04-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478589",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "joe:111478591",
+   "source": "joe",
+   "institution": "University of Tennessee",
+   "title": "Post-Doc Research Associate",
+   "location": "Knoxville, United States",
+   "continent": "North America",
+   "fields": [
+    "Q Agricultural and Natural Resource Economics; Environmental and Ecological Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-04-01",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478591",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "joe:111477983",
    "source": "joe",
    "institution": "University of Texas at Austin",
@@ -24447,6 +24574,29 @@
    "first_seen": "2026-11-20"
   },
   {
+   "id": "joe:111478592",
+   "source": "joe",
+   "institution": "Yale University",
+   "title": "Postdoctoral Associate, Gender",
+   "location": "New Haven, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "J Labor and Demographic Economics",
+    "L1 Market Structure, Firm Strategy, and Market Performance",
+    "O1 Economic Development"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478592",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "joe:111478457",
    "source": "joe",
    "institution": "Yale University",
@@ -24635,22 +24785,40 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:12642",
+   "id": "ejm:13061",
    "source": "ejm",
-   "institution": "Department of Economics, University of Cyprus",
-   "title": "Assistant Professor/Lecturer, Economics",
-   "location": "Nicosia, CY",
-   "continent": "Europe",
+   "institution": "Department of Human Evolutionary Biology, Harvard University",
+   "title": "Postdoctoral Scholar, Behavioral Economics/Computational Economics/Experimental Economics",
+   "location": "Cambridge, US",
+   "continent": "North America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-09-14",
-   "url": "https://econjobmarket.org/positions/12642",
+   "deadline": "2027-04-30",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13061",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-09-15"
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13062",
+   "source": "ejm",
+   "institution": "Department of Human Evolutionary Biology, Harvard University",
+   "title": "Postdoctoral Scholar, Behavioral Economics/Computational Economics/Experimental Economics",
+   "location": "Cambridge, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13062",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
   },
   {
    "id": "ejm:13031",
@@ -24689,6 +24857,78 @@
    "first_seen": "2026-11-23"
   },
   {
+   "id": "ejm:13060",
+   "source": "ejm",
+   "institution": "Agricultural and Resource Economics, University of California, Davis",
+   "title": "Assistant Professor, Economics",
+   "location": "Davis, US",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-05",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13060",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13058",
+   "source": "ejm",
+   "institution": "Economics, Bocconi University",
+   "title": "Postdoctoral Scholar, Finance/Labor; Demographic Economics/Political Economy",
+   "location": "Milano, IT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-19",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13058",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13054",
+   "source": "ejm",
+   "institution": "School of Business and Economics, Linnéuniversitetets",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics",
+   "location": "Växjö, SE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-16",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13054",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13053",
+   "source": "ejm",
+   "institution": "School of Economics, University of Turku",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "Turku, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-17",
+   "posted": "2026-11-23",
+   "url": "https://econjobmarket.org/positions/13053",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "ejm:13021",
    "source": "ejm",
    "institution": "Economics, Finance & Statistics, Collegio Carlo Alberto",
@@ -24705,60 +24945,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-15"
-  },
-  {
-   "id": "ejm:12918",
-   "source": "ejm",
-   "institution": "Economics, University of Oxford",
-   "title": "Associate Professor, Economics",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-24",
-   "url": "https://econjobmarket.org/positions/12918",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": true,
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "ejm:12882",
-   "source": "ejm",
-   "institution": "Department of Economics, London School of Economics and Political Science",
-   "title": "Assistant Professor, Economics",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-26",
-   "url": "https://econjobmarket.org/positions/12882",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "ejm:12929",
-   "source": "ejm",
-   "institution": "DIW, German Institute for Economic Research (DIW)",
-   "title": "Postdoctoral Scholar, Public Economics",
-   "location": "Berlin, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-23",
-   "posted": "2026-10-28",
-   "url": "https://econjobmarket.org/positions/12929",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
   }
  ]
 }
