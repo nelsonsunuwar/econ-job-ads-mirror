@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-24T15:15:23Z",
+ "generated_at": "2026-11-25T01:03:47Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 316,
-   "site_listing": 303,
-   "site_extra": 5,
-   "not_live": 11,
+   "count": 318,
+   "site_listing": 306,
+   "site_extra": 8,
+   "not_live": 10,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 807
+   "count": 812
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -7269,33 +7269,6 @@
    "first_seen": "2026-11-19"
   },
   {
-   "id": "ejm:13040",
-   "source": "ejm",
-   "institution": "Ellison Institute of Technology",
-   "title": "Postdoctoral Researcher/Research Economist",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-19",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:13040",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/13040",
-   "text": "About EIT\n\nAt EIT, we’re on a mission to translate scientific discovery into real world impact. We bring together visionary scientists, technologists, engineers, researchers, educators and innovators to tackle humanity’s greatest challenges in four transformative areas:\n\n• Health, Medical Science & Generative Biology\n\n• Food Security & Sustainable Agriculture\n\n• Climate Change & Managing CO₂\n\n• Artificial Intelligence & Robotics\n\nThis is ambitious work - work that demands curiosity, courage, and a relentless drive to make a difference. At EIT, you’ll join a community built on excellence, innovation, tenacity, trust, and collaboration, where bold ideas become real-world breakthroughs. Together, we push boundaries, embrace complexity, and create solutions to scale ideas from lab to society.\n\nTackling these global challenges requires new products, firms and markets, as well as new policies, regulations and institutions. Delivering these will require new scientific and technological breakthroughs. It is this that defines our mission - to create visionary science for unprecedented impact. Further, we seek to do so by embodying three essential capabilities within one institution: scientific discovery, venture creation, and system wide implementation.\n\nAt the foundation of our approach is an emphasis on innovation through the creation of new knowledge. It is this that underpins our mission and drives our investment in leading research teams. Explore more at www.eit.org.\n\nThe Economics team at EIT\n\nHumanity is currently undergoing the most substantial and consequential technological revolution it has ever experienced.\n\nOur objective is to accelerate improvements in human wellbeing through tracking, understanding, and shaping the impact that AI and robotics have on science, innovation, and the economy. We improve the world we live in by:\n\n• Contributing to public and intellectual debate\n\n• Helping orient EIT’s scientific research\n\n• Feeding into policy discussions and supporting governments and businesses adjust to a new technological paradigm.\n\nOur research advances our understanding of two broad topics:\n\n• How AI is changing the speed and direction of science and how this, in turn, paves the way for new products and markets in health, food and energy. We seek to understand how these opportunities can best bring about improvements for society, and what the implications are for policy and regulation.\n\n• Beyond science, what the impact of AI and robotics means for the economy, employment, the public finances and society more generally. AI has the potential to generate dramatic improvements in the standard of living. However, the speed, scale and breadth of this disruption will create challenges: tracking these changes and examining how markets and policies can adapt will help to ensure that technological progress feeds swiftly into social progress.\n\nAbout the Role\n\nWe are recruiting for an outstanding, full-time Postdoctoral Researcher/Research Economist to undertake ambitious, independent and policy-relevant economic research on AI and robotics, under the leadership of Professor Andrew J. Scott. The successful candidate will work on high profile and impactful projects, supporting frontier research at the Ellison Institute of Technology (EIT).\n\nThis is an opportunity to conduct rigorous economic research on AI and robotics alongside the researchers and engineers developing these technologies. The Ellison Institute is home to frontier teams working on AI, robotics, generative biology, plant sciences, materials science, and immunology. This cross-disciplinary immersion informs original research of the highest quality, aimed at real-world impact.\n\nThis is a contributor role designed for a researcher with an academic background who thrives on solving ambiguous empirical problems, publishing foundational research, and translating complex economic insights into outputs for multiple audiences. It would suit both a seasoned post doc who plans to move into an Assistant Professorship role as well as an outstanding post doc who is looking for impactful careers outside academia.\n\nIn this role, you will actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with partners and universities across the globe.\n\nTo ensure our research work has maximum impact, we work closely with senior policy makers, world-leading academics, and international bodies.\n\nOur research team is well-resourced and the role benefits from access to cutting edge compute, proprietary data, and generous AI usage allowances.\n\nCurrent research topics include:\n\n• The diffusion of advanced medical technologies; how capital-embodied technology reshapes what firms do and how they organize themselves; and why some organizations rapidly adjust to new technologies while others do not.\n\n• How are information shocks in science, delivered by step-change improvements in AI models, re-shaping where scientists focus their attention? How are modern AI tools in fields such as biology, chemistry, and materials science, expanding the “idea space” in which these scientists can explore?\n\n• How is AI affecting employment? Which jobs and which workers are impacted? What does this imply for careers and organizational structures?\n\n• How is the impact of robotics different from AI? How do advances in robotics and automation interact with rapid demographic change?\n\nThe role is designed for highly motivated early-career post-doctoral researchers seeking rigorous research experience in preparation for roles in policy, academia and technology-focused organizations.\n\nThis role offers exceptional training, mentorship, and exposure to researchers and policymakers shaping the field. Positions are full-time and permanent, subject to performance.\n\nPast destinations of members of our research team include: Assistant Professor (London School of Economics), OpenAI, Thinking Machines, with more junior members moving into pre-doctoral fellows (Harvard Business School, London School of Economics).\n\nSkills Required\n\nEssential qualifications and skills:\n\n• PhD in economics or a related quantitative field\n\n• Evidence of academic excellence and strong quantitative training, with the ability to deal with broad issues at a systematic level as well as dive deep into technical matters. We are looking for people who can synthesize well with highly technical subject matter and demonstrate the broader picture of why it matters\n\n• Curiosity, intellectual flexibility, and interest in the wider economic and societal implications of technological change\n\n• Ability to work in a fast-paced environment and coordinate with a broad range of stakeholders\n\n• Strong organizational skills, attention to detail, and ability to manage multiple research tasks simultaneously\n\n• Experience with causal inference, experimental or quasi-experimental design and applied econometrics\n\n• Experience working with large datasets and Git / reproducible research workflows\n\n• Experience with cloud computing (GCP, AWS, OCI) as well as command line tools\n\n• Experience with Python and with coding agents (Codex, Claude Code).\n\nPreferred capabilities and skills:\n\n• Capability to translate academic research work into intuitive, high-impact narratives for policymakers and the public\n\n• Post-PhD research experience in academia, research institutes, or industry\n\n• Experience creating structured data from large corpora of unstructured, unruly data using the latest big data and AI tools\n\n• Publication record explicitly focused on the economics of science, innovation, technology, or labour markets.\n\nWhilst a premium is placed on candidates with existing expertise relevant to this project, we also welcome applications from candidates with a strong motivation to pursue our research agenda with evidence of bold thinking and technical skills that can be applied to specific research projects and ",
-   "links": [
-    "http://www.eit.org/"
-   ],
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
-  },
-  {
    "id": "ejm:13041",
    "source": "ejm",
    "institution": "National Council of Applied Economic Research",
@@ -7831,6 +7804,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-22"
+  },
+  {
+   "id": "joe:111478601",
+   "source": "joe",
+   "institution": "Australian National University",
+   "title": "Research Fellow in Economic History",
+   "location": "Canberra, Australia",
+   "continent": "Oceania",
+   "fields": [
+    "N Economic History"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-01-10",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478601",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "joe:111477777",
@@ -11376,7 +11369,7 @@
    ],
    "position_types": [],
    "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
-   "deadline": "2026-12-31",
+   "deadline": "2026-11-27",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478417",
    "predoc": false,
@@ -12783,6 +12776,26 @@
    "first_seen": "2026-09-21"
   },
   {
+   "id": "joe:111478519",
+   "source": "joe",
+   "institution": "Istanbul Technical University",
+   "title": "Assistant Professor/Associate Professor/Professor",
+   "location": "Istanbul, Turkey",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478519",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-25"
+  },
+  {
    "id": "joe:111478344",
    "source": "joe",
    "institution": "Ithaca College",
@@ -13471,6 +13484,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-24"
+  },
+  {
+   "id": "joe:111478597",
+   "source": "joe",
+   "institution": "Kyiv School of Economics",
+   "title": "Visiting Research Fellowships",
+   "location": "Kyiv, Ukraine",
+   "continent": "Europe",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-04-30",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478597",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "joe:111477595",
@@ -20855,6 +20888,28 @@
    "first_seen": "2026-09-03"
   },
   {
+   "id": "joe:111478596",
+   "source": "joe",
+   "institution": "University of Arkansas",
+   "title": "Teaching Assistant Professor of Economics",
+   "location": "Fayetteville, United States",
+   "continent": "North America",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "D Microeconomics",
+    "E Macroeconomics and Monetary Economics"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-17",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478596",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-25"
+  },
+  {
    "id": "joe:111478600",
    "source": "joe",
    "institution": "University of Austin",
@@ -21158,6 +21213,27 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-09-28"
+  },
+  {
+   "id": "joe:111478643",
+   "source": "joe",
+   "institution": "University of California, Davis",
+   "title": "Assistant Professor of Teaching in Applied Economics and Marketing",
+   "location": "Davis, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field",
+    "M3 Marketing and Advertising"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-05",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478643",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "joe:111477806",
@@ -24915,6 +24991,24 @@
    "first_seen": "2026-11-24"
   },
   {
+   "id": "ejm:13040",
+   "source": "ejm",
+   "institution": "Ellison Institute of Technology",
+   "title": "Postdoctoral Scholar, Applied microeconomics",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13040",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "ejm:13062",
    "source": "ejm",
    "institution": "Department of Human Evolutionary Biology, Harvard University",
@@ -24931,6 +25025,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13063",
+   "source": "ejm",
+   "institution": "Department of Economics, Aalto University",
+   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ",
+   "location": "Espoo, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-25",
+   "url": "https://econjobmarket.org/positions/13063",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-25"
   },
   {
    "id": "ejm:13060",
@@ -24985,6 +25097,24 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13064",
+   "source": "ejm",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Post Doctoral Fellow-Economics of Education",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-09",
+   "posted": "2026-11-25",
+   "url": "https://econjobmarket.org/positions/13064",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-25"
   }
  ]
 }
