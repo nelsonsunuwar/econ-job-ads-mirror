@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T01:03:47Z",
+ "generated_at": "2026-11-25T14:55:04Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 318,
+   "count": 320,
    "site_listing": 306,
-   "site_extra": 8,
-   "not_live": 10,
+   "site_extra": 6,
+   "not_live": 11,
    "dead": 0
   },
   "joe": {
@@ -2824,28 +2824,6 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "ejm:12779",
-   "source": "ejm",
-   "institution": "University of Melbourne",
-   "title": "Senior Lecturer, Economics / Econometrics",
-   "location": "Carlton, AU",
-   "continent": "Oceania",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Senior Lecturer"
-   ],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12779",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "ejm:12780",
    "source": "ejm",
    "institution": "Zayed University",
@@ -4857,52 +4835,6 @@
    "first_seen": "2026-10-24"
   },
   {
-   "id": "ejm:12916",
-   "source": "ejm",
-   "institution": "Vienna University of Economics and Business",
-   "title": "Assistant Professor (tenure track) in International Economics",
-   "location": "Vienna, AT",
-   "continent": "Europe",
-   "fields": [
-    "International Finance/Macro",
-    "International Trade"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12916",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12917",
-   "source": "ejm",
-   "institution": "Vienna University of Economics and Business",
-   "title": "Assistant Professor (non-tenure) in Industrial Economics",
-   "location": "Vienna, AT",
-   "continent": "Europe",
-   "fields": [
-    "Industrial Organization",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12917",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
    "id": "ejm:12919",
    "source": "ejm",
    "institution": "Indian Institute of Management Bangalore",
@@ -5111,37 +5043,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-02"
-  },
-  {
-   "id": "ejm:12928",
-   "source": "ejm",
-   "institution": "ZEW - Leibniz Centre for European Economic Research",
-   "title": "Postdoctoral Researcher (f/m/d, 100%)",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics",
-    "Environmental; Energy; Ag. Econ",
-    "Finance",
-    "International Finance/Macro",
-    "Labor; Demographic Economics",
-    "Public Economics",
-    "Behavioral Economics",
-    "Business Economics",
-    "Organizational Behavior",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12928",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
   },
   {
    "id": "ejm:12931",
@@ -7269,6 +7170,28 @@
    "first_seen": "2026-11-19"
   },
   {
+   "id": "ejm:13040",
+   "source": "ejm",
+   "institution": "Ellison Institute of Technology",
+   "title": "Postdoctoral Researcher/Research Economist",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-11-30",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13040",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "ejm:13041",
    "source": "ejm",
    "institution": "National Council of Applied Economic Research",
@@ -7488,6 +7411,177 @@
    "deadline": "2026-12-17",
    "posted": "2026-11-23",
    "url": "https://econjobmarket.org/positions/13053",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13054",
+   "source": "ejm",
+   "institution": "Linnéuniversitetets",
+   "title": "Two Postdoctoral Positions in Applied Microeconomics and Economics of Crime",
+   "location": "Växjö, SE",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-16",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13054",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13055",
+   "source": "ejm",
+   "institution": "University of Oxford",
+   "title": "Predoctoral Research Fellow",
+   "location": "Oxford, GB",
+   "continent": "Europe",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Research Assistant (Pre-Doc)"
+   ],
+   "section": null,
+   "deadline": "2026-12-21",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13055",
+   "link_status": "ok",
+   "predoc": true,
+   "senior": false,
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ejm:13058",
+   "source": "ejm",
+   "institution": "Bocconi University",
+   "title": "1 Post-Doc Researcher - IGIER Research Center - Università Bocconi",
+   "location": "Milano, IT",
+   "continent": "Europe",
+   "fields": [
+    "Finance",
+    "Labor; Demographic Economics",
+    "Political Economy"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-19",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13058",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13059",
+   "source": "ejm",
+   "institution": "University of Arizona",
+   "title": "Assistant Professor, Water Resources Economics",
+   "location": "Tucson, US",
+   "continent": "North America",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-05",
+   "posted": "2026-11-24",
+   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:13059",
+   "link_status": "not_live",
+   "source_url": "https://econjobmarket.org/positions/13059",
+   "text": "Complete position description and link to apply:\n\nhttps://arizona.csod.com/ux/ats/careersite/4/home/requisition/27673?c=arizona\n\nApplications must be received by January 5, 2027 to be guaranteed full consideration, but will be accepted until the position is filled.\n\nPosition Description\n\nThe Department of Agricultural and Applied Economics (AAE) at the University of Arizona is seeking applicants for an Assistant Professor (tenure eligible) position to conduct research and teach courses related to water resources economics, or a closely related field. This is a 9-month, full-time appointment with opportunity for promotion in rank and tenure. This position is part of a strategic, interdisciplinary cluster hire designed to strengthen the University of Arizona’s national leadership in water resource economics and related fields.\n\nThe position is 60% research, 30% teaching and 10% service with the expectation that the candidate will teach two courses—undergraduate and/or graduate—each academic year. The successful candidate is expected to develop a nationally and internationally recognized research program, publish high-quality research in leading peer-reviewed journals, and actively pursue extramural funding in support of their research. As part of the candidate’s research capabilities, strong training and skills in economics, econometrics and analytical methods are expected. Research experience with water pricing, environmental market instruments, water institutions, policies, watershed protection, and/or regulatory frameworks applicable to western U.S. is desired. Candidates should have the ability to work effectively within a broadly diverse community of students, scholars, and stakeholders.\n\nOutstanding U of A benefits include health, dental, and vision insurance plans; life insurance and disability programs; sick leave and holidays; U of A/ASU/NAU tuition reduction for the employee and qualified family members; retirement plans; access to U of A recreation and cultural activities; and more!\n\nThe University of Arizona has been recognized for our innovative work-life programs. For more information about working at the University of Arizona and relocations services, please click here.\n\nDuties and Responsibilities\n\n· Conduct original, high-quality research and publish in leading peer-reviewed journals in agricultural, environmental, resource, and applied economics.\n\n· Actively pursue extramural funding to support a productive research program.\n\n· Provide economic intelligence that informs agricultural producers, water managers, and policymakers facing an era of growing water scarcity and resource allocation challenges.\n\n· Work with interdisciplinary teams spanning the social sciences, natural sciences, health and food sciences, and/or engineering as part of the Irrigated Agroecosystems Science and Engineering Cluster Hire cohort.\n\n· Teach a total of two undergraduate and/or graduate courses a year.\n\n· Supervise M.S. student theses and undergraduate research projects.\n\n· Participate in faculty governance through service on departmental committees.\n\n· Provide professional and public service as appropriate.\n\n· Perform other duties as assigned.\n\nKnowledge, Skills, and Abilities\n\n· Demonstrate a commitment to collaboration and engagement with various students, scholars, and stakeholders.\n\n· Strong economic training and skills.\n\n· Strong communication and mentoring skills.\n\n· Strong econometrics and analytic skills.\n\n· Commitment to collegiality and ability to work collaboratively within academic environments.\n\nMinimum Qualifications\n\n• Ph.D. in Agricultural Economics or Economics, or a closely related discipline.\n\n• Potential ability to publish in leading Agricultural Economics, Environmental, or Economics journals.\n\n• Demonstrated capacity to generate economic intelligence for growers, water managers, and policymakers facing an era of growing water scarcity and resource allocation challenges.\n\n• Demonstrated ability or potential to effectively teach Agricultural and Applied Economics undergraduate and graduate students.\n\n• Demonstrated ability or commitment to working effectively in interdisciplinary teams spanning the social sciences, natural sciences, health and food sciences, and/or engineering.\n\nPreferred Qualifications\n\n• Demonstrated ability to publish in leading Agricultural Economics, Environmental, or Economics journals.\n\n• Demonstrated ability to work and communicate effectively within a broad community of scholars, stakeholders, and students.\n\n• Demonstrated ability to translate science into actionable guidance for agricultural businesses and communities.\n\n• Expertise in water institutions, policies, or issues applicable to the western U.S.\n\n• Expertise in water pricing, environmental market instruments, watershed protection, or environmental regulatory frameworks.\n\n• Expertise on how water scarcity affects farm profitability and regional economic resilience.\n\n• Ph.D. in Agricultural Economics or Economics, or a closely related discipline.\n\n• Potential ability to publish in leading Agricultural Economics, Environmental, or Economics journals.\n\n• Demonstrated capacity to generate economic intelligence for growers, water managers, and policymakers facing an era of growing water scarcity and resource allocation challenges.\n\n• Demonstrated ability or potential to effectively teach Agricultural and Applied Economics undergraduate and graduate students.\n\n• Demonstrated ability or commitment to working effectively in interdisciplinary teams spanning the social sciences, natural sciences, health and food sciences, and/or engineering.\n\nContact Information\n\nRussell Tronstad, Chair of Search Committee, University Distinguished Outreach Professor, Agricultural and Applied Economics, tronstad@arizona.edu\n\nApplication Instructions\n\nApplications must be received by January 5, 2027 to be guaranteed full consideration, but will be accepted until the position is filled. Applicants must provide the names and contact information of three individuals for letters of recommendation.\n\nPlease upload the following documents with application:\n\n· Curriculum Vitae\n\n· Cover Letter (expressing interest in the position & individuals willing to provide recommendation letters)\n\n· Job Market Paper or links to important publications and/or working papers\n\n· Two (2) Page Research Statement (describing your goals and vision for your future research program at the University of Arizona).\n\nAbout the School & University Context\n\nThe Department of Agricultural and Applied Economics at the University of Arizona provides a collaborative research environment that integrates economic analysis, quantitative methods, public policy, and engagement with stakeholders to address pressing challenges in agriculture, natural resources, and the environment.\n\nThe University of Arizona ranks #1 in the U.S. and #4 globally in Water Resources research. This position is part of a major institutional commitment to leverage water leadership into a preeminent center for irrigated dryland agroecosystems. The faculty will have access to world-class field infrastructure that includes the Yuma, Maricopa, and Tucson Agricultural Experiment Stations, the Yuma Center of Excellence for Desert Agriculture, and the Arizona Hub for Agricultural Innovation (AHAI).\n\nNotice of the Availability of the Annual Security and Fire Safety Report\n\nIn compliance with the Jeanne Clery Campus Safety Act (Clery Act), each year the University of Arizona releases an Annual Security Report (ASR) for each of the University’s campuses. These reports disclose information including Clery crime statistics for the previous three calendar years and policies, procedures, and programs the University uses to keep students and employees safe, including how to report crimes or other emergencies and resources for crime victims. As a campus with residential housing facilities, the Main Campus ASR also includes a combined Annual Fire Safety report wi",
+   "links": [
+    "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27673?c=arizona",
+    "https://talent.arizona.edu/",
+    "https://clery.arizona.edu/asr"
+   ],
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ejm:13060",
+   "source": "ejm",
+   "institution": "University of California, Davis",
+   "title": "Assistant Professor of Teaching in Applied Economics and Marketing",
+   "location": "Davis, US",
+   "continent": "North America",
+   "fields": [
+    "Any field",
+    "Marketing"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-05",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13060",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13061",
+   "source": "ejm",
+   "institution": "Harvard University",
+   "title": "Postdoctoral Fellow in Computational Social Science, Innovation and Cultural Evo",
+   "location": "Cambridge, US",
+   "continent": "North America",
+   "fields": [
+    "Experimental Economics",
+    "Behavioral Economics",
+    "Other",
+    "Computational Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13061",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13062",
+   "source": "ejm",
+   "institution": "Harvard University",
+   "title": "Postdoctoral Fellowship in Economics, History and Creativity",
+   "location": "Cambridge, US",
+   "continent": "North America",
+   "fields": [
+    "Experimental Economics",
+    "Behavioral Economics",
+    "Other",
+    "Computational Economics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-03-31",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13062",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -24973,60 +25067,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:13061",
-   "source": "ejm",
-   "institution": "Department of Human Evolutionary Biology, Harvard University",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Computational Economics/Experimental Economics",
-   "location": "Cambridge, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-04-30",
-   "posted": "2026-11-24",
-   "url": "https://econjobmarket.org/positions/13061",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-24"
-  },
-  {
-   "id": "ejm:13040",
-   "source": "ejm",
-   "institution": "Ellison Institute of Technology",
-   "title": "Postdoctoral Scholar, Applied microeconomics",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-30",
-   "posted": "2026-11-24",
-   "url": "https://econjobmarket.org/positions/13040",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-20"
-  },
-  {
-   "id": "ejm:13062",
-   "source": "ejm",
-   "institution": "Department of Human Evolutionary Biology, Harvard University",
-   "title": "Postdoctoral Scholar, Behavioral Economics/Computational Economics/Experimental Economics",
-   "location": "Cambridge, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-03-31",
-   "posted": "2026-11-24",
-   "url": "https://econjobmarket.org/positions/13062",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-24"
-  },
-  {
    "id": "ejm:13063",
    "source": "ejm",
    "institution": "Department of Economics, Aalto University",
@@ -25045,60 +25085,6 @@
    "first_seen": "2026-11-25"
   },
   {
-   "id": "ejm:13060",
-   "source": "ejm",
-   "institution": "Agricultural and Resource Economics, University of California, Davis",
-   "title": "Assistant Professor, Economics",
-   "location": "Davis, US",
-   "continent": "North America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-05",
-   "posted": "2026-11-24",
-   "url": "https://econjobmarket.org/positions/13060",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-24"
-  },
-  {
-   "id": "ejm:13058",
-   "source": "ejm",
-   "institution": "Economics, Bocconi University",
-   "title": "Postdoctoral Scholar, Finance/Labor; Demographic Economics/Political Economy",
-   "location": "Milano, IT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-19",
-   "posted": "2026-11-24",
-   "url": "https://econjobmarket.org/positions/13058",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-24"
-  },
-  {
-   "id": "ejm:13054",
-   "source": "ejm",
-   "institution": "School of Business and Economics, Linnéuniversitetets",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics",
-   "location": "Växjö, SE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-12-16",
-   "posted": "2026-11-24",
-   "url": "https://econjobmarket.org/positions/13054",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-24"
-  },
-  {
    "id": "ejm:13064",
    "source": "ejm",
    "institution": "Institute for Fiscal Studies",
@@ -25115,6 +25101,78 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ejm:12916",
+   "source": "ejm",
+   "institution": "Department of Economics, Vienna University of Economics and Business",
+   "title": "Assistant Professor, International Finance/Macro/International Trade",
+   "location": "Vienna, AT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12916",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12917",
+   "source": "ejm",
+   "institution": "Department of Economics, Vienna University of Economics and Business",
+   "title": "Assistant Professor, Applied microeconomics/Industrial Organization",
+   "location": "Vienna, AT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-11-04",
+   "url": "https://econjobmarket.org/positions/12917",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "ejm:12928",
+   "source": "ejm",
+   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Business Economics/Econometrics/Environmental; Energy; Ag. Econ/Finance/International Finance/Macro/Labor; Demographic Econom",
+   "location": "Mannheim, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12928",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ejm:12779",
+   "source": "ejm",
+   "institution": "Department of Economics, University of Melbourne",
+   "title": "Senior Lecturer, Economics",
+   "location": "Carlton, AU",
+   "continent": "Oceania",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-25",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12779",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
   }
  ]
 }
