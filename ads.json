@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-25T14:55:04Z",
+ "generated_at": "2026-11-26T00:39:19Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 320,
-   "site_listing": 306,
+   "count": 321,
+   "site_listing": 307,
    "site_extra": 6,
    "not_live": 11,
    "dead": 0
   },
   "joe": {
    "status": "ok",
-   "count": 812
+   "count": 817
   },
   "econjobs": {
    "status": "error: HTTPError: HTTP Error 429: Too Many Requests",
@@ -7462,6 +7462,32 @@
    "first_seen": "2026-11-25"
   },
   {
+   "id": "ejm:13057",
+   "source": "ejm",
+   "institution": "Mohammed VI Polytechnic University",
+   "title": "Faculty Position in Macroeconomics and Macroeconometrics",
+   "location": "Rabat, MA",
+   "continent": "Africa",
+   "fields": [
+    "Development; Growth",
+    "Econometrics",
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-06-15",
+   "posted": "2026-11-24",
+   "url": "https://econjobmarket.org/positions/13057",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "ejm:13058",
    "source": "ejm",
    "institution": "Bocconi University",
@@ -11677,6 +11703,29 @@
    "first_seen": "2026-09-11"
   },
   {
+   "id": "joe:111477695",
+   "source": "joe",
+   "institution": "Freestone Grove Partners",
+   "title": "Data Scientist, Financials",
+   "location": "San Francisco, United States; New York City, United States",
+   "continent": "North America",
+   "fields": [
+    "C Mathematical and Quantitative Methods",
+    "E Macroeconomics and Monetary Economics",
+    "G Financial Economics",
+    "M Business Administration and Business Economics; Marketing; Accounting; Personnel Economics"
+   ],
+   "position_types": [],
+   "section": "Full-Time Nonacademic",
+   "deadline": "2027-05-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477695",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "joe:111478334",
    "source": "joe",
    "institution": "Fudan University",
@@ -14652,6 +14701,27 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "joe:111478611",
+   "source": "joe",
+   "institution": "National Bureau of Economic Research",
+   "title": "Post-Doctoral Fellow, Economics of Talent",
+   "location": "Cambridge, United States",
+   "continent": "North America",
+   "fields": [
+    "I Health, Education, and Welfare",
+    "O3 Innovation; Research and Development; Technological Change; Intellectual Property Rights"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2026-12-07",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478611",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "joe:111478046",
    "source": "joe",
    "institution": "National Bureau of Economic Research",
@@ -16441,6 +16511,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "joe:111478613",
+   "source": "joe",
+   "institution": "Pontificia Universidad Católica de Chile (PUC), Santiago, CHILE",
+   "title": "Assistant/Associate Professor",
+   "location": "Santiago, Chile",
+   "continent": "Latin America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "International: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-08-31",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478613",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "joe:111477999",
@@ -20933,7 +21023,7 @@
    ],
    "position_types": [],
    "section": "US: Other Academic (Visiting or Temporary)",
-   "deadline": "2026-11-24",
+   "deadline": "2026-11-30",
    "posted": null,
    "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478082",
    "predoc": false,
@@ -20960,6 +21050,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-11-02"
+  },
+  {
+   "id": "joe:111478609",
+   "source": "joe",
+   "institution": "University of Arizona",
+   "title": "Assistant Professor (Tenure Eligible)",
+   "location": "Tucson, United States",
+   "continent": "North America",
+   "fields": [
+    "Q1 Agriculture"
+   ],
+   "position_types": [],
+   "section": "US: Full-Time Academic (Permanent, Tenure Track or Tenured)",
+   "deadline": "2027-01-05",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478609",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "joe:111477748",
@@ -22734,6 +22844,26 @@
    "senior": false,
    "link_status": "ok",
    "first_seen": "2026-10-30"
+  },
+  {
+   "id": "joe:111478599",
+   "source": "joe",
+   "institution": "University of North Carolina at Charlotte",
+   "title": "Lecturer",
+   "location": "Charlotte, United States",
+   "continent": "North America",
+   "fields": [
+    "00 00 - Default: Any Field"
+   ],
+   "position_types": [],
+   "section": "US: Other Academic (Visiting or Temporary)",
+   "deadline": "2027-02-17",
+   "posted": null,
+   "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478599",
+   "predoc": false,
+   "senior": false,
+   "link_status": "ok",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "joe:111478561",
@@ -25085,6 +25215,78 @@
    "first_seen": "2026-11-25"
   },
   {
+   "id": "ejm:13066",
+   "source": "ejm",
+   "institution": "School of Economics, University of Surrey",
+   "title": "Assistant Professor, Economics",
+   "location": "Guildford, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13066",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "ejm:13072",
+   "source": "ejm",
+   "institution": "Economics, Universidad de San Andrés",
+   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
+   "location": "Victoria, AR",
+   "continent": "Latin America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-01-15",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13072",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "ejm:13069",
+   "source": "ejm",
+   "institution": "Department of Economics, Ghent University",
+   "title": "Postdoctoral Scholar, Macroeconomics; Monetary",
+   "location": "Gent, BE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-08",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13069",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "ejm:13070",
+   "source": "ejm",
+   "institution": "Department of Economics, Hamburg University",
+   "title": "Senior Lecturer, Economics",
+   "location": "Hamburg, DE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13070",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "ejm:13064",
    "source": "ejm",
    "institution": "Institute for Fiscal Studies",
@@ -25101,78 +25303,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-25"
-  },
-  {
-   "id": "ejm:12916",
-   "source": "ejm",
-   "institution": "Department of Economics, Vienna University of Economics and Business",
-   "title": "Assistant Professor, International Finance/Macro/International Trade",
-   "location": "Vienna, AT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12916",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12917",
-   "source": "ejm",
-   "institution": "Department of Economics, Vienna University of Economics and Business",
-   "title": "Assistant Professor, Applied microeconomics/Industrial Organization",
-   "location": "Vienna, AT",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-11-04",
-   "url": "https://econjobmarket.org/positions/12917",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
-   "id": "ejm:12928",
-   "source": "ejm",
-   "institution": "Various departments, ZEW - Leibniz Centre for European Economic Research",
-   "title": "Postdoctoral Scholar, Applied microeconomics/Behavioral Economics/Business Economics/Econometrics/Environmental; Energy; Ag. Econ/Finance/International Finance/Macro/Labor; Demographic Econom",
-   "location": "Mannheim, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12928",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12779",
-   "source": "ejm",
-   "institution": "Department of Economics, University of Melbourne",
-   "title": "Senior Lecturer, Economics",
-   "location": "Carlton, AU",
-   "continent": "Oceania",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2026-11-25",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12779",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
   }
  ]
 }
