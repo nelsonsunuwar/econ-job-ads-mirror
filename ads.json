@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-26T00:39:19Z",
+ "generated_at": "2026-11-26T14:25:02Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 321,
-   "site_listing": 307,
-   "site_extra": 6,
-   "not_live": 11,
+   "count": 320,
+   "site_listing": 308,
+   "site_extra": 7,
+   "not_live": 9,
    "dead": 0
   },
   "joe": {
@@ -1042,28 +1042,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-09-10"
-  },
-  {
-   "id": "ejm:12634",
-   "source": "ejm",
-   "institution": "Leibniz Institute for Financial Research SAFE",
-   "title": "Postdoctoral Researcher in Finance (m/f/d)",
-   "location": "Frankfurt am Main, DE",
-   "continent": "Europe",
-   "fields": [
-    "Finance"
-   ],
-   "position_types": [
-    "Research Assistant"
-   ],
-   "section": null,
-   "deadline": "2026-11-26",
-   "posted": "2026-09-10",
-   "url": "https://econjobmarket.org/positions/12634",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-28"
   },
   {
    "id": "ejm:12636",
@@ -2997,29 +2975,6 @@
    "first_seen": "2026-10-09"
   },
   {
-   "id": "ejm:12792",
-   "source": "ejm",
-   "institution": "University of Alberta",
-   "title": "Tenure-track Microeconomics",
-   "location": "Edmonton, CA",
-   "continent": "North America",
-   "fields": [
-    "Microeconomic theory",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-26",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12792",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "ejm:12793",
    "source": "ejm",
    "institution": "Federal Reserve Bank of Dallas",
@@ -3040,28 +2995,6 @@
    "deadline": "2026-11-15",
    "posted": "2026-10-09",
    "url": "https://econjobmarket.org/positions/12793",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ejm:12794",
-   "source": "ejm",
-   "institution": "University of Alberta",
-   "title": "Tenure-Track Macroeconomics",
-   "location": "Edmonton, CA",
-   "continent": "North America",
-   "fields": [
-    "Macroeconomics; Monetary"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-26",
-   "posted": "2026-10-09",
-   "url": "https://econjobmarket.org/positions/12794",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -4527,14 +4460,8 @@
    "section": null,
    "deadline": "2026-12-31",
    "posted": "2026-10-21",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12899",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12899",
-   "text": "ESMT Berlin is a leading global business school with its campus in the heart of Berlin. Founded by 25 global companies, ESMT offers master, MBA, and PhD programs, as well as executive education on its campus in Berlin, in locations around the world, online, and in online blended format. We strongly believe in cross-team collaboration to achieve our mission to develop entrepreneurial leaders who think globally and act responsibly.\n\nJoin our team at the newly established European Expectations Center, under the leadership of Professor Michael Weber, PhD and sponsored by the Humboldt Professorship as a\n\nPredoctoral Researcher (gn)\n\n(full-time, 40 hrs. per week, starting in July 2027, for 1 year, renewable once for up to 2 years)\n\nand help shape the future by bringing your expertise and passion to ESMT.\n\nHow you will make a difference\n\n• Support ongoing research projects by gathering, compiling, processing, and organizing large datasets\n\n• Help conduct statistical analysis\n\n• Proofread and edit research reports, working papers, and publications\n\n• Maintain effective communication with all members of the faculty and external collaborators\n\n• Support organization of the annual conferences and associated PhD workshops\n\nWhat makes you a great fit\n\n• Bachelor’s or Master’s degree in Economics, Finance, Behavioral Sciences, or related fields\n\n• Strong quantitative background and analytical skills\n\n• Proficiency in conducting statistical analyses\n\n• Familiarity with at least one mathematical/statistical software\n\n• Previous research experience is an advantage\n\n• Fluency in English is required; German language skills are an advantage\n\n• Intention to pursue a doctoral degree\n\nWhy you will love working with us\n\nDiscover the perks and culture that make our workplace special.\n\nResearch Experience\n\n• Work with international network of collaborators\n\n• Possibility to attend doctoral courses during predoc\n\n• Exposure to state of the art research in empirical macroeconomics and finance\n\n• Previous predocs went on to pursue doctoral degrees at Chicago Booth, Columbia, Wharton, USC, Ohio State, Kellogg, Berkeley, among others\n\nFinancial Benefits\n\n• Subsidized public transportation ticket and leasing options of bicycles/e-bikes\n\n• Company pension scheme with Allianz\n\nHealth and Well-Being\n\n• Flexible remote work, including up to 15 days abroad per year\n\n• Ergonomic office equipment and access to university sports across Berlin\n\n• Subsidized meals at the campus restaurant\n\nPersonal Development\n\n• Access to LinkedIn Learning\n\n• German and English courses\n\n• Participation in ESMT’s Executive Education and degree programs\n\nWhat makes this more than just a job\n\nESMT offers a collegial and international work environment, with employees representing more than 55 nationalities. We encourage a self-driven mind-set and contributions that create meaningful and lasting impact. We are proud to be an equal opportunity employer, committed to fostering a fair and inclusive workplace where individuals of all identities and backgrounds are welcomed and valued. Fostering diversity, equity, and inclusion enriches our employees, students, and broader community.\n\nYou will work on our campus in Berlin-Mitte. Get here by public transport or bike and enjoy your lunches in our private restaurant and café or next to the beautiful Spree. Make use of our big garden and enjoy coffee and tea on the house with your team. Our vibrant community comes together through activities and events like Lucky Lunch, Wednesday Cookies, Orientation Days for new employees, Summer Party and Year End Event, our talented ESMT choir, and much more.\n\nWe look forward to receiving your application and learning more about you!\n\nPlease submit your application via our online application form, including the following documents:\n\n• Statement of purpose\n\n• CV and 2 letters of recommendation (can be sent separately to jobs@esmt.org)\n\nFor further questions, please contact:\n\nESMT Berlin | Antje Mader | Human Resources Manager | Schlossplatz 1, 10178 Berlin | Tel: 030 21231 0 | Jobs at ESMT Berlin",
-   "links": [
-    "https://jobs.esmt.berlin/apply?id=63a5b3",
-    "https://esmt.berlin/jobs"
-   ],
+   "url": "https://econjobmarket.org/positions/12899",
+   "link_status": "ok",
    "predoc": true,
    "senior": false,
    "first_seen": "2026-10-22"
@@ -4666,14 +4593,8 @@
    "section": null,
    "deadline": "2027-04-15",
    "posted": "2026-10-23",
-   "url": "https://nelsonsunuwar.github.io/econ-job-ads-mirror/ad.html#ejm:12905",
-   "link_status": "not_live",
-   "source_url": "https://econjobmarket.org/positions/12905",
-   "text": "ESMT Berlin is a leading global business school with its campus in the heart of Berlin. Founded by 25 global companies, ESMT offers master, MBA, and PhD programs, as well as executive education on its campus in Berlin, in locations around the world, online, and in online blended format. We strongly believe in cross-team collaboration to achieve our mission to develop entrepreneurial leaders who think globally and act responsibly.\n\nJoin our team at the newly established European Expectations Center, under the leadership of Professor Michael Weber, PhD and sponsored by the Humboldt Professorship as a\n\nPostdoctoral Researcher (gn)\n\n(full-time, 40 hrs. per week, starting in July 2027, for 3 years, renewable once for up to 6 years)\n\nand help shape the future by bringing your expertise and passion to ESMT.\n\nHow you will make a difference\n\n• Contribute to the Center’s internationally visible research agenda\n\n• Conduct independent research in the areas of belief formation in macroeconomics and finance\n\n• Supervise, mentor, and coordinate pre-doctoral research assistants\n\n• Actively participate in the strategic development of the research program\n\n• Present research findings at national and international conferences\n\n• Contribute to the preparation of grant applications\n\n• No teaching obligations\n\nWhat makes you a great fit\n\n• Ph.D. in economics, finance, or a related field by the start date\n\n• Demonstrated ability to conduct independent empirical and/or theoretical research on the formation and role of subjective beliefs in economic decision-making\n\n• Experience with methods for working with unstructured data\n\n• Strong proficiency in statistical analysis\n\n• Prior experience running information-provision experiments embedded in surveys is a plus\n\n• Fluency in English; knowledge of German is advantageous but not required\n\nWhy you will love working with us\n\nDiscover the perks and culture that make our workplace special.\n\nResearch Experience\n\n• Work with international network of collaborators\n\n• Exposure to state of the art research in empirical macroeconomics and finance\n\nFinancial Benefits\n\n• Subsidized public transportation ticket and leasing options of bicycles/e-bikes\n\n• Company pension scheme with Allianz\n\nHealth and Well-Being\n\n• Flexible remote work, including up to 15 days abroad per year\n\n• Ergonomic office equipment and access to university sports across Berlin\n\n• Subsidized meals at the campus restaurant\n\nPersonal Development\n\n• Access to LinkedIn Learning\n\n• German and English courses\n\n• Participation in ESMT’s Executive Education and degree programs\n\nWhat makes this more than just a job\n\nESMT offers a collegial and international work environment, with employees representing more than 55 nationalities. We encourage a self-driven mind-set and contributions that create meaningful and lasting impact. We are proud to be an equal opportunity employer, committed to fostering a fair and inclusive workplace where individuals of all identities and backgrounds are welcomed and valued. Fostering diversity, equity, and inclusion enriches our employees, students, and broader community.\n\nYou will work on our campus in Berlin-Mitte. Get here by public transport or bike and enjoy your lunches in our private restaurant and café or next to the beautiful Spree. Make use of our big garden and enjoy coffee and tea on the house with your team. Our vibrant community comes together through activities and events like Lucky Lunch, Wednesday Cookies, Orientation Days for new employees, Summer Party and Year End Event, our talented ESMT choir, and much more.\n\nWe look forward to receiving your application and learning more about you!\n\nPlease submit your application via our online application form, including the following documents:\n\n• Cover letter\n\n• CV and 3 letters of recommendation (can be sent separately to jobs@esmt.org)\n\n• Job market paper\n\nFor further questions, please contact:\n\nESMT Berlin | Antje Mader | Human Resources Manager | Schlossplatz 1, 10178 Berlin | Tel: 030 21231 0 | Jobs at ESMT Berlin",
-   "links": [
-    "https://jobs.esmt.berlin/apply?id=f47b7c",
-    "https://esmt.berlin/jobs"
-   ],
+   "url": "https://econjobmarket.org/positions/12905",
+   "link_status": "ok",
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-24"
@@ -5043,28 +4964,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-02"
-  },
-  {
-   "id": "ejm:12931",
-   "source": "ejm",
-   "institution": "Centro de Planeamento e de Avaliação de Políticas Públicas (PLANAPP)",
-   "title": "Associate Consultant",
-   "location": "Lisboa, PT",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Consultant"
-   ],
-   "section": null,
-   "deadline": "2026-11-16",
-   "posted": "2026-10-27",
-   "url": "https://econjobmarket.org/positions/12931",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-27"
   },
   {
    "id": "ejm:12935",
@@ -7612,6 +7511,54 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ejm:13063",
+   "source": "ejm",
+   "institution": "Aalto University",
+   "title": "Postdoctoral Researcher in Biodiversity Economics",
+   "location": "Espoo, FI",
+   "continent": "Europe",
+   "fields": [
+    "Environmental; Energy; Ag. Econ"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-25",
+   "url": "https://econjobmarket.org/positions/13063",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ejm:13064",
+   "source": "ejm",
+   "institution": "Institute for Fiscal Studies",
+   "title": "Post Doctoral Fellow",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [
+    "Labor; Demographic Economics",
+    "Public Economics",
+    "Health; Education; Welfare",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar",
+    "Other academic"
+   ],
+   "section": null,
+   "deadline": "2026-12-09",
+   "posted": "2026-11-25",
+   "url": "https://econjobmarket.org/positions/13064",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-25"
   },
   {
    "id": "joe:111477855",
@@ -25197,22 +25144,40 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:13063",
+   "id": "ejm:12792",
    "source": "ejm",
-   "institution": "Department of Economics, Aalto University",
-   "title": "Postdoctoral Scholar, Environmental; Energy; Ag. Econ",
-   "location": "Espoo, FI",
-   "continent": "Europe",
+   "institution": "Economics, University of Alberta",
+   "title": "Assistant Professor, Applied microeconomics/Microeconomic theory",
+   "location": "Edmonton, CA",
+   "continent": "North America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-25",
-   "url": "https://econjobmarket.org/positions/13063",
+   "deadline": "2026-11-26",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12792",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-25"
+   "first_seen": "2026-10-09"
+  },
+  {
+   "id": "ejm:12794",
+   "source": "ejm",
+   "institution": "Economics, University of Alberta",
+   "title": "Assistant Professor, Macroeconomics; Monetary",
+   "location": "Edmonton, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-10-09",
+   "url": "https://econjobmarket.org/positions/12794",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-09"
   },
   {
    "id": "ejm:13066",
@@ -25287,22 +25252,22 @@
    "first_seen": "2026-11-26"
   },
   {
-   "id": "ejm:13064",
+   "id": "ejm:12931",
    "source": "ejm",
-   "institution": "Institute for Fiscal Studies",
-   "title": "Post Doctoral Fellow-Economics of Education",
-   "location": "London, GB",
+   "institution": "Centro de Planeamento e de Avaliação de Políticas Públicas (PLANAPP)",
+   "title": "Consultant, Economics",
+   "location": "Lisboa, PT",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-09",
-   "posted": "2026-11-25",
-   "url": "https://econjobmarket.org/positions/13064",
+   "deadline": "2026-11-16",
+   "posted": "2026-10-27",
+   "url": "https://econjobmarket.org/positions/12931",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-25"
+   "first_seen": "2026-10-27"
   }
  ]
 }
