@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T00:47:58Z",
+ "generated_at": "2026-11-27T14:18:33Z",
  "sources": {
   "ejm": {
    "status": "ok",
-   "count": 324,
-   "site_listing": 313,
-   "site_extra": 12,
+   "count": 327,
+   "site_listing": 316,
+   "site_extra": 18,
    "not_live": 8,
    "dead": 0
   },
@@ -1389,32 +1389,6 @@
    "first_seen": "2026-09-17"
   },
   {
-   "id": "ejm:12671",
-   "source": "ejm",
-   "institution": "Compass Lexecon",
-   "title": "Economist",
-   "location": "Madrid, ES",
-   "continent": "Europe",
-   "fields": [
-    "Econometrics",
-    "Industrial Organization",
-    "Business Economics",
-    "Microeconomic theory",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Consultant"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-09-30",
-   "url": "https://econjobmarket.org/positions/12671",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-09-30"
-  },
-  {
    "id": "ejm:12672",
    "source": "ejm",
    "institution": "Stellenbosch University",
@@ -2222,31 +2196,6 @@
    "first_seen": "2026-10-01"
   },
   {
-   "id": "ejm:12744",
-   "source": "ejm",
-   "institution": "University of New South Wales (UNSW), Sydney",
-   "title": "Lecturer (Assistant Professor)/Senior Lecturer/Associate Professor",
-   "location": "Sydney, AU",
-   "continent": "Oceania",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor",
-    "Associate Professor",
-    "Lecturer",
-    "Senior Lecturer"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-07",
-   "url": "https://econjobmarket.org/positions/12744",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-07"
-  },
-  {
    "id": "ejm:12745",
    "source": "ejm",
    "institution": "Korea Institute of Public Finance (KIPF)",
@@ -2438,6 +2387,8 @@
    "location": "Ottawa, CA",
    "continent": "North America",
    "fields": [
+    "Finance",
+    "International Finance/Macro",
     "Macroeconomics; Monetary",
     "Other"
    ],
@@ -2568,33 +2519,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-05"
-  },
-  {
-   "id": "ejm:12764",
-   "source": "ejm",
-   "institution": "Università degli Studi di Napoli Federico II",
-   "title": "Research Fellowships CSEF - DISES",
-   "location": "NAPOLI, IT",
-   "continent": "Europe",
-   "fields": [
-    "Experimental Economics",
-    "Industrial Organization",
-    "Public Economics",
-    "Behavioral Economics",
-    "Political Economy",
-    "Microeconomic theory"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-06",
-   "url": "https://econjobmarket.org/positions/12764",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-06"
   },
   {
    "id": "ejm:12765",
@@ -3609,30 +3533,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": "ejm:12846",
-   "source": "ejm",
-   "institution": "University of Oxford",
-   "title": "Postdoctoral Research Fellow",
-   "location": "Oxford, GB",
-   "continent": "Europe",
-   "fields": [
-    "Labor; Demographic Economics",
-    "Public Economics",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-16",
-   "url": "https://econjobmarket.org/positions/12846",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": "ejm:12847",
    "source": "ejm",
    "institution": "Universitat de les Illes Balears",
@@ -4556,28 +4456,6 @@
    "first_seen": "2026-10-22"
   },
   {
-   "id": "ejm:12904",
-   "source": "ejm",
-   "institution": "Tampere University",
-   "title": "Assistant Professor (Tenure-track) in Economics",
-   "location": "Tampere, FI",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-26",
-   "url": "https://econjobmarket.org/positions/12904",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-24"
-  },
-  {
    "id": "ejm:12905",
    "source": "ejm",
    "institution": "ESMT Berlin",
@@ -4620,28 +4498,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-10-27"
-  },
-  {
-   "id": "ejm:12909",
-   "source": "ejm",
-   "institution": "Uppsala University",
-   "title": "Postdoctoral position in health economics, Uppsala University",
-   "location": "Uppsala, SE",
-   "continent": "Europe",
-   "fields": [
-    "Health; Education; Welfare"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-23",
-   "url": "https://econjobmarket.org/positions/12909",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-23"
   },
   {
    "id": "ejm:12910",
@@ -5055,30 +4911,6 @@
    "first_seen": "2026-10-28"
   },
   {
-   "id": "ejm:12942",
-   "source": "ejm",
-   "institution": "Hushcrasher",
-   "title": "Applied Research Economist",
-   "location": "",
-   "continent": null,
-   "fields": [
-    "Econometrics",
-    "Industrial Organization",
-    "Applied microeconomics"
-   ],
-   "position_types": [
-    "Other nonacademic"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-28",
-   "url": "https://econjobmarket.org/positions/12942",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-28"
-  },
-  {
    "id": "ejm:12943",
    "source": "ejm",
    "institution": "Central Bank of the Republic of China (Taiwan)",
@@ -5441,28 +5273,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-02"
-  },
-  {
-   "id": "ejm:12962",
-   "source": "ejm",
-   "institution": "London School of Economics and Political Science",
-   "title": "Assistant Professor in Management",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [
-    "Management, General"
-   ],
-   "position_types": [
-    "Assistant Professor"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-31",
-   "url": "https://econjobmarket.org/positions/12962",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-10-31"
   },
   {
    "id": "ejm:12963",
@@ -5929,28 +5739,6 @@
    "link_status": "ok",
    "predoc": false,
    "senior": true,
-   "first_seen": "2026-11-06"
-  },
-  {
-   "id": "ejm:12989",
-   "source": "ejm",
-   "institution": "London School of Economics and Political Science",
-   "title": "Research Officer in Income and/or Wealth Inequalities",
-   "location": "London, GB",
-   "continent": "Europe",
-   "fields": [
-    "Any field"
-   ],
-   "position_types": [
-    "Postdoctoral Scholar"
-   ],
-   "section": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-11-06",
-   "url": "https://econjobmarket.org/positions/12989",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
    "first_seen": "2026-11-06"
   },
   {
@@ -7534,6 +7322,150 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ejm:13066",
+   "source": "ejm",
+   "institution": "University of Surrey",
+   "title": "Lecturer (Assistant Professor) in Economics and Econometrics",
+   "location": "Guildford, GB",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Any field",
+    "Statistics"
+   ],
+   "position_types": [
+    "Assistant Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-31",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13066",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "ejm:13067",
+   "source": "ejm",
+   "institution": "Deutsche Bundesbank",
+   "title": "Economist",
+   "location": "Frankfurt am Main, DE",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Finance",
+    "International Finance/Macro",
+    "Statistics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2027-01-03",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13067",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "ejm:13068",
+   "source": "ejm",
+   "institution": "Deutsche Bundesbank",
+   "title": "Economist",
+   "location": "Frankfurt am Main, DE",
+   "continent": "Europe",
+   "fields": [
+    "Econometrics",
+    "Finance",
+    "International Finance/Macro",
+    "Statistics",
+    "Applied microeconomics"
+   ],
+   "position_types": [
+    "Other nonacademic"
+   ],
+   "section": null,
+   "deadline": "2027-01-03",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13068",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "ejm:13069",
+   "source": "ejm",
+   "institution": "Ghent University",
+   "title": "Postdoctoral position in macroeconomics",
+   "location": "Gent, BE",
+   "continent": "Europe",
+   "fields": [
+    "Macroeconomics; Monetary"
+   ],
+   "position_types": [
+    "Postdoctoral Scholar"
+   ],
+   "section": null,
+   "deadline": "2026-12-08",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13069",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "ejm:13070",
+   "source": "ejm",
+   "institution": "Hamburg University",
+   "title": "Senior Lecturer in Empirical Macroeconomics and Economic Policy",
+   "location": "Hamburg, DE",
+   "continent": "Europe",
+   "fields": [
+    "Other"
+   ],
+   "position_types": [
+    "Senior Lecturer"
+   ],
+   "section": null,
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13070",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "ejm:13072",
+   "source": "ejm",
+   "institution": "Universidad de San Andrés",
+   "title": "Professor - Open Rank",
+   "location": "Victoria, AR",
+   "continent": "Latin America",
+   "fields": [
+    "Any field"
+   ],
+   "position_types": [
+    "Assistant Professor",
+    "Associate Professor",
+    "Full Professor"
+   ],
+   "section": null,
+   "deadline": "2027-01-15",
+   "posted": "2026-11-26",
+   "url": "https://econjobmarket.org/positions/13072",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-26"
   },
   {
    "id": "joe:111477855",
@@ -25119,22 +25051,40 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "ejm:13066",
+   "id": "ejm:13084",
    "source": "ejm",
-   "institution": "School of Economics, University of Surrey",
-   "title": "Assistant Professor, Economics",
-   "location": "Guildford, GB",
-   "continent": "Europe",
+   "institution": "Banco de la República",
+   "title": "Economist / Researcher",
+   "location": "Bogota, CO",
+   "continent": "Latin America",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2027-01-31",
-   "posted": "2026-11-26",
-   "url": "https://econjobmarket.org/positions/13066",
+   "deadline": "2027-07-21",
+   "posted": "2026-11-27",
+   "url": "https://econjobmarket.org/positions/13084",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "ejm:13083",
+   "source": "ejm",
+   "institution": "Bank of Canada",
+   "title": "PhD Researcher (2026-2027 PhD Job Market)",
+   "location": "Ottawa, CA",
+   "continent": "North America",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2027-04-30",
+   "posted": "2026-11-27",
+   "url": "https://econjobmarket.org/positions/13083",
+   "link_status": "ok",
+   "predoc": true,
+   "senior": false,
+   "first_seen": "2026-11-27"
   },
   {
    "id": "ejm:13082",
@@ -25153,24 +25103,6 @@
    "predoc": false,
    "senior": false,
    "first_seen": "2026-11-27"
-  },
-  {
-   "id": "ejm:13072",
-   "source": "ejm",
-   "institution": "Economics, Universidad de San Andrés",
-   "title": "Assistant Professor/Associate Professor/Full Professor, Economics",
-   "location": "Victoria, AR",
-   "continent": "Latin America",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-15",
-   "posted": "2026-11-26",
-   "url": "https://econjobmarket.org/positions/13072",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-26"
   },
   {
    "id": "ejm:13077",
@@ -25203,42 +25135,6 @@
    "deadline": "2027-01-04",
    "posted": "2026-11-27",
    "url": "https://econjobmarket.org/positions/13074",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-27"
-  },
-  {
-   "id": "ejm:13067",
-   "source": "ejm",
-   "institution": "Deutsche Bundesbank",
-   "title": "Economist",
-   "location": "Frankfurt Am Main, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-03",
-   "posted": "2026-11-26",
-   "url": "https://econjobmarket.org/positions/13067",
-   "link_status": "ok",
-   "predoc": false,
-   "senior": false,
-   "first_seen": "2026-11-27"
-  },
-  {
-   "id": "ejm:13068",
-   "source": "ejm",
-   "institution": "Deutsche Bundesbank",
-   "title": "Economist",
-   "location": "Frankfurt Am Main, DE",
-   "continent": "Europe",
-   "fields": [],
-   "position_types": [],
-   "section": null,
-   "deadline": "2027-01-03",
-   "posted": "2026-11-26",
-   "url": "https://econjobmarket.org/positions/13068",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
@@ -25299,40 +25195,184 @@
    "first_seen": "2026-11-27"
   },
   {
-   "id": "ejm:13069",
+   "id": "ejm:13080",
    "source": "ejm",
-   "institution": "Department of Economics, Ghent University",
-   "title": "Postdoctoral Scholar, Macroeconomics; Monetary",
-   "location": "Gent, BE",
+   "institution": "THEMA (Theorie Economique, Modelisation et Applications), CY Cergy Paris Université",
+   "title": "Postdoctoral Scholar, Industrial Organization",
+   "location": "Cergy-Pontoise, FR",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-08",
-   "posted": "2026-11-26",
-   "url": "https://econjobmarket.org/positions/13069",
+   "deadline": "2026-12-07",
+   "posted": "2026-11-27",
+   "url": "https://econjobmarket.org/positions/13080",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
   },
   {
-   "id": "ejm:13070",
+   "id": "ejm:12846",
    "source": "ejm",
-   "institution": "Department of Economics, Hamburg University",
-   "title": "Senior Lecturer, Economics",
-   "location": "Hamburg, DE",
+   "institution": "Economics, University of Oxford",
+   "title": "Postdoctoral Scholar, Applied microeconomics/Labor; Demographic Economics/Public Economics",
+   "location": "Oxford, GB",
    "continent": "Europe",
    "fields": [],
    "position_types": [],
    "section": null,
-   "deadline": "2026-12-02",
-   "posted": "2026-11-26",
-   "url": "https://econjobmarket.org/positions/13070",
+   "deadline": "2026-11-27",
+   "posted": "2026-10-16",
+   "url": "https://econjobmarket.org/positions/12846",
    "link_status": "ok",
    "predoc": false,
    "senior": false,
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "ejm:12904",
+   "source": "ejm",
+   "institution": "Faculty of Management and Business, Tampere University",
+   "title": "Assistant Professor, Economics",
+   "location": "Tampere, FI",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-26",
+   "url": "https://econjobmarket.org/positions/12904",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "ejm:12909",
+   "source": "ejm",
+   "institution": "Department of Economics, Uppsala University",
+   "title": "Postdoctoral Scholar, Health; Education; Welfare",
+   "location": "Uppsala, SE",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-23",
+   "url": "https://econjobmarket.org/positions/12909",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ejm:12671",
+   "source": "ejm",
+   "institution": "European Competition Policy practice, Compass Lexecon",
+   "title": "Consultant, Applied microeconomics/Business Economics/Econometrics/Industrial Organization/Microeconomic theory",
+   "location": "Madrid, ES",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-09-30",
+   "url": "https://econjobmarket.org/positions/12671",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-09-30"
+  },
+  {
+   "id": "ejm:12942",
+   "source": "ejm",
+   "institution": "Hushcrasher",
+   "title": "Applied Research Economist, Machine Learning & Causal Inference",
+   "location": "",
+   "continent": null,
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-28",
+   "url": "https://econjobmarket.org/positions/12942",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "ejm:12962",
+   "source": "ejm",
+   "institution": "Department of Management, London School of Economics and Political Science",
+   "title": "Assistant Professor, Management, General",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-31",
+   "url": "https://econjobmarket.org/positions/12962",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ejm:12989",
+   "source": "ejm",
+   "institution": "International Inequalities Institute, London School of Economics and Political Science",
+   "title": "Postdoctoral Scholar, Economics",
+   "location": "London, GB",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-11-06",
+   "url": "https://econjobmarket.org/positions/12989",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "ejm:12744",
+   "source": "ejm",
+   "institution": "School of Economics, Business School, University of New South Wales (UNSW), Sydney",
+   "title": "Assistant Professor/Associate Professor/Lecturer/Senior Lecturer, Economics",
+   "location": "Sydney, AU",
+   "continent": "Oceania",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-07",
+   "url": "https://econjobmarket.org/positions/12744",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-07"
+  },
+  {
+   "id": "ejm:12764",
+   "source": "ejm",
+   "institution": "Department of Economics and Statistics, Università degli Studi di Napoli Federico II",
+   "title": "Postdoctoral Scholar, Behavioral Economics/Experimental Economics/Industrial Organization/Microeconomic theory/Political Economy/Public Economics",
+   "location": "Napoli, IT",
+   "continent": "Europe",
+   "fields": [],
+   "position_types": [],
+   "section": null,
+   "deadline": "2026-11-27",
+   "posted": "2026-10-06",
+   "url": "https://econjobmarket.org/positions/12764",
+   "link_status": "ok",
+   "predoc": false,
+   "senior": false,
+   "first_seen": "2026-10-06"
   }
  ]
 }
